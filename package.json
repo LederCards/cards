@@ -1,0 +1,44 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "concurrently \"npm run build:*\" && concurrently \"npm run compress:*\" && concurrently \"npm run validate:*\" && concurrently \"npm run finalize:*\" && npm run copy:headers",
+    "build:card-data": "ts-node scripts/build-card-data",
+    "build:card-symbols": "ts-node scripts/build-card-symbols",
+    "build:card-images": "ts-node scripts/build-card-images",
+    "build:meta-data": "ts-node scripts/build-meta-data",
+    "build:i18n": "ts-node scripts/build-i18n",
+    "compress:card-images": "ts-node scripts/compress-card-images",
+    "compress:card-symbols": "ts-node scripts/compress-card-symbols",
+    "validate:card-data": "ts-node scripts/validate-cards",
+    "finalize:version": "ts-node scripts/finalize-version",
+    "copy:headers": "ts-node scripts/copy-headers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limelightcards/cards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/limelightcards/cards/issues"
+  },
+  "homepage": "https://github.com/limelightcards/cards#readme",
+  "dependencies": {
+    "compress-json": "^2.1.2",
+    "fs-extra": "^10.1.0",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "md5-file": "^5.0.0",
+    "recursive-readdir": "^2.2.3",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "concurrently": "^8.2.2",
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.1.0",
+    "jimp": "^0.22.12",
+    "rimraf": "^5.0.5"
+  }
+}

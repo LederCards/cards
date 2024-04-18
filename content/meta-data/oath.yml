@@ -1,0 +1,7 @@
+product: oath
+productName: Oath
+filters:
+  - name: Defense
+    prop: Defense
+  - name: Card Capacity
+    prop: CardCapacity

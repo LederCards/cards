@@ -1,0 +1,1420 @@
+- id: ROOT/0
+  text: Ignore your Disain for Trade when you craft.
+  image: bird-builder
+  name: Builder
+  tags:
+    - Base Game
+    - Eyrie
+- id: ROOT/1
+  text: 'You place two warriors, not one, each time you recruit.'
+  image: bird-charismatic
+  name: Charismatic
+  tags:
+    - Base Game
+    - Eyrie
+- id: ROOT/2
+  text: 'As attacker in battle, you deal an extra hit.'
+  image: bird-commander
+  name: Commander
+  tags:
+    - Base Game
+    - Eyrie
+- id: ROOT/3
+  text: Score a point if you remove at least one building or token in battle.
+  image: bird-despot
+  name: Despot
+  tags:
+    - Base Game
+    - Eyrie
+- id: ROOT/4
+  text: Spend any number of cards of the same suit to score equal VP.
+  image: mole-banker
+  name: Banker
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/5
+  text: Score +1 VP per market on the map.
+  image: mole-baronofdirt
+  name: Baron of Dirt
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/6
+  text: Take up to two moves OR initiate up to two battles.
+  image: mole-brigadier
+  name: Brigadier
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/7
+  text: Initiate a battle.
+  image: mole-captain
+  name: Captain
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/8
+  text: Score +2 VP if all tunnels are on the map.
+  image: mole-duchessofmud
+  name: Duchess of Mud
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/9
+  text: Score +1 VP per citadel on the map.
+  image: mole-earlofstone
+  name: Earl of Stone
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/10
+  text: Reveal a card to place a building in any clearing you rule.
+  image: mole-foremole
+  name: Foremole
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/11
+  text: Take a move.
+  image: mole-marshal
+  name: Marshal
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/12
+  text: Take the action of any swayed noble of squire.
+  image: mole-mayor
+  name: Mayor
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/13
+  text: 'When you discard this card, remove it permanently.'
+  image: badgers-retainer
+  name: Faithful Retainer
+  tags:
+    - Marauders
+- id: ROOT/14
+  text: >-
+    <emoji>:item_hammer In battle with warlord, before the roll, place one
+    warrior in the battle clearing per mob you choose to removve from the battle
+    clearing and adjacent ones.
+  image: rats-mood-bitter
+  name: 'Mood: Bitter'
+  tags:
+    - Marauders
+- id: ROOT/15
+  text: >-
+    <emoji>:item_tea Swap your Advance the Warlord step and Command the Hundreds
+    step.
+  image: rats-mood-grandiose
+  name: 'Mood: Grandiose'
+  tags:
+    - Marauders
+- id: ROOT/16
+  text: >-
+    <emoji>:item_boot After you incite your warlord's clearing, you may roll the
+    mob die to place a mob _(as described in your Rage step)_ up to four times.
+  image: rats-mood-jubilant
+  name: 'Mood: Jubilant'
+  tags:
+    - Marauders
+- id: ROOT/17
+  text: >-
+    At the end of Birdsong, you may remove any items from your Hoard to place
+    two warriors per item removed into your warlord's clearing.
+  image: rats-mood-lavish
+  name: 'Mood: Lavish'
+  tags:
+    - Marauders
+- id: ROOT/18
+  text: >-
+    <emoji>:item_sack Whenever you advance your warlord and both move and
+    battle, you may move or battle with your warlord _(like half of an
+    advance)_.
+  image: rats-mood-relentless
+  name: 'Mood: Relentless'
+  tags:
+    - Marauders
+- id: ROOT/19
+  text: >-
+    <emoji>:item_coin In Evening, draw one more card. If your warlord's clearing
+    has three or more enemy pieces, draw two more cards instead.
+  image: rats-mood-rowdy
+  name: 'Mood: Rowdy'
+  tags:
+    - Marauders
+- id: ROOT/20
+  text: >-
+    <emoji>:item_crossbow In battle with your warlord, you ignore the first hit
+    you take.
+  image: rats-mood-stubborn
+  name: 'Mood: Stubborn'
+  tags:
+    - Marauders
+- id: ROOT/21
+  text: >-
+    <emoji>:item_sword As attacker in battle with your warlord, you deal an
+    extra hit _(When looting, you do deal this hit)_.
+  image: rats-mood-wrathful
+  name: 'Mood: Wrathful'
+  tags:
+    - Marauders
+- id: ROOT/22
+  text: >-
+    Protector: Before rolling in battle, the defender may enlist the Arbiter if
+    he is in the battle's clearing. The Arbiter scores one point and adds
+    undamaged swords to the defender's maximum rolled hits.
+  image: vagabond-arbiter
+  name: Arbiter
+  tags:
+    - Base Game
+    - Vagabond
+- id: ROOT/23
+  text: 'Hideout: Repair three items. Then, immediately end daylight.'
+  image: vagabond-ranger
+  name: Ranger
+  tags:
+    - Base Game
+    - Vagabond
+- id: ROOT/24
+  text: >-
+    Scorched Earth: Place this torch in your clearing. Remove all enemy pieces
+    there. Pieces can no longer be placed in or moved into this clearing.
+  image: vagabond-scoundrel
+  name: Scoundrel
+  tags:
+    - Base Game
+    - Vagabond
+- id: ROOT/25
+  text: 'Steal: Take a random card from a player in your clearing'
+  image: vagabond-thief
+  name: Thief
+  tags:
+    - Base Game
+    - Vagabond
+- id: ROOT/26
+  text: 'Day Labor: Take a card from the discard pile matching your clearing.'
+  image: vagabond-tinker
+  name: Tinker
+  tags:
+    - Base Game
+    - Vagabond
+- id: ROOT/27
+  text: >-
+    Instigate: Initiate a battle in your clearing. You choose both attacker and
+    defender, and you remove pieces for both.
+  image: vagabond-vagrant
+  name: Vagrant
+  tags:
+    - Base Game
+    - Vagabond
+- id: ROOT/28
+  text: >-
+    Improvise: Once per turn, you may damage any unexhausted item to treat it as
+    any other item in order to complete a quest.
+  image: vagabond-adventurer
+  name: Adventurer
+  tags:
+    - Underworld
+    - Vagabond
+- id: ROOT/29
+  text: >-
+    Glide: Move to any clearing (even Hostile) on the map without exhausting any
+    <emoji>:item_boot.
+  image: vagabond-harrier
+  name: Harrier
+  tags:
+    - Underworld
+    - Vagabond
+- id: ROOT/30
+  text: >-
+    Swift Strike: After rolling in battle, you may exhaust a sword to deal an
+    extra hit.
+  image: vagabond-ronin
+  name: Ronin
+  tags:
+    - Underworld
+    - Vagabond
+- id: ROOT/31
+  image: quest-errandbunny
+  name: Errand in a rabbit clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/32
+  image: quest-errandfox
+  name: Errand in a fox clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/33
+  image: quest-escort
+  name: Escort in a mouse clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/34
+  image: quest-expelbanditsbunny
+  name: Expel Bandits in a rabbit clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/35
+  image: quest-expelbanditsmouse
+  name: Expel Bandits in a mouse clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/36
+  image: quest-fendoffabearbunny
+  name: Fend off a Bear in a rabbit clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/37
+  image: quest-fendoffabearmouse
+  name: Fend off a Bear in a mouse clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/38
+  image: quest-fundraising
+  name: Fundraising in a fox clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/39
+  image: quest-giveaspeechbunny
+  name: Give a Speech in a rabbit clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/40
+  image: quest-giveaspeechfox
+  name: Give a Speech in a fox clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/41
+  image: quest-guarddutybunny
+  name: Guard Duty in a rabbit clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/42
+  image: quest-guarddutymouse
+  name: Guard Duty in a mouse clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/43
+  image: quest-logisticshelpfox
+  name: Logistics Help in a fox clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/44
+  image: quest-logisticshelpmouse
+  name: Logistics Help in a mouse clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/45
+  image: quest-repairashed
+  name: Repair a Shed in a fox clearing
+  tags:
+    - Base Game
+    - Vagabond
+    - Quest
+- id: ROOT/46
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushbird
+  name: Ambush (Bird)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/47
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushbunny
+  name: Ambush (Bunny)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/48
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushfox
+  name: Ambush (Fox)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/49
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushmouse
+  name: Ambush (Mouse)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/50
+  image: card-anvil
+  name: Anvil
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/51
+  text: 'In battle, may discard this to ignore all rolled hits taken.'
+  image: card-armorers
+  name: Armorers
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/52
+  image: card-armstrader
+  name: Arms Trader
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/53
+  image: card-avisittofriends
+  name: A Visit To Friends
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/54
+  image: card-bakesale
+  name: Bake Sale
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/55
+  text: 'At start of Birdsong, you and another player draw a card.'
+  image: card-betterburrowbank
+  name: Better Burrow Bank
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/56
+  image: card-birdybindle
+  name: Birdy Bindle
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/57
+  text: You treat rivers as paths.
+  image: card-boatbuilders
+  name: Boat Builders
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/58
+  text: 'In battle as attacker, may deal an extra hit, but defender scores one point.'
+  image: card-brutaltactics
+  name: Brutal Tactics
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/59
+  text: >-
+    At start of Evening, may draw a card and choose another player to score one
+    point.
+  image: card-charmoffensive
+  name: Charm Offensive
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/60
+  text: 'At start of Evening, may take a move.'
+  image: card-cobbler
+  name: Cobbler
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/61
+  text: "Once in Daylight, may look at another player's hand."
+  image: card-codebreakers
+  name: Codebreakers
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/62
+  text: >-
+    Whenever any warriors would return to a supply, place them on this card
+    instead. At the start of Birdsong, you score one point per five warriors
+    here, then return all warriors here to their supplies.
+  image: card-coffinmakers
+  name: Coffin Makers
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/63
+  text: 'At start of Daylight, may initiate a battle.'
+  image: card-commandwarren
+  name: Command Warren
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/64
+  text: 'While moving, you ignore rule.'
+  image: card-corvidplanners
+  name: Corvid Planners
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/65
+  image: card-crossbowbird
+  name: Crossbow (Bird)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/66
+  image: card-crossbowmouse
+  name: Crossbow (Mouse)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/67
+  text: >-
+    You win the game if you rule two opposite corners at the start of your
+    Birdsong.
+  image: card-dominancebird
+  name: Dominance (Bird)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/68
+  text: >-
+    You win the game if you rule three bunny clearings at the start of your
+    Birdsong.
+  image: card-dominancebunny
+  name: Dominance (Bunny)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/69
+  text: >-
+    You win the game if you rule three fox clearings at the start of your
+    Birdsong.
+  image: card-dominancefox
+  name: Dominance (Fox)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/70
+  text: >-
+    You win the game if you rule three mouse clearings at the start of your
+    Birdsong.
+  image: card-dominancemouse
+  name: Dominance (Mouse)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+- id: ROOT/71
+  text: >-
+    At the end of Birdsong, take a move, then initiate a battle in the clearing
+    you moved into. If you did not take both actions, discard this card.
+  image: card-eyrieemigre
+  name: Eyrie Emigre
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/72
+  text: >-
+    In Birdsong, may discard this card to move half of an enemy's warriors
+    (rounded up) from any clearing, as if you were that player, ignoring rule.
+  image: card-falseorders
+  name: False Orders
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/73
+  text: 'Remove all enemy pieces in fox clearings, then discard.'
+  image: card-favorofthefoxes
+  name: Favor of the Foxes
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/74
+  text: 'Remove all enemy pieces in mouse clearings, then discard.'
+  image: card-favorofthemice
+  name: Favor of the Mice
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/75
+  text: 'Remove all enemy pieces in bunny clearings, then discard.'
+  image: card-favoroftherabbits
+  name: Favor of the Rabbits
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/76
+  image: card-foxfolksteel
+  name: Foxfolk Steel
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/77
+  text: >-
+    In battle in fox clearings, may deal one extra hit, then discard all your
+    cards except foxes.
+  image: card-foxpartisans
+  name: Fox Partisans
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/78
+  image: card-gentlyusedknapsack
+  name: Gently Used Knapsack
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/79
+  text: >-
+    In Evening, if you would draw cards, you may instead take one ambush card
+    from the discard pile.
+  image: card-informants
+  name: Informants
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/80
+  image: card-investments
+  name: Investments
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/81
+  text: >-
+    Once in Daylight, may exhaust an item in your Crafted Items box to take a
+    move or initiate battle.
+  image: card-leagueofadventrousmice
+  name: League of Adventurous Mice
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/82
+  text: 'Whenever you craft an item, score one extra point.'
+  image: card-masterengravers
+  name: Master Engravers
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/83
+  image: card-mouseinasack
+  name: Mouse-in-a-sack
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/84
+  text: >-
+    In battle in mouse clearings, may deal one extra hit, then discard all your
+    cards except mice.
+  image: card-mousepartisans
+  name: Mouse Partisans
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/85
+  text: 'Whenever another player crafts an item, draw a card.'
+  image: card-murinebroker
+  name: Murine Broker
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/86
+  text: >-
+    Once in Daylight, may spend a card to remove an enemy warrior from a
+    matching clearing and place a warrior there.
+  image: card-propagandabureau
+  name: Propaganda Bureau
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/87
+  image: card-protectionracket
+  name: Protection Racket
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/88
+  text: >-
+    In battle in rabbit clearings, may deal one extra hit, then discard all your
+    cards except rabbits.
+  image: card-rabbitpartisans
+  name: Rabbit Partisans
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/89
+  image: card-rootteabunny
+  name: Root Tea (Bunny)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/90
+  image: card-rootteafox
+  name: Root Tea (Fox)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/91
+  image: card-rootteamouse
+  name: Root Tea (Mouse)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/92
+  text: 'In Birdsong, may discard this to score one point per clearing you rule.'
+  image: card-royalclaim
+  name: Royal Claim
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/93
+  text: >-
+    At the start of Birdsong, may discard this card to discard an enemys crafted
+    card.
+  image: card-saboteurs
+  name: Saboteurs
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/94
+  text: 'In battle as defender, may discard this to deal an extra hit.'
+  image: card-sappers
+  name: Sappers
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/95
+  text: 'As attacker in battle, you are not affected by ambush cards.'
+  image: card-scoutingparty
+  name: Scouting Party
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/96
+  image: card-smugglerstrail
+  name: Smuggler's Trail
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/97
+  text: 'Your tokens now count towards rule, and each of your tokens counts twice.'
+  image: card-soupkitchens
+  name: Soup Kitchens
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/98
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a bird card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spybird
+  name: Spy (Bird)
+  tags:
+    - Mechanical Marquise 1.0
+- id: ROOT/99
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a bunny card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spybunny
+  name: Spy (Bunny)
+  tags:
+    - Mechanical Marquise 1.0
+- id: ROOT/100
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a fox card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spyfox
+  name: Spy (Fox)
+  tags:
+    - Mechanical Marquise 1.0
+- id: ROOT/101
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a mouse card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spymouse
+  name: Spy (Mouse)
+  tags:
+    - Mechanical Marquise 1.0
+- id: ROOT/102
+  text: >-
+    In Birdsong, may take a random card from another player. That player scores
+    one point.
+  image: card-standanddeliver
+  name: Stand and Deliver!
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/103
+  text: >-
+    Once in Birdsong, may take a random card from another player and then give
+    them a card.
+  image: card-swapmeet
+  name: Swap Meet
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/104
+  image: card-sword
+  name: Sword
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/105
+  text: 'Once in Daylight, may remove one of your warriors to draw a card.'
+  image: card-taxcollector
+  name: Tax Collector
+  tags:
+    - Base Game
+    - Standard Deck
+    - Craftable
+- id: ROOT/106
+  image: card-travelgearfox
+  name: Travel Gear (Fox)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/107
+  image: card-travelgearmouse
+  name: Travel Gear (Mouse)
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/108
+  text: You treat clearings with any of your crafting pieces as adjacent.
+  image: card-tunnels
+  name: Tunnels
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/109
+  image: card-woodlandrunners
+  name: Woodland Runners
+  tags:
+    - Base Game
+    - Standard Deck
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT/110
+  text: 'During setup, place only one Loyal Vizier in the bird column.'
+  image: difficulty-eyrie-easy
+  name: Eyrie Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/111
+  text: >-
+    During setup, take out one bird ambush from the deck and place it in the
+    bird column.
+  image: difficulty-eyrie-challenging
+  name: Eyrie Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/112
+  text: >-
+    During setup, take out one bird ambush from the deck and place it in the
+    bird column. At the end of evening, score 1 VP.
+  image: difficulty-eyrie-nightmare
+  name: Eyrie Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/113
+  text: >-
+    Turmoil is now triggered if you are unable to place a roost or if you are
+    unable to place a warrior. When turmoil occurs, no victory points are lost
+    and instead a point is scored for every bird card in your decree.
+  image: trait-eyrie-nobility
+  name: Nobility (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/114
+  text: >-
+    After resolving the Decree, remove all defenseless buildings and tokens in
+    any clearings where you have warriors.
+  image: trait-eyrie-relentless
+  name: Relentless (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/115
+  text: >-
+    At the end of Daylight, recruit two warriors in the highest priority
+    clearing in which you have no pieces.
+  image: trait-eyrie-swoop
+  name: Swoop (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/116
+  text: 'Whenever you destroy a token or building, the owner of the token loses 1 VP.'
+  image: trait-eyrie-wartax
+  name: War Tax (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/117
+  text: Recruit two warriors during the recruit action.
+  image: difficulty-marquise-easy
+  name: Marquise Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/118
+  text: >-
+    After recruiting, place two warriors in the highest priority clearing you
+    rule matching the order card.
+  image: difficulty-marquise-challenging
+  name: Marquise Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/119
+  text: >-
+    After recruiting, place two warriors in the highest priority clearing you
+    rule matching the order card. At the end of the evening, score 1 VP.
+  image: difficulty-marquise-nightmare
+  name: Marquise Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/120
+  text: >-
+    After your move action, select the highest priority clearing you rule
+    without any enemy pieces. Move all but one warrior from the clearing and
+    battle in the destination if opponents are present.
+  image: trait-marquise-blitz
+  name: Blitz (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/121
+  text: >-
+    Opponents require two hits to destroy each of your buildings. Assigning a
+    single hit to a building has no effect.
+  image: trait-marquise-fortified
+  name: Fortified (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/122
+  text: >-
+    After each battle as Defender in whihc you lost at least 2 warriors,
+    immediately recruit 2 warriors in the clearing with the keep token.
+  image: trait-marquise-hospitals
+  name: Hospitals (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/123
+  text: 'In Escalated Daylight, recruit twice as many warriors.'
+  image: trait-marquise-ironwill
+  name: Iron Will (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/124
+  text: Refresh one less item during Evening.
+  image: difficulty-vagabond-easy
+  name: Vagabond Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/125
+  text: Refresh one more item during Evening.
+  image: difficulty-vagabond-challenging
+  name: Vagabond Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/126
+  text: 'Refresh one more item during Evening. At the end of the evening, score 1 VP.'
+  image: difficulty-vagabond-nightmare
+  name: Vagabond Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/127
+  text: >-
+    Battle only once per turn. At the end of Daylight, spend any remaining items
+    on repeated Quest actions.
+  image: trait-vagabond-adventurer
+  name: Adventurer (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/128
+  text: >-
+    During the Battle action, target the clearing with the most pieces and
+    target the player with the most pieces in that clearing. At the end of your
+    turn, repair one additional item.
+  image: trait-vagabond-berserker
+  name: Berserker (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/129
+  text: >-
+    When taking the Aid action, score an additional victory point. The aided
+    player then takes two cards instead of one.
+  image: trait-vagabond-helper
+  name: Helper (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/130
+  text: >-
+    When attacking, deal one immediate hit to your opponent (scoring a point if
+    a warrior is removed) before the dice are rolled.
+  image: trait-vagabond-marksman
+  name: Marksman (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/131
+  text: Organize if there are 4 or more warriors in the clearing.
+  image: difficulty-woodland-easy
+  name: Woodland Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/132
+  text: Organize if there are 2 or more warriors in the clearing.
+  image: difficulty-woodland-challenging
+  name: Woodland Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/133
+  text: >-
+    Organize if there are 2 or more warriors in the clearing. At the end of the
+    evening, score 1 VP.
+  image: difficulty-woodland-nightmare
+  name: Woodland Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/134
+  text: Defenseless sympathy tokens benefit from Automated Ambush when attacked.
+  image: trait-woodland-informants
+  name: Informants (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/135
+  text: Destroying sympathy tokens grants no victory points for your opponents.
+  image: trait-woodland-popularity
+  name: Popularity (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/136
+  text: >-
+    In battle as defender, you use the higher roll and the attacker uses the
+    lower roll.
+  image: trait-woodland-veterans
+  name: Veterans (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/137
+  text: Defenseless sympathy tokens benefit from Automated Ambush when attacked.
+  image: trait-woodland-wildfire
+  name: Wildfire (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/138
+  image: landmark-setup
+  name: Landmark Setup
+  tags:
+    - Landmarks
+- id: ROOT/139
+  image: landmark-rules
+  name: Landmark Rules
+  tags:
+    - Landmarks
+- id: ROOT/140
+  image: landmark-blackmarket-setup
+  name: Black Market (Setup)
+  tags:
+    - Landmarks
+- id: ROOT/141
+  image: landmark-blackmarket
+  name: Black Market
+  tags:
+    - Landmarks
+- id: ROOT/142
+  image: landmark-treetop-setup
+  name: Elder Treetop (Setup)
+  tags:
+    - Landmarks
+- id: ROOT/143
+  image: landmark-treetop
+  name: Elder Treetop
+  tags:
+    - Landmarks
+- id: ROOT/144
+  image: landmark-ferry-setup
+  name: The Ferry (Setup)
+  tags:
+    - Landmarks
+- id: ROOT/145
+  image: landmark-ferry
+  name: The Ferry
+  tags:
+    - Landmarks
+- id: ROOT/146
+  image: landmark-legendaryforge-setup
+  name: Legendary Forge (Setup)
+  tags:
+    - Landmarks
+- id: ROOT/147
+  image: landmark-legendaryforge
+  name: Legendary Forge
+  tags:
+    - Landmarks
+- id: ROOT/148
+  image: landmark-lostcity-setup
+  name: Lost City (Setup)
+  tags:
+    - Landmarks
+- id: ROOT/149
+  image: landmark-lostcity
+  name: Lost City
+  tags:
+    - Landmarks
+- id: ROOT/150
+  image: landmark-tower-setup
+  name: The Tower (Setup)
+  tags:
+    - Landmarks
+- id: ROOT/151
+  image: landmark-tower
+  name: The Tower
+  tags:
+    - Landmarks
+- id: ROOT/152
+  image: intro-corvid
+  name: Corvid Intro
+  tags:
+    - Learn to Play
+- id: ROOT/153
+  image: intro-cult
+  name: Cult Intro
+  tags:
+    - Learn to Play
+- id: ROOT/154
+  image: intro-cult-2
+  name: Cult Intro (2)
+  tags:
+    - Learn to Play
+- id: ROOT/155
+  image: intro-duchy
+  name: Duchy Intro
+  tags:
+    - Learn to Play
+- id: ROOT/156
+  image: intro-eyrie
+  name: Eyrie Intro
+  tags:
+    - Learn to Play
+- id: ROOT/157
+  image: intro-badgers
+  name: Keepers in Iron Intro
+  tags:
+    - Learn to Play
+- id: ROOT/158
+  image: intro-rats
+  name: Lord of the Hundreds Intro
+  tags:
+    - Learn to Play
+- id: ROOT/159
+  image: intro-marquise
+  name: Marquise Intro
+  tags:
+    - Learn to Play
+- id: ROOT/160
+  image: intro-riverfolk
+  name: Riverfolk Intro
+  tags:
+    - Learn to Play
+- id: ROOT/161
+  image: intro-riverfolk
+  name: Riverfolk Intro (2)
+  tags:
+    - Learn to Play
+- id: ROOT/162
+  image: intro-vagabond
+  name: Vagabond Intro
+  tags:
+    - Learn to Play
+- id: ROOT/163
+  image: intro-woodland
+  name: Woodland Intro
+  tags:
+    - Learn to Play
+- id: ROOT/164
+  image: adset-setup-corvids
+  name: 'ADSET: Corvid Conspiracy'
+  tags:
+    - ADSET
+- id: ROOT/165
+  image: adset-setup-eyrie
+  name: 'ADSET: Eyrie Dynasties'
+  tags:
+    - ADSET
+- id: ROOT/166
+  image: adset-setup-badgers
+  name: 'ADSET: Keepers in Iron'
+  tags:
+    - ADSET
+- id: ROOT/167
+  image: adset-setup-cult
+  name: 'ADSET: Lizard Cult'
+  tags:
+    - ADSET
+- id: ROOT/168
+  image: adset-setup-rats
+  name: 'ADSET: Lord of the Hundreds'
+  tags:
+    - ADSET
+- id: ROOT/169
+  image: adset-setup-marquise
+  name: 'ADSET: Marquise de Cat'
+  tags:
+    - ADSET
+- id: ROOT/170
+  image: adset-setup-riverfolk
+  name: 'ADSET: Riverfolk Company'
+  tags:
+    - ADSET
+- id: ROOT/171
+  image: adset-setup-duchy
+  name: 'ADSET: Underground Duchy'
+  tags:
+    - ADSET
+- id: ROOT/172
+  image: adset-setup-vagabond
+  name: 'ADSET: Vagabond'
+  tags:
+    - ADSET
+- id: ROOT/173
+  image: adset-setup-woodland
+  name: 'ADSET: Woodland Alliance'
+  tags:
+    - ADSET
+- id: ROOT/174
+  image: adset-hirelings-badgers-big
+  imageClass: rotated
+  name: Vault Keepers
+  tags:
+    - Hirelings
+- id: ROOT/175
+  image: adset-hirelings-badgers-small
+  imageClass: rotated
+  name: Badger Bodyguards
+  tags:
+    - Hirelings
+- id: ROOT/176
+  image: adset-hirelings-band-big
+  imageClass: rotated
+  name: Popular Band
+  tags:
+    - Hirelings
+- id: ROOT/177
+  image: adset-hirelings-band-small
+  imageClass: rotated
+  name: Street Band
+  tags:
+    - Hirelings
+- id: ROOT/178
+  image: adset-hirelings-bandits-big
+  imageClass: rotated
+  name: Highway Bandits
+  tags:
+    - Hirelings
+- id: ROOT/179
+  image: adset-hirelings-bandits-small
+  imageClass: rotated
+  name: Bandit Gangs
+  tags:
+    - Hirelings
+- id: ROOT/180
+  image: adset-hirelings-corvids-big
+  imageClass: rotated
+  name: Corvid Spies
+  tags:
+    - Hirelings
+- id: ROOT/181
+  image: adset-hirelings-corvids-small
+  imageClass: rotated
+  name: Raven Sentries
+  tags:
+    - Hirelings
+- id: ROOT/182
+  image: adset-hirelings-cult-big
+  imageClass: rotated
+  name: Warm Sun Prophets
+  tags:
+    - Hirelings
+- id: ROOT/183
+  image: adset-hirelings-cult-small
+  imageClass: rotated
+  name: Lizard Envoys
+  tags:
+    - Hirelings
+- id: ROOT/184
+  image: adset-hirelings-duchy-big
+  imageClass: rotated
+  name: Sunward Expedition
+  tags:
+    - Hirelings
+- id: ROOT/185
+  image: adset-hirelings-duchy-small
+  imageClass: rotated
+  name: Mole Artisans
+  tags:
+    - Hirelings
+- id: ROOT/186
+  image: adset-hirelings-eyrie-big
+  imageClass: rotated
+  name: Last Dynasty
+  tags:
+    - Hirelings
+- id: ROOT/187
+  image: adset-hirelings-eyrie-small
+  imageClass: rotated
+  name: Bluebird Nobles
+  tags:
+    - Hirelings
+- id: ROOT/188
+  image: adset-hirelings-marquise-big
+  imageClass: rotated
+  name: Forest Patrol
+  tags:
+    - Hirelings
+- id: ROOT/189
+  image: adset-hirelings-marquise-small
+  imageClass: rotated
+  name: Feline Physicians
+  tags:
+    - Hirelings
+- id: ROOT/190
+  image: adset-hirelings-protector-big
+  imageClass: rotated
+  name: Furious Protector
+  tags:
+    - Hirelings
+- id: ROOT/191
+  image: adset-hirelings-protector-small
+  imageClass: rotated
+  name: Stoic Protector
+  tags:
+    - Hirelings
+- id: ROOT/192
+  image: adset-hirelings-rats-big
+  imageClass: rotated
+  name: Flame Bearers
+  tags:
+    - Hirelings
+- id: ROOT/193
+  image: adset-hirelings-rats-small
+  imageClass: rotated
+  name: Rat Smugglers
+  tags:
+    - Hirelings
+- id: ROOT/194
+  image: adset-hirelings-riverfolk-big
+  imageClass: rotated
+  name: Riverfolk Flotilla
+  tags:
+    - Hirelings
+- id: ROOT/195
+  image: adset-hirelings-riverfolk-small
+  imageClass: rotated
+  name: Otter Divers
+  tags:
+    - Hirelings
+- id: ROOT/196
+  image: adset-hirelings-vagabond-big
+  imageClass: rotated
+  name: The Exile
+  tags:
+    - Hirelings
+- id: ROOT/197
+  image: adset-hirelings-vagabond-small
+  imageClass: rotated
+  name: The Brigand
+  tags:
+    - Hirelings
+- id: ROOT/198
+  image: adset-hirelings-woodland-big
+  imageClass: rotated
+  name: Spring Uprising
+  tags:
+    - Hirelings
+- id: ROOT/199
+  image: adset-hirelings-woodland-small
+  imageClass: rotated
+  name: Rabbit Scouts
+  tags:
+    - Hirelings
