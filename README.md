@@ -40,4 +40,4 @@ Follow the guide for adding a new locale
 
 ## Publishing New Content
 
-This is done automatically when a PR is merged to `main`, and isn't intended to be done manually.
+This is done automatically when a PR is merged to `master`, and isn't intended to be done manually.
