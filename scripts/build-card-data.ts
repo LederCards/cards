@@ -16,6 +16,9 @@ const formatCard = (card) => {
     card.locale = 'en-US';
   }
 
+  const baseImageName = card.image;
+  card.image = `https://ledercards.netlify.app/cards/${card.product}/${card.locale}/${baseImageName}.webp`;
+
   return card;
 };
 
