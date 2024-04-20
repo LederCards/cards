@@ -28,6 +28,7 @@ This repository obtains and reformats cards for the Leder Spotlight application.
 1. Create a new folder in `content/card-data` (the name should match the `productName` in the `meta-data` file)
 1. Create a new folder in `content/card-images` (the name should match the `productName` in the `meta-data` file)
 1. Create a new folder in `content/card-symbols` (the name should match the `productName` in the `meta-data` file)
+1. Add a new 512x512 PNG in `content/card-symbols/products` (the name should match the `productName` in the `meta-data` file)
 
 Follow the guide for adding a new locale
 
