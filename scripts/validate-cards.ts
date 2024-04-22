@@ -41,12 +41,13 @@ allCards.forEach((card, index) => {
     'image',
     'imageClass',
     'product',
+    'subproduct',
     'locale',
     'tags',
     'meta',
   ]);
 
-  if (otherProps.length > 0) {
+  if (Object.keys(otherProps).length > 0) {
     console.error(`Card ${card.id} has other props: ${otherProps.join(',')}`);
     process.exit(1);
   }
