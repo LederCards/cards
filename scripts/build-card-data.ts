@@ -31,8 +31,11 @@ const readAllCards = async () => {
       const cards = yaml.load(fs.readFileSync(f));
 
       const [, , product, locale] = f.split(path.sep);
+      const subproduct = path.basename(f, '.yml');
+
       cards.forEach((c) => {
         c.product = product;
+        c.subproduct = subproduct;
         c.locale = locale;
       });
 

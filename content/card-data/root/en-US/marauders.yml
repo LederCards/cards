@@ -1,0 +1,81 @@
+- id: ROOT/13
+  text: 'When you discard this card, remove it permanently.'
+  image: badgers-retainer
+  name: Faithful Retainer
+  tags:
+    - Marauders
+
+- id: ROOT/14
+  text: >-
+    <emoji>:item_hammer In battle with warlord, before the roll, place one
+    warrior in the battle clearing per mob you choose to removve from the battle
+    clearing and adjacent ones.
+  image: rats-mood-bitter
+  name: 'Mood: Bitter'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/15
+  text: >-
+    <emoji>:item_tea Swap your Advance the Warlord step and Command the Hundreds
+    step.
+  image: rats-mood-grandiose
+  name: 'Mood: Grandiose'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/16
+  text: >-
+    <emoji>:item_boot After you incite your warlord's clearing, you may roll the
+    mob die to place a mob _(as described in your Rage step)_ up to four times.
+  image: rats-mood-jubilant
+  name: 'Mood: Jubilant'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/17
+  text: >-
+    At the end of Birdsong, you may remove any items from your Hoard to place
+    two warriors per item removed into your warlord's clearing.
+  image: rats-mood-lavish
+  name: 'Mood: Lavish'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/18
+  text: >-
+    <emoji>:item_sack Whenever you advance your warlord and both move and
+    battle, you may move or battle with your warlord _(like half of an
+    advance)_.
+  image: rats-mood-relentless
+  name: 'Mood: Relentless'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/19
+  text: >-
+    <emoji>:item_coin In Evening, draw one more card. If your warlord's clearing
+    has three or more enemy pieces, draw two more cards instead.
+  image: rats-mood-rowdy
+  name: 'Mood: Rowdy'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/20
+  text: >-
+    <emoji>:item_crossbow In battle with your warlord, you ignore the first hit
+    you take.
+  image: rats-mood-stubborn
+  name: 'Mood: Stubborn'
+  tags:
+    - Marauders
+    - Rats
+- id: ROOT/21
+  text: >-
+    <emoji>:item_sword As attacker in battle with your warlord, you deal an
+    extra hit _(When looting, you do deal this hit)_.
+  image: rats-mood-wrathful
+  name: 'Mood: Wrathful'
+  tags:
+    - Marauders
+    - Rats

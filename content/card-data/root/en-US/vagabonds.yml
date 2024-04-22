@@ -1,0 +1,24 @@
+- id: ROOT/28
+  text: >-
+    Improvise: Once per turn, you may damage any unexhausted item to treat it as
+    any other item in order to complete a quest.
+  image: vagabond-adventurer
+  name: Adventurer
+  tags:
+    - Vagabond
+- id: ROOT/29
+  text: >-
+    Glide: Move to any clearing (even Hostile) on the map without exhausting any
+    <emoji>:item_boot.
+  image: vagabond-harrier
+  name: Harrier
+  tags:
+    - Vagabond
+- id: ROOT/30
+  text: >-
+    Swift Strike: After rolling in battle, you may exhaust a sword to deal an
+    extra hit.
+  image: vagabond-ronin
+  name: Ronin
+  tags:
+    - Vagabond

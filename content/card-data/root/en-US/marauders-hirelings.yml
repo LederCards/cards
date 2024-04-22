@@ -1,0 +1,138 @@
+- id: ROOT/165
+  image: adset-setup-eyrie
+  name: 'ADSET: Eyrie Dynasties'
+  tags:
+    - ADSET
+- id: ROOT/166
+  image: adset-setup-badgers
+  name: 'ADSET: Keepers in Iron'
+  tags:
+    - ADSET
+- id: ROOT/168
+  image: adset-setup-rats
+  name: 'ADSET: Lord of the Hundreds'
+  tags:
+    - ADSET
+- id: ROOT/169
+  image: adset-setup-marquise
+  name: 'ADSET: Marquise de Cat'
+  tags:
+    - ADSET
+- id: ROOT/172
+  image: adset-setup-vagabond
+  name: 'ADSET: Vagabond'
+  tags:
+    - ADSET
+- id: ROOT/173
+  image: adset-setup-woodland
+  name: 'ADSET: Woodland Alliance'
+  tags:
+    - ADSET
+- id: ROOT/174
+  image: adset-hirelings-badgers-big
+  imageClass: rotated
+  name: Vault Keepers
+  tags:
+    - Hirelings
+- id: ROOT/175
+  image: adset-hirelings-badgers-small
+  imageClass: rotated
+  name: Badger Bodyguards
+  tags:
+    - Hirelings
+- id: ROOT/176
+  image: adset-hirelings-band-big
+  imageClass: rotated
+  name: Popular Band
+  tags:
+    - Hirelings
+- id: ROOT/177
+  image: adset-hirelings-band-small
+  imageClass: rotated
+  name: Street Band
+  tags:
+    - Hirelings
+- id: ROOT/178
+  image: adset-hirelings-bandits-big
+  imageClass: rotated
+  name: Highway Bandits
+  tags:
+    - Hirelings
+- id: ROOT/179
+  image: adset-hirelings-bandits-small
+  imageClass: rotated
+  name: Bandit Gangs
+  tags:
+    - Hirelings
+- id: ROOT/186
+  image: adset-hirelings-eyrie-big
+  imageClass: rotated
+  name: Last Dynasty
+  tags:
+    - Hirelings
+- id: ROOT/187
+  image: adset-hirelings-eyrie-small
+  imageClass: rotated
+  name: Bluebird Nobles
+  tags:
+    - Hirelings
+- id: ROOT/188
+  image: adset-hirelings-marquise-big
+  imageClass: rotated
+  name: Forest Patrol
+  tags:
+    - Hirelings
+- id: ROOT/189
+  image: adset-hirelings-marquise-small
+  imageClass: rotated
+  name: Feline Physicians
+  tags:
+    - Hirelings
+- id: ROOT/190
+  image: adset-hirelings-protector-big
+  imageClass: rotated
+  name: Furious Protector
+  tags:
+    - Hirelings
+- id: ROOT/191
+  image: adset-hirelings-protector-small
+  imageClass: rotated
+  name: Stoic Protector
+  tags:
+    - Hirelings
+- id: ROOT/192
+  image: adset-hirelings-rats-big
+  imageClass: rotated
+  name: Flame Bearers
+  tags:
+    - Hirelings
+- id: ROOT/193
+  image: adset-hirelings-rats-small
+  imageClass: rotated
+  name: Rat Smugglers
+  tags:
+    - Hirelings
+- id: ROOT/196
+  image: adset-hirelings-vagabond-big
+  imageClass: rotated
+  name: The Exile
+  tags:
+    - Hirelings
+- id: ROOT/197
+  image: adset-hirelings-vagabond-small
+  imageClass: rotated
+  name: The Brigand
+  tags:
+    - Hirelings
+- id: ROOT/198
+  image: adset-hirelings-woodland-big
+  imageClass: rotated
+  name: Spring Uprising
+  tags:
+    - Hirelings
+- id: ROOT/199
+  image: adset-hirelings-woodland-small
+  imageClass: rotated
+  name: Rabbit Scouts
+  tags:
+    - Hirelings

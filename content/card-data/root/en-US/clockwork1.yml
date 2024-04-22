@@ -1,0 +1,203 @@
+- id: ROOT/110
+  text: 'During setup, place only one Loyal Vizier in the bird column.'
+  image: difficulty-eyrie-easy
+  name: Eyrie Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/111
+  text: >-
+    During setup, take out one bird ambush from the deck and place it in the
+    bird column.
+  image: difficulty-eyrie-challenging
+  name: Eyrie Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/112
+  text: >-
+    During setup, take out one bird ambush from the deck and place it in the
+    bird column. At the end of evening, score 1 VP.
+  image: difficulty-eyrie-nightmare
+  name: Eyrie Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/113
+  text: >-
+    Turmoil is now triggered if you are unable to place a roost or if you are
+    unable to place a warrior. When turmoil occurs, no victory points are lost
+    and instead a point is scored for every bird card in your decree.
+  image: trait-eyrie-nobility
+  name: Nobility (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/114
+  text: >-
+    After resolving the Decree, remove all defenseless buildings and tokens in
+    any clearings where you have warriors.
+  image: trait-eyrie-relentless
+  name: Relentless (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/115
+  text: >-
+    At the end of Daylight, recruit two warriors in the highest priority
+    clearing in which you have no pieces.
+  image: trait-eyrie-swoop
+  name: Swoop (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/116
+  text: 'Whenever you destroy a token or building, the owner of the token loses 1 VP.'
+  image: trait-eyrie-wartax
+  name: War Tax (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/117
+  text: Recruit two warriors during the recruit action.
+  image: difficulty-marquise-easy
+  name: Marquise Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/118
+  text: >-
+    After recruiting, place two warriors in the highest priority clearing you
+    rule matching the order card.
+  image: difficulty-marquise-challenging
+  name: Marquise Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/119
+  text: >-
+    After recruiting, place two warriors in the highest priority clearing you
+    rule matching the order card. At the end of the evening, score 1 VP.
+  image: difficulty-marquise-nightmare
+  name: Marquise Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/120
+  text: >-
+    After your move action, select the highest priority clearing you rule
+    without any enemy pieces. Move all but one warrior from the clearing and
+    battle in the destination if opponents are present.
+  image: trait-marquise-blitz
+  name: Blitz (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/121
+  text: >-
+    Opponents require two hits to destroy each of your buildings. Assigning a
+    single hit to a building has no effect.
+  image: trait-marquise-fortified
+  name: Fortified (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/122
+  text: >-
+    After each battle as Defender in whihc you lost at least 2 warriors,
+    immediately recruit 2 warriors in the clearing with the keep token.
+  image: trait-marquise-hospitals
+  name: Hospitals (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/123
+  text: 'In Escalated Daylight, recruit twice as many warriors.'
+  image: trait-marquise-ironwill
+  name: Iron Will (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/124
+  text: Refresh one less item during Evening.
+  image: difficulty-vagabond-easy
+  name: Vagabond Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/125
+  text: Refresh one more item during Evening.
+  image: difficulty-vagabond-challenging
+  name: Vagabond Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/126
+  text: 'Refresh one more item during Evening. At the end of the evening, score 1 VP.'
+  image: difficulty-vagabond-nightmare
+  name: Vagabond Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/127
+  text: >-
+    Battle only once per turn. At the end of Daylight, spend any remaining items
+    on repeated Quest actions.
+  image: trait-vagabond-adventurer
+  name: Adventurer (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/128
+  text: >-
+    During the Battle action, target the clearing with the most pieces and
+    target the player with the most pieces in that clearing. At the end of your
+    turn, repair one additional item.
+  image: trait-vagabond-berserker
+  name: Berserker (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/129
+  text: >-
+    When taking the Aid action, score an additional victory point. The aided
+    player then takes two cards instead of one.
+  image: trait-vagabond-helper
+  name: Helper (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/130
+  text: >-
+    When attacking, deal one immediate hit to your opponent (scoring a point if
+    a warrior is removed) before the dice are rolled.
+  image: trait-vagabond-marksman
+  name: Marksman (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/131
+  text: Organize if there are 4 or more warriors in the clearing.
+  image: difficulty-woodland-easy
+  name: Woodland Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/132
+  text: Organize if there are 2 or more warriors in the clearing.
+  image: difficulty-woodland-challenging
+  name: Woodland Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/133
+  text: >-
+    Organize if there are 2 or more warriors in the clearing. At the end of the
+    evening, score 1 VP.
+  image: difficulty-woodland-nightmare
+  name: Woodland Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/134
+  text: Defenseless sympathy tokens benefit from Automated Ambush when attacked.
+  image: trait-woodland-informants
+  name: Informants (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/135
+  text: Destroying sympathy tokens grants no victory points for your opponents.
+  image: trait-woodland-popularity
+  name: Popularity (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/136
+  text: >-
+    In battle as defender, you use the higher roll and the attacker uses the
+    lower roll.
+  image: trait-woodland-veterans
+  name: Veterans (Trait)
+  tags:
+    - Clockwork
+- id: ROOT/137
+  text: Defenseless sympathy tokens benefit from Automated Ambush when attacked.
+  image: trait-woodland-wildfire
+  name: Wildfire (Trait)
+  tags:
+    - Clockwork

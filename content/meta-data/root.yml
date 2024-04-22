@@ -1,2 +1,39 @@
 product: root
 productName: Root
+
+subproducts:
+  - name: Base Game
+    id: basegame
+
+  - name: Clockwork 1
+    id: clockwork1
+
+  - name: Clockwork 2
+    id: clockwork2
+
+  - name: Exiles & Partisans
+    id: exiles-partisans
+
+  - name: Landmarks
+    id: landmarks
+
+  - name: Marauders Hirelings & Hirelings Box
+    id: marauders-hirelings
+
+  - name: Marauders
+    id: marauders
+
+  - name: Riverfolk Hirelings
+    id: riverfolk-hirelings
+
+  - name: Riverfolk
+    id: riverfolk
+
+  - name: Underworld Hirelings
+    id: underworld-hirelings
+
+  - name: Underworld
+    id: underworld
+
+  - name: Vagabond Pack
+    id: vagabonds

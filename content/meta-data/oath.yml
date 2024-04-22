@@ -5,3 +5,7 @@ filters:
     prop: Defense
   - name: Card Capacity
     prop: CardCapacity
+
+subproducts:
+  - name: Base Game
+    id: basegame

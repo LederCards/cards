@@ -1,0 +1,63 @@
+- id: ROOT/4
+  text: Spend any number of cards of the same suit to score equal VP.
+  image: mole-banker
+  name: Banker
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/5
+  text: Score +1 VP per market on the map.
+  image: mole-baronofdirt
+  name: Baron of Dirt
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/6
+  text: Take up to two moves OR initiate up to two battles.
+  image: mole-brigadier
+  name: Brigadier
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/7
+  text: Initiate a battle.
+  image: mole-captain
+  name: Captain
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/8
+  text: Score +2 VP if all tunnels are on the map.
+  image: mole-duchessofmud
+  name: Duchess of Mud
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/9
+  text: Score +1 VP per citadel on the map.
+  image: mole-earlofstone
+  name: Earl of Stone
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/10
+  text: Reveal a card to place a building in any clearing you rule.
+  image: mole-foremole
+  name: Foremole
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/11
+  text: Take a move.
+  image: mole-marshal
+  name: Marshal
+  tags:
+    - Underworld
+    - Moles
+- id: ROOT/12
+  text: Take the action of any swayed noble of squire.
+  image: mole-mayor
+  name: Mayor
+  tags:
+    - Underworld
+    - Moles

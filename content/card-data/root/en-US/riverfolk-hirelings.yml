@@ -1,0 +1,34 @@
+- id: ROOT/167
+  image: adset-setup-cult
+  name: 'ADSET: Lizard Cult'
+  tags:
+    - ADSET
+- id: ROOT/170
+  image: adset-setup-riverfolk
+  name: 'ADSET: Riverfolk Company'
+  tags:
+    - ADSET
+- id: ROOT/182
+  image: adset-hirelings-cult-big
+  imageClass: rotated
+  name: Warm Sun Prophets
+  tags:
+    - Hirelings
+- id: ROOT/183
+  image: adset-hirelings-cult-small
+  imageClass: rotated
+  name: Lizard Envoys
+  tags:
+    - Hirelings
+- id: ROOT/194
+  image: adset-hirelings-riverfolk-big
+  imageClass: rotated
+  name: Riverfolk Flotilla
+  tags:
+    - Hirelings
+- id: ROOT/195
+  image: adset-hirelings-riverfolk-small
+  imageClass: rotated
+  name: Otter Divers
+  tags:
+    - Hirelings
