@@ -1,5 +1,5 @@
-product: root
-productName: Root
+id: root
+name: Root
 
 subproducts:
   - name: Base Game
