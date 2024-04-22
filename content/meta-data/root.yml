@@ -1,6 +1,8 @@
 id: root
 name: Root
 
+filters: []
+
 subproducts:
   - name: Base Game
     id: basegame
