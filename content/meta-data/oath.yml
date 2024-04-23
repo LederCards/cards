@@ -10,3 +10,5 @@ filters:
 subproducts:
   - name: Base Game
     id: basegame
+    desc: >
+      Oath: Exiles & Empires is a game about being the coolest.

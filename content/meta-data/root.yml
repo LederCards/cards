@@ -6,36 +6,60 @@ filters: []
 subproducts:
   - name: Base Game
     id: basegame
+    desc: >
+      Root: A Game of Woodland Might and Right is a cool wargame.
 
   - name: Clockwork 1
     id: clockwork1
+    desc: >
+      The first Clockwork expansion adds support for automated Marquise, Woodland, Vagabond, and Eyrie players.
 
   - name: Clockwork 2
     id: clockwork2
+    desc: >
+      The second Clockwork expansion adds support for automated Duchy, Cult, Riverfolk, and Corvid players.
 
   - name: Exiles & Partisans
     id: exiles-partisans
+    desc: >
+      The Exiles & Partisans deck adds a new deck focused on player vs. player interactions.
 
   - name: Landmarks
     id: landmarks
+    desc: >
+      The Landmarks expansion adds features that can be added to any map, and can change gameplay dramatically.
 
   - name: Marauders Hirelings & Hirelings Box
     id: marauders-hirelings
+    desc: >
+      The Marauders Hirelings expansion adds both a default set of hirelings as well as specific hirelings for the Marauders expansion.
 
   - name: Marauders
     id: marauders
+    desc: >
+      The Marauders expansion adds two new factions: Keepers in Iron and Lord of the Hundreds.
 
   - name: Riverfolk Hirelings
     id: riverfolk-hirelings
+    desc: >
+      The Riverfolk Hirelings expansion adds hirelings for the Riverfolk Company and Lizard Cult.
 
   - name: Riverfolk
     id: riverfolk
+    desc: >
+      The Riverfolk expansion adds the Riverfolk Company, Lizard Cult, and Mechanical Marquise 1.0.
 
   - name: Underworld Hirelings
     id: underworld-hirelings
+    desc: >
+      The Underworld Hirelings expansion adds hirelings for the Duchy and Corvids.
 
   - name: Underworld
     id: underworld
+    desc: >
+      The Underworld expansion adds the Underground Duchy, the Corvid Conspiracy, and the Summer/Spring maps.
 
   - name: Vagabond Pack
     id: vagabonds
+    desc: >
+      The Vagabond Pack adds 3 new Vagabonds (Harrier, Ronin, Adventurer) as well as meeples for each Vagabond.
