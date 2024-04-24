@@ -12,3 +12,16 @@ subproducts:
     id: oathbasegame
     desc: >
       Oath: Exiles & Empires is a game about being the coolest.
+
+cardTemplate: >
+  {{#if meta.CardCapacity }}
+    <div>
+      <p>Card Capacity: {{ meta.CardCapacity }}
+    </div>
+  {{/if}}
+
+  {{#if meta.Defense }}
+    <div>
+      <p>Defense: {{ meta.Defense }}
+    </div>
+  {{/if}}

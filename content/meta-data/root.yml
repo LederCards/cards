@@ -63,3 +63,5 @@ subproducts:
     id: vagabonds
     desc: >
       The Vagabond Pack adds 3 new Vagabonds (Harrier, Ronin, Adventurer) as well as meeples for each Vagabond.
+
+cardTemplate: ''
