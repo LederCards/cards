@@ -8,7 +8,7 @@ filters:
     prop: CardCapacity
 
 subproducts:
-  - name: Base Game
-    id: basegame
+  - name: Oath Base Game
+    id: oathbasegame
     desc: >
       Oath: Exiles & Empires is a game about being the coolest.

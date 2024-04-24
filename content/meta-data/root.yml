@@ -4,8 +4,8 @@ name: Root
 filters: []
 
 subproducts:
-  - name: Base Game
-    id: basegame
+  - name: Root Base Game
+    id: rootbasegame
     desc: >
       Root: A Game of Woodland Might and Right is a cool wargame.
 
