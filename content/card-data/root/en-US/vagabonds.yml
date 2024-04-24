@@ -9,7 +9,7 @@
 - id: ROOT/29
   text: >-
     Glide: Move to any clearing (even Hostile) on the map without exhausting any
-    <emoji>:item_boot.
+    `symbol:item-boot`.
   image: vagabond-harrier
   name: Harrier
   tags:

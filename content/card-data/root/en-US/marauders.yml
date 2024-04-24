@@ -7,7 +7,7 @@
 
 - id: ROOT/14
   text: >-
-    <emoji>:item_hammer In battle with warlord, before the roll, place one
+    `symbol:item-hammer` In battle with warlord, before the roll, place one
     warrior in the battle clearing per mob you choose to removve from the battle
     clearing and adjacent ones.
   image: rats-mood-bitter
@@ -17,7 +17,7 @@
     - Rats
 - id: ROOT/15
   text: >-
-    <emoji>:item_tea Swap your Advance the Warlord step and Command the Hundreds
+    `symbol:item-tea` Swap your Advance the Warlord step and Command the Hundreds
     step.
   image: rats-mood-grandiose
   name: 'Mood: Grandiose'
@@ -26,7 +26,7 @@
     - Rats
 - id: ROOT/16
   text: >-
-    <emoji>:item_boot After you incite your warlord's clearing, you may roll the
+    `symbol:item-boot` After you incite your warlord's clearing, you may roll the
     mob die to place a mob _(as described in your Rage step)_ up to four times.
   image: rats-mood-jubilant
   name: 'Mood: Jubilant'
@@ -44,7 +44,7 @@
     - Rats
 - id: ROOT/18
   text: >-
-    <emoji>:item_sack Whenever you advance your warlord and both move and
+    `symbol:item-sack` Whenever you advance your warlord and both move and
     battle, you may move or battle with your warlord _(like half of an
     advance)_.
   image: rats-mood-relentless
@@ -54,7 +54,7 @@
     - Rats
 - id: ROOT/19
   text: >-
-    <emoji>:item_coin In Evening, draw one more card. If your warlord's clearing
+    `symbol:item-coin` In Evening, draw one more card. If your warlord's clearing
     has three or more enemy pieces, draw two more cards instead.
   image: rats-mood-rowdy
   name: 'Mood: Rowdy'
@@ -63,7 +63,7 @@
     - Rats
 - id: ROOT/20
   text: >-
-    <emoji>:item_crossbow In battle with your warlord, you ignore the first hit
+    `symbol:item-crossbow` In battle with your warlord, you ignore the first hit
     you take.
   image: rats-mood-stubborn
   name: 'Mood: Stubborn'
@@ -72,7 +72,7 @@
     - Rats
 - id: ROOT/21
   text: >-
-    <emoji>:item_sword As attacker in battle with your warlord, you deal an
+    `symbol:item-sword` As attacker in battle with your warlord, you deal an
     extra hit _(When looting, you do deal this hit)_.
   image: rats-mood-wrathful
   name: 'Mood: Wrathful'

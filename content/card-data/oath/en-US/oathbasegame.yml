@@ -8,7 +8,7 @@
 - id: OATH/1
   text: >-
     If you're victorious, gain `symbol:favor` `symbol:favor` from the
-    `suit:order` bank.
+    `symbol:suit-order` bank.
   image: Battle Honors
   name: Battle Honors
   tags:
@@ -158,7 +158,7 @@
     - Discord
     - Power
 - id: OATH/19
-  text: '+4 `symbol:dicer` if targeting a site that has an `suit:order` card.'
+  text: '+4 `symbol:dicer` if targeting a site that has an `symbol:suit-order` card.'
   image: Disgraced Captain
   name: Disgraced Captain
   tags:
@@ -244,7 +244,7 @@
     - Power
 - id: OATH/29
   text: >-
-    **When Played**, you may swap Great Herd with a `suit:nomad` card at any
+    **When Played**, you may swap Great Herd with a `symbol:suit-nomad` card at any
     site.
   image: Great Herd
   name: Great Herd
@@ -288,7 +288,7 @@
     - Power
 - id: OATH/34
   text: >-
-    **When Played**, discard all `suit:hearth` and `suit:order` cards at sites
+    **When Played**, discard all `symbol:suit-hearth` and `symbol:suit-order` cards at sites
     in your region.
   image: Dazzle
   name: Dazzle
@@ -296,7 +296,7 @@
     - Standard Deck
     - Arcane
 - id: OATH/35
-  text: 'Act as if the Acting Troupe is a `suit:beast` or `suit:order` card instead.'
+  text: 'Act as if the Acting Troupe is a `symbol:suit-beast` or `symbol:suit-order` card instead.'
   image: Acting Troupe
   name: Acting Troupe
   tags:
@@ -304,7 +304,7 @@
     - Arcane
 - id: OATH/36
   text: >-
-    **Action**: Discard a `suit:beast` or `suit:nomad` card at your site to gain
+    **Action**: Discard a `symbol:suit-beast` or `symbol:suit-nomad` card at your site to gain
     `symbol:favor` `symbol:favor` from the matching favor bank.
   image: Taming Charm
   name: Taming Charm
@@ -332,7 +332,7 @@
     - Beast
     - Power
 - id: OATH/39
-  text: "Spend no Supply if you're mustering on a `suit:beast` card."
+  text: "Spend no Supply if you're mustering on a `symbol:suit-beast` card."
   image: Animal Playmates
   name: Animal Playmates
   tags:
@@ -350,7 +350,7 @@
 - id: OATH/41
   text: >-
     If trading with The Old Oak for `symbol:secret`, gain one more
-    `symbol:secret` if you have any `suit:beast` advisers.
+    `symbol:secret` if you have any `symbol:suit-beast` advisers.
   image: The Old Oak
   name: The Old Oak
   tags:
@@ -359,7 +359,7 @@
 - id: OATH/42
   text: >-
     Spend no Supply and ignore the powers of sites if you're traveling to a site
-    with a `suit:beast` card.
+    with a `symbol:suit-beast` card.
   image: Forest Paths
   name: Forest Paths
   tags:
@@ -414,7 +414,7 @@
 - id: OATH/48
   text: >-
     **Action**: Move all `symbol:favor` from any one favor bank to the
-    `suit:hearth` bank.
+    `symbol:suit-hearth` bank.
   image: Memory of Home
   name: Memory of Home
   tags:
@@ -424,7 +424,7 @@
 - id: OATH/49
   text: >-
     If you play a denizen card that was not a facedown adviser, gain
-    `symbol:favor` from the `suit:hearth` bank.
+    `symbol:favor` from the `symbol:suit-hearth` bank.
   image: Welcoming Party
   name: Welcoming Party
   tags:
@@ -559,7 +559,7 @@
 - id: OATH/64
   text: >-
     **Action**: Each player _(even you)_ places one `symbol:favor` per site they
-    rule into the `suit:arcane` bank.
+    rule into the `symbol:suit-arcane` bank.
   image: Plague Engines
   name: Plague Engines
   tags:
@@ -720,7 +720,7 @@
     - Standard Deck
     - Discord
 - id: OATH/82
-  text: '±4 `symbol:dicer` if your enemy has an `suit:arcane` adviser.'
+  text: '±4 `symbol:dicer` if your enemy has an `symbol:suit-arcane` adviser.'
   image: Cracked Sage
   name: Cracked Sage
   tags:
@@ -786,7 +786,7 @@
     - Standard Deck
     - Discord
 - id: OATH/89
-  text: 'Enemies cannot use `suit:beast` or `suit:nomad` battle plans against you.'
+  text: 'Enemies cannot use `symbol:suit-beast` or `symbol:suit-nomad` battle plans against you.'
   image: Beast Tamer
   name: Beast Tamer
   tags:
@@ -1188,7 +1188,7 @@
     - Power
 - id: OATH/135
   text: >-
-    **When Played**, take X `symbol:favor` equal to the number of `suit:hearth`
+    **When Played**, take X `symbol:favor` equal to the number of `symbol:suit-hearth`
     cards you rule _(including Fabled Feast)_ from any one favor bank.
   image: Fabled Feast
   name: Fabled Feast
@@ -1245,7 +1245,7 @@
     - Hearth
 - id: OATH/141
   text: >-
-    After another player plays a `suit:nomad` or `suit:order` card, you gain
+    After another player plays a `symbol:suit-nomad` or `symbol:suit-order` card, you gain
     `symbol:favor` `symbol:favor` from the matching favor bank.
   image: Saddle Makers
   name: Saddle Makers
@@ -1298,7 +1298,7 @@
     - Hearth
 - id: OATH/147
   text: >-
-    Marriage counts as two `suit:hearth` advisers, but only counts as one toward
+    Marriage counts as two `symbol:suit-hearth` advisers, but only counts as one toward
     your adviser limit.
   image: Marriage
   name: Marriage
@@ -1332,9 +1332,9 @@
     - Nomad
 - id: OATH/151
   text: >-
-    Move all of your `symbol:favor` to the `suit:nomad` bank. Any `symbol:favor`
-    you gain or take is put in the `suit:nomad` bank. You can use `symbol:favor`
-    in the `suit:nomad` bank as if it is on your board.
+    Move all of your `symbol:favor` to the `symbol:suit-nomad` bank. Any `symbol:favor`
+    you gain or take is put in the `symbol:suit-nomad` bank. You can use `symbol:favor`
+    in the `symbol:suit-nomad` bank as if it is on your board.
   image: Vow of Kinship
   name: Vow of Kinship
   tags:
@@ -1342,8 +1342,8 @@
     - Nomad
 - id: OATH/152
   text: >-
-    If you would discard any number of `suit:nomad` battle plans, you may
-    instead discard any one `suit:beast` you rule.
+    If you would discard any number of `symbol:suit-nomad` battle plans, you may
+    instead discard any one `symbol:suit-beast` you rule.
   image: Wild Mounts
   name: Wild Mounts
   tags:
@@ -1366,7 +1366,7 @@
     - Power
 - id: OATH/155
   text: >-
-    ±4 `symbol:dicer` if your enemy has a `suit:nomad` adviser. At end, discard
+    ±4 `symbol:dicer` if your enemy has a `symbol:suit-nomad` adviser. At end, discard
     Rival Khan.
   image: Rival Khan
   name: Rival Khan
@@ -1376,7 +1376,7 @@
 - id: OATH/156
   text: >-
     Other players **cannot** target or take your relics or banners in any way
-    unless they rule a `suit:nomad` card.
+    unless they rule a `symbol:suit-nomad` card.
   image: Lost Tongue
   name: Lost Tongue
   tags:
@@ -1391,7 +1391,7 @@
     - Nomad
 - id: OATH/158
   text: >-
-    **Action**: Move a faceup `suit:nomad` card from any player's advisers to
+    **Action**: Move a faceup `symbol:suit-nomad` card from any player's advisers to
     any site.
   image: Retagstle
   name: Retagstle
@@ -1438,7 +1438,7 @@
     - Nomad
 - id: OATH/163
   text: >-
-    ± `symbol:dicer` per `suit:nomad` card you rule. At end, discard Great
+    ± `symbol:dicer` per `symbol:suit-nomad` card you rule. At end, discard Great
     Crusade.
   image: Great Crusade
   name: Great Crusade
@@ -1471,8 +1471,8 @@
     - Nomad
 - id: OATH/167
   text: >-
-    You can only have one adviser that is not a `suit:nomad`. You can have any
-    number of `suit:nomad` advisers- they **ignore** your adviser limit.
+    You can only have one adviser that is not a `symbol:suit-nomad`. You can have any
+    number of `symbol:suit-nomad` advisers- they **ignore** your adviser limit.
   image: Family Wagon
   name: Family Wagon
   tags:
@@ -1490,7 +1490,7 @@
     - Nomad
 - id: OATH/169
   text: >-
-    **When Played**, you may swap this card with a faceup `suit:nomad` adviser
+    **When Played**, you may swap this card with a faceup `symbol:suit-nomad` adviser
     of another player.
   image: Twin Brother
   name: Twin Brother
@@ -1531,7 +1531,7 @@
     - Standard Deck
     - Nomad
 - id: OATH/174
-  text: '± `symbol:dicer` per `suit:beast` adviser you have.'
+  text: '± `symbol:dicer` per `symbol:suit-beast` adviser you have.'
   image: Nature Worship
   name: Nature Worship
   tags:
@@ -1539,7 +1539,7 @@
     - Beast
     - Power
 - id: OATH/175
-  text: "Spend no Supply if you're trading with a `suit:beast` or `suit:nomad` card."
+  text: "Spend no Supply if you're trading with a `symbol:suit-beast` or `symbol:suit-nomad` card."
   image: Birdsong
   name: Birdsong
   tags:
@@ -1547,7 +1547,7 @@
     - Beast
 - id: OATH/176
   text: >-
-    Act as if your pawn is at any site with a `suit:beast` card. _(You may use
+    Act as if your pawn is at any site with a `symbol:suit-beast` card. _(You may use
     Trade modifiers there.)_
   image: Small Friends
   name: Small Friends
@@ -1565,7 +1565,7 @@
     - Beast
 - id: OATH/178
   text: >-
-    **When Played**, discard all `suit:nomad` and `suit:beast` cards at sites in
+    **When Played**, discard all `symbol:suit-nomad` and `symbol:suit-beast` cards at sites in
     your region.
   image: Threatening Roar
   name: Threatening Roar
@@ -1584,7 +1584,7 @@
 - id: OATH/180
   text: >-
     **Action**: Kill one warband on the board of a player who has an
-    `suit:order` or `suit:beast` adviser to gain one warband.
+    `symbol:suit-order` or `symbol:suit-beast` adviser to gain one warband.
   image: Second Chance
   name: Second Chance
   tags:
@@ -1648,7 +1648,7 @@
     - Beast
 - id: OATH/187
   text: >-
-    You may play `suit:beast` and `suit:hearth` cards to any site _(that has
+    You may play `symbol:suit-beast` and `symbol:suit-hearth` cards to any site _(that has
     space)_.
   image: New Growth
   name: New Growth
@@ -1656,7 +1656,7 @@
     - Standard Deck
     - Beast
 - id: OATH/188
-  text: 'If you play a `suit:beast` card, gain 1 Supply and 2 warbands.'
+  text: 'If you play a `symbol:suit-beast` card, gain 1 Supply and 2 warbands.'
   image: Wild Cry
   name: Wild Cry
   tags:
@@ -1664,7 +1664,7 @@
     - Beast
 - id: OATH/189
   text: >-
-    **When Played**, gain warbands equal to the total number of `suit:beast`
+    **When Played**, gain warbands equal to the total number of `symbol:suit-beast`
     cards _(including Animal Host)_ at any sites _(regardless of rule)_.
   image: Animal Host
   name: Animal Host
@@ -1674,7 +1674,7 @@
 - id: OATH/190
   text: >-
     **Action**: Move a total of X `symbol:favor` from any favor banks to the
-    `suit:beast` bank. X is the number of `suit:beast` cards on the map.
+    `symbol:suit-beast` bank. X is the number of `symbol:suit-beast` cards on the map.
   image: Memory of Nature
   name: Memory of Nature
   tags:
@@ -1700,14 +1700,14 @@
 - id: OATH/193
   text: >-
     Enemies of Forest Council's rule **cannot** trade with or must from
-    `suit:beast` cards.
+    `symbol:suit-beast` cards.
   image: Forest Council
   name: Forest Council
   tags:
     - Standard Deck
     - Beast
 - id: OATH/194
-  text: '± `symbol:diceb` per `suit:beast` at any sites if this site is targeted.'
+  text: '± `symbol:diceb` per `symbol:suit-beast` at any sites if this site is targeted.'
   image: Walled Garden
   name: Walled Garden
   tags:
@@ -1733,7 +1733,7 @@
     - Beast
 - id: OATH/197
   text: >-
-    **Action**: Campaign at any site with a `suit:beast` card. Act as if your
+    **Action**: Campaign at any site with a `symbol:suit-beast` card. Act as if your
     pawn is there. Spend no Supply and add your warbands there to your force.
   image: Wild Allies
   name: Wild Allies
@@ -1776,7 +1776,7 @@
     - Edifice
     - Hearth
 - id: OATH/202
-  text: 'In the Chronicle, do not discard sites with any `suit:beast` cards.'
+  text: 'In the Chronicle, do not discard sites with any `symbol:suit-beast` cards.'
   image: Forest Temple
   name: Forest Temple
   tags:
@@ -1784,7 +1784,7 @@
     - Edifice
     - Beast
 - id: OATH/203
-  text: "Enemies of Ruined Temple's ruler **cannot** play `suit:beast` cards faceup."
+  text: "Enemies of Ruined Temple's ruler **cannot** play `symbol:suit-beast` cards faceup."
   image: Ruined Temple
   name: Ruined Temple
   tags:
@@ -2167,8 +2167,8 @@
     - Standard Deck
     - Site
   text: >-
-    If you play an `suit:order` card to this site, and you have not discarded an
-    `suit:order` card here during this turn, you get 2 warbands.
+    If you play an `symbol:suit-order` card to this site, and you have not discarded an
+    `symbol:suit-order` card here during this turn, you get 2 warbands.
   image: Ancient City
   imageClass: rotated
 - id: OATH/237
@@ -2220,8 +2220,8 @@
     - Standard Deck
     - Site
   text: >-
-    If you play a `suit:beast` card to this site, and you have not discarded a
-    `suit:beast` card here during this turn, you take the relic here, treating
+    If you play a `symbol:suit-beast` card to this site, and you have not discarded a
+    `symbol:suit-beast` card here during this turn, you take the relic here, treating
     this as recovering it.
   image: Deep Woods
   imageClass: rotated
@@ -2248,7 +2248,7 @@
     - Site
   text: >-
     If you play a `suit:heart` card to this site, and you have not discarded a
-    `suit:hearth` card here during this turn, you get `symbol:favor`.
+    `symbol:suit-hearth` card here during this turn, you get `symbol:favor`.
   image: Fertile Valley
   imageClass: rotated
 - id: OATH/243
@@ -2421,8 +2421,8 @@
     - Standard Deck
     - Site
   text: >-
-    If you play an `suit:arcane` card to this site, and you have not discarded
-    an `suit:arcane` card here during this turn, you get `symbol:secret`.
+    If you play an `symbol:suit-arcane` card to this site, and you have not discarded
+    an `symbol:suit-arcane` card here during this turn, you get `symbol:secret`.
   image: Standing Stones
   imageClass: rotated
 - id: OATH/256
@@ -2434,8 +2434,8 @@
     - Standard Deck
     - Site
   text: >-
-    If you play a `suit:nomad` card to this site, and you have not discarded a
-    `suit:nomad` card here during this turn, you get `symbol:secret`.
+    If you play a `symbol:suit-nomad` card to this site, and you have not discarded a
+    `symbol:suit-nomad` card here during this turn, you get `symbol:secret`.
   image: Steppe
   imageClass: rotated
 - id: OATH/257
@@ -2460,8 +2460,8 @@
     - Standard Deck
     - Site
   text: >-
-    If you play a `suit:discord` card to this site, and you have not discarded a
-    `suit:discord` card here during this turn, you get take the relic here,
+    If you play a `symbol:suit-discord` card to this site, and you have not discarded a
+    `symbol:suit-discord` card here during this turn, you get take the relic here,
     treating this as recovering it.
   image: Wastes
   imageClass: rotated
