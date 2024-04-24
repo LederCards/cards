@@ -13,6 +13,7 @@ subproducts:
     desc: >
       Oath: Exiles & Empires is a game about being the coolest.
 
+# https://handlebarsjs.com/guide/
 cardTemplate: >
   {{#if meta.CardCapacity }}
     <div>
