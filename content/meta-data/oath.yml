@@ -4,8 +4,11 @@ name: Oath
 filters:
   - name: Defense
     prop: Defense
+    type: number
+
   - name: Card Capacity
     prop: CardCapacity
+    type: number
 
 subproducts:
   - name: Oath Base Game
