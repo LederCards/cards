@@ -18,10 +18,10 @@ subproducts:
 
 external:
   rules: https://oath.seiyria.com
-  faq: 
-    en-US: "https://dl.dropboxusercontent.com/s/qq3ckwivu0jixt4/oath.json?dl=0",
-    fr-FR: "https://dl.dropboxusercontent.com/s/0lr2341f8nr9nn6/oath-faq-fr.json?dl=0",
-    it-IT: "https://dl.dropboxusercontent.com/s/ob3csgx2fjk853m/ITA-oath.json?dl=0"
+  faq:
+    en-US: 'https://dl.dropboxusercontent.com/s/qq3ckwivu0jixt4/oath.json?dl=0'
+    fr-FR: 'https://dl.dropboxusercontent.com/s/0lr2341f8nr9nn6/oath-faq-fr.json?dl=0'
+    it-IT: 'https://dl.dropboxusercontent.com/s/ob3csgx2fjk853m/ITA-oath.json?dl=0'
 
 # https://handlebarsjs.com/guide/
 cardTemplate: >
