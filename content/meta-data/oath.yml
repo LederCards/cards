@@ -23,12 +23,12 @@ external:
 cardTemplate: >
   {{#if meta.CardCapacity }}
     <div>
-      <p>Card Capacity: {{ meta.CardCapacity }}
+      <p>Card Capacity: {{ meta.cardcapacity }}
     </div>
   {{/if}}
 
   {{#if meta.Defense }}
     <div>
-      <p>Defense: {{ meta.Defense }}
+      <p>Defense: {{ meta.defense }}
     </div>
   {{/if}}
