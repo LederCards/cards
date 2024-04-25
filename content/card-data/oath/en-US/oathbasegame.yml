@@ -1854,7 +1854,7 @@
     - Power
 - id: OATH/210
   meta:
-    Defense: 2
+    defense: 2
   name: Sticky Fire
   tags:
     - Standard Deck
@@ -1866,7 +1866,7 @@
   imageClass: square
 - id: OATH/211
   meta:
-    Defense: 3
+    defense: 3
   name: Cursed Cauldron
   tags:
     - Standard Deck
@@ -1878,7 +1878,7 @@
   imageClass: square
 - id: OATH/212
   meta:
-    Defense: 2
+    defense: 2
   name: Brass Horse
   tags:
     - Standard Deck
@@ -1892,7 +1892,7 @@
   imageClass: square
 - id: OATH/213
   meta:
-    Defense: 2
+    defense: 2
   name: Truthful Harp
   tags:
     - Standard Deck
@@ -1904,7 +1904,7 @@
   imageClass: square
 - id: OATH/214
   meta:
-    Defense: 2
+    defense: 2
   name: Grand Mask
   tags:
     - Standard Deck
@@ -1916,7 +1916,7 @@
   imageClass: square
 - id: OATH/215
   meta:
-    Defense: 2
+    defense: 2
   name: Horned Mask
   tags:
     - Standard Deck
@@ -1927,7 +1927,7 @@
   imageClass: square
 - id: OATH/216
   meta:
-    Defense: 2
+    defense: 2
   name: Cup of Plenty
   tags:
     - Standard Deck
@@ -1939,7 +1939,7 @@
   imageClass: square
 - id: OATH/217
   meta:
-    Defense: 2
+    defense: 2
   name: Whistle
   tags:
     - Standard Deck
@@ -1952,7 +1952,7 @@
   imageClass: square
 - id: OATH/218
   meta:
-    Defense: 3
+    defense: 3
   name: Dowsing Sticks
   tags:
     - Standard Deck
@@ -1963,7 +1963,7 @@
   imageClass: square
 - id: OATH/219
   meta:
-    Defense: 2
+    defense: 2
   name: Cracked Horn
   tags:
     - Standard Deck
@@ -1973,7 +1973,7 @@
   imageClass: square
 - id: OATH/220
   meta:
-    Defense: 3
+    defense: 3
   name: Bandit Crown
   tags:
     - Standard Deck
@@ -1985,7 +1985,7 @@
   imageClass: square
 - id: OATH/221
   meta:
-    Defense: 3
+    defense: 3
   name: Ring of Devotion
   tags:
     - Standard Deck
@@ -1997,7 +1997,7 @@
   imageClass: square
 - id: OATH/222
   meta:
-    Defense: 3
+    defense: 3
   name: Skeleton Key
   tags:
     - Standard Deck
@@ -2010,7 +2010,7 @@
   imageClass: square
 - id: OATH/223
   meta:
-    Defense: 2
+    defense: 2
   name: Oracular Pig
   tags:
     - Standard Deck
@@ -2020,7 +2020,7 @@
   imageClass: square
 - id: OATH/224
   meta:
-    Defense: 1
+    defense: 1
   name: Circlet of Command
   tags:
     - Standard Deck
@@ -2032,7 +2032,7 @@
   imageClass: square
 - id: OATH/225
   meta:
-    Defense: 2
+    defense: 2
   name: Ivory Eye
   tags:
     - Standard Deck
@@ -2043,7 +2043,7 @@
   imageClass: square
 - id: OATH/226
   meta:
-    Defense: 3
+    defense: 3
   name: Map
   tags:
     - Standard Deck
@@ -2053,7 +2053,7 @@
   imageClass: square
 - id: OATH/227
   meta:
-    Defense: 2
+    defense: 2
   name: Obsidian Cage
   tags:
     - Standard Deck
@@ -2066,7 +2066,7 @@
   imageClass: square
 - id: OATH/228
   meta:
-    Defense: 2
+    defense: 2
   name: Book of Records
   tags:
     - Standard Deck
@@ -2078,7 +2078,7 @@
   imageClass: square
 - id: OATH/229
   meta:
-    Defense: 2
+    defense: 2
   name: Dragonskin Drum
   tags:
     - Standard Deck
@@ -2088,7 +2088,7 @@
   imageClass: square
 - id: OATH/230
   meta:
-    Defense: 5
+    defense: 5
   name: The Grand Scepter
   tags:
     - Standard Deck
@@ -2160,8 +2160,8 @@
     - Vision
 - id: OATH/236
   meta:
-    CardCapacity: 1
-    Defense: 2
+    cardcapacity: 1
+    defense: 2
   name: Ancient City
   tags:
     - Standard Deck
@@ -2173,8 +2173,8 @@
   imageClass: rotated
 - id: OATH/237
   meta:
-    CardCapacity: 1
-    Defense: 1
+    cardcapacity: 1
+    defense: 1
   name: Barren Coast
   tags:
     - Standard Deck
@@ -2186,8 +2186,8 @@
   imageClass: rotated
 - id: OATH/238
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Buried Giant
   tags:
     - Standard Deck
@@ -2200,8 +2200,8 @@
   imageClass: rotated
 - id: OATH/239
   meta:
-    CardCapacity: 3
-    Defense: 1
+    cardcapacity: 3
+    defense: 1
   name: Charming Valley
   tags:
     - Standard Deck
@@ -2213,8 +2213,8 @@
   imageClass: rotated
 - id: OATH/240
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Deep Woods
   tags:
     - Standard Deck
@@ -2227,8 +2227,8 @@
   imageClass: rotated
 - id: OATH/241
   meta:
-    CardCapacity: 0
-    Defense: 0
+    cardcapacity: 0
+    defense: 0
   name: Drowned City
   tags:
     - Standard Deck
@@ -2240,8 +2240,8 @@
   imageClass: rotated
 - id: OATH/242
   meta:
-    CardCapacity: 3
-    Defense: 1
+    cardcapacity: 3
+    defense: 1
   name: Fertile Valley
   tags:
     - Standard Deck
@@ -2253,8 +2253,8 @@
   imageClass: rotated
 - id: OATH/243
   meta:
-    CardCapacity: 3
-    Defense: 1
+    cardcapacity: 3
+    defense: 1
   name: Great Slum
   tags:
     - Standard Deck
@@ -2266,8 +2266,8 @@
   imageClass: rotated
 - id: OATH/244
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: The Tribunal
   tags:
     - Standard Deck
@@ -2282,8 +2282,8 @@
   imageClass: rotated
 - id: OATH/245
   meta:
-    CardCapacity: 3
-    Defense: 1
+    cardcapacity: 3
+    defense: 1
   name: Lush Coast
   tags:
     - Standard Deck
@@ -2295,8 +2295,8 @@
   imageClass: rotated
 - id: OATH/246
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Marshes
   tags:
     - Standard Deck
@@ -2306,8 +2306,8 @@
   imageClass: rotated
 - id: OATH/247
   meta:
-    CardCapacity: 1
-    Defense: 1
+    cardcapacity: 1
+    defense: 1
   name: Mine
   tags:
     - Standard Deck
@@ -2319,8 +2319,8 @@
   imageClass: rotated
 - id: OATH/248
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Mountain
   tags:
     - Standard Deck
@@ -2332,8 +2332,8 @@
   imageClass: rotated
 - id: OATH/249
   meta:
-    CardCapacity: 1
-    Defense: 1
+    cardcapacity: 1
+    defense: 1
   name: Narrow Pass
   tags:
     - Standard Deck
@@ -2347,8 +2347,8 @@
   imageClass: rotated
 - id: OATH/250
   meta:
-    CardCapacity: 3
-    Defense: 1
+    cardcapacity: 3
+    defense: 1
   name: Plains
   tags:
     - Standard Deck
@@ -2360,8 +2360,8 @@
   imageClass: rotated
 - id: OATH/251
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: River
   tags:
     - Standard Deck
@@ -2373,8 +2373,8 @@
   imageClass: rotated
 - id: OATH/252
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Rocky Coast
   tags:
     - Standard Deck
@@ -2386,8 +2386,8 @@
   imageClass: rotated
 - id: OATH/253
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Salt Flats
   tags:
     - Standard Deck
@@ -2399,8 +2399,8 @@
   imageClass: rotated
 - id: OATH/254
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Shrouded Wood
   tags:
     - Standard Deck
@@ -2414,8 +2414,8 @@
   imageClass: rotated
 - id: OATH/255
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Standing Stones
   tags:
     - Standard Deck
@@ -2427,8 +2427,8 @@
   imageClass: rotated
 - id: OATH/256
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: Steppe
   tags:
     - Standard Deck
@@ -2440,8 +2440,8 @@
   imageClass: rotated
 - id: OATH/257
   meta:
-    CardCapacity: 2
-    Defense: 1
+    cardcapacity: 2
+    defense: 1
   name: The Hidden Place
   tags:
     - Standard Deck
@@ -2453,8 +2453,8 @@
   imageClass: rotated
 - id: OATH/258
   meta:
-    CardCapacity: 1
-    Defense: 1
+    cardcapacity: 1
+    defense: 1
   name: Wastes
   tags:
     - Standard Deck

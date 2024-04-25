@@ -3,11 +3,11 @@ name: Oath
 
 filters:
   - name: Defense
-    prop: Defense
+    prop: defense
     type: number
 
   - name: Card Capacity
-    prop: CardCapacity
+    prop: cardcapacity
     type: number
 
 subproducts:
