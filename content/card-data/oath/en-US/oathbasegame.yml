@@ -1393,8 +1393,8 @@
   text: >-
     **Action**: Move a faceup `symbol:suit-nomad` card from any player's advisers to
     any site.
-  image: Retagstle
-  name: Retagstle
+  image: Resettle
+  name: Resettle
   tags:
     - Standard Deck
     - Nomad
