@@ -55,7 +55,7 @@
     - Underworld
     - Moles
 - id: ROOT/12
-  text: Take the action of any swayed noble of squire.
+  text: Take the action of any swayed noble or squire.
   image: mole-mayor
   name: Mayor
   tags:
