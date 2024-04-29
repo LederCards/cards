@@ -3,7 +3,7 @@
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
   image: card-ambushbird
-  name: Ambush (Bird)
+  name: Ambush!
   tags:
     - Exiles & Partisans Deck
 - id: ROOT/201
@@ -11,7 +11,7 @@
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
   image: card-ambushbunny
-  name: Ambush (Bunny)
+  name: Ambush!
   tags:
     - Exiles & Partisans Deck
 - id: ROOT/202
@@ -19,7 +19,7 @@
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
   image: card-ambushfox
-  name: Ambush (Fox)
+  name: Ambush!
   tags:
     - Exiles & Partisans Deck
 - id: ROOT/203
@@ -27,7 +27,7 @@
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
   image: card-ambushmouse
-  name: Ambush (Mouse)
+  name: Ambush!
   tags:
     - Exiles & Partisans Deck
 - id: ROOT/204
