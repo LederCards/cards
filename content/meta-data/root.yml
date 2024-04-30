@@ -68,4 +68,4 @@ external:
   rules: https://root.seiyria.com
   faq: {}
 
-cardTemplate: ''
+cardTemplate: {}

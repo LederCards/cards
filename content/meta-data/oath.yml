@@ -24,15 +24,16 @@ external:
     it-IT: 'https://dl.dropboxusercontent.com/s/ob3csgx2fjk853m/ITA-oath.json?dl=0'
 
 # https://handlebarsjs.com/guide/
-cardTemplate: >
-  {{#if meta.cardcapacity }}
-    <div>
-      <p>Card Capacity: {{ meta.cardcapacity }}
-    </div>
-  {{/if}}
+cardTemplate:
+  en-US: >
+    {{#if meta.cardcapacity }}
+      <div>
+        <p>Card Capacity: {{ meta.cardcapacity }}
+      </div>
+    {{/if}}
 
-  {{#if meta.defense }}
-    <div>
-      <p>Defense: {{ meta.defense }}
-    </div>
-  {{/if}}
+    {{#if meta.defense }}
+      <div>
+        <p>Defense: {{ meta.defense }}
+      </div>
+    {{/if}}
