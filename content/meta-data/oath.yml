@@ -25,13 +25,13 @@ external:
 
 # https://handlebarsjs.com/guide/
 cardTemplate: >
-  {{#if meta.CardCapacity }}
+  {{#if meta.cardcapacity }}
     <div>
       <p>Card Capacity: {{ meta.cardcapacity }}
     </div>
   {{/if}}
 
-  {{#if meta.Defense }}
+  {{#if meta.defense }}
     <div>
       <p>Defense: {{ meta.defense }}
     </div>
