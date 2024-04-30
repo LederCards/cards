@@ -301,14 +301,14 @@
     - Craftable
 - id: ROOT/65
   image: card-crossbowbird
-  name: Crossbow (Bird)
+  name: Crossbow
   tags:
     - Base Game
     - Standard Deck
     - Craftable
 - id: ROOT/66
   image: card-crossbowmouse
-  name: Crossbow (Mouse)
+  name: Crossbow
   tags:
     - Base Game
     - Standard Deck
@@ -318,7 +318,7 @@
     You win the game if you rule two opposite corners at the start of your
     Birdsong.
   image: card-dominancebird
-  name: Dominance (Bird)
+  name: Dominance
   tags:
     - Base Game
     - Standard Deck
@@ -327,7 +327,7 @@
     You win the game if you rule three bunny clearings at the start of your
     Birdsong.
   image: card-dominancebunny
-  name: Dominance (Bunny)
+  name: Dominance
   tags:
     - Base Game
     - Standard Deck
@@ -336,7 +336,7 @@
     You win the game if you rule three fox clearings at the start of your
     Birdsong.
   image: card-dominancefox
-  name: Dominance (Fox)
+  name: Dominance
   tags:
     - Base Game
     - Standard Deck
@@ -345,7 +345,7 @@
     You win the game if you rule three mouse clearings at the start of your
     Birdsong.
   image: card-dominancemouse
-  name: Dominance (Mouse)
+  name: Dominance
   tags:
     - Base Game
     - Standard Deck
@@ -411,21 +411,21 @@
     - Craftable
 - id: ROOT/89
   image: card-rootteabunny
-  name: Root Tea (Bunny)
+  name: Root Tea
   tags:
     - Base Game
     - Standard Deck
     - Craftable
 - id: ROOT/90
   image: card-rootteafox
-  name: Root Tea (Fox)
+  name: Root Tea
   tags:
     - Base Game
     - Standard Deck
     - Craftable
 - id: ROOT/91
   image: card-rootteamouse
-  name: Root Tea (Mouse)
+  name: Root Tea
   tags:
     - Base Game
     - Standard Deck
@@ -466,7 +466,7 @@
     In Daylight, reveal an order. If the spy reveals a bird card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
   image: card-spybird
-  name: Spy (Bird)
+  name: Spy
   tags:
     - Mechanical Marquise 1.0
 - id: ROOT/99
@@ -474,7 +474,7 @@
     In Daylight, reveal an order. If the spy reveals a bunny card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
   image: card-spybunny
-  name: Spy (Bunny)
+  name: Spy
   tags:
     - Mechanical Marquise 1.0
 - id: ROOT/100
@@ -482,7 +482,7 @@
     In Daylight, reveal an order. If the spy reveals a fox card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
   image: card-spyfox
-  name: Spy (Fox)
+  name: Spy
   tags:
     - Mechanical Marquise 1.0
 - id: ROOT/101
@@ -490,7 +490,7 @@
     In Daylight, reveal an order. If the spy reveals a mouse card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
   image: card-spymouse
-  name: Spy (Mouse)
+  name: Spy
   tags:
     - Mechanical Marquise 1.0
 - id: ROOT/102
@@ -520,14 +520,14 @@
     - Craftable
 - id: ROOT/106
   image: card-travelgearfox
-  name: Travel Gear (Fox)
+  name: Travel Gear
   tags:
     - Base Game
     - Standard Deck
     - Craftable
 - id: ROOT/107
   image: card-travelgearmouse
-  name: Travel Gear (Mouse)
+  name: Travel Gear
   tags:
     - Base Game
     - Standard Deck
