@@ -1,7 +1,7 @@
 - id: ARCS/BC01
   text: If you **Provoke Outrage**, keep this card. You may spend any resources as Material. You ignore Outrage when spending Material for its Prelude action.
   image: BC01
-  name: BC01
+  name: Loyal Engineers
   tags:
     - Base
     - Guild
