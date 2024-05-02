@@ -1,3 +1,75 @@
+- id: ARCS/2SETUP01
+  image: 2SETUP01
+  name: 2 Player Frontiers
+  tags:
+    - Base
+    - Setup
+- id: ARCS/2SETUP02
+  image: 2SETUP02
+  name: 2 Player Mix Up 1
+  tags:
+    - Base
+    - Setup
+- id: ARCS/2SETUP03
+  image: 2SETUP03
+  name: 2 Player Homelands
+  tags:
+    - Base
+    - Setup
+- id: ARCS/2SETUP04
+  image: 2SETUP04
+  name: 2 Player Mix Up 2
+  tags:
+    - Base
+    - Setup
+- id: ARCS/3SETUP01
+  image: 3SETUP01
+  name: 3 Player Mix Up
+  tags:
+    - Base
+    - Setup
+- id: ARCS/3SETUP02
+  image: 3SETUP02
+  name: 3 Player Frontiers
+  tags:
+    - Base
+    - Setup
+- id: ARCS/3SETUP03
+  image: 3SETUP03
+  name: 3 Player Homelands
+  tags:
+    - Base
+    - Setup
+- id: ARCS/3SETUP04
+  image: 3SETUP04
+  name: 3 Player Core Conflict
+  tags:
+    - Base
+    - Setup
+- id: ARCS/4SETUP01
+  image: 4SETUP01
+  name: 4 Player Mix Up 1
+  tags:
+    - Base
+    - Setup
+- id: ARCS/4SETUP02
+  image: 4SETUP02
+  name: 4 Player Mix Up 2
+  tags:
+    - Base
+    - Setup
+- id: ARCS/4SETUP03
+  image: 4SETUP03
+  name: 4 Player Frontiers
+  tags:
+    - Base
+    - Setup
+- id: ARCS/4SETUP04
+  image: 4SETUP04
+  name: 4 Player Mix Up 3
+  tags:
+    - Base
+    - Setup
 - id: ARCS/BC01
   text: >-
     If you **Provoke Outrage**, keep this card.
@@ -24,7 +96,8 @@
     keys: 2
 - id: ARCS/BC03
   text: >-
-    You keep the Material supply on here. *(You add it to Tycoon but can't spend it.)*
+    You keep the Material supply on here.
+    *(You add it to Tycoon but can't spend it.)*
     After **scoring**, Rivals discard all Material.
     **Prelude:** You may discard this to steal 1 Material.
   image: BC03
@@ -59,11 +132,10 @@
     keys: 2
 - id: ARCS/BC06
   text: >-
-    You keep the Fuel supply on here. *(You add it to Tycoon but can't spend it.)*
-    
+    You keep the Fuel supply on here.
+    *(You add it to Tycoon but can't spend it.)*
     After **scoring**, Rivals discard all Fuel.
-    
-    **Prelude:** You may discard this to steal 1 Fuel.
+    **Prelude:** You may discard this to steal 1 Fuel.
   image: BC06
   name: Fuel Cartel
   tags:
@@ -84,3 +156,264 @@
     - Fuel
   meta:
     keys: 3
+- id: ARCS/BC08
+  text: >-
+    When you **battle** in a gate, you may collect 2 more dice.
+    **Prelude:** You may discard this to place 1 ship in each gate *(unless out of play)*.
+  image: BC08
+  name: Gatekeepers
+  tags:
+    - Base
+    - Guild
+    - Fuel
+  meta:
+    keys: 2
+- id: ARCS/BC09
+  text: >-
+    **Synthesize (Build):** Gain 1 Fuel.
+    **Prelude:** You may discard this to gain Fuel up to your number of empty resource slots. If the Fuel supply empties, steal the Fuel instead.
+  image: BC09
+  name: Shipping Interest
+  tags:
+    - Base
+    - Guild
+    - Fuel
+  meta:
+    keys: 2
+- id: ARCS/BC10
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Mobilization card. When the round ends, draw that card into your hand and discard this card.
+  image: BC10
+  name: Spacing Union
+  tags:
+    - Base
+    - Guild
+    - Fuel
+  meta:
+    keys: 2
+- id: ARCS/BC11
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Aggression card. When the round ends, draw that card into your hand and discard this card.
+  image: BC11
+  name: Arms Union
+  tags:
+    - Base
+    - Guild
+    - Weapon
+  meta:
+    keys: 2
+- id: ARCS/BC12
+  text: >-
+    **Pressgang (Build):** Return any number of your Captives to gain any 1 resource for each.
+    **Execute (Influence):** Move any number of your Captives to your Trophies.
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: BC12
+  name: Prison Wardens
+  tags:
+    - Base
+    - Guild
+    - Weapon
+  meta:
+    keys: 2
+- id: ARCS/BC13
+  text: >-
+    After you roll in **battle**, you may reroll a number of skirmish dice up to your total Weapon icons from resources and cards.
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: BC13
+  name: Skirmishers
+  tags:
+    - Base
+    - Guild
+    - Weapon
+  meta:
+    keys: 2
+- id: ARCS/BC14
+  text: >-
+    **Abduct (Battle):** Capture all Rival agents from a card in the Court that has fewer Rival agents than your total Weapon icons from resources and cards.
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: BC14
+  name: Court Enforcers
+  tags:
+    - Base
+    - Guild
+    - Weapon
+  meta:
+    keys: 2
+- id: ARCS/BC15
+  text: >-
+    If you **Provoke Outrage**, keep this card.
+    You may spend any resources as Weapons. You ignore Outrage when spending Weapons for their Prelude action.
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: BC15
+  name: Loyal Marines
+  tags:
+    - Base
+    - Guild
+    - Weapon
+  meta:
+    keys: 3
+- id: ARCS/BC16
+  text: >-
+    **Prelude:** Before any other actions, you may discard this to seize the initiative.
+    *You can't seize the initiative if you have it or if it's already seized this round!*
+  image: BC16
+  name: Lattice Spies
+  tags:
+    - Base
+    - Guild
+    - Psionic
+  meta:
+    keys: 2
+- id: ARCS/BC17
+  text: >-
+    When you **declare an ambition**, look at a Rival’s hand. You may swap 1 card with them.
+    Prelude: You may discard this and any number of cards from your hand. Draw the same number of cards *(including Farseers)* from the bottom of the action discard pile.
+  image: BC17
+  name: Farseers
+  tags:
+    - Base
+    - Guild
+    - Psionic
+  meta:
+    keys: 2
+- id: ARCS/BC18
+  text: >-
+    When you **declare** Keeper or Empath, do not place the zero marker.
+  image: BC18
+  name: Secret Order
+  tags:
+    - Base
+    - Guild
+    - Psionic
+  meta:
+    keys: 2
+- id: ARCS/BC19
+  text: >-
+    If you **Provoke Outrage**, keep this card.
+    You may spend any resources as Psionic. You ignore Outrage when spending Psionic for its Prelude action.
+  image: BC19
+  name: Loyal Empaths
+  tags:
+    - Base
+    - Guild
+    - Psionic
+  meta:
+    keys: 3
+- id: ARCS/BC20
+  text: >-
+    **Prelude:** You may discard this to steal a Guild card or resource.
+  image: BC20
+  name: Silver-Tongues
+  tags:
+    - Base
+    - Guild
+    - Psionic
+  meta:
+    keys: 2
+- id: ARCS/BC21
+  text: >-
+    If you **Provoke Outrage**, keep this card.
+    You may spend any resources as Relics. You ignore Outrage when spending Relics for their Prelude action.
+  image: BC21
+  name: Loyal Keepers
+  tags:
+    - Base
+    - Guild
+    - Relic
+  meta:
+    keys: 3
+- id: ARCS/BC22
+  text: >-
+    Rivals cannot steal your resources and other Guild cards. *(In battle they can steal this first and then spend `symbol:key`.)*
+    If this card is stolen, bury it. *(Place it on the bottom of the Court deck.)*
+  image: BC22
+  name: Sworn Guardians
+  tags:
+    - Base
+    - Guild
+    - Relic
+  meta:
+    keys: 1
+- id: ARCS/BC23
+  text: >-
+    **Trade (Tax):** Choose a Rival city you control.Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have.
+    **Prelude:** You may discard this to gain 1 Material, 1 Fuel, and 1 Weapon.
+  image: BC23
+  name: Elder Broker
+  tags:
+    - Base
+    - Guild
+    - Relic
+  meta:
+    keys: 2
+- id: ARCS/BC24
+  text: >-
+    **Prelude:** Once per turn, you may discard 1 resource to gain 1 Relic.
+  image: BC24
+  name: Relic Fence
+  tags:
+    - Base
+    - Guild
+    - Relic
+  meta:
+    keys: 2
+- id: ARCS/BC25
+  text: >-
+    When you **Surpass** or **Pivot**, before taking ***any*** actions, you may declare the ambition on your played card if an ambition has not been declared yet this round. Do not place the zero marker.
+  image: BC25
+  name: Galactic Bards
+  tags:
+    - Base
+    - Guild
+    - Relic
+  meta:
+    keys: 1
+- id: ARCS/BC26
+  text: >-
+    **When Secured:** Choose a cluster on the map. You place 1 ship in each system of that cluster. Discard this card.
+  image: BC26
+  name: Mass Uprising
+  tags:
+    - Base
+    - Vox
+- id: ARCS/BC27
+  text: >-
+    **When Secured:** You may declare any ambition. *(An ambition marker must be Available.)* Discard this card.
+  image: BC27
+  name: Populist Demands
+  tags:
+    - Base
+    - Vox
+- id: ARCS/BC28
+  text: >-
+    **When Secured:** You may choose an Outrage type. Each player *(even you)* must Provoke Outrage of that type. Discard this card.
+  image: BC28
+  name: Outrage Spreads
+  tags:
+    - Base
+    - Vox
+- id: ARCS/BC29
+  text: >-
+    **When Secured:** You may return ***any*** one city you control to its player board. If you do, you may seize the initiative. Shuffle this card into the Court deck.
+    *You can't seize the initiative if you have it or if it's already seized this round!*
+  image: BC29
+  name: Song of Freedom
+  tags:
+    - Base
+    - Vox
+- id: ARCS/BC30
+  text: >-
+    **When Secured:** You may steal 1 Guild card from a Rival. Shuffle all Guild cards from the Court discard pile into the Court deck. Discard Guild Struggle.
+  image: BC30
+  name: Guild Struggle
+  tags:
+    - Base
+    - Vox
+- id: ARCS/BC31
+  text: >-
+    **When Secured:** Draw 1 action card from the bottom of the action discard pile. Discard Call to Action.
+  image: BC31
+  name: Call to Action
+  tags:
+    - Base
+    - Vox
