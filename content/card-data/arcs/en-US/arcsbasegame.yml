@@ -60,7 +60,9 @@
 - id: ARCS/BC06
   text: >-
     You keep the Fuel supply on here. *(You add it to Tycoon but can't spend it.)*
+    
     After **scoring**, Rivals discard all Fuel.
+    
     **Prelude:** You may discard this to steal 1 Fuel.
   image: BC06
   name: Fuel Cartel
@@ -82,4 +84,3 @@
     - Fuel
   meta:
     keys: 3
-    
