@@ -1,0 +1,192 @@
+- id: ARCS/L15
+  text: >-
+    When defending in **battle**, before the attacker collects dice, you may move any number of fresh Loyal ships from systems adjacent to the battle system into it.
+  image: L15
+  name: Predictive Sensors
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L16
+  text: >-
+    **Guide (Move):** Move any number of ***any*** ships *(even if not Loyal)* from a system with a fresh Loyal starport to an adjacent system, or vice versa, ignoring **move** modifiers in play areas.
+  image: L16
+  name: Force Beams
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L17
+  text: >-
+    When attacking in **battle**, if there are no defending buildings, you may collect up to 1 raid die. *(This is not an extra die. Follow the limit of 1 die per ship.)*
+  image: L17
+  name: Raider Exosuits
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L18
+  text: >-
+    **Martyr (Move):** Destroy 1 fresh Loyal ship on the map to destroy 1 ship that is not Loyal in its system, taking it as a Trophy. *(Your Loyal ship does not become a Trophy.)*
+  image: L18
+  name: Survival Overrides
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L19
+  text: >-
+    ***While Empath is declared***, if you roll ***any*** dice *(even outside battle)*, you may reroll any number of them once.
+    **Prelude:** You may discard this to clear your Psionic Outrage.
+  image: L19
+  name: Empath’s Vision
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L20
+  text: >-
+    ***While Empath is declared***, you may **tax** ***any*** cities, and **build** ships and Catapult **move** with ***any*** starports, like they are Loyal. *(Don't take Captives. Build ships damaged in Rival-controlled systems.)*
+  image: L20
+  name: Empath’s Bond
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L21
+  text: >-
+    ***While Keeper is declared***, Rivals cannot steal resources from you that are the same as resources they have already.
+    **Prelude:** You may discard this to clear your Relic Outrage.
+  image: L21
+  name: Keeper’s Trust
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L22
+  text: >-
+    ***While Keeper is declared***, Rivals cannot steal Guild cards from you while you have any resources of the same type. *(If you have both Relics and Sworn Guardians, neither can be stolen!)*
+  image: L22
+  name: Keeper’s Solidarity
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L23
+  text: >-
+    ***While Warlord is declared***, you may **tax** cities that you already taxed this turn.
+    **Prelude:** You may discard this to clear your Weapon Outrage.
+  image: L23
+  name: Warlord’s Cruelty
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L24
+  text: >-
+    ***While Warlord is declared***, you may spend Trophies in your Prelude, returning them, to influence once for each.
+  image: L24
+  name: Warlord’s Terror
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L25
+  text: >-
+    ***While Tyrant is declared***, you may spend Captives in your Prelude, returning them, to secure once for each.
+    **Prelude:** You may discard this to clear your Weapon Outrage.
+  image: L25
+  name: Tyrant’s Ego
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L26
+  text: >-
+    **Annex (Build):** ***While Tyrant is declared***, replace ***any*** city or starport you control with a Loyal city or starport, respectively. *(Cities return to player boards.)*
+  image: L26
+  name: Tyrant’s Authority
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L27
+  text: >-
+    **Prelude:** ***While Tycoon is declared***, before taking any other actions, you may discard all of your Material and Fuel to declare exactly 1 undeclared ambition. Do not place the zero marker. *(You may do this just after declaring Tycoon.)*
+  image: L27
+  name: Tycoon’s Ambition
+  tags:
+    - LL
+    - Lore
+- id: ARCS/L28
+  text: >-
+    **Prelude:** ***While Tycoon is declared***, you may discard any number of Material and Fuel to gain 1 resource for each.
+    **Prelude:** You may discard this to clear your Material and Fuel Outrage.
+  image: L28
+  name: Tycoon’s Charm
+  tags:
+    - LL
+    - Lore
+- id: ARCS/LEAD09
+  text: >-
+    *Learned*. After **setup**, gain 2 extra lore cards—draw 5 lore, keep 2, and scrap the other 3 *(returning them to the box).*
+    *Academic*. When you're **scoring** Tycoon, gain no Power for second place, and gain Power for second place if you get first place. *(Don't get bonus city Power.)*
+  image: LEAD09
+  name: Archivist
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD10
+  text: >-
+    *Ruthless*. Once per turn, when you **tax** any city or **build** a ship at a starport, you may hit the building to take that action again with it. If you destroy a Loyal city, you Provoke Outrage. *(If you destroy a Rival city, Provoke Outrage and Ransack the Court.)*
+    *Hated*. In **setup**, scrap 2 Loyal ships and 3 Loyal agents. *(Return them to the box.)*
+  image: LEAD10
+  name: Overseer
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD11
+  text: >-
+    *Tricky*. When attacking in **battle**, you may reroll raid dice up to the number of different resources you have.
+    *Wary*. When attacking in **battle**, you cannot collect more assault dice than skirmish dice.
+  image: LEAD11
+  name: Corsair
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD12
+  text: >-
+    *Connected*. When you **declare an ambition** that's not declared, draw and secure the top card of the Court deck. *(You can't use its Prelude action now.)*
+    *Influential*. When you Copy or Pivot to **influence**, you may influence twice.
+    *Proud*. When **scoring**, you only gain Power if you get first place *(not tied).*
+  image: LEAD12
+  name: Noble
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD13
+  text: >-
+    *Decentralized*. In **setup**, scrap your 2 leftmost cities from your player board.
+    *Inspiring*. In systems with Loyal ships, you may **tax** Rival cities ignoring control, and you may tax empty building slots like Loyal cities.
+    *Principled*. You cannot **tax** Loyal cities.
+    *Remember, if you have no buildings on the map, Rivals can raid your ships!*
+  image: LEAD13
+  name: Anarchist
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD14
+  text: >-
+    *Mythic*. After you **tax** a city, you may place 1 resource you have over the planet's resource icon. From now on, its planet type is the placed resource, and its planet type cannot be changed again with *Mythic*.
+    *Ancient*. You cannot Catapult **move** from starports, but you can Catapult **move** from gates.
+  image: LEAD14
+  name: Shaper
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD15
+  text: >-
+    *Firebrand*. When you Copy or Pivot in order to **tax**, you gain 1 Weapon along with the taxed resource.
+    *Irregular*. If a Rival attacks you in **battle** and rolls `symbol:intercept`, they ***do not*** take hits from fresh defending ships. Instead, they take 1 hit per Weapon icon you have from cards and resources, then you discard 1 Weapon resource you have.
+  image: LEAD15
+  name: Agitator
+  tags:
+    - LL
+    - Leader
+- id: ARCS/LEAD16
+  text: >-
+    *Resilient*. After any **battle** with you, repair 1 Loyal ship in the battle system per starport on the map you control. *(Even Rival ones!)*
+    *Greedy*. In **setup**, place an agent on your Material Outrage slot.
+  image: LEAD16
+  name: Quartermaster
+  tags:
+    - LL
+    - Leader
