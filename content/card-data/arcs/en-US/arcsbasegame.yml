@@ -417,3 +417,195 @@
   tags:
     - Base
     - Vox
+- id: ARCS/L01
+  text: >-
+    **Summon (Build):** Once per turn, build 1 ship at ***any*** city you control.
+    *Yes, even Rival cities you control!*
+  image: L01
+  name: Tool-Priests
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L02
+  text: >-
+    **Fire Rifles (Battle):** Like in a battle, choose a system and collect **skirmish** dice for fresh Loyal ships there, choose a defender in an adjacent system, roll the collected dice, and deal 1 hit to the defender per `symbol:hit` rolled. 
+    *(Hit ships before buildings.)*
+  image: L02
+  name: Galactic Rifles
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L03
+  text: >-
+    When you **move** fresh Loyal ships, you may move any of them one more time. *(Damaged ships can move with them once, but won't move one more time. Resolve this after all Catapult moves.)*
+  image: L03
+  name: Sprinter Drives
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L04
+  text: >-
+    When you defend in **battle**, add 1 `symbol:intercept` to the attacker’s roll if they rolled any number of assault dice.
+  image: L04
+  name: Mirror Plating
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L05
+  text: >-
+    You always **build** ships fresh.
+    When defending in **battle**, the attacker cannot collect raid dice if you have a fresh defending starport.
+  image: L05
+  name: Hidden Harbors
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L06
+  text: >-
+    When attacking in **battle**, if all attacking ships are fresh at the start of the battle, you ignore 1 `symbol:intercept` you roll.
+  image: L06
+  name: Signal Breaker
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L07
+  text: >-
+    After you **battle** as the attacker, repair 1 Loyal attacking ship.
+  image: L07
+  name: Repair Drones
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L08
+  text: >-
+    You may **build** starports on gates, max 1 per gate.
+    When Rival ships take a **move** into a gate you control with a fresh Loyal starport, capture 1 agent of that Rival.
+  image: L08
+  name: Gate Ports
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L09
+  text: >-
+    You may **build** cities on planets outside their building slots, max 1 per planet.
+    This costs 1 resource of the planet type.
+  image: L09
+  name: Cloud Cities
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L10
+  text: >-
+    **Nurture (Build):** Tax a Loyal city.
+    **Prune (Repair):** Replace a Loyal starport with a Loyal city or vice versa.
+  image: L10
+  name: Living Structures
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L11
+  text: >-
+    You may **build** cities on gates, max 1 per gate.
+    A gate city's type matches all cities in its cluster. *(Players may tax it for 1 resource of any of those cities. If it is destroyed, Provoke Outrage of all those city types.)*
+  image: L11
+  name: Gate Stations
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L12
+  text: >-
+    When defending in **battle**, before the attacker collects dice, they must take 1 hit if any Loyal defending ships are fresh.
+  image: L12
+  name: Railgun Arrays
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L13
+  text: >-
+    This card has one resource slot with a raid cost of `symbol:key` `symbol:key` `symbol:key` `symbol:key`.
+    *(You can hold one resource here. It adds to your ambitions. You can spend it.)*
+  image: L13
+  name: Ancient Holdings
+  tags:
+    - Base
+    - Lore
+- id: ARCS/L14
+  text: >-
+    When attacking in **battle**, after rolling dice, you may reroll up to 1 assault die for each fresh Loyal attacking ship.
+  image: L14
+  name: Seeker Torpedoes
+  tags:
+    - Base
+    - Lore
+- id: ARCS/LEAD01
+  text: >-
+    *Beloved*. After defending in **battle**, you may influence if the attacker took any Trophies. Rivals cannot Ransack the Court when they **battle** you.
+    *Just*. When you're **scoring** Tyrant, gain no Power for second place, and gain Power for second place if you get first place. *(Don't get bonus city Power.)*
+  image: LEAD01
+  name: Elder
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD02
+  text: >-
+    *Attuned*. When you Copy or Pivot in order to **tax**, you gain 1 Psionic along with the taxed resource.
+    *Cryptic*. In **setup**, place agents on your Material and Fuel Outrage slots on your player board.
+  image: LEAD02
+  name: Mystic
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD03
+  text: >-
+    *Insatiable*. When you Copy or Pivot in order to **tax**, you gain 1 Fuel along with the taxed resource.
+    *Lavish*. After **scoring**, you must discard all of your Fuel if the Tycoon ambition was scored.
+  image: LEAD03
+  name: Fuel-Drinker
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD04
+  text: >-
+    *Ambitious*. When you **declare an ambition**, you may gain any resource. *(You must declare the ambition before taking any actions, including Prelude actions from resources.)*
+    *Callow*. You can only **tax** Loyal cities if you control them.
+  image: LEAD04
+  name: Upstart
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD05
+  text: >-
+    *Committed*. In **battle**, you collect 2 extra dice.
+    *Disorganized*. You cannot **move** more than 2 ships at a time.
+  image: LEAD05
+  name: Rebel
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD06
+  text: >-
+    *Tactical*. When you Copy or Pivot to **battle**, you may move before or after you battle. *(You may do this even if you spent a Weapon to let you battle.)*
+    *Violent*. When you're **scoring** Empath, gain no Power for second place, and gain Power for second place if you get first place. *(Don't get bonus city Power.)*
+  image: LEAD06
+  name: Warrior
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD07
+  text: >-
+    *Charismatic*. When you Copy or Pivot in order to **secure** a card, you may influence before or after you secure.
+    *Generous*. To **declare an ambition**, you must give 1 Guild card to your Rival with the least Power.
+  image: LEAD07
+  name: Feastbringer
+  tags:
+    - Base
+    - Leader
+- id: ARCS/LEAD08
+  text: >-
+    *Bold*. When you **declare an ambition**, you may influence any number of cards in the Court once.
+    *Paranoid*. You cannot **secure** Guild cards with only 1 Loyal agent on them. *(You can secure Vox cards as normal.)* Ignore this if you Ransack the Court.
+  image: LEAD08
+  name: Demagogue
+  tags:
+    - Base
+    - Leader
