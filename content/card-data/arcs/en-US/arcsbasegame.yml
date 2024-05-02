@@ -1,5 +1,7 @@
 - id: ARCS/BC01
-  text: "If you **Provoke Outrage**, keep this card.\nYou may spend any resources as Material. You ignore Outrage when spending Material for its Prelude action."
+  text: >-
+    If you **Provoke Outrage**, keep this card.
+    You may spend any resources as Material. You ignore Outrage when spending Material for its Prelude action.
   image: BC01
   name: Loyal Engineers
   tags:
@@ -9,7 +11,9 @@
   meta:
     keys: 3
 - id: ARCS/BC02
-  text: "**Manufacture (Build):** Gain 1 Material.\n**Prelude:** You may discard this to gain Material up to your number of empty resource slots. If the Material supply empties, steal the Material instead."
+  text: >-
+    **Manufacture (Build):** Gain 1 Material.
+    **Prelude:** You may discard this to gain Material up to your number of empty resource slots. If the Material supply empties, steal the Material instead.
   image: BC02
   name: Mining Interest
   tags:
@@ -19,7 +23,10 @@
   meta:
     keys: 2
 - id: ARCS/BC03
-  text: "You keep the Material supply on here. *(You add it to Tycoon but can't spend it.)*\nAfter **scoring**, Rivals discard all Material.\n**Prelude:** You may discard this to steal 1 Material."
+  text: >-
+    You keep the Material supply on here. *(You add it to Tycoon but can't spend it.)*
+    After **scoring**, Rivals discard all Material.
+    **Prelude:** You may discard this to steal 1 Material.
   image: BC03
   name: Material Cartel
   tags:
@@ -29,7 +36,8 @@
   meta:
     keys: 2
 - id: ARCS/BC04
-  text: "**Prelude:** You may place this card next to a face-up played Administration card. When the round ends, draw that card into your hand and discard this card."
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Administration card. When the round ends, draw that card into your hand and discard this card.
   image: BC04
   name: Admin Union
   tags:
@@ -39,7 +47,8 @@
   meta:
     keys: 2
 - id: ARCS/BC05
-  text: "**Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card."
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card.
   image: BC05
   name: Construction Union
   tags:
@@ -49,7 +58,10 @@
   meta:
     keys: 2
 - id: ARCS/BC06
-  text: "You keep the Fuel supply on here. *(You add it to Tycoon but can't spend it.)*\nAfter **scoring**, Rivals discard all Fuel.\n**Prelude:** You may discard this to steal 1 Fuel."
+  text: >-
+    You keep the Fuel supply on here. *(You add it to Tycoon but can't spend it.)*
+    After **scoring**, Rivals discard all Fuel.
+    **Prelude:** You may discard this to steal 1 Fuel.
   image: BC06
   name: Fuel Cartel
   tags:
@@ -59,7 +71,9 @@
   meta:
     keys: 2
 - id: ARCS/BC07
-  text: "If you **Provoke  Outrage**, keep this card.\nYou may spend any resources as Fuel. You ignore Outrage when spending Fuel for its Prelude action."
+  text: >-
+    If you **Provoke  Outrage**, keep this card.
+    You may spend any resources as Fuel. You ignore Outrage when spending Fuel for its Prelude action.
   image: BC07
   name: Loyal Pilots
   tags:
@@ -68,3 +82,4 @@
     - Fuel
   meta:
     keys: 3
+    
