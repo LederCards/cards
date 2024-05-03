@@ -13,6 +13,10 @@ Common:
   Products:
     Oath: Oath
     Root: Root
+    Arcs: Arcs
+    Fort: Fort
+    Vast: Vast
+    Ahoy: Ahoy
 
 Meta:
   Title: 'Leder Cards Spotlight'
@@ -24,14 +28,10 @@ Components:
   BelowTheFold:
     Home: Home
 
-    #CategoryMain: '{{ Common.AppName }}'
     LightMode: Light Mode
     DarkMode: Dark Mode
 
     CategoryCards: Cards
-    #Advanced: '{{ Common.Actions.AdvancedLong }}'
-    #Syntax: '{{ Common.Actions.SyntaxLong }}'
-    #Products: '{{ Common.Actions.ProductsLong }}'
 
     CategorySupport: Support
     FAQ: FAQ
@@ -43,23 +43,12 @@ Components:
 
     Copyright: The literal and graphical information presented on this site about Leder Games, including card images and symbols is copyright Leder Games.
 
-  #Header:
-  #  Advanced: '{{ Common.Actions.AdvancedShort }}'
-  #  Syntax: '{{ Common.Actions.SyntaxShort }}'
-  #  Products: '{{ Common.Actions.ProductsShort }}'
-
   Omnisearch:
-    #Company: '{{ Common.Company }}'
     Search: Search all of {{ selectedProduct }}...
 
 Pages:
   Homepage:
     SubText: is your go-to cardpanion for
-
-    #Actions:
-    #  Advanced: '{{ Common.Actions.AdvancedLong }}'
-    #  Syntax: '{{ Common.Actions.SyntaxLong }}'
-    #  Products: '{{ Common.Actions.ProductsLong }}'
 
   AdvancedSearch:
     CardNameLabel: Card Name
@@ -95,8 +84,6 @@ Pages:
       Reset: Reset
 
   SyntaxHelp:
-    #Header: '{{ Common.AppName }} Search Reference'
-    #Subheader: '{{ Common.AppName }} includes a large set of keywords and filters you can use to filter cards.'
     Header: 'Search Reference'
     Subheader: 'includes a large set of keywords and filters you can use to filter cards.'
 
@@ -106,16 +93,17 @@ Pages:
         Text: >
           You can find cards that match a certain id by using the `id:` operator.
 
+
           This operator is special, you may also search without using the operator.
 
         Examples:
-          - example: OATH/1
+          - example: `OATH/1`
             text: Find specifically the card matching the id OATH/1.
 
-          - example: id:=OATH/1
+          - example: `id:=OATH/1`
             text: Find specifically the card matching the id OATH/1.
 
-          - example: -id:OATH
+          - example: `-id:OATH`
             text: Exclude all cards with the id OATH.
 
       Name:
@@ -123,19 +111,20 @@ Pages:
         Text: >
           You can find cards that match a certain expansion by using the `name:` or `n:` operator.
 
+
           This operator is a loose-text operator, which means that you can use partial names. You can also specify multiple expansions by separating them with a comma. If a name has spaces in its name, you must use quotation marks around the name.
 
         Examples:
-          - example: Alchemist
+          - example: `Alchemist`
             text: Cards with "alchemist" in their name.
 
-          - example: name:alchemist
+          - example: `name:alchemist`
             text: Cards with "alchemist" in their name.
 
-          - example: name:"=Alchemist"
+          - example: `name:"=Alchemist"`
             text: Cards that are called exactly "Alchemist".
 
-          - example: -name:"Alchemist"
+          - example: `-name:"Alchemist"`
             text: Cards without "alchemist" in their name.
 
       Product:
@@ -144,10 +133,10 @@ Pages:
           You can find cards that are associated with a certain product/game by using the `product:` operator.
 
         Examples:
-          - example: product:oath
+          - example: `product:oath`
             text: Cards that belong to the Oath product.
 
-          - example: -product:root
+          - example: `-product:root`
             text: Cards that don't belong to the Root product.
 
       Subproduct:
@@ -156,10 +145,10 @@ Pages:
           You can find cards that are associated with a certain subproduct/expansion by using the `subproduct:` operator.
 
         Examples:
-          - example: subproduct:clockwork-1
+          - example: `subproduct:clockwork-1`
             text: Cards that belong to the Clockwork 1 subproduct.
 
-          - example: -subproduct:exiles-partisans
+          - example: `-subproduct:exiles-partisans`
             text: Cards that don't belong to the Exiles & Partisans subproduct.
 
       Tag:
@@ -168,13 +157,13 @@ Pages:
           You can find cards that have a certain tag by using the `tag:` search operator. Almost every card will have a tag. You can find a list of valid tags by using the advanced search page.
 
         Examples:
-          - example: tag:"Power"
+          - example: `tag:"Power"`
             text: Cards that have the Power tag.
 
-          - example: tag:"Power,Arcane"
+          - example: `tag:"Power,Arcane"`
             text: Cards that have the Power and Arcane tags.
 
-          - example: tag:none
+          - example: `tag:none`
             text: Cards with no tags.
 
   SearchResults:
@@ -199,8 +188,9 @@ Pages:
 
       Pagination:
         Previous: Previous
-        Next: Next 60
+        Next: Next
 
   Card:
     More: More
+    FAQ: FAQ
     Rules: Rules
