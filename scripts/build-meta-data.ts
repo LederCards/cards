@@ -9,7 +9,12 @@ const readAllMeta = async () => {
   const allMetaFiles = await readdir('./content/meta-data');
   const allMetas = allMetaFiles.map((f) => yaml.load(fs.readFileSync(f)));
 
-  fs.writeJsonSync(`dist/meta.json`, allMetas);
+  const allLocaleFiles = await readdir('./content/i18n');
+  const allLocales = allLocaleFiles.map((f) => path.basename(f, '.yml'));
+
+  const json = { products: allMetas, locales: allLocales };
+
+  fs.writeJsonSync(`dist/meta.json`, json);
   console.log(`Got ${allMetas.length} meta data files!`);
 };
 
