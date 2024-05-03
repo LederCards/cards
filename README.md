@@ -40,6 +40,14 @@ Follow the guide for adding a new locale
 1. Create a new folder in `content/card-images/{product}` for the locale (probably `en-US`)
    1. Fill this folder with the images for the cards for the game.
 
+### Adding New Filters
+
+When adding new filters in a meta data file that previously did not exist, you must also:
+
+1. Navigate to each locale file (in the `i18n` folder)
+1. Go to `Pages.AdvancedSearch`
+1. Add a similar entry as seen there for your new filter.
+
 ## Publishing New Content
 
 This is done automatically when a PR is merged to `master`, and isn't intended to be done manually.

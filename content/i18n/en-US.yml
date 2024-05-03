@@ -69,6 +69,15 @@ Pages:
     CardCapacityLabel: Card Capacity
     CardCapacityPlaceholder: Card Capacity
 
+    KeysLabel: Keys
+    KeysPlaceholder: Keys
+
+    ActLabel: Act
+    ActPlaceholder: Act
+
+    ComplexityLabel: Complexity
+    ComplexityPlaceholder: Complexity
+
     NumberText: If left unspecified, will not be included in the search query
 
     Operators:
