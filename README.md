@@ -18,6 +18,7 @@ This repository obtains and reformats cards for the Leder Spotlight application.
 - `npm run build:card-symbols` - move the card symbol icons
 - `npm run build:card-images` - move the card images
 - `npm run build:i18n` - build the i18n files and ensure that they're formatted correctly
+- `npm run validate` - validate everything
 - `npm run validate:card-data` - validate the card data is formatted correctly
 
 ## Adding New Content

@@ -17,18 +17,21 @@ Common:
 Meta:
   Title: 'Leder Cards Spotlight'
 
+Languages:
+  en-US: English
+
 Components:
   BelowTheFold:
     Home: Home
 
-    CategoryMain: '{{ Common.AppName }}'
+    #CategoryMain: '{{ Common.AppName }}'
     LightMode: Light Mode
     DarkMode: Dark Mode
 
     CategoryCards: Cards
-    Advanced: '{{ Common.Actions.AdvancedLong }}'
-    Syntax: '{{ Common.Actions.SyntaxLong }}'
-    Products: '{{ Common.Actions.ProductsLong }}'
+    #Advanced: '{{ Common.Actions.AdvancedLong }}'
+    #Syntax: '{{ Common.Actions.SyntaxLong }}'
+    #Products: '{{ Common.Actions.ProductsLong }}'
 
     CategorySupport: Support
     FAQ: FAQ
@@ -40,23 +43,23 @@ Components:
 
     Copyright: The literal and graphical information presented on this site about Leder Games, including card images and symbols is copyright Leder Games.
 
-  Header:
-    Advanced: '{{ Common.Actions.AdvancedShort }}'
-    Syntax: '{{ Common.Actions.SyntaxShort }}'
-    Products: '{{ Common.Actions.ProductsShort }}'
+  #Header:
+  #  Advanced: '{{ Common.Actions.AdvancedShort }}'
+  #  Syntax: '{{ Common.Actions.SyntaxShort }}'
+  #  Products: '{{ Common.Actions.ProductsShort }}'
 
   Omnisearch:
-    LederGames: '{{ Common.Company }}'
+    #Company: '{{ Common.Company }}'
     Search: Search all of {{ selectedProduct }}...
 
 Pages:
   Homepage:
     SubText: is your go-to cardpanion for
 
-    Actions:
-      Advanced: '{{ Common.Actions.AdvancedLong }}'
-      Syntax: '{{ Common.Actions.SyntaxLong }}'
-      Products: '{{ Common.Actions.ProductsLong }}'
+    #Actions:
+    #  Advanced: '{{ Common.Actions.AdvancedLong }}'
+    #  Syntax: '{{ Common.Actions.SyntaxLong }}'
+    #  Products: '{{ Common.Actions.ProductsLong }}'
 
   AdvancedSearch:
     CardNameLabel: Card Name
@@ -92,8 +95,10 @@ Pages:
       Reset: Reset
 
   SyntaxHelp:
-    Header: '{{ Common.AppName }} Search Reference'
-    Subheader: '{{ Common.AppName }} includes a large set of keywords and filters you can use to filter {{ Common.Company }} cards.'
+    #Header: '{{ Common.AppName }} Search Reference'
+    #Subheader: '{{ Common.AppName }} includes a large set of keywords and filters you can use to filter cards.'
+    Header: 'Search Reference'
+    Subheader: 'includes a large set of keywords and filters you can use to filter cards.'
 
     Operators:
       ID:
