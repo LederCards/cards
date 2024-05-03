@@ -1,0 +1,57 @@
+id: arcs
+name: Arcs
+
+filters:
+  - name: Keys
+    prop: keys
+    type: number
+
+  - name: Act
+    prop: act
+    type: number
+
+  - name: Complexity
+    prop: complexity
+    type: number
+
+subproducts:
+  - name: Arcs Base Game
+    id: arcsbasegame
+    desc: >
+      Arcs: Conflict & Collapse in the Reach is a sharp sci-fi strategy game for 2 to 4 players, set in a dark yet silly universe.
+
+  - name: Arcs Leaders and Lore
+    id: arcsll
+    desc: >
+      Explore unique, tricky strategies in the Arcs base game with new Leaders, and add wild twists to both the Arcs base and campaign games with new Lore.
+
+  - name: Arcs Blighted Reach
+    id: arcsblightedreach
+    desc: >
+      The Blighted Reach expansion adds an innovative campaign to Arcs.
+
+external:
+  rules: https://oath.seiyria.com
+  faq:
+    en-US: 'https://dl.dropboxusercontent.com/s/qq3ckwivu0jixt4/oath.json?dl=0'
+
+# https://handlebarsjs.com/guide/
+cardTemplate:
+  en-US: >
+    {{#if meta.keys }}
+      <div>
+        <p>Keys: {{ meta.keys }}
+      </div>
+    {{/if}}
+
+    {{#if meta.act }}
+      <div>
+        <p>Act: {{ meta.act }}
+      </div>
+    {{/if}}
+
+    {{#if meta.complexity }}
+      <div>
+        <p>Complexity: {{ meta.complexity }}
+      </div>
+    {{/if}}
