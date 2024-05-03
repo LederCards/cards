@@ -97,14 +97,14 @@ Pages:
           This operator is special, you may also search without using the operator.
 
         Examples:
-          - example: `OATH/1`
-            text: Find specifically the card matching the id OATH/1.
+          - Example: `OATH/1`
+            Text: Find specifically the card matching the id OATH/1.
 
-          - example: `id:=OATH/1`
-            text: Find specifically the card matching the id OATH/1.
+          - Example: `id:=OATH/1`
+            Text: Find specifically the card matching the id OATH/1.
 
-          - example: `-id:OATH`
-            text: Exclude all cards with the id OATH.
+          - Example: `-id:OATH`
+            Text: Exclude all cards with the id OATH.
 
       Name:
         Name: Name
@@ -115,17 +115,17 @@ Pages:
           This operator is a loose-text operator, which means that you can use partial names. You can also specify multiple expansions by separating them with a comma. If a name has spaces in its name, you must use quotation marks around the name.
 
         Examples:
-          - example: `Alchemist`
-            text: Cards with "alchemist" in their name.
+          - Example: `Alchemist`
+            Text: Cards with "alchemist" in their name.
 
-          - example: `name:alchemist`
-            text: Cards with "alchemist" in their name.
+          - Example: `name:alchemist`
+            Text: Cards with "alchemist" in their name.
 
-          - example: `name:"=Alchemist"`
-            text: Cards that are called exactly "Alchemist".
+          - Example: `name:"=Alchemist"`
+            Text: Cards that are called exactly "Alchemist".
 
-          - example: `-name:"Alchemist"`
-            text: Cards without "alchemist" in their name.
+          - Example: `-name:"Alchemist"`
+            Text: Cards without "alchemist" in their name.
 
       Product:
         Name: Product
@@ -133,11 +133,11 @@ Pages:
           You can find cards that are associated with a certain product/game by using the `product:` operator.
 
         Examples:
-          - example: `product:oath`
-            text: Cards that belong to the Oath product.
+          - Example: `product:oath`
+            Text: Cards that belong to the Oath product.
 
-          - example: `-product:root`
-            text: Cards that don't belong to the Root product.
+          - Example: `-product:root`
+            Text: Cards that don't belong to the Root product.
 
       Subproduct:
         Name: Subproduct
@@ -145,11 +145,11 @@ Pages:
           You can find cards that are associated with a certain subproduct/expansion by using the `subproduct:` operator.
 
         Examples:
-          - example: `subproduct:clockwork-1`
-            text: Cards that belong to the Clockwork 1 subproduct.
+          - Example: `subproduct:clockwork-1`
+            Text: Cards that belong to the Clockwork 1 subproduct.
 
-          - example: `-subproduct:exiles-partisans`
-            text: Cards that don't belong to the Exiles & Partisans subproduct.
+          - Example: `-subproduct:exiles-partisans`
+            Text: Cards that don't belong to the Exiles & Partisans subproduct.
 
       Tag:
         Name: Tag
@@ -157,14 +157,14 @@ Pages:
           You can find cards that have a certain tag by using the `tag:` search operator. Almost every card will have a tag. You can find a list of valid tags by using the advanced search page.
 
         Examples:
-          - example: `tag:"Power"`
-            text: Cards that have the Power tag.
+          - Example: `tag:"Power"`
+            Text: Cards that have the Power tag.
 
-          - example: `tag:"Power,Arcane"`
-            text: Cards that have the Power and Arcane tags.
+          - Example: `tag:"Power,Arcane"`
+            Text: Cards that have the Power and Arcane tags.
 
-          - example: `tag:none`
-            text: Cards with no tags.
+          - Example: `tag:none`
+            Text: Cards with no tags.
 
   SearchResults:
     NoResults:
