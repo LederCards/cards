@@ -12,6 +12,7 @@
     "build:i18n": "ts-node scripts/build-i18n",
     "compress:card-images": "ts-node scripts/compress-card-images",
     "compress:card-symbols": "ts-node scripts/compress-card-symbols",
+    "validate": "concurrently \"npm run validate:*\"",
     "validate:card-data": "ts-node scripts/validate-cards",
     "finalize:version": "ts-node scripts/finalize-version",
     "copy:headers": "ts-node scripts/copy-headers"

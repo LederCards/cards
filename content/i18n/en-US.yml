@@ -1,2 +1,205 @@
-App:
-  Title: 'Leder Light'
+Common:
+  Company: Leder Games
+  AppName: Lederlight
+
+  Actions:
+    AdvancedLong: Advanced Search
+    AdvancedShort: Advanced
+    SyntaxLong: Syntax Help
+    SyntaxShort: Syntax
+    ProductsLong: All Products
+    ProductsShort: Products
+
+  Products:
+    Oath: Oath
+    Root: Root
+    Arcs: Arcs
+    Fort: Fort
+    Vast: Vast
+    Ahoy: Ahoy
+
+Meta:
+  Title: 'Leder Cards Spotlight'
+
+Languages:
+  en-US: English
+
+Components:
+  BelowTheFold:
+    Home: Home
+
+    LightMode: Light Mode
+    DarkMode: Dark Mode
+
+    CategoryCards: Cards
+
+    CategorySupport: Support
+    FAQ: FAQ
+    Ask: Ask a Question
+
+    CategoryMore: More
+    GitHub: GitHub
+    Discord: Discord
+
+    Copyright: The literal and graphical information presented on this site about Leder Games, including card images and symbols is copyright Leder Games.
+
+  Omnisearch:
+    Search: Search all of {{ selectedProduct }}...
+
+Pages:
+  Homepage:
+    SubText: is your go-to cardpanion for
+
+  AdvancedSearch:
+    CardNameLabel: Card Name
+    CardNamePlaceholder: Search any card name
+
+    ProductLabel: Product
+    ProductPlaceholder: Select product
+
+    SubproductsLabel: Subproducts
+    SubproductsPlaceholder: Select subproducts
+
+    TagsLabel: Tags
+    TagsPlaceholder: Select tags
+
+    DefenseLabel: Defense
+    DefensePlaceholder: Defense
+
+    CardCapacityLabel: Card Capacity
+    CardCapacityPlaceholder: Card Capacity
+
+    KeysLabel: Keys
+    KeysPlaceholder: Keys
+
+    ActLabel: Act
+    ActPlaceholder: Act
+
+    ComplexityLabel: Complexity
+    ComplexityPlaceholder: Complexity
+
+    NumberText: If left unspecified, will not be included in the search query
+
+    Operators:
+      EqualTo: Equal To
+      NotEqualTo: Not Equal To
+      GreaterThan: Greater Than
+      LessThan: Less Than
+      GreaterThanOrEqualTo: Greater Than Or Equal To
+      LessThanOrEqualTo: Less Than Or Equal To
+
+    Actions:
+      Search: Search
+      Reset: Reset
+
+  SyntaxHelp:
+    Header: 'Search Reference'
+    Subheader: 'includes a large set of keywords and filters you can use to filter cards.'
+
+    Operators:
+      ID:
+        Name: ID
+        Text: >
+          You can find cards that match a certain id by using the `id:` operator.
+
+
+          This operator is special, you may also search without using the operator.
+
+        Examples:
+          - Example: '`OATH/1`'
+            Text: Find specifically the card matching the id OATH/1.
+
+          - Example: '`id:=OATH/1`'
+            Text: Find specifically the card matching the id OATH/1.
+
+          - Example: '`-id:OATH`'
+            Text: Exclude all cards with the id OATH.
+
+      Name:
+        Name: Name
+        Text: >
+          You can find cards that match a certain expansion by using the `name:` or `n:` operator.
+
+
+          This operator is a loose-text operator, which means that you can use partial names. You can also specify multiple expansions by separating them with a comma. If a name has spaces in its name, you must use quotation marks around the name.
+
+        Examples:
+          - Example: '`Alchemist`'
+            Text: Cards with "alchemist" in their name.
+
+          - Example: '`name:alchemist`'
+            Text: Cards with "alchemist" in their name.
+
+          - Example: '`name:"=Alchemist"`'
+            Text: Cards that are called exactly "Alchemist".
+
+          - Example: '`-name:"Alchemist"`'
+            Text: Cards without "alchemist" in their name.
+
+      Product:
+        Name: Product
+        Text: >
+          You can find cards that are associated with a certain product/game by using the `product:` operator.
+
+        Examples:
+          - Example: '`product:oath`'
+            Text: Cards that belong to the Oath product.
+
+          - Example: '`-product:root`'
+            Text: Cards that don't belong to the Root product.
+
+      Subproduct:
+        Name: Subproduct
+        Text: >
+          You can find cards that are associated with a certain subproduct/expansion by using the `subproduct:` operator.
+
+        Examples:
+          - Example: '`subproduct:clockwork-1`'
+            Text: Cards that belong to the Clockwork 1 subproduct.
+
+          - Example: '`-subproduct:exiles-partisans`'
+            Text: Cards that don't belong to the Exiles & Partisans subproduct.
+
+      Tag:
+        Name: Tag
+        Text: >
+          You can find cards that have a certain tag by using the `tag:` search operator. Almost every card will have a tag. You can find a list of valid tags by using the advanced search page.
+
+        Examples:
+          - Example: '`tag:"Power"`'
+            Text: Cards that have the Power tag.
+
+          - Example: '`tag:"Power,Arcane"`'
+            Text: Cards that have the Power and Arcane tags.
+
+          - Example: '`tag:none`'
+            Text: Cards with no tags.
+
+  SearchResults:
+    NoResults:
+      Header: No results found
+      Subheader: For help using the search tool, check the
+      HelpGuide: help guide
+
+    Results:
+      Sorter:
+        As: Cards as
+        AsImages: Images
+        AsText: Text
+
+        Sorted: Sorted by
+        SortedName: Name
+        SortedID: ID
+        SortedProduct: Product
+
+        Asc: Asc ↑
+        Desc: Desc ↓
+
+      Pagination:
+        Previous: Previous
+        Next: Next
+
+  Card:
+    More: More
+    FAQ: FAQ
+    Rules: Rules
