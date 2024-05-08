@@ -21,17 +21,17 @@ subproducts:
       Arcs: Conflict & Collapse in the Reach is a sharp sci-fi strategy game for 2 to 4 players, set in a dark yet silly universe.
 
   - name: Arcs Leaders and Lore
-    id: arcsll
+    id: leaders-lore
     desc: >
       Explore unique, tricky strategies in the Arcs base game with new Leaders, and add wild twists to both the Arcs base and campaign games with new Lore.
 
   - name: Arcs Blighted Reach
-    id: arcsblightedreach
+    id: blightedreach
     desc: >
       The Blighted Reach expansion adds an innovative campaign to Arcs.
 
 external:
-  rules: https://oath.seiyria.com
+  rules: ''
   faq:
     en-US: 'https://dl.dropboxusercontent.com/s/qq3ckwivu0jixt4/oath.json?dl=0'
 
