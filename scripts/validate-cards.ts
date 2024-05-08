@@ -19,8 +19,8 @@ allCards.forEach((card, index) => {
     process.exit(1);
   }
 
-  if (!card.product) {
-    console.error(`Card ${card.id} does not have a product.`);
+  if (!card.game) {
+    console.error(`Card ${card.id} does not have a game.`);
     process.exit(1);
   }
 
@@ -40,8 +40,8 @@ allCards.forEach((card, index) => {
     'text',
     'image',
     'imageClass',
+    'game',
     'product',
-    'subproduct',
     'locale',
     'tags',
     'meta',

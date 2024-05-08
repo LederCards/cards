@@ -25,19 +25,19 @@ This repository obtains and reformats cards for the Leder Spotlight application.
 
 ### Products
 
-1. Create a new file matching the product name in `content/meta-data`
-1. Create a new folder in `content/card-data` (the name should match the `productName` in the `meta-data` file)
-1. Create a new folder in `content/card-images` (the name should match the `productName` in the `meta-data` file)
-1. Create a new folder in `content/card-symbols` (the name should match the `productName` in the `meta-data` file)
-1. Add a new 512x512 PNG in `content/card-symbols/products` (the name should match the `productName` in the `meta-data` file)
+1. Create a new file matching the game name in `content/meta-data`
+1. Create a new folder in `content/card-data` (the name should match the `gameName` in the `meta-data` file)
+1. Create a new folder in `content/card-images` (the name should match the `gameName` in the `meta-data` file)
+1. Create a new folder in `content/card-symbols` (the name should match the `gameName` in the `meta-data` file)
+1. Add a new 512x512 PNG in `content/card-symbols/products` (the name should match the `gameName` in the `meta-data` file)
 
 Follow the guide for adding a new locale
 
 ### Locale
 
-1. Create a new folder in `content/card-data/{product}` for the locale (probably `en-US`)
-   1. Add a `{subproduct}.yml` file here (or, as many separate files as desired - they all get concatenated together) and fill it with card data.
-1. Create a new folder in `content/card-images/{product}` for the locale (probably `en-US`)
+1. Create a new folder in `content/card-data/{game}` for the locale (probably `en-US`)
+   1. Add a `{game}.yml` file here (or, as many separate files as desired - they all get concatenated together) and fill it with card data.
+1. Create a new folder in `content/card-images/{game}` for the locale (probably `en-US`)
    1. Fill this folder with the images for the cards for the game.
 
 ### Adding New Filters

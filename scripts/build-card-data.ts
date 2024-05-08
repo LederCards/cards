@@ -10,14 +10,14 @@ fs.ensureDirSync('./dist');
 const formatCard = (card) => {
   if (
     !fs.existsSync(
-      `./content/card-images/${card.product}/${card.locale}/${card.image}.png`,
+      `./content/card-images/${card.game}/${card.locale}/${card.image}.png`,
     )
   ) {
     card.locale = 'en-US';
   }
 
   const baseImageName = card.image;
-  card.image = `https://ledercards.netlify.app/cards/${card.product}/${
+  card.image = `https://ledercards.netlify.app/cards/${card.game}/${
     card.locale
   }/${encodeURIComponent(baseImageName)}.webp`;
 
@@ -30,12 +30,12 @@ const readAllCards = async () => {
     .map((f) => {
       const cards = yaml.load(fs.readFileSync(f));
 
-      const [, , product, locale] = f.split(path.sep);
-      const subproduct = path.basename(f, '.yml');
+      const [, , game, locale] = f.split(path.sep);
+      const product = path.basename(f, '.yml');
 
       cards.forEach((c) => {
+        c.game = game;
         c.product = product;
-        c.subproduct = subproduct;
         c.locale = locale;
       });
 

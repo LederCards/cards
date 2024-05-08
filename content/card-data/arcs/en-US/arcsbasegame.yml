@@ -73,6 +73,7 @@
 - id: ARCS/BC01
   text: >-
     If you **Provoke Outrage**, keep this card.
+
     You may spend any resources as Material. You ignore Outrage when spending Material for its Prelude action.
   image: BC01
   name: Loyal Engineers
@@ -85,6 +86,7 @@
 - id: ARCS/BC02
   text: >-
     **Manufacture (Build):** Gain 1 Material.
+
     **Prelude:** You may discard this to gain Material up to your number of empty resource slots. If the Material supply empties, steal the Material instead.
   image: BC02
   name: Mining Interest

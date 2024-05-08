@@ -54,11 +54,11 @@ Pages:
     CardNameLabel: Card Name
     CardNamePlaceholder: Search any card name
 
-    ProductLabel: Product
-    ProductPlaceholder: Select product
+    ProductLabel: Game
+    ProductPlaceholder: Select game
 
-    SubproductsLabel: Subproducts
-    SubproductsPlaceholder: Select subproducts
+    SubproductsLabel: Products
+    SubproductsPlaceholder: Select products
 
     TagsLabel: Tags
     TagsPlaceholder: Select tags
@@ -139,26 +139,26 @@ Pages:
       Product:
         Name: Product
         Text: >
-          You can find cards that are associated with a certain product/game by using the `product:` operator.
+          You can find cards that are associated with a certain game by using the `game:` operator.
 
         Examples:
-          - Example: '`product:oath`'
-            Text: Cards that belong to the Oath product.
+          - Example: '`game:oath`'
+            Text: Cards that belong to the Oath game.
 
-          - Example: '`-product:root`'
-            Text: Cards that don't belong to the Root product.
+          - Example: '`-game:root`'
+            Text: Cards that don't belong to the Root game.
 
       Subproduct:
-        Name: Subproduct
+        Name: Product
         Text: >
-          You can find cards that are associated with a certain subproduct/expansion by using the `subproduct:` operator.
+          You can find cards that are associated with a certain product by using the `product:` operator.
 
         Examples:
-          - Example: '`subproduct:clockwork-1`'
-            Text: Cards that belong to the Clockwork 1 subproduct.
+          - Example: '`product:clockwork-1`'
+            Text: Cards that belong to the Clockwork 1 product.
 
-          - Example: '`-subproduct:exiles-partisans`'
-            Text: Cards that don't belong to the Exiles & Partisans subproduct.
+          - Example: '`-product:exiles-partisans`'
+            Text: Cards that don't belong to the Exiles & Partisans product.
 
       Tag:
         Name: Tag
@@ -190,7 +190,7 @@ Pages:
         Sorted: Sorted by
         SortedName: Name
         SortedID: ID
-        SortedProduct: Product
+        SortedProduct: Game
 
         Asc: Asc ↑
         Desc: Desc ↓
