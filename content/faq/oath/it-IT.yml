@@ -1,0 +1,1178 @@
+- faq:
+    - q: >-
+        Se sacrifico l'ultima milizia presente in un territorio, l'attaccante
+        può comunque prenderla?
+      a: "Si, dato che l'ha già dichiarata come obiettivo."
+    - q: >-
+        Se ho un Alleato Imperiale, posso sacrificare una milizia dalla sua
+        plancia?
+      a: 'Si, se sta aggiungendo milizie dalla sua plancia al tuo esercito.'
+  card: Wrestlers
+- faq:
+    - q: Se è rimasto un solo favore nella riserva posso prenderlo comunque?
+      a: Si!
+  card: Battle Honors
+- faq:
+    - q: >-
+        Posso utilizzare il Favore del Popolo due volte se uso questa carta per
+        giocare due carte in un territorio?
+      a: Si!
+    - q: >-
+        Posso giocare una carta a faccia in giù se gioco l'altra in un
+        territorio?
+      a: Si!
+  card: Land Warden
+- faq:
+    - q: Si inizia dal giocatore di turno o dal Cancelliere?
+      a: Si inizia dal Cancelliere e si prosegue in senso orario.
+  card: Revelation
+- faq:
+    - q: >-
+        Posso dare un'occhiata a tutta la pila degli scarti o posso guardare
+        solo la prima carta?
+      a: L'intera pila!
+  card: Scryer
+- faq:
+    - q: >-
+        Se trovo la Congiura, posso giocarla a faccia in giù fra i miei
+        consiglieri?
+      a: Si!
+  card: Inquisitor
+- faq:
+    - q: 'Se divento un Cittadino, ho comunque accesso a questa Visione?'
+      a: >-
+        Si! La Milizia rimane. Però non sei in grado di vincere con quella
+        Visione finché non torni a essere un Esule.
+  card: False Prophet
+- faq:
+    - q: >-
+        Se gioco questa carta in un territorio, ottengo come al solito anche il
+        favore per averla giocata in un territorio?
+      a: Si!
+  card: Salad Days
+- faq:
+    - q: Posso giocarla nella Città Sommersa?
+      a: Si!
+    - q: >-
+        Se questa carta si trova nella Città Sommersa, posso sostituirla con
+        Quartiere in Festa durante le Cronache?
+      a: >-
+        No. Sale sulla Terra aumenta la capienza, ma una volta che non si trova
+        più lì, Città Sommersa non ha più nessuna capienza.
+    - q: Posso giocare questa carta in un territorio a faccia in giù?
+      a: No!
+  card: Salt the Earth
+- faq:
+    - q: >-
+        Posso usare questa carta in combinazione con Nuova Energia per svolgere
+        una Campagna prima di diventare un Cittadino?
+      a: >-
+        No. Nuova Energia dice espressamente DOPO, quindi devi prima risolvere
+        tutti gli altri piani di battaglia, compreso Cultura Marziale
+  card: Martial Culture
+- faq:
+    - q: La milizia eliminata rimuove anche un secondo dado attacco?
+      a: >-
+        No, in quanto avete già raccolto i dadi per formare le riserve. Perdi
+        esattamente una milizia e un dado attacco.
+    - q: 'La milizia eliminata, conta ai fini del potere di Calderone Maledetto?'
+      a: Si!
+  card: Bear Traps
+- faq:
+    - q: >-
+        La Scorta che ottengo, si combina con i poteri che mi consentono di non
+        consumare Scorte?
+      a: >-
+        Si!In questo caso finiresti per ottenere una Scorta durante una Campagna
+        invece di consumarle.
+  card: Scouts
+- faq:
+    - q: Questo potere si combina con quello di Funghi?
+      a: >-
+        Si. Credo proprio che il Garzone conosca i posti migliori dove
+        raccoglierli.
+    - q: >-
+        Se pesco dalla pila degli scarti di un'altra regione, dove devo
+        scartare?
+      a: Scarta nel mazzo della regione in cui si trova la tua pedina.
+  card: Errand Boy
+- faq:
+    - q: >-
+        Posso essere obbligato a viaggiare in questo territorio perdendo di
+        conseguenza le milizie?
+      a: Certo.
+  card: Boiling Lake
+- faq:
+    - q: >-
+        Il potere si attiva anche se dichiaro come bersaglio una pedina
+        posizionata su un territorio con una carta Ordine?
+      a: >-
+        No, devi dichiarare come bersaglio il territorio stesso. Ovviamente, se
+        dichiari come bersaglio un territorio e altre cose (pedina, vessilli,
+        reliquie ecc.), il potere ha comunque effetto.
+  card: Disgraced Captain
+- faq:
+    - q: >-
+        Se sono un Cittadino, posso usare questa carta per svolgere l'azione
+        Campagna contro il Cancelliere o un altro Cittadino?
+      a: >-
+        Si! Puoi sempre utilizzarla per dare inizio alla campagna, anche se poi
+        perdi l'accesso a questa carta una volta che la campagna è iniziata.
+    - q: >-
+        Aggiungo le milizie presenti nel territorio anche se sono un Cittadino e
+        attacco un altro Cittadino o il Cancelliere?
+      a: >-
+        Si. Non vengono aggiunte all'esercito del difensore e tu non sei
+        obbligato a dichiarare come bersaglio quel territorio.
+  card: Captains
+- faq:
+    - q: >-
+        Se sono un Cittadino, devo ottenere il permesso del Cancelliere per
+        spostare le milizie (Legge: 6.5)?
+      a: "No, quesa carta è un'eccezione a quella regola!"
+  card: Warning Signals
+- faq:
+    - q: Quanti scambi consente questa carta?
+      a: Tanti quanti vogliono i giocatori.
+    - q: >-
+        Per ordine di turno si intende partendo dal giocatore attivo o dal
+        Cancelliere?
+      a: Dal Cancelliere.
+    - q: >-
+        Le Pedine che partecipano all'Adunanza, ritornano al territorio da cui
+        provengono una volta terminati gli scambi?
+      a: No!
+  card: The Gathering
+- faq:
+    - q: Posso invertire Mandria con una carta bloccata?
+      a: 'No. Una carta bloccata non può essere scartata, spostata o invertita.'
+  card: Great Herd
+- faq:
+    - q: >-
+        Questa carta ha effetto anche sui piani di battaglia dei giocatori che
+        non sono coinvolti nella campagna?
+      a: >-
+        No. Per PER TUO NEMICO si intende coloro che sono coinvolti nella
+        campagna.
+  card: Insect Swarm
+- faq:
+    - q: >-
+        Se sono un Cittadino e il Cancelliere possiede il Segreto più Oscuro,
+        attivo anche io questo potere?
+      a: 'Si! (Legge: 5.5.3).'
+  card: Fire Talkers
+- faq:
+    - q: Perché dovrei eliminare una delle mie milizie?
+      a: Per aggiornare più Scorte durante la tua Fase Riposo.
+  card: Wolves
+- faq:
+    - q: >-
+        Ogni Cittadino deve posizionare i favori considerando tutte le carte
+        presenti nei territori Imperiali?
+      a: Si. Sia i Cittadini che il Cancelliere controllano quei territori.
+  card: Dissent
+- faq:
+    - q: >-
+        Se la riserva del difensore ha meno di 4 dadi nel momento in cui attivo
+        questo potere, e poi il difensore aggiunge dadi alla sua riserva
+        utilizzando i propri piani di battaglia, ottengo comunque i 2 dadi
+        attacco aggiuntivi?
+      a: >-
+        No. Il conteggio dei dadi avviene nel momento in cui attivi questo
+        potere.
+    - q: Ignoro i teschi anche se non ottengo i dadi aggiuntivi?
+      a: Si!
+  card: Rangers
+- faq:
+    - q: 'Combinata con Funghi, Presagio mi consente di pescare due carte?'
+      a: Si. Suppongo che tu sappia dove trovare la roba di qualità.
+  card: Augury
+- faq:
+    - q: >-
+        In quale caso posso attivare il potere di questa carta quando sto
+        viaggiando verso il suo territorio?
+      a: Se controlli il territorio.
+    - q: >-
+        Devo comunque pagare per la carta Pedaggio se sto attivando questo
+        potere?
+      a: Si. Anche se devo ammettere che è poco tematico.
+  card: Portal
+- faq:
+    - q: ' Posso eliminare una milizia in un territorio e una in un altro? Oppure eliminarne una in un territorio e una dalla plancia?'
+      a: ' Si, puoi scegliere la combinazione che preferisci.'
+  card: Terror Spells
+- faq:
+    - q: >-
+        Come si combina questa carta con l'effetto di Incauto del Reliquiario
+        Imperiale?
+      a: Non ottieni comunque il favore dall'effetto di Incauto.
+  card: Vow of Poverty
+- faq:
+    - q: Cosa si intende per ALTRI SIMBOLI?
+      a: >-
+        Tutti i simboli che non siano Arcano, che è il simbolo di Clan di
+        Guerrieri.
+  card: Kindred Warriors
+- faq:
+    - q: >-
+        Comprende anche le carte scartate per effetto del Favore del Popolo o di
+        carte come Bagliore?
+      a: >-
+        Comprende tutte le carte scartate durante l'azione Ricerca, include,
+        quindi, il Favore del Popolo, ma non carte come Bagliore.
+  card: Bracken
+- faq:
+    - q: "Se sono il Cancelliere, i Cittadini possono svolgere l'azione Campagna?"
+      a: Si! Sono Alleati come difensori solo durante una campagna in corso.
+  card: Vow of Peace
+- faq:
+    - q: >-
+        Aspetta un attimo, posso concludere un accordo con un Esule se sono un
+        Cittadino?
+      a: >-
+        Certo che puoi. Non è necessario il permesso del Cancelliere e tu prendi
+        le milizie.
+    - q: >-
+        Se ottengo territori come Cittadino, posso consentire al Cancelliere di
+        posizionare le milizie?
+      a: No. Considera il termine PLANCIA come se fosse LA TUA PLANCIA.
+    - q: >-
+        Un Cittadino e il Cancelliere possono scambiarsi dei territori per
+        spostare le milizie?
+      a: >-
+        No. Non potete darvi l'un l'altro questi territori, dato che entrambi li
+        state già controllando.
+    - q: Quante milizie esattamente deve posizionare il nuovo controllore?
+      a: >-
+        Quante vuole, ma non nessuna, a meno che non possegga la Corona del
+        Bandito.
+    - q: >-
+        Un territorio può essere scambiato se la persona che lo riceve non ha
+        milizie per controllarlo?
+      a: >-
+        No, a meno che non possa controllarlo perché possiede la Corona del
+        Bandito.
+  card: Deed Writer
+- faq:
+    - q: I banditi possono utilizzare questa carta?
+      a: >-
+        Se devono scartare una o più carte Nomade, scartano la prima carta
+        Bestia che controllano, partendo dal primo spazio più in alto del Fulcro
+        fino ad arrivare a quello più in basso delle Terre Selvagge.
+  card: Wild Mounts
+- faq:
+    - q: Il risultato totale include i teschi che ho tirato?
+      a: Si!
+  card: Lancers
+- faq:
+    - q: Devo scartare la carta se scelgo +/-1 dadi attacco?
+      a: 'No, solo se scegli +/-3.'
+  card: Mountain Giant
+- faq:
+    - q: Questo potere sposta l'indicatore sul tracciato delle Visioni Pescate?
+      a: Si.
+    - q: Dove rimetto le altre carte del mazzo del mondo che ho guardato?
+      a: Rimettile nel mazzo del mondo mantenendo lo stesso ordine
+    - q: >-
+        Se scarto la Visione, posso attivare il potere del Corno Crepato per
+        rimetterla sul fondo del mazzo del mondo?
+      a: Si!
+    - q: Posso giocare la Visione a faccia in giù fra i miei consiglieri?
+      a: Si!
+    - q: >-
+        Posso giocare questa carta se mi trovo in un territorio con Lavori
+        Forzati e non possiedo favori per pagare?
+      a: >-
+        No e questo mi rattrista molto, ma il testo sulla carta è proprio come
+        quello dell'azione secondaria per giocare a faccia in su un consigliere
+        a faccia in giù, quindi è così che deve andare.
+  card: Oracle
+- faq:
+    - q: >-
+        Se sono un Cittadino e il Cancelliere viene attaccato, il potere di
+        Armatura Lucente si applica?
+      a: Solo se ti unisci come Alleato.
+    - q: >-
+        Se sono un Esule, posso attivare il potere di questa carta per aiutare
+        altri Esuli che sono stati attaccati?
+      a: No!
+  card: Gleaming Armor
+- faq:
+    - q: >-
+        Anche il segreto aggiuntivo della carta Armatura Lucente è considerato
+        un costo?
+      a: Si.
+    - q: >-
+        L'effetto di questo potere comprende anche i poteri dei territori
+        Gigante Sepolto e Rovine Nascoste?
+      a: Si.
+    - q: >-
+        L'effetto di questo potere impedisce anche che la Congiura venga usata
+        contro di me?
+      a: Si. Il potere della Congiura ha un costo in segreti bruciati.
+    - q: >-
+        L'effetto di questo potere impedisce anche l'azione reclutamento dalla
+        carta Rito di Iniziazione?
+      a: No! Reclutamento non è un potere.
+  card: Spell Breaker
+- faq:
+    - q: In quale preciso momento ottengo il favore?
+      a: >-
+        Immediatamente dopo aver risolto il testo della relativa regola (Legge:
+        5.1.4). Ad esempio, il giocatore ottiene prima i favori per aver giocato
+        in un territorio, ma risolve i poteri Appena Giocata (Legge: 7.3.3) dopo
+        Sellaio.
+  card: Saddle Makers
+- faq:
+    - q: Grande Crociata è compresa nel numero di carte Nomade che controllo?
+      a: Si.
+  card: Great Crusade
+- faq:
+    - q: Cosa comporta per le reliquie essere bloccate?
+      a: >-
+        Non è possibile interagirci e non possono essere recuperate o scartate.
+        Sono bloccate nel territorio, eccetto per il controllore di Antico
+        Lignaggio.
+  card: Ancient Bloodline
+- faq:
+    - q: >-
+        Se sono un Cittadino devo chiedere il permesso al Cancelliere (Legge:
+        6.5)?
+      a: No. È un modo per eludere la regola.
+  card: Messenger
+- faq:
+    - q: Vengono bruciati anche i segreti posizionati sul Segreto più Oscuro?
+      a: No.
+  card: Ancient Binding
+- faq:
+    - q: >-
+        Il potere di questa carta dimezza i dadi attacco prima o dopo aver usato
+        gli altri piani di battaglia?
+      a: >-
+        Modifica il numero di dadi che l'attaccante tira, quindi dimezza il
+        numero finale di dadi dopo che è già stato modificato dai piani di
+        battaglia.
+  card: Mounted Patrol
+- faq:
+    - q: >-
+        Il segreto che pago per attivare il potere della carta si sposta insieme
+        alla carta stessa?
+      a: 'Si, ma lo sposterai comunque sulla tua plancia nella Fase Riposo.'
+    - q: Posso giocare questa carta anche se possiedo già tre consiglieri?
+      a: >-
+        Si, perché ignora il limite di consiglieri. Nota bene però che non
+        riduce il numero di totale di consiglieri che possiedi.
+    - q: >-
+        Se possiedo tre consiglieri, compresa questa carta, posso giocare e
+        tenere un quarto consigliere?
+      a: >-
+        No. Solo Pifferaio Magico ignora il limite di consiglieri, quindi non ti
+        costringe a scartare una carta quando lo giochi, ma conta comunque nel
+        numero totale di consiglieri.
+  card: Pied Piper
+- faq:
+    - q: >-
+        Il potere di questa carta si combina con poteri come quelli della carta
+        Presagio o il modificatore di Avaro sul Reliquiario Imperiale?
+      a: Si!
+  card: Mushrooms
+- faq:
+    - q: >-
+        Vale anche per i dadi aggiunti da altre fonti come i piani di battaglia
+        o il titolo di Custode?
+      a: >-
+        No, Pitone Gigante si riferisce in modo specifico solo ai bersagli
+        dichiarati, e il titolo di Custode e i piani di battaglia non lo sono.
+    - q: Come si combina Pitone Gigante con Mura in Espansione?
+      a: >-
+        I territori in questo caso aggiungono due dadi ognuno ed è quindi
+        possibile dichiarare come bersaglio il territorio da solo. Non è
+        possibile, però, dichiarare come bersaglio un territorio e una reliquia,
+        perché quest'ultima aggiunge un dado difesa e il totale dei dadi difesa,
+        a quel punto, sarebbe di 3.
+    - q: >-
+        Se sono un Imperiale e un Alleato Imperiale possiede questa carta, il
+        potere ha effetto?
+      a: >-
+        Se è il Cancelliere a possedere la carta si, perché è sempre un Alleato.
+        Se invece è un Cittadino a possederla no, perché i bersagli sono già
+        stati dichiarati.
+  card: Giant Python
+- faq:
+    - q: >-
+        Se sto attaccando l'Impero e utilizzo questa carta, gli Alleati
+        Imperiali possono usare piani di battaglia?
+      a: >-
+        No. In questa situazione considera come DIFENSORE l'intera parte che sta
+        difendendo.
+  card: Specialist
+- faq:
+    - q: >-
+        Cosa succede se inverto questa carta con il Pifferaio Magico e l'altro
+        giocatore ha già quattro consiglieri?
+      a: >-
+        L'altro giocatore deve scartare una carta dai suoi consiglieri, ma non
+        può scartare Incantatrice.
+  card: Enchantress
+- faq:
+    - q: >-
+        Posso prendere l'ultimo segreto di un giocatore? Molte carte non lo
+        permettono.
+      a: Si! Dopotutto stai dando favori in cambio.
+    - q: >-
+        Posso attivare il potere allo stesso tempo su più giocatori presenti nel
+        mio territorio?
+      a: Si!
+    - q: Come funziona Patto con la Strega se possiedo Voto di Silenzio?
+      a: >-
+        Non puoi usarla per dare i tuoi segreti, ma puoi dare favori per
+        prendere segreti.
+  card: Witch's Bargain
+- faq:
+    - q: Devo modificare il risultato prima o dopo aver tirato il dado?
+      a: 'Dopo, anche se dubito che possa mai avere importanza.'
+    - q: Cosa succede se tiro un 6 e aumento il tiro?
+      a: La partita termina comunque.
+  card: Squalid District
+- faq:
+    - q: >-
+        Posso applicare i modificatori dell'azione Commercio dei consiglieri
+        dell'altro giocatore? Ad esempio quelli di carte come Matrimonio e
+        Segnale Segreto?
+      a: Si!
+    - q: >-
+        Prima di attivare il potere di Trasformista, posso applicare i
+        modificatori dell'azione Commercio dei miei altri consiglieri?
+      a: >-
+        No, devi rimpiazzare tutti i tuoi consiglieri con quelli di un altro
+        giocatore per l'attuale azione Commercio.
+    - q: >-
+        Posso attivare questo potere per eludere Voto di Povertà e Voto di
+        Fratellanza?
+      a: 'Si. Proprio un voto sincero, vero?'
+  card: Master of Disguise
+- faq:
+    - q: >-
+        Posso attaccare un giocatore che non controlla il mio territorio e la
+        cui pedina non si trova nel mio territorio?
+      a: >-
+        No. Devi seguire le normali regole per la campagna quando dichiari un
+        difensore.
+    - q: 'In quale momento, di preciso, posso svolgere la campagna?'
+      a: >-
+        Immediatamente dopo che il giocatore che l'aveva iniziata, termina la
+        sua.
+    - q: >-
+        Posso attivare questo potere se l'attaccante ha attivato quello di Nuova
+        Energia?
+      a: 'Si, prima risolvi Attacco Furtivo, poi Nuova Energia.'
+  card: Sneak Attack
+- faq:
+    - q: >-
+        Il potere di questa carta si attiva se gioco a faccia in su un
+        consigliere a faccia in giù?
+      a: 'Si! Come spiegato nella Legge, i modificatori si applicano (Legge: 6.1).'
+    - q: >-
+        Devo pagare per Lavori Forzati quando gioco una carta a faccia in giù, e
+        nuovamente quando la gioco a faccia in su?
+      a: Si! La schiavitù non è piacevole.
+  card: Forced Labor
+- faq:
+    - q: >-
+        Carte come Tasse Imperiali prendono i favori dalla riserva Nomadi in
+        questo caso?
+      a: >-
+        No. Puoi usare i favori dalla riserva Nomadi, ma i favori non sono
+        realmente sulla tua plancia.
+    - q: >-
+        Se possiedo il Favore del Popolo con un solo favore, il suo potere
+        Risveglio mi obbliga a prendere dalla riserva Nomadi?
+      a: >-
+        No. Puoi usare i favori presenti nella riserva Nomadi come se fossero
+        sulla tua plancia, ma non sei obbligato a farlo.
+  card: Vow of Kinship
+- faq:
+    - q: 'Se possiedo già una Visione a faccia in su, sono obbligato a scartarla?'
+      a: No! Semplicemente non puoi giocarne di nuove.
+    - q: Posso giocare la Congiura se ho questa carta?
+      a: No! La Congiura è una Visione.
+  card: Vow of Obedience
+- faq:
+    - q: >-
+        Cosa faccio se pesco una sola carta, ma non posso giocarla a faccia in
+        su?
+      a: 'Scartala, come da regolamento.'
+    - q: Su chi ha effetto Diceria se sono i banditi a controllarla?
+      a: Tutti i giocatori!
+    - q: >-
+        Questa carta obbliga i nemici a girare a faccia in su i loro attuali
+        consiglieri a faccia in giù?
+      a: No. Tutti i consiglieri attualmente a faccia in giù rimangono così.
+    - q: >-
+        Questa carta influenza il lato sul quale si trovano i consiglieri
+        durante la preparazione?
+      a: No.
+  card: Gossip
+- faq:
+    - q: >-
+        Se qualcuno recupera una reliquia da un territorio che ha come costo
+        bruciare un favore, posso prenderlo io? E nel caso fossi io a
+        recuperarla?
+      a: 'Si, in entrambi i casi prendi il favore.'
+  card: Vow of Renewal
+- faq:
+    - q: 'Esattamente, quando devo pagare il costo per attivare questo potere?'
+      a: >-
+        Quando decidi di usarla, immediatamente dopo che un giocatore ha preso
+        una reliquia e si trova nella tua regione.
+    - q: >-
+        Posso attivare questo potere su un giocatore che ha appena preso una
+        reliquia da me durante una campagna?
+      a: Si! Piuttosto subdolo vero?
+    - q: >-
+        Posso usare questa carta per prendere una reliquia che mi è stata data
+        durante uno scambio o quando mi viene offerta la Cittadinanza?
+      a: >-
+        No. Precisamente, questi sono casi in cui una reliquia viene data e non
+        presa.
+    - q: >-
+        In quale momento il titolo di Custode cambia possessore se una reliquia
+        viene presa e poi presa nuovamente con Ladro di Reliquie?
+      a: >-
+        Controllate chi ha la maggioranza di reliquie in ogni momento in cui le
+        reliquie cambiano possessore, non dopo che i vari giocatori hanno
+        eseguito l'intero processo di prendere le reliquie.
+    - q: >-
+        Devo calcolare il risultato del tiro nel suo complesso o un dado alla
+        volta?
+      a: >-
+        Nel suo complesso. È meno probabile avere successo nel tiro se ci sono
+        più reliquie, ma in quel caso le otterresti tutte.
+  card: Relic Thief
+- faq:
+    - q: Come si combina con Bosco Spettrale?
+      a: >-
+        Devi scegliere se utilizzare Tende all'inizio della tua azione. Se il
+        controllore di Bosco Spettrale ti obbliga a viaggiare in un'altra
+        regione, il potere di Tende non si attiva.
+  card: Tents
+- faq:
+    - q: >-
+        Posso essere obbligato a viaggiare nel territorio in cui si trova
+        Pedaggio?
+      a: Solo se scegli di pagare il favore di Pedaggio o se non devi farlo.
+    - q: Devo pagare i banditi quando viaggio in un territorio a faccia in giù?
+      a: 'No, dato che nessuno controlla i territori a faccia in giù.'
+  card: Toll Roads
+- faq:
+    - q: >-
+        Se i banditi controllano Codice d'Onore insieme ad altri piani di
+        battaglia che possono utilizzare, quali piani di battaglia devono
+        utilizzare quando sono il difensore durante una campagna?
+      a: Devono utilizzare Codice d'Onore e basta.
+  card: Code of Honor
+- faq:
+    - q: >-
+        Posso attivare il potere di Portantina per posizionare la pedina in un
+        territorio con Pedaggio?
+      a: >-
+        Si, ma il giocatore la cui pedina si trova nel tuo territorio deve
+        scegliere di dare un favore al controllore di Pedaggio, a meno che non
+        sia lui stesso il controllore.
+    - q: >-
+        Chi decide dove posizionare le pedine se ci troviamo entrambi nel Bosco
+        Spettrale?
+      a: >-
+        Tu posizioni sempre la pedina nel territorio che scegli, fintanto che
+        l'altro giocatore può viaggiare lì. Se controlli Bosco Spettrale, sei tu
+        a scegliere la sua destinazione, che potrebbe essere diversa dal
+        territorio dove hai posizionato la tua pedina. Se è l'altro giocatore a
+        controllare il Bosco Spettrale, viaggia nel tuo stesso territorio. Se un
+        terzo giocatore controlla il Bosco Spettrale, spetta a quel giocatore
+        decidere dove viaggiate.
+  card: Palanquin
+- faq:
+    - q: >-
+        Posso dichiarare come bersaglio una reliquia che si trova in un
+        territorio che controllo già?
+      a: 'No, devi dichiarare come bersaglio anche il territorio.'
+  card: Relic Hunter
+- faq:
+    - q: >-
+        Cosa succede se il mio nemico possiede più consiglieri dello stesso
+        simbolo?
+      a: >-
+        Prendi un favore per ogni consigliere di quel simbolo. Ad esempio, se ha
+        due consiglieri Focolare, prendi due favori dalla corrispondente riserva
+        dei favori.
+    - q: Cosa succede se i banditi controllano questa carta e sono vittoriosi?
+      a: Bruciate i favori ottenuti.
+  card: Military Parade
+- faq:
+    - q: >-
+        Questa carta mi permette anche di ignorare i poteri di carte (come
+        Pedaggio) che si trovano nel territorio in cui sto viaggiando?
+      a: >-
+        No, solo il potere del territorio stesso, come quello di Valico di
+        Confine ad esempio.
+    - q: >-
+        Cosa succede se utilizzo questa carta quando viaggio dal Bosco Spettrale
+        e quest'ultimo è controllato da un mio nemico?
+      a: >-
+        Se il nemico sceglie di farti viaggiare in un territorio con una carta
+        Bestia, non devi consumare Scorte. Se hai meno di 2 Scorte, il nemico
+        può impedire la tua azione Viaggio, o permetterti di viaggiare in un
+        territorio con una carta Bestia senza consumare Scorte.
+  card: Forest Paths
+- faq:
+    - q: >-
+        Posso applicare i modificatori dell'azione Commercio nel territorio dove
+        si trova fisicamente la mia pedina, oltre al territorio in cui sto
+        commerciando, come se la mia pedina si trovasse lì?
+      a: No! Solo nel nuovo territorio.
+  card: Small Friends
+- faq:
+    - q: >-
+        Posso considerare gli altri simboli anche al di fuori dell'azione
+        Commercio?
+      a: >-
+        No! È un modificatore relativo solo all'azione Commercio. Questa carta è
+        un pochino più bizzarra delle altre.
+  card: Acting Troupe
+- faq:
+    - q: >-
+        Per quanto riguarda la tessera obiettivo Custode della Difesa: ottengo
+        il titolo di Custode se possiedo più reliquie prima di rimetterne una
+        nel mazzo?
+      a: >-
+        No. Devi contare il numero di reliquie dopo aver completato questa
+        azione.
+  card: Fae Merchant
+- faq:
+    - q: >-
+        Se non ci sono milizie nel territorio verso cui sto viaggiando, devo
+        eliminare una milizia sulla mia plancia?
+      a: No. È una milizia nel territorio.
+    - q: >-
+        Posso comunque viaggiare verso un territorio anche se non ci sono
+        milizie presenti?
+      a: 'Si. È quello che si intende con SE PUOI (Legge: 9.2)'
+    - q: >-
+        Se viaggio verso un territorio in cui è presente solo una delle mie
+        milizie, devo eliminarla? Dimmi di no!
+      a: Mi dispiace ma devi eliminarla!
+  card: Tyrant
+- faq:
+    - q: >-
+        La restrizione A MENO CHE IL TUO NEMICO NON ABBIA IL FAVORE DEL POPOLO
+        si applica sia ai teschi sia ai dadi attacco?
+      a: >-
+        Si, tutto il potere non si attiva se il tuo nemico possiede il Favore
+        del Popolo.
+  card: The Great Levy
+- faq:
+    - q: Posso prendere il favore aggiuntivo da una diversa riserva condivisa?
+      a: 'No, come al solito deve provenire dalla stessa riserva condivisa.'
+  card: Secret Signal
+- faq:
+    - q: Cosa si intende per ALTRE CARTE?
+      a: >-
+        Se Discordia dovesse essere il simbolo più ricorrente, non scartare
+        Rivolta.
+    - q: >-
+        Quali carte rientrano nel conteggio per il simbolo più ricorrente e
+        quali vanno scartate di preciso?
+      a: >-
+        Conta e scarta tutte le carte presenti su ogni territorio. Non contare o
+        scartare i Consiglieri.
+  card: Riots
+- faq:
+    - q: >-
+        Se sto attaccando un giocatore che ha degli Alleati Imperiali, devo dare
+        un favore a ognuno di loro?
+      a: No. Dai il favore solo al giocatore che stai attaccando.
+    - q: Sono vittorioso anche se non ho favori da dare?
+      a: >-
+        No. Considera il favore che stai dando come parte del costo per attivare
+        il potere.
+    - q: >-
+        Posso utilizzare questa carta quando attacco la sua pedina e i favori,
+        bruciando così i favori che dovrei dare a quel giocatore?
+      a: Si. Sei una persona orribile e lo adoro.
+  card: Peace Envoy
+- faq:
+    - q: Il potere include anche la Congiura?
+      a: Certo!
+  card: Book Binders
+- faq:
+    - q: >-
+        Se sulla plancia del mio nemico ci sono segreti a faccia in giù, deve
+        bruciarli seguendo un ordine particolare?
+      a: >-
+        No. Li brucia tutti eccetto uno, non importa se sono a faccia in su o a
+        faccia in giù.
+  card: Book Burning
+- faq:
+    - q: Come si combina con Pifferaio Magico?
+      a: >-
+        Se vuoi giocare Carro di Famiglia e possiedi già tre consiglieri, devi
+        scartarne uno, persino se uno dei consiglieri è Pifferaio Magico.
+        Invece, se giochi Pifferaio Magico dopo Carro di Famiglia, non devi
+        scartare un consigliere.
+    - q: >-
+        Cosa succede se gioco questa carta fra i miei consiglieri e posseggo già
+        tre consiglieri Nomadi?
+      a: >-
+        Sfortunatamente, prima devi scartare uno dei consiglieri Nomade, perché
+        il potere di Carro di Famiglia si attiva dopo aver controllato il tuo
+        limite di consiglieri.
+  card: Family Wagon
+- faq:
+    - q: Cosa succede se non possiedo nessuna Milizia?
+      a: Nessun problema. La elimini solo se ne hai almeno una sulla tua plancia.
+    - q: >-
+        Posso essere obbligato a viaggiare da un territorio su cui ha effetto
+        questa carta, perdendo di conseguenza una milizia?
+      a: Si!
+  card: Grasping Vines
+- faq:
+    - q: >-
+        Se sto attaccando un giocatore che ha Alleati Imperiali, devo dare un
+        favore a ognuno di loro?
+      a: No. Dai il favore solo al giocatore che stai attaccando.
+  card: Sticky Fire
+- faq:
+    - q: Come si combina questa carta con Ospedale?
+      a: >-
+        Le milizie eliminate vengono posizionate nel territorio dell'Ospedale,
+        fino a quando il giocatore lo controlla. Poi tutte le milizie non
+        eliminate nell'esercito di quel giocatore vengono posizionate su Gabbia
+        di Ossidiana.
+    - q: >-
+        Cosa succede alle milizie posizionate su questa carta, se viene rimessa
+        nel mazzo delle reliquie?
+      a: >-
+        Il giocatore che la possiede deve spostare tutte le milizie seguendo le
+        indicazioni del potere Azione della carta.
+    - q: >-
+        Cosa succede alle milizie di un Esule se quest'ultimo diventa un
+        Cittadino?
+      a: >-
+        Mentre sono su Gabbia di Ossidiana, rimangono dello stesso colore. Se
+        devono essere spostate ritornano a quell'Esule e diventano milizie
+        viola.
+  card: Obsidian Cage
+- faq:
+    - q: Come si combina questa carta con Ospedale?
+      a: >-
+        Ospedale evita che le milizie siano eliminate, quindi non ottieni quelle
+        milizie.
+    - q: >-
+        Se sono un Cittadino e svolgo l'azione Campagna contro il Cancelliere o
+        un altro Cittadino, di quale colore saranno le milizie che ottengo?
+      a: Ottieni comunque milizie viola.
+  card: Cursed Cauldron
+- faq:
+    - q: >-
+        Posso attivare il potere di questa carta anche se il Segreto più Oscuro
+        è ancora nella riserva condivisa?
+      a: >-
+        Si, e quando un giocatore lo recupera, i segreti in eccesso vanno
+        rimessi nella riserva condivisa (che è considerata il precedente
+        possessore).
+  card: Storyteller
+- faq:
+    - q: >-
+        Posso attivare il potere di questa carta per posizionare un segreto sul
+        Segreto più Oscuro se è ancora nella riserva condivisa?
+      a: >-
+        Si, e tutti i segreti in eccesso vanno rimessi nella riserva condivisa
+        quando un giocatore lo recupera.
+  card: Forgotten Vault
+- faq:
+    - q: >-
+        Se i banditi controllano questa carta, è possibile recuperare il Segreto
+        più Oscuro?
+      a: >-
+        No, come specificato nel glossario, i banditi considerano tutti gli
+        altri giocatori come nemici.
+  card: Tome Guardians
+- faq:
+    - q: >-
+        Posso attivare questo potere se la pila degli scarti della mia regione è
+        vuota?
+      a: No! Devi rivelare una carta.
+    - q: >-
+        Cosa succede se rivelo una Visione come prima carta della pila degli
+        scarti?
+      a: >-
+        Non corrisponde a nessun simbolo, quindi non puoi viaggiare in nessun
+        territorio. Congratulazioni!
+    - q: Dove va posizionata la carta dopo averla rivelata?
+      a: 'Semplicemente, rimettila nella pila degli scarti a faccia in giù.'
+    - q: >-
+        Cosa succede se attivo questo potere per viaggiare dal Bosco Spettrale,
+        ma un nemico lo controlla?
+      a: >-
+        Il controllore sceglie in quale territorio farti viaggiare, fra quelli
+        consentiti da Cavallo d'Ottone.
+    - q: >-
+        Cosa succede se l'unico territorio col simbolo corrispondente è quello
+        su cui si trova la mia pedina?
+      a: >-
+        Puoi viaggiare verso qualsiasi altro territorio, dato che per svolgere
+        l'azione Viaggio ti devi spostare da quello in cui ti trovi attualmente.
+  card: Brass Horse
+- faq:
+    - q: >-
+        Se mi trovo nelle Rovine Nascoste, posso obbligare l'altro giocatore a
+        girare a faccia in giù un segreto per farlo viaggiare dove mi trovo?
+      a: >-
+        No. Deve accettare di girarlo a faccia in giù. Non hai potere sulle sue
+        risorse
+    - q: >-
+        Se il Valico di Confine si trova nella mia regione e l'altro giocatore è
+        in una diversa, Fischietto funziona?
+      a: >-
+        No. Non può viaggiare verso di te, a meno che tu non sia nel Valico di
+        Confine.
+    - q: >-
+        Se possiedo Voto di Silenzio, devo comunque dare il segreto all'altro
+        giocatore?
+      a: No. Aspettati che Fischietto ti venga rubata da un momento all'altro!
+    - q: L'altro giocatore ottiene il segreto a faccia in su o in giù?
+      a: A faccia in su.
+  card: Whistle
+- faq:
+    - q: Quali casi copre questa carta?
+      a: >-
+        Tutti! Puoi svolgere l'azione campagna contro i territori, ma non puoi
+        posizionarci sopra le milizie. Non puoi spostare milizie dalla tua
+        plancia svolgendo un'azione secondaria (Legge: 6.5). Non puoi utilizzare
+        Segnali di Fumo per spostare milizie, e così via.
+  card: Ring of Devotion
+- faq:
+    - q: >-
+        Posso utilizzare questa carta per rimuovere o sacrificare la mia ultima
+        milizia presente in un territorio?
+      a: >-
+        Si puoi. Questa carta elude la relativa regola presente fra le azioni
+        secondarie (Legge: 6.5).
+    - q: >-
+        Posso decidere di non aggiungere le milizie presenti nei miei territori,
+        al mio esercito?
+      a: 'No, come per gli altri voti, sei obbligato.'
+    - q: >-
+        Il potere di questa carta mi consente di ridistribuire le milizie dal
+        mio esercito ai territori che controllo?
+      a: >-
+        No. Puoi decidere da dove rimuoverle, ma non puoi ridistribuirle a tuo
+        piacimento (Legge: 5.5.7.I).
+    - q: >-
+        Posso essere obbligato da un altro giocatore a viaggiare se possiedo
+        questa carta?
+      a: >-
+        No! Per esempio, espellere la tua pedina brucerebbe solo metà dei
+        favori, senza però effettivamente spostarla.
+    - q: 'Come funziona se possiedo la Corona del Bandito? '
+      a: >-
+        Aggiungi le milizie dei banditi al tuo esercito. Non puoi però eliminare
+        o sacrificare le milizie dei banditi, ma solo le tue milizie fisiche.
+        Aspettati che la Corona del Bandito ti venga rubata da un momento
+        all'altro!
+    - q: >-
+        Se sono un Cittadino e sto attaccando un altro Cittadino o il
+        Cancelliere, devo aggiungere le milizie viola presenti nel territorio al
+        mio esercito?
+      a: >-
+        Si. Inoltre quelle stesse milizie non vengono aggiunte a nessun esercito
+        difensore. Spero proprio che il Cancelliere sia pronto a cacciarti
+        dall'Impero!
+  card: Vow of Union
+- faq:
+    - q: Come funziona Voci di Silenzio se possiedo Patto con la Strega?
+      a: >-
+        Non puoi utilizzarla per dare i tuoi segreti, ma gli altri giocatori
+        possono comunque prenderli. Dare e prendere sono due diverse parole
+        chiave, vedi glossario.
+  card: Vow of Silence
+- faq:
+    - q: Posso utilizzare questa carta insieme al Favore del Popolo?
+      a: Certo!
+  card: Crop Rotation
+- faq:
+    - q: Posso giocare questa carta se ho già due consiglieri bloccati?
+      a: >-
+        No. Devi essere in grado di soddisfare le condizioni del tuo limite di
+        consiglieri e in questi caso non potresti.
+  card: Insomnia
+- faq:
+    - q: Posso giocare questa carta se ho già due consiglieri bloccati?
+      a: >-
+        No. Devi essere in grado di soddisfare le condizioni del tuo limite di
+        consiglieri e in questo caso non potresti.
+  card: Silver Tongue
+- faq:
+    - q: Posso giocare questa carta se ho già due consiglieri bloccati?
+      a: >-
+        No. Devi essere in grado di soddisfare le condizioni del tuo limite di
+        consiglieri e in questo caso non potresti.
+  card: Assassin
+- faq:
+    - q: Posso essere obbligato a viaggiare in questo territorio?
+      a: Solo se decidi di girare un segreto a faccia in giù.
+    - q: >-
+        Se viaggio in questo territorio, devo comunque girare un segreto a
+        faccia in giù se dichiaro dei bersagli in questo territorio (durante una
+        campagna)?
+      a: >-
+        Si! Quindi, se viaggi in questo territorio e poi dichiari come bersaglio
+        il territorio e la pedina che si trova qui, devi girare a faccia in giù
+        due segreti.
+  card: The Hidden Place
+- faq:
+    - q: >-
+        Posso decidere di non bruciare un segreto e rimettere solo la carta
+        nella scatola?
+      a: Si! Il testo specifica PUOI….
+  card: Conspiracy
+- faq:
+    - q: >-
+        Se scarto una carta con sopra un favore, il favore ritorna alla riserva
+        corrispondente in tempo per essere ottenuto attivando questo potere?
+      a: Si!
+  card: Taming Charm
+- faq:
+    - q: >-
+        Questa carta mi consente di continuare a pescare anche se pesco una
+        Visione dal mazzo del mondo?
+      a: No. Devi comunque fermarti se ne peschi una.
+  card: Truthful Harp
+- faq:
+    - q: 'Se possiedo Arpa della Verità, quali carte devo rivelare?'
+      a: >-
+        Le carte che peschi dal mazzo o dalla pila degli scarti, e la carta che
+        decidi di tenere, ma non le carte dagli Emarginati che hai invertito ma
+        non hai tenuto.
+  card: Great Spire
+- faq:
+    - q: Il Cancelliere può usare questa carta?
+      a: >-
+        Si! E gli altri giocatori dovrebbero seriamente pensare di portargliela
+        via.
+  card: Skeleton Key
+- faq:
+    - q: >-
+        Questa carta ha effetto anche sui territori vuoti, controllati dai
+        banditi?
+      a: Si!
+  card: Key to the City
+- faq:
+    - q: Ottengo una milizia anche se un altro giocatore mi obbliga a viaggiare?
+      a: Si!
+  card: Dragonskin Drum
+- faq:
+    - q: >-
+        Posso attivare questo potere per ritirare la stessa riserva di dadi più
+        di una volta?
+      a: >-
+        No, UNA VOLTA indica proprio che i dadi non possono essere ritirati
+        svariate volte.
+    - q: >-
+        Devo pagare il costo di attivazione del potere della carta prima o dopo
+        aver tirato?
+      a: Dopo.
+    - q: >-
+        Posso attivare il potere di Malasorte per ritirare i dadi quando si
+        attivano i poteri di carte come Ladro di Reliquie e Bisca?
+      a: >-
+        Si! Malasorte è formulata in modo piuttosto strano, lo puoi fare perché
+        non è un piano di battaglia, invece il suo potere è permanente.
+  card: Jinx
+- faq:
+    - q: >-
+        Posso attivare questo potere per eludere il potere del Bosco Spettrale
+        se il Cancelliere lo controlla?
+      a: >-
+        Sfortunatamente, no. Controlli unicamente le carte presenti nei
+        territori, non i territori stessi.
+  card: Grand Mask
+- faq:
+    - q: >-
+        Posso usare lo Scettro Imperiale nello stesso turno in cui l'ho ottenuto
+        se mi è stato dato in uno scambio?
+      a: >-
+        Si! Prendere e Dare sono due precise parole chiave, in questo caso è
+        come se il potere di venisse liberamente donato invece di averlo
+        conquistato.
+  card: The Grand Scepter
+- faq:
+    - q: Come si combina questa carta con Vallata Fertile?
+      a: >-
+        Se giochi una carta Focolare nella Vallata Fertile, ottieni un segreto
+        (per averla giocata in un territorio) e un favore (per averla giocata
+        nella Vallata Fertile).
+  card: Book of Records
+- faq:
+    - q: >-
+        Posso utilizzare Fanatici se dopo aver tirato dei teschi il mio esercito
+        diventa più piccolo di quello del difensore?
+      a: >-
+        No. Devi controllare se il tuo esercito è più piccolo di quello del
+        difensore nel momento in cui utilizzi il piano di battaglia.
+  card: Zealots
+- faq:
+    - q: >-
+        Quindi, in parole povere, se possiedo questa carta ottengo una milizia
+        aggiuntiva nei territori che controllo?
+      a: >-
+        Si! A conti fatti nei territori dove hai una milizia fisica è come se ne
+        avessi due, perché conti i banditi come milizie.
+    - q: >-
+        Se possiedo Corona del Bandito, posso prendere l'ultima milizia da un
+        mio territorio svolgendo un'azione secondaria (Legge: 6.5)? Allo stesso
+        modo, posso posizionare una milizia su un territorio in cui non ce n'è
+        nessuna?
+      a: >-
+        Si, puoi fare entrambe le cose! I Banditi in quel territorio contano
+        come tue milizie, di conseguenza non stai realmente prendendo l'ultima
+        dal territorio, e i territori vuoti li controlli.
+    - q: Cosa si intende esattamente per TUE MILIZIE?
+      a: >-
+        Se sei un Esule, quelle del tuo colore. Se sei il Cancelliere o un
+        Cittadino, quelle viola. Se invece sei un Cittadino e attacchi un
+        giocatore Imperiale, tornano a essere quelle del tuo colore per la
+        durata della campagna.
+    - q: >-
+        Se possiedo Corona del Bandito e divento un Cittadino o giro a faccia in
+        su dei territori a faccia in giù mentre sono un Cittadino, le milizie
+        viola vengono aggiunte ai territori vuoti?
+      a: >-
+        No. Lascia i territori vuoti, benché siano ancora controllati
+        dall'Impero.
+    - q: >-
+        Durante le Cronache, se sono vincitore, devo scartare i territori senza
+        milizie?
+      a: No! Perché li controlli.
+    - q: >-
+        Durante le Cronache, se sono vincitore come Cancelliere e un Cittadino
+        possiede Corona del Bandito, devo scartare i territori senza milizie?
+      a: >-
+        No, tu controlli anche quei territori. Le milizie del cittadino sono
+        viola e considera i banditi come sue milizie.
+    - q: >-
+        Durante le Cronache, se sono vincitore come Esule e un altro Esule che
+        possiede la Corona del Bandito accetta la mia offerta di cittadinanza,
+        cosa succede?
+      a: >-
+        Posizioni una milizia su tutti i territori che controlla, anche quelli
+        dove non ha milizie.
+  card: Bandit Crown
+- faq:
+    - q: >-
+        Questa carta impedisce che i territori vengano scartati anche se il
+        vincitore non li controlla?
+      a: >-
+        Si! Benché, più avanti durante le cronache verrà girato sul lato in
+        rovina.
+    - q: >-
+        Protegge i territori immediatamente dopo che è stato costruito o nella
+        Cronaca Successiva?
+      a: Li protegge immediatamente.
+    - q: >-
+        Se in un territorio ci sono sia una carta Bestia che un edificio, ma il
+        vincitore non lo controlla, Tempio Colossale impedisce che l'edificio
+        venga girato sul lato in rovina?
+      a: >-
+        No, Tempio Colossale evita unicamente che un territorio venga scartato,
+        non che un edificio cada in rovina per mancanza di controllo.
+  card: Forest Temple
+- faq:
+    - q: >-
+        Cosa si intende per PROMESSE DI AZIONI FUTURE? Nella stessa partita? In
+        quelle successive?
+      a: >-
+        Spetta al vostro gruppo decidere, è uno di quei casi che ricade
+        nell'ambito degli Accordi di Gruppo (Guida Rapida: p.31).
+  card: The Tribunal
+- faq:
+    - q: >-
+        Posso guardare le prime cinque carte prima di decidere quante
+        invertirne?
+      a: >-
+        No. Devi decidere quante ne vuoi invertire senza guardarle. È meglio che
+        tu sappia bene cosa c'è nel mazzo se ti vuoi sbarazzare proprio di certe
+        carte!
+  card: Fallen Spire
+- faq:
+    - q: >-
+        Se un altro giocatore mi obbliga a viaggiare dal Bosco Spettrale e sono
+        io che controllo questo territorio, spetta a me decidere dove andare?
+      a: >-
+        No il potere del Bosco Spettrale si attiva quando lo controlla un
+        nemico, non quando lo controlli tu.
+    - q: >-
+        Se un altro giocatore mi obbliga a viaggiare da questo territorio, ma il
+        territorio è controllato da un altro nemico ancora, spetta a
+        quest'ultimo decidere dove viaggio?
+      a: Si!
+    - q: >-
+        Se il Cancelliere è Decadente e viaggio da questo territorio a uno delle
+        Terre Selvagge, quante scorte devo consumare?
+      a: >-
+        Tre. Il costo base per l'azione Viaggio è due, e Decadente ne aggiunge
+        una.
+    - q: Come funziona questa carta se è controllata dal Principe Meccanico?
+      a: >-
+        Nel livello Facile, viaggia come da regolamento. Nel livello Esperto, la
+        tua destinazione viene decisa dal giocatore seguendo le regole descritte
+        in Poteri e Permessi del Principe.
+  card: Shrouded Wood
+- faq:
+    - q: >-
+        Posso rimettere anche le Visioni sul fondo del mazzo del mondo? Che
+        effetto avrebbe in quel caso sul tracciato delle Visioni Pescate?
+      a: 'Si certo, e non ha nessun effetto sul tracciato delle Visioni Pescate.'
+  card: Cracked Horn
+- faq:
+    - q: >-
+        Quando gioco Festa di Benvenuto, il potere si attiva anche per la carta
+        stessa?
+      a: No.
+  card: Welcoming Party
+- faq:
+    - q: Ottengo il favore se inverto la carta nel territorio?
+      a: No. INVERTIRE è diverso da GIOCARE.
+  card: Horned Mask
+- faq:
+    - q: >-
+        Cosa succede se non ho favori da posizionare sul vessillo durante la
+        Fase Risveglio, ma c'è posizionato solo un favore?
+      a: Niente. Rimane con un solo favore.
+    - q: >-
+        Posso attivare il potere del Favore del Popolo per giocare carte nei
+        territori a faccia in giù?
+      a: No! I territori a faccia in giù non hanno capienza per le carte.
+    - q: >-
+        Succede qualcosa ai segreti posizionati sul Favore del Popolo se do via
+        il vessillo?
+      a: No!
+  card: Banner of the People's Favor
+- faq:
+    - q: >-
+        Posso semplicemente posizionare un favore e rimettere un favore nella
+        riserva o devo ripetere la stessa cosa due volte?
+      a: >-
+        Puoi posizionare un favore e rimettere un favore nella riserva,
+        mantenendo la stessa quantità.
+  card: Banner of the Mob's Favor
+- faq:
+    - q: >-
+        Posso recuperarlo da un altro giocatore che non ha carte nel proprio
+        territorio?
+      a: No.
+    - q: >-
+        Succede qualcosa ai segreti posizionati sul Segreto più Oscuro se do via
+        il vessillo?
+      a: No!
+  card: Banner of the Darkest Secret

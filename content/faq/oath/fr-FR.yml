@@ -1,0 +1,797 @@
+- faq:
+    - q: >-
+        Si je sacrifie la dernière troupe d'un site, l'attaquant peut-il quand
+        même le prendre ?
+      a: Oui. Il l'a déjà pris pour cible.
+    - q: "Si j'ai un allié impérial, puis-je sacrifier une troupe de son plateau ?"
+      a: 'Si son plateau ajoute des troupes à votre force, oui.'
+  card: Wrestlers
+- faq:
+    - q: Puis-je prendre une faveur si la banque n'en a plus qu'une ?
+      a: Oui !
+  card: Battle Honors
+- faq:
+    - q: >-
+        Si j'utilise ceci pour jouer deux cartes sur le site, puis-je utiliser
+        la Bannière de la Faveur du Peuple deux fois ?
+      a: Oui !
+    - q: >-
+        Puis-je jouer une carte face cachée à condition de jouer l'autre sur un
+        site ?
+      a: Oui !
+  card: Land Warden
+- faq:
+    - q: Est-ce qu'on commence par le joueur actuel ou par le Chancelier ?
+      a: >-
+        Commencez par le Chancelier et allez dans le sens des aiguilles d'une
+        montre.
+  card: Revelation
+- faq:
+    - q: >-
+        Est-ce que je peux regarder seulement la carte du dessus ou toute la
+        pile de défausse ?
+      a: Toute la pile !
+  card: Scryer
+- faq:
+    - q: >-
+        Si je trouve la Conspiration, puis-je la jouer face cachée dans mes
+        conseillers ?
+      a: Oui !
+  card: Inquisitor
+- faq:
+    - q: Ai-je toujours accès à cette vision si je deviens Citoyen ?
+      a: >-
+        Oui ! La troupe ne disparaît pas. Cependant, vous ne pouvez pas gagner
+        avec elle jusqu'à ce que vous redeveniez un Exilé.
+  card: False Prophet
+- faq:
+    - q: Puis-je jouer cette carte à la Cité Engloutie ?
+      a: Oui !
+  card: Salt the Earth
+- faq:
+    - q: >-
+        Puis-je utiliser cette carte avec Second Souffle et faire une deuxième
+        campagne avant de devenir un citoyen ?
+      a: >-
+        Non. Second Souffle dit "après", ce qui signifie que vous devez résoudre
+        tous vos autres plans de bataille en premier, y compris la Culture
+        Martiale.
+  card: Martial Culture
+- faq:
+    - q: Est-ce que la troupe tuée retire un second dé d'attaque ?
+      a: >-
+        Non, vous avez déjà collecté les dés. Vous perdez exactement une troupe
+        et un dé d'attaque.
+    - q: La troupe tuée compte-t-elle pour Chaudron Maudit ?
+      a: Oui !
+  card: Bear Traps
+- faq:
+    - q: >-
+        Ce gain de Provision se cumule-t-il aux pouvoirs qui me permettent de ne
+        pas dépenser de Provisions ?
+      a: >-
+        Oui ! Dans ce cas, en faisant campagne, vous finirez par gagner des
+        Provisions et non par en perdre.
+  card: Scouts
+- faq:
+    - q: Est-ce que ce pouvoir se cumule avec Champignons ?
+      a: >-
+        Oui. On suppose qu'il sait où se trouvent tous les bons coins à
+        champignons.
+  card: Errand Boy
+- faq:
+    - q: Peut-on m'obliger à voyager ici et à perdre des troupes ?
+      a: Bien sûr que oui.
+  card: Boiling Lake
+- faq:
+    - q: Cela compte-t-il si je cible un pion sur un site avec une carte Ordre ?
+      a: >-
+        Non, vous devez cibler le site lui-même. Bien sûr, si vous ciblez un
+        site et d'autres choses, ce pouvoir prend effet.
+  card: Disgraced Captain
+- faq:
+    - q: >-
+        Cela fonctionne si je suis moi-même le Gardien du Serment ou
+        L'Usurpateur ?
+      a: 'Si tu es un Exilé, oui !'
+  card: Naysayers
+- faq:
+    - q: >-
+        Si je suis un Citoyen, ai-je besoin de la permission du Chancelier pour
+        déplacer des troupes (loi:6.5) ?
+      a: Non. Cette carte est un moyen de contourner cette règle !
+  card: Warning Signals
+- faq:
+    - q: Combien d'échanges cela peut-il susciter ?
+      a: Autant que vous le souhaitez.
+  card: The Gathering
+- faq:
+    - q: Puis-je l'échanger avec une carte verrouillée ?
+      a: >-
+        Non. Une carte verrouillée ne peut pas être défaussée, déplacée ou
+        échangée.
+  card: Great Herd
+- faq:
+    - q: >-
+        Si je suis un citoyen et que le chancelier détient le Sombre Secret,
+        est-ce que je bénéficie de ce bonus ?
+      a: >-
+        Oui ! Notez qu'il s'agit d'un errata, car la définition de "vous"
+        (loi:10) a changé.
+  card: Fire Talkers
+- faq:
+    - q: Pourquoi tuerais-je une de mes propres troupes ?
+      a: >-
+        Pour récupérer potentiellement une Provision de plus pendant votre phase
+        de repos.
+  card: Wolves
+- faq:
+    - q: >-
+        Si la défense a moins de quatre dés lorsque j'utilise ce pouvoir, mais
+        que le défenseur ajoute ensuite des dés de défense à sa réserve en
+        utilisant ses propres plans de bataille, est-ce que je bénéficie de +2
+        dés d'attaque ?
+      a: Non. Vous vérifiez cela au moment où vous utilisez le pouvoir.
+    - q: >-
+        Est-ce que je continue à ignorer les crânes même si je n'obtiens pas le
+        bonus de dé ?
+      a: Oui !
+  card: Rangers
+- faq:
+    - q: >-
+        Si je suis le Chancelier et que j'ai le trait Imprudent dans le
+        Reliquaire impérial, est-ce que je gagne la faveur supplémentaire si
+        j'échange des secrets ?
+      a: Oui !
+  card: Secret Signal
+- faq:
+    - q: Est-ce que cela me permet de tirer deux cartes avec Champignons ?
+      a: Oui. Je suppose que tu sais où se trouvent les bonnes choses.
+  card: Augury
+- faq:
+    - q: Quand puis-je utiliser ce pouvoir en voyageant sur son site ?
+      a: Si vous dominez le site.
+  card: Portal
+- faq:
+    - q: >-
+        Puis-je en tuer un sur un site et un autre sur un autre site, ou un sur
+        un site et un sur un plateau de joueur ?
+      a: 'Oui, vous pouvez mélanger les deux comme vous le souhaitez.'
+  fiche: Terror Spells
+- faq:
+    - q: Comment cela interagit-il avec le trait Imprudent ?
+      a: Vous n'obtenez toujours pas la faveur de l'insouciance.
+    - q: "Comment cela fonctionne-t-il si j'ai aussi $link:Vow of Kinship$ ?"
+      a: >-
+        Le pouvoir de repos du Vœu de Pauvreté se produira toujours, à moins que
+        vous n'obteniez des faveurs sur votre plateau de manière subtile.
+  card: Vow of Poverty
+- faq:
+    - q: >-
+        Cela inclut-il les cartes défaussées de la Faveur du Peuple ou les
+        cartes comme $card:Dazzle$? ?
+      a: >-
+        Cela inclut toutes les cartes défaussées pendant l'action de recherche,
+        donc cela inclut la faveur du peuple, mais pas les cartes comme
+        $card:Dazzle$.
+  card: Bracken
+- faq:
+    - q: 'Si je suis Chancelier, les citoyens peuvent-ils faire campagne ?'
+      a: Oui ! Ils ne sont alliés que pendant une campagne défensive en cours.
+  card: Vow of Peace
+- faq:
+    - q: Est-ce que je peux faire un marché avec un Exilé si je suis un Citoyen ?
+      a: >-
+        Bien sûr que oui. Pas besoin de la permission du Chancelier, et tu
+        prends les groupes de combat.
+    - q: >-
+        Si j'achète des sites en tant que citoyen, puis-je demander au
+        chancelier de placer des combattants ?
+      a: >-
+        Non. Interprétez les utilisations de "plateau" comme signifiant "votre
+        plateau".
+    - q: >-
+        Un citoyen et un chancelier peuvent-ils échanger des sites pour se
+        déplacer dans les troupes ?
+      a: >-
+        Non. Vous ne pouvez pas vous donner ces sites l'un à l'autre puisque
+        vous les dirigez déjà tous les deux.
+  card: Deed Writer
+- faq:
+    - q: Les bandits peuvent-ils utiliser ceci ?
+      a: >-
+        S'ils devaient défausser deux Nomades ou plus, ils défaussent la
+        première carte Bête qu'ils gouvernent en commençant par le haut du
+        Berceau et en descendant dans les régions.
+  card: Wild Mounts
+- faq:
+    - q: Mon jet d'attaque inclut-il les crânes ?
+      a: >-
+        Oui. En gros, faites comme si vous aviez obtenu deux fois tous vos
+        résultats aux dés.
+  card: Lancers
+- faq:
+    - q: La carte est-elle défaussée si je choisis +/-1 dé d'attaque ?
+      a: 'Non, seulement si vous choisissez +/- 3'
+  card: Mountain Giant
+- faq:
+    - q: Est-ce que cela augmente la piste Visions Révélées ?
+      a: Oui.
+  card: Oracle
+- faq:
+    - q: >-
+        Si je suis un citoyen et que le chancelier est attaqué, est-ce que
+        l'armure étincellante s'applique ?
+      a: Seulement si vous vous joignez en tant qu'allié.
+    - q: >-
+        Si je suis un Exilé, puis-je l'utiliser pour aider d'autres Exilés qui
+        sont attaqués ?
+      a: Non !
+  card: Gleaming Armor
+- faq:
+    - q: >-
+        Que se passe-t-il si je ne tire que la Conspiration mais que je ne peux
+        pas la jouer ?
+      a: 'Défaussez-la normalement ($rule:5.1.4$).'
+    - q: 'Le coût inclut-il le coût secret ajouté par $link:Gleaming Armor$ ?'
+      a: Oui.
+    - q: >-
+        Cela inclut-il les pouvoirs du site $link:Buried Giant$ et $link:The
+        Hidden Place$ ?
+      a: Wesh ma gueule!
+  card: Spell Breaker
+- faq:
+    - q: Quand est-ce que je gagne la faveur exactement?
+      a: >-
+        Immédiatement après avoir résolu le texte de la sous-section
+        $rule:5.1.4$ concernée. Ainsi, ils gagnent des faveurs en jouant en
+        premier sur le site, par exemple, mais résolvent les pouvoirs QUAND
+        JOUEE ($règle:7.3.3$) après Fabricants de Selles.
+  card: Saddle Makers
+- faq:
+    - q: Est-ce que cela s'inclut dans le nombre de cartes nomades régies ?
+      a: Oui.
+  card: Great Crusade
+- faq:
+    - q: Quelles sont les implications du verrouillage des reliques ?
+      a: >-
+        Elles ne peuvent pas être récupérées, jetées ou modifiées de quelque
+        façon que ce soit. Elles sont bloquées sur le site, à l'exception de la
+        règle de l'Ancienne lignée de sang.
+  card: Ancient Bloodline
+- faq:
+    - q: >-
+        Si je suis un Citoyen, puis-je donner le Sombre Secret au Chancelier
+        pour simplement prendre une relique du Reliquaire ?
+      a: >-
+        Non. Par souci de cohérence, cette carte devrait dire : "Si vous êtes un
+        Exilé".
+  card: Ancient Pact
+- faq:
+    - q: >-
+        Si je suis un citoyen, dois-je demander la permission au chancelier
+        ($rule : 6.5$)
+      a: Neni. C'est un moyen de le contourner.
+  card: Messenger
+- faq:
+    - q: Est-ce que les secrets sur le Sombre Secret sont brûlés ?
+      a: Non.
+  card: Ancient Binding
+- faq:
+    - q: >-
+        Est-ce que cela divise par deux les dés d'attaque après avoir utilisé
+        d'autres plans de bataille ou avant ?
+      a: >-
+        Il modifie le nombre de dés lancés par l'attaquant. Il divise donc par
+        deux le nombre final modifié par les plans de bataille.
+  card: Mounted Patrol
+- faq:
+    - q: Cette carte signifie-t-elle que je peux avoir quatre conseillers ?
+      a: Yep!
+  card: Pied Piper
+- faq:
+    - q: >-
+        Cette carte s'accorde-t-elle avec des pouvoirs comme Divination et le
+        trait Cupide ?
+      a: Oui !
+  card: Mushrooms
+- faq:
+    - q: >-
+        Cela s'accorde-t-il avec d'autres choses comme le bonus du Sermenteur et
+        les dés de défense ajoutés par les plans de bataille ?
+      a: >-
+        Neni, Python Géant précise qu'il ne compte que les dés de défense
+        ajoutés en déclarant des cibles, ce que le bonus du Sermenteur et les
+        plans de bataille ne sont pas.
+  card: Giant Python
+- faq:
+    - q: >-
+        Puis-je prendre le dernier secret de quelqu'un ? La plupart des cartes
+        ne le permettent pas.
+      a: 'Oui ! Cela leur rend service, après tout.'
+  card: Witch's Bargain
+- faq:
+    - q: Est-ce que je modifie le résultat du dé avant ou après le lancer ?
+      a: "Après, bien qu'il soit douteux que cela ait jamais d'importance."
+    - q: Que se passe-t-il si je lance un 6 et que j'augmente le nombre ?
+      a: Le jeu se termine quand même.
+  card: Squalid District
+- faq:
+    - q: >-
+        Puis-je utiliser les modificateurs de commerce dans leurs conseillers,
+        comme Mariage et Signal Secret ?
+      a: Oui !
+    - q: >-
+        Puis-je utiliser mes autres modificateurs de commerce avant d'utiliser
+        Maître du déguisement ?
+      a: >-
+        Non, vous remplacez entièrement vos conseillers par les conseillers d'un
+        autre joueur pour l'action de commerce en cours.
+    - q: >-
+        Puis-je utiliser ceci pour contourner Voeu de Pauvreté ou Voeu de
+        Fraternité ?
+      a: 'Oui. Un voeu plutôt sincère, non ?'
+  card: Master of Disguise
+- faq:
+    - q: >-
+        Puis-je attaquer quelqu'un qui ne contrôle pas mon site et dont le pion
+        n'est pas sur mon site ?
+      a: >-
+        Non. Vous devez suivre les règles normales de la Campagne pour déclarer
+        un défenseur.
+  card: Sneak Attack
+- faq:
+    - q: >-
+        Ce pouvoir de cette carte s'applique-t-il si je joue une carte face
+        cachée (loi:6.1) ?
+      a: "Oui ! Comme il est dit dans les règles, les modificateurs s'appliquent."
+    - q: >-
+        Si j'ai payé pour le Travail Forcé une fois en le jouant face cachée,
+        dois-je payer à nouveau pour le jouer face visible ?
+      a: Oui ! La servitude n'est pas agréable.
+  card: Forced Labor
+- faq:
+    - q: >-
+        Les cartes comme $Royal Tax$ prennent-elles la faveur de la banque
+        Nomade maintenant ?
+      a: >-
+        Non. Vous pouvez utiliser la faveur de la banque Nomade, mais ce n'est
+        pas une faveur qui est sur votre plateau.
+    - q: >-
+        Si j'ai la Bannière de la Faveur du Peuple avec une seule faveur, son
+        pouvoir Réveil m'oblige-t-il à prendre dans la banque Nomade ?
+      a: >-
+        Non. Vous pouvez utiliser la faveur Nomade comme si elle était sur votre
+        plateau, mais vous n'y êtes pas obligé.
+  card: Vow of Kinship
+- faq:
+    - q: >-
+        Puis-je déplacer cette carte vers un site n'ayant pas de carte habitant
+        à défausser ?
+      a: Que neni!
+  card: Roving Terror
+- faq:
+    - q: >-
+        Si je ne tire qu'une seule carte mais que je ne peux pas la jouer face
+        visible, que dois-je faire ?
+      a: 'Défaussez-la, en suivant les règles normales.'
+    - q: >-
+        Si les bandits contrôle le site où se trouve cette carte, qui cela
+        affecte-t-il ?
+      a: Tous les joueurs !
+  card: Gossip
+- faq:
+    - q: >-
+        Le fait de prendre une faveur brûlée inclut-il la situation où quelqu'un
+        récupère une relique sur un site avec un coût de brûlage de faveur ? Et
+        si c'est moi qui la récupère ?
+      a: 'Oui, vous prenez la faveur dans tous ces cas.'
+  card: Vow of Renewal
+- faq:
+    - q: Quand exactement dois-je payer pour ce pouvoir ?
+      a: >-
+        Lorsque vous choisissez de l'utiliser, immédiatement après que quelqu'un
+        ait pris des reliques et qu'elles se trouvent dans votre région.
+    - q: >-
+        Puis-je l'utiliser sur un joueur qui vient de me prendre une relique
+        dans une campagne ?
+      a: 'Oui ! Plutôt sournois, non ?'
+    - q: >-
+        Puis-je utiliser ceci pour prendre des reliques données dans un échange
+        ou des offres de citoyenneté ?
+      a: >-
+        Non. Très strictement, ce sont des cas où une relique est donnée, plutôt
+        que prise.
+  card: Relic Thief
+- faq:
+    - q: Comment cela interagit-il avec le Bois Brumeux ?
+      a: >-
+        Vous devez choisir si vous voulez utiliser Tentes au début de l'action.
+        Si la règle vous fait voyager dans une autre région, Tentes ne
+        fonctionne pas.
+  card: Tents
+- faq:
+    - q: Peut-on m'obliger à voyager ici ?
+      a: >-
+        Seulement si vous choisissez de payer le péage de faveur ou si vous n'en
+        avez pas besoin.
+    - q: Dois-je payer les bandits lorsque je me rends sur un site face caché ?
+      a: 'Non, puisque personne ne régit les sites en face cachée.'
+  card: Toll Roads
+- faq:
+    - q: >-
+        Si je suis le Chancelier et que je rejoins une campagne en tant qu'Allié
+        impérial d'un défenseur citoyen, l'utilisation de ce plan de bataille
+        signifie-t-elle que le défenseur citoyen ne peut pas utiliser d'autres
+        plans de bataille ?
+      a: Oui. Il s'agit d'un errata des règles telles qu'elles sont écrites.
+    - q: >-
+        Si les bandits contrôlent le Code d'honneur ainsi que d'autres plans de
+        bataille qu'ils peuvent utiliser, quels plans de bataille
+        utiliseront-ils lors de la défense dans une campagne ?
+      a: Ils utiliseront le Code de l'Honneur et aucun autre.
+  card: Code of Honor
+- faq:
+    - q: >-
+        Puis-je utiliser Palanquin pour me rendre sur un site avec Traversée
+        Payante ?
+      a: >-
+        Oui, mais le joueur dont le pion se trouve sur votre site doit choisir
+        d'accorder une faveur au dirigeant de Traversée Payante, s'il ne le
+        dirige pas lui-même.
+    - q: >-
+        Si nous sommes tous les deux au Bois Brumeux, qui choisit où nous allons
+        ?
+      a: " Vous irez toujours sur le site que vous avez choisi, tant que l'autre joueur peut s'y rendre. Si vous contrôlez le Bois Brumeux, vous choisissez leur destination, qui peut être différente du site où vous allez. S'il domine le Bois Brumeux, il se rendra sur le même site que vous. Si c'est un tiers qui dirige le Bois Brumeux, c'est lui qui choisira la destination du joueur."
+  card: Palanquin
+- faq:
+    - q: Puis-je cibler une relique sur un site que je contrôle déjà ?
+      a: 'Non, vous devez cibler le site également.'
+  card: Relic Hunter
+- faq:
+    - q: >-
+        Que se passe-t-il si mon ennemi possède plusieurs conseillers de la même
+        couleur ?
+      a: >-
+        Prenez une faveur par conseiller de cette couleur. Donc, s'il a deux
+        conseillers Ordre, prenez deux faveurs de la banque Ordre.
+  card: Military Parade
+- faq:
+    - q: >-
+        Cela me permet-il également d'ignorer les pouvoirs des cartes du site où
+        je me rends, comme Traversée Payante ?
+      a: >-
+        Non, seulement le pouvoir du site lui-même. Cela vous permet de
+        contourner des choses comme le Passage Étroit.
+  card: Forest Paths
+- faq:
+    - q: >-
+        Puis-je utiliser les modificateurs de commerce à l'emplacement où se
+        trouve physiquement mon pion, en plus de l'emplacement où j'agis comme
+        si je me trouvais ?
+      a: Nope ! Seulement le nouveau site.
+  card: Small Friends
+- faq:
+    - q: >-
+        Dans le Serment de protection, si j'obtiens le plus de reliques avant de
+        remettre une relique dans le paquet, est-ce que je prends le titre de
+        Gardien de Serment ?
+      a: >-
+        Non. Ne comptez votre nombre de reliques qu'après avoir effectué cette
+        action
+  card: Fae Merchant
+- faq:
+    - q: >-
+        S'il n'y a pas de troupe sur le site où je me rends, dois-je tuer une
+        troupe sur mon plateau ?
+      a: Non. C'est seulement s'il y en a un sur le site.
+    - q: Puis-je quand même me rendre sur un site s'il n'y a pas de troupe ?
+      a: 'Oui. C''est ce que signifie le "si possible" (loi:10).'
+  card: Tyrant
+- faq:
+    - q: >-
+        La restriction "à moins que votre ennemi ne possède la faveur du peuple"
+        s'applique-t-elle à la fois à l'annulation du crâne et aux dés d'attaque
+        ?
+      a: 'Oui, le pouvoir entier est annulé si votre ennemi a la faveur du peuple.'
+  card: The Great Levy
+- faq:
+    - q: Puis-je prendre la faveur supplémentaire d'une autre banque ?
+      a: "Non, tout doit provenir de la même banque, comme d'habitude."
+  card: Secret Signal
+- faq:
+    - q: Que signifie "autre" sur cette carte ?
+      a: >-
+        Si la Discorde est la couleur la plus commune, ne défaussez pas les
+        Émeutes.
+  card: Riots
+- faq:
+    - q: >-
+        Si j'attaque un joueur qui a des alliés impériaux, dois-je accorder la
+        faveur à tous ces alliés ?
+      a: Non. Donnez la faveur au joueur que vous attaquez.
+    - q: "Si je n'ai pas la faveur à donner, puis-je quand même être victorieux ?"
+      a: >-
+        Non. Considère que la faveur que tu leur accordes fait partie du coût
+        d'utilisation du pouvoir.
+  card: Peace Envoy
+- faq:
+    - q: 'Est-ce que cela inclut le $link:Conspiracy$ ?'
+      a: Yep !
+  card: Book Binders
+- faq:
+    - q: >-
+        Si mon ennemi a des secrets face cachée, doit-il les brûler dans un
+        ordre particulier ?
+      a: >-
+        Nope. Ils brûlent tous leurs secrets sauf un, qu'ils soient face visible
+        ou non.
+  card: Book Burning
+- faq:
+    - q: Comment cela interagit-il avec Joueur de Flûte ?
+      a: >-
+        Puisque Joueur de Flûte ignore la limite de conseillers, vous pouvez
+        avoir un nombre quelconque de conseillers Nomades, Joueur de Flûte, et
+        une carte autre que Joueur de Flûte.
+  card: Family Wagon
+- faq:
+    - q: Que se passe-t-il si je n'ai pas de troupe ?
+      a: >-
+        Pas de problème. Vous n'en tuez qu'une seule si vous en avez sur votre
+        plateau.
+    - q: >-
+        Peut-on m'obliger à voyager depuis un site affecté par cette carte, et
+        me faire perdre des troupes ?
+      a: Oui !
+  card: Grasping Vines
+- faq:
+    - q: >-
+        Si j'attaque un joueur qui a des alliés impériaux, dois-je donner une
+        faveur à chacun d'eux ?
+      a: Non. Donnez la faveur au joueur que vous attaquez.
+    - q: >-
+        Si mon ennemi utilise une carte comme Médecin Ambulant pour ignorer
+        ceci, dois-je quand même donner la faveur ?
+      a: >-
+        Oui. Plus précisément, la carte devrait dire : "Si vous choisissez de le
+        faire" plutôt que "Si vous le faites"
+  card: Sticky Fire
+- faq:
+    - q: 'Comment cela interagit-il avec $link:Hospital$ ?'
+      a: " Les troupes qui seraient tuées sont placées sur le site de l'Hôpital, tant que ce joueur le contrôle encore. Ensuite, toutes les troupes sur le plateau de ce joueur sont placées sur la Cage d'Obsidienne."
+    - q: >-
+        Qu'arrive-t-il aux troupes de cette carte si elle est remise dans le
+        paquet de reliques ?
+      a: >-
+        Le joueur qui la détient doit retourner toutes les troupes comme décrit
+        sur son pouvoir d'action.
+    - q: Qu'arrive-t-il aux troupes exilées si l'exilé devient un citoyen ?
+      a: >-
+        Ils restent de la même couleur tant qu'ils sont sur la Cage. S'ils sont
+        renvoyés, ils doivent retourner à cet Exil et devenir violets.
+  card: Obsidian Cage
+- faq:
+    - q: Comment cela interagit-il avec Hôpital ?
+      a: >-
+        L'hôpital empêche les troupes d'être tuées, donc vous ne gagnez pas de
+        troupes pour eux.
+  card: Cursed Cauldron
+- faq:
+    - q: Puis-je utiliser ceci si personne ne contrôle le Sombre Secret ?
+      a: >-
+        Oui, et tout secret excédentaire retournera dans la banque partagée
+        lorsqu'un joueur le récupérera.
+  card: Storyteller
+- faq:
+    - q: >-
+        Puis-je utiliser ceci pour ajouter un secret si personne ne contrôle le
+        Sombre Secret ?
+      a: >-
+        Oui, et tout secret excédentaire retournera dans la banque partagée
+        lorsqu'un joueur le récupérera.
+  card: Forgotten Vault
+- faq:
+    - q: >-
+        Si les bandits contrôlent cette carte, quelqu'un peut-il récupérer le
+        Sombre Secret ?
+      a: >-
+        Nope ! Pour être complet, la définition d'"ennemi" dans le glossaire
+        devrait également indiquer que les bandits considèrent tous les joueurs
+        comme des ennemis.
+  card: Tome Guardians
+- faq:
+    - q: Puis-je utiliser ceci si la pile de défausse de ma région est vide ?
+      a: Non ! Tu dois révéler une carte.
+    - q: Que se passe-t-il si je révèle une carte Vision du haut de la défausse ?
+      a: >-
+        Elle ne correspond à rien, donc vous pouvez voyager partout.
+        Félicitations !
+    - q: Où va la carte après que je l'ai révélée ?
+      a: 'Remettez-la sur la pile de défausse, face cachée.'
+    - q: >-
+        Si j'utilise ceci pour voyager depuis le $link:Shrouded Wood$, mais
+        qu'un ennemi le contrôle, que se passe-t-il ?
+      a: >-
+        Il choisit votre site de destination parmi les sites possibles autorisés
+        par Cheval de Laiton.
+  card: Brass Horse
+- faq:
+    - q: >-
+        Si je suis dans $link:The Hidden Place$, puis-je les forcer à retourner
+        un secret pour voyager jusqu'à moi ?
+      a: >-
+        Non. Ils doivent être prêts à le révéler. Vous n'avez pas de pouvoir sur
+        leurs ressources.
+    - q: >-
+        S'ils sont dans une autre région et que le Passage Étroit est dans ma
+        région, est-ce que Sifflet fonctionnera ?
+      a: >-
+        Non. Ils ne pourront pas se rendre jusqu'à vous, à moins que vous ne
+        vous trouvez au Passage Étroit.
+    - q: 'Si je possède le Voeu de Silence, dois-je révéler le secret ?'
+      a: Non. Attendez-vous à ce qu'on vous vole bientôt votre sifflet !
+  card: Whistle
+- faq:
+    - q: Quels sont les cas couverts ?
+      a: >-
+        Tous ! Vous pouvez faire campagne contre des sites mais vous ne pouvez
+        pas y placer des troupes. Vous ne pouvez pas déposer des troupes en
+        utilisant une action mineure (loi:6.5). Vous ne pouvez pas utiliser
+        Signaux de Fumée pour déplacer des troupes. Et ainsi de suite.
+  card: Ring of Devotion
+- faq:
+    - q: Puis-je la jouer si j'ai déjà deux conseillers verrouillés ?
+      a: >-
+        Nope. Vous devez être en mesure de remplir votre capacité de conseiller,
+        et vous ne pourriez pas le faire.
+  card: Insomnia
+- faq:
+    - q: Puis-je la jouer si j'ai déjà deux conseillers verrouillés ?
+      a: >-
+        Nope. Vous devez être en mesure de remplir votre capacité de conseiller,
+        et vous ne pourriez pas le faire.
+  card: Silver Tongue
+- faq:
+    - q: Puis-je la jouer si j'ai déjà deux conseillers verrouillés ?
+      a: >-
+        Nope. Vous devez être en mesure de remplir votre capacité de conseiller,
+        et vous ne pourriez pas le faire.
+  card: Assassin
+- faq:
+    - q: Peut-on m'obliger à voyager ici ?
+      a: Seulement si vous choisissez de révéler un secret.
+  card: The Hidden Place
+- faq:
+    - q: >-
+        Puis-je choisir de ne pas brûler le secret et de simplement remettre la
+        carte dans la boîte ?
+      a: 'Oui ! C''est écrit : "Vous pouvez...".'
+  card: Conspiracy
+- faq:
+    - q: 'Si je possède la Harpe de la Vérité, que dois-je révéler ?'
+      a: >-
+        Les cartes que vous tirez de la pioche ou de la défausse, et la carte
+        spécifique que vous gardez, mais pas les cartes Dépossédées échangées
+        que vous ne gardez pas.
+  card: Great Spire
+- faq:
+    - q: Le chancelier peut-il utiliser ceci ?
+      a: >-
+        Oui ! Les autres joueurs devraient probablement penser à éloigner la clé
+        squelette du chancelier.
+  card: Skeleton Key
+- faq:
+    - q: Est-ce que j'obtiens une troupe si quelqu'un me force à voyager ?
+      a: Oui !
+  card: Dragonskin Drum
+- faq:
+    - q: >-
+        Puis-je utiliser cette carte de quelque manière que ce soit pour
+        relancer plusieurs fois le même jeu de dés ?
+      a: >-
+        Non. C'est subtil, mais le terme "une fois" indique que les dés ne
+        peuvent pas être relancés plusieurs fois.
+    - q: Dois-je payer cette carte avant ou après le lancer ?
+      a: Après.
+  card: Jinx
+- faq:
+    - q: >-
+        Puis-je utiliser ceci pour contourner le pouvoir du Bois Brumeux si le
+        Chancelier le contrôle ?
+      a: >-
+        Malheureusement, non. Vous ne contrôlez que les cartes des sites, pas
+        les sites eux-mêmes.
+  card: Grand Mask
+- faq:
+    - q: Comment cela interagit-il avec le Vallée Fertile ?
+      a: >-
+        Si vous jouez une carte Foyer vers la Vallée Fertile, vous obtiendrez un
+        secret (pour avoir joué vers un site) et une faveur (pour avoir joué
+        spécifiquement vers la Vallée Fertile).
+  card: Book of Records
+- faq:
+    - q: >-
+        Si je possède la Couronne des Bandits, puis-je retirer la dernière
+        troupe de mon site comme une action mineure (loi:6.5) ? De même, puis-je
+        simplement placer une troupe sur un site qui n'en a pas ?
+      a: >-
+        Oui aux deux ! Le bandit qui s'y trouve compte comme votre troupe, donc
+        vous n'enlevez pas vraiment votre dernière troupe du site, et vous
+        contrôlez les sites vides.
+    - q: A quoi se réfère exactement "vos troupes" ?
+      a: >-
+        En tant qu'Exilé, il s'agit de la couleur de tes troupes. En tant que
+        Chancelier ou Citoyen, ce sont des troupes violettes. Mais si vous êtes
+        un citoyen et que vous attaquez un joueur impérial, ils reprennent votre
+        couleur de base pour cette campagne.
+    - q: >-
+        Dans la Chronique, si je gagne, dois-je défausser les sites sans troupe
+        ?
+      a: Non ! Vous les contrôlez.
+    - q: >-
+        Dans la Chronique, si je gagne en tant que Chancelier et qu'un Citoyen a
+        la Couronne de Bandit, dois-je défausser les sites qui n'ont pas de
+        troupes ?
+      a: >-
+        Non, vous contrôlez également ces sites. Les troupes du citoyen sont
+        violettes, et il traite les bandits comme ses troupes.
+    - q: >-
+        Dans la Chronique, si je gagne en tant qu'exilé et que je transforme un
+        autre exilé avec la couronne de bandit en citoyen, que se passe-t-il ?
+      a: >-
+        Vous placerez une troupe sur tous les sites qu'ils controlent, même sur
+        les sites où ils n'avaient pas de troupes.
+  card: Bandit Crown
+- faq:
+    - q: >-
+        Cela protège-t-il les sites de la défausse même si le gagnant ne le
+        contrôle pas ?
+      a: Oui ! Mais cela deviendra une ruine plus tard dans la Chronique.
+  card: Forest Temple
+- faq:
+    - q: >-
+        Les jets de faces 2x multiplient-ils le résultat total, comme dans une
+        campagne ?
+      a: Oui !
+  card: Gambling Hall
+- faq:
+    - q: >-
+        Que signifie "n'importe quand" ? La partie en cours ? Les prochaines
+        parties ?
+      a: >-
+        Ce que votre groupe décide. Cela relève des conseils mentionnés dans le
+        RuleBook sur les accords de groupe impliquant le méta-jeu.
+  card: The Tribunal
+- faq:
+    - q: >-
+        Si quelqu'un me fait voyager depuis ce site et que je contrôle ce site,
+        est-ce que je peux choisir où aller ?
+      a: >-
+        Non, seulement si quelqu'un d'autre que celui qui vous fait voyager le
+        contrôle.
+    - q: >-
+        Si le Chancelier est Décadent et voyage de ce site vers un site de
+        l'Hinterland, combien de Provisions cela coûte-t-il ?
+      a: >-
+        Trois. Le coût de base du voyage est de deux, et le Décadent en ajoute
+        un.
+    - q: >-
+        Que se passe-t-il si je veux voyager d'ici, mais que les bandits
+        contrôlent ce site ?
+      a: >-
+        Voyagez normalement. Le texte de ce site nécessite un petit errata, en
+        remplaçant "ennemis" par "joueurs adverses."
+    - q: Comment cela fonctionne-t-il si le Prince de l'Horloge le contrôle ?
+      a: >-
+        Sous Pouvoirs Limités, vous voyagez normalement. Sous Pouvoirs étendus,
+        votre destination est choisie par le joueur à sa discrétion, comme
+        décrit dans Pouvoirs étendus.
+  card: Shrouded Wood
+- faq:
+    - q: >-
+        Puis-je enterrer des visions ? Qu'est-ce que cela fait à la piste
+        Visions Révélées ?
+      a: >-
+        Oui, vous le pouvez, et cela n'affecte en rien la piste Visions
+        Révélées.
+  card: Cracked Horn

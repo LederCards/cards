@@ -1,0 +1,1107 @@
+- faq:
+    - q: >-
+        If I sacrifice the last warband from a site, can the attacker still take
+        it?
+      a: Yes. They’ve already targeted it.
+    - q: 'If I have an Imperial Ally, can I sacrifice a warband from their board?'
+      a: 'If their board is adding warbands to your force, yes.'
+  card: Wrestlers
+- faq:
+    - q: Can I take favor if the bank only has one left?
+      a: Yes!
+  card: Battle Honors
+- faq:
+    - q: >-
+        If I use this to play two cards to site, can I use the $link:Banner of
+        the People's Favor$ twice?
+      a: Yes!
+    - q: Can I play a card facedown as long as I play the other to a site?
+      a: Yes!
+  card: Land Warden
+- faq:
+    - q: Do we start with the current player or the Chancellor?
+      a: Start with the Chancellor and go in clockwise worder.
+  card: Revelation
+- faq:
+    - q: >-
+        Does this burn all secrets except for one on the Darkest Secret in play,
+        or just from the Darkest Secret?
+      a: >-
+        From the Darkest Secret itself. Do not burn secrets that are not on the
+        Darkest Secret.
+  card: Charlatan
+- faq:
+    - q: Do I get to look at the top card or the whole discard pile?
+      a: The whole thing!
+  card: Scryer
+- faq:
+    - q: 'If I find the Conspiracy, can I play it facedown to my advisers?'
+      a: Yes!
+  card: Inquisitor
+- faq:
+    - q: Do I still have access to this Vision if I become a Citizen?
+      a: >-
+        Yes! The warband does not go away. However, you cannot win with it until
+        you become an Exile again.
+  card: False Prophet
+- faq:
+    - q: >-
+        If I play this to a site, do I still get the normal favor for playing to
+        site?
+      a: Yes!
+  card: Salad Days
+- faq:
+    - q: 'Can I play this to the $link:Drowned City$?'
+      a: Yes!
+    - q: >-
+        If this is at the $link:Drowned City$, can I replace it with
+        $link:Festival District$ in the Chronicle?
+      a: >-
+        Nope. Salt the Earth increases the capacity, so once it is gone, the
+        site has no capacity for cards.
+    - q: Can I play this to a facedown site?
+      a: Nope!
+  card: Salt the Earth
+- faq:
+    - q: >-
+        Can I use this along with $link:Second Wind$ and campaign a second time
+        before becoming a Citizen?
+      a: >-
+        No. Second Wind says ‘after’, meaning you will resolve all your other
+        battle plans first, including Martial Culture.
+  card: Martial Culture
+- faq:
+    - q: Does the killed warband remove a second attack die?
+      a: >-
+        Nope, you’ve already collected dice. You lose one warband and one attack
+        die, exactly.
+    - q: 'Does the killed warband count for $link:Cursed Cauldron$?'
+      a: Yes!
+  card: Bear Traps
+- faq:
+    - q: >-
+        Does this Supply gain stack on top of powers that let me spend no
+        Supply?
+      a: >-
+        Yes! You’ll end up gaining Supply by campaigning in this case, not
+        losing it.
+  card: Scouts
+- faq:
+    - q: 'Does this power stack with $link:Mushrooms$?'
+      a: Yes. Guess he knows where all the good mushroom spots are.
+    - q: >-
+        If I draw from the discard pile of another region, where do I discard
+        to?
+      a: >-
+        Discard based on the region of your pawn. That Errand Boy is bringing
+        everyone to you!
+  card: Errand Boy
+- faq:
+    - q: Can I be forced to travel here and lose warbands?
+      a: Sure can.
+  card: Boiling Lake
+- faq:
+    - q: Does this count if I target a pawn at a site with an Order card?
+      a: >-
+        No, you have to target the site itself. Of course, if you target a site
+        and other things, this power takes effect.
+  card: Disgraced Captain
+- faq:
+    - q: >-
+        If I am a Citizen, can I use this to campaign against the Chancellor or
+        another Citizen?
+      a: >-
+        Yes! Even though you lose access to the card one you start the campaign,
+        you were still able to use it to start the campaign.
+    - q: >-
+        If I am a Citizen and attack another Citizen or the Chancellor, do I
+        still add the warbands at the site to my force?
+      a: >-
+        Yes. They do not get added to the defending force, and you do not need
+        to target the site.
+  card: Captains
+- faq:
+    - q: Does “any Exile” include myself?
+      a: 'If you’re an Exile, yes!'
+  card: Naysayers
+- faq:
+    - q: >-
+        If I am a Citizen, do I need the Chancellor’s permission to move
+        warbands ($rule:6.5$)?
+      a: Nope. This card is a way around that rule!
+  card: Warning Signals
+- faq:
+    - q: How many exchanges can this prompt?
+      a: As many as players want.
+    - q: >-
+        Does this go in turn order from the active player or from the
+        Chancellor?
+      a: From the Chancellor.
+    - q: >-
+        Do pawns that go to the Gathering get returned to the sites that they
+        came from?
+      a: Nope!
+  card: The Gathering
+- faq:
+    - q: Can I swap this with a locked card?
+      a: 'Nope. A locked card cannot be discarded, moved or swapped.'
+  card: Great Herd
+- faq:
+    - q: >-
+        Does this affect the battle plans of players who are not involved in the
+        campaign?
+      a: >-
+        No. The term 'your enemy' refers to those involved in the campaign.
+        Admittedly, this is somewhat confusing. Sorry!
+  card: Insect Swarm
+- faq:
+    - q: >-
+        If I’m a Citizen and the Chancellor holds the Darkest Secret, do I get
+        this bonus?
+      a: >-
+        Yes! Note that this is an errata, since the definition of ‘you’
+        ($rule:10$) has changed.
+  card: Fire Talkers
+- faq:
+    - q: Why would I kill one of my own warbands?
+      a: To refresh more Supply during your Rest Phase.
+  card: Wolves
+- faq:
+    - q: >-
+        Does each Citizen have to place favor counting all the cards at Imperial
+        sites?
+      a: Yes they do. Citizens and the Chancellor all rule those sites.
+  card: Dissent
+- faq:
+    - q: >-
+        If the defense pool has fewer than four dice when I use this power, but
+        then the defender adds defense dice to their pool using their own battle
+        plans, do I get +2 attack dice?
+      a: No. You check this at the moment you use the power.
+    - q: Do I still ignore skulls even if I do not get the dice bonus?
+      a: Yes!
+  card: Rangers
+- faq:
+    - q: >-
+        If I am the Chancellor and have the Careless trait in the Imperial
+        Reliquary, do I gain the extra favor if I trade for secrets?
+      a: Yes!
+  card: Secret Signal
+- faq:
+    - q: Does this let me draw two cards with Mushrooms?
+      a: Yes. Guess you know where the good stuff is.
+  card: Augury
+- faq:
+    - q: When can I use this power when traveling to its site?
+      a: If you rule the site.
+    - q: "Do I still have to pay for $link: Toll Roads$ if I'm using this power?"
+      a: 'Yes. Sorry, a bit unthematic.'
+  card: Portal
+- faq:
+    - q: >-
+        Can I kill one at a site and one at another site, or one at a site and
+        one on a board?
+      a: 'Yes, you can mix and match however you want.'
+  card: Terror Spells
+- faq:
+    - q: How does this interact with the Careless trait?
+      a: You still don’t get the favor from Careless.
+  card: Vow of Poverty
+- faq:
+    - q: What does 'other suits' mean?
+      a: 'Suits other than the Arcane suit, which is the suit of Kindred Warriors.'
+  card: Kindred Warriors
+- faq:
+    - q: >-
+        Does this include cards discarded from the $link:Banner of the People's
+        Favor$ or cards like $link:Dazzle$?
+      a: >-
+        It includes any cards discarded during the Search action, so it includes
+        the People's Favor, but not cards like $link:Dazzle$.
+  card: Bracken
+- faq:
+    - q: 'If I’m the Chancellor, can Citizens campaign?'
+      a: Yes! They are only Allies during an ongoing defensive campaign.
+  card: Vow of Peace
+- faq:
+    - q: 'Wait, can I make a deal with an Exile if I’m a Citizen?'
+      a: >-
+        Sure can. No permission needed from the Chancellor, and you take the
+        warbands.
+    - q: 'If I buy sites as a Citizen, can I make the Chancellor place warbands?'
+      a: No. Interpret uses of ‘board’ as meaning ‘your board.’
+    - q: Can a Citizen and Chancellor exchange sites to move around warbands?
+      a: >-
+        No. You cannot give away these sites to each other since you both rule
+        them already.
+    - q: Exactly how many warbands does the new rules have to place?
+      a: >-
+        Any number they want, but not zero unless they have the $link:Bandit
+        Crown$.
+    - q: >-
+        Can a site be exchanged if the person receiving it has no warbands to
+        rule it?
+      a: 'No, unless they would rule it by having the $link:Bandit Crown$.'
+  card: Deed Writer
+- faq:
+    - q: Can the bandits use this?
+      a: >-
+        If they would discard two or more Nomads, they discard the first Beast
+        card they rule starting at the top of the Cradle and going down through
+        the regions.
+  card: Wild Mounts
+- faq:
+    - q: Does my attack roll include skulls?
+      a: 'Yes. Basically, act as if you got all your dice results twice.'
+  card: Lancers
+- faq:
+    - q: Is the card discarded if I choose +/-1 attack die?
+      a: 'No, only if you choose +/- 3.'
+  card: Mountain Giant
+- faq:
+    - q: Does this increase the Visions Drawn track?
+      a: Yes.
+    - q: Where do I put the other cards from the World Deck that I handled?
+      a: Put them back on the World Deck in the same order.
+    - q: >-
+        If I discard the Vision, can I use $link:Cracked Horn$ to put it at the
+        bottom of the world deck?
+      a: Yes!
+    - q: Can I play the Vision in my advisers facedown?
+      a: Yes!
+    - q: >-
+        Can I play this card if I am at a site with $link: Forced Labor$ and
+        have no favor to pay?
+      a: >-
+        No. This saddens me, but the wording on the card is just like the minor
+        action to flip facedown advisers, so it has to be this way.
+  card: Oracle
+- faq:
+    - q: >-
+        If I am a Citizen and the Chancellor is attacked, does Gleaming Armor
+        apply?
+      a: Only if you join as an Ally.
+    - q: >-
+        If I am an Exile, can I ever use this to help other Exiles who are being
+        attacked?
+      a: Nope!
+  card: Gleaming Armor
+- faq:
+    - q: 'Does the cost include any secret cost added by $link:Gleaming Armor$?'
+      a: Yes.
+    - q: >-
+        Does this include the $link:Buried Giant$ and $link:The Hidden Place$
+        site powers?
+      a: Yes.
+    - q: Does this prevent the Conspiracy from being played against me?
+      a: Yes! The Conspiracy power has a cost of a secret burn.
+    - q: Does this prevent mustering from Initiation Rite?
+      a: Nope! Mustering is not a power.
+  card: Spell Breaker
+- faq:
+    - q: When exactly do I gain the favor?
+      a: >-
+        Immediately after resolving the text in the relevant $rule:5.1.4$
+        subsection. So they gain favor for playing to site first, for example,
+        but resolve When Played powers ($rule:7.3.3$) after Saddle Makers.
+  card: Saddle Makers
+- faq:
+    - q: Does this include itself in the number of nomad cards ruled?
+      a: Yes.
+  card: Great Crusade
+- faq:
+    - q: What are the implications of relics being locked?
+      a: >-
+        They can’t be recovered or discarded or otherwise messed with. They’re
+        stuck at the site, except for Ancient Bloodline’s ruler.
+    - q: Does this only apply in campaigns?
+      a: >-
+        No, it always applies. More accurately, the text should read ‘Enemies’
+        rather than ‘Your enemies’ to avoid confusion with battle plans that use
+        this terminology.
+  card: Ancient Bloodline
+- faq:
+    - q: >-
+        If I am a Citizen, can I give the Darkest Secret to the Chancellor to
+        simply take a relic from the Reliquary?
+      a: 'No. For consistency, this card should say ‘if you are an Exile’.'
+  card: Ancient Pact
+- faq:
+    - q: >-
+        If I am a Citizen, do I have to ask the Chancellor for permission
+        ($rule: 6.5$)
+      a: Nope. This is a way to get around it.
+  card: Messenger
+- faq:
+    - q: Do the secrets on the Darkest Secret get burned?
+      a: Nope.
+  card: Ancient Binding
+- faq:
+    - q: >-
+        Does this halve the attack dice after using other battle plans or
+        before?
+      a: >-
+        It modifies how many dice ‘the attacker rolls’, so it halves the final
+        number modified by battle plans.
+  card: Mounted Patrol
+- faq:
+    - q: Does the secret I pay to use this card move with the card?
+      a: 'Yes, but you will still get it back in your Rest Phase.'
+    - q: Can I play this card if I already have three advisers?
+      a: >-
+        Yes, because it ignores the adviser limit. But note that it does not
+        reduce the total number of advisers you have!
+    - q: >-
+        If I have three advisers, including this card, can I play and keep a
+        fourth adviser?
+      a: >-
+        No. Pied Piper itself ignores the adviser limit, so it does not prompt a
+        discard when you play it, but it still counts toward your total number
+        of advisers.
+  card: Pied Piper
+- faq:
+    - q: >-
+        Does this card stack with powers like $link:Augury$ and the
+        $link:Greedy$ trait?
+      a: Yes!
+  card: Mushrooms
+- faq:
+    - q: >-
+        Does this count things like the Oathkeeper bonus and defense dice added
+        by battle plans?
+      a: >-
+        Nope, Giant Python specifies that it only counts defense dice added by
+        declaring targets, which the Oathkeeper bonus and battle plans are not.
+    - q: 'How does this interact with $link:Sprawling Ramparts$?'
+      a: >-
+        Sites now add two dice each, so it would be legal to target one site
+        alone. However, you could not target one site and a relic that added one
+        defense die, as this would be a total of three added defense dice.
+    - q: >-
+        If I am an Imperial player and an Imperial Ally has this, does this take
+        effect?
+      a: >-
+        If the Chancellor has it, it takes effect, since they are always an
+        Ally. If a Citizen has it, it does not take effect, since targets were
+        already declared.
+  card: Giant Python
+- faq:
+    - q: >-
+        So if I am attacking the Empire and use this, can Imperial Allies use
+        battle plans?
+      a: >-
+        Nope. In these situations, consider ‘defender’ to mean the entire
+        defending side.
+  card: Specialist
+- faq:
+    - q: >-
+        If I swap this for the $link:Pied Piper$ and they already have four
+        cards, what happens?
+      a: >-
+        They will need to discard a card from their advisers, but not the
+        Enchantress.
+  card: Enchantress
+- faq:
+    - q: Can I take someone’s last secret? Most cards don’t allow this.
+      a: 'Yup! You’re giving them favor, after all.'
+    - q: >-
+        Can I affect multiple players at my site with one use of this card
+        power?
+      a: Yes!
+    - q: 'How does this work if I have $link:Vow of Silence$?'
+      a: >-
+        You cannot use it to give away your secrets, but you can give favor to
+        take secrets.
+  card: Witch's Bargain
+- faq:
+    - q: Do I modify the die roll before or after rolling?
+      a: 'After, although it is doubtful this will ever matter.'
+    - q: What happens if I roll a 6 and increase the number?
+      a: The game still ends.
+  card: Squalid District
+- faq:
+    - q: >-
+        So can I use Trade modifiers in their advisers, like $link:Marriage$ and
+        $link:Secret Signal$?
+      a: Yes!
+    - q: Can I use my other Trade modifiers before using Master of Disguise?
+      a: >-
+        No, you fully replace your advisers with another player’s advisers for
+        the current Trade action.
+    - q: >-
+        Can I use this to get around $link:Vow of Poverty$ or $link:Vow of
+        Kinship$?
+      a: 'Yes. Quite a sincere vow, right?'
+  card: Master of Disguise
+- faq:
+    - q: >-
+        Can I attack someone who does not rule my site and whose pawn is not at
+        my site?
+      a: >-
+        Nope. You must follow the normal Campaign rules for declaring a
+        defender.
+    - q: When exactly do I campaign?
+      a: Immediately after the triggering player ends their campaign.
+    - q: 'Can I use this power if the attacker used $link:Second Wind$?'
+      a: 'Yes. Resolve Sneak Attack first, then Second Wind.'
+  card: Sneak Attack
+- faq:
+    - q: 'Does this card power apply if I am playing a facedown card ($rule:6.1$)?'
+      a: 'Yes! As it says in the rules, modifiers do apply.'
+    - q: >-
+        If I paid for Forced Labor once when playing facedown, would I have to
+        pay again to play it face up?
+      a: Yes! Servitude is not pleasant.
+  card: Forced Labor
+- faq:
+    - q: Do cards like $Royal Tax$ take favor from the Nomad bank now?
+      a: >-
+        Nope. You can use favor in the Nomad bank, but it is not favor on your
+        board.
+    - q: >-
+        If I have the $link:Banner of the People's Favor$ with only one favor,
+        does its Wake power force me to take from the Nomad bank?
+      a: >-
+        No. You can use Nomad favor as if it is on your board, but you are not
+        forced to.
+    - q: >-
+        If someone gives me favor, such as by using $link:Witch's Bargain$, does
+        it go on my board or in the Nomad bank?
+      a: >-
+        It goes to the Nomad bank. More accurately, the card should say ‘any
+        favor going to your board’ instead of ‘any favor you gain or take.’
+  card: Vow of Kinship
+- faq:
+    - q: 'If I already have a face-up Vision, do I have to discard it?'
+      a: Nope! You just cannot play any new ones.
+    - q: Can I play the Conspiracy if I have this?
+      a: Nope! The Conspiracy is a Vision.
+  card: Vow of Obedience
+- faq:
+    - q: Can I move this card to a site with no denizens to discard?
+      a: >-
+        Nope! A slightly more accurate templating would be ‘Discard a denizen
+        card at any site to move this card there.’
+  card: Roving Terror
+- faq:
+    - q: 'If I only draw one card but cannot play it face up, what do I do?'
+      a: 'Discard it, following the normal rules.'
+    - q: 'If the bandits rule this, who does it affect?'
+      a: Every player!
+    - q: Does this force enemies to flip up their current facedown advisers?
+      a: Nope. Any advisers that are currently facedown can remain facedown.
+    - q: Does this affect the facing of advisers during setup?
+      a: Nope.
+  card: Gossip
+- faq:
+    - q: >-
+        Does taking burned favor include if someone recovers a relic from a site
+        with a favor burn cost? What if I’m the one recovering it?
+      a: 'Yup, you take the favor in all of those cases.'
+  card: Vow of Renewal
+- faq:
+    - q: When exactly do I pay for this power?
+      a: >-
+        When you choose to use it, immediately after someone takes relics and
+        they’re in your region.
+    - q: >-
+        Could I use this on a player who just took a relic from me in a
+        campaign?
+      a: 'Yes! Pretty devious, right?'
+    - q: >-
+        Could I use this to take relics given in an exchange or from Citizenship
+        offers?
+      a: >-
+        Nope. Very strictly, these are cases where a relic is given, rather than
+        taken.
+    - q: >-
+        When does the Oathkeeper title change hands if a relic is taken and then
+        taken again with Relic Thief?
+      a: >-
+        Check for who holds the most relics at each moment that relics change
+        hands, not after the entire process of multiple players taking relics.
+    - q: 'Do I evaluate the results of the roll all at once, or one die at a time?'
+      a: >-
+        All at once. It is less likely that you succeed on the roll with more
+        relics, but you will get all of them if you do succeed.
+  card: Relic Thief
+- faq:
+    - q: 'How does this interact with the $link:Shrouded Wood$?'
+      a: >-
+        You must choose whether to use Tents at the start of the action. If the
+        ruler makes you travel to another region, Tents does not work.
+  card: Tents
+- faq:
+    - q: Can I be forced to travel here?
+      a: Only if you choose to pay the favor toll or if you do not need to.
+    - q: Do I have to pay the bandits when traveling to a facedown site?
+      a: 'No, since no one rules facedown sites.'
+  card: Toll Roads
+- faq:
+    - q: >-
+        If I’m the Chancellor and I’m joining a campaign as an Imperial Ally to
+        a Citizen defender, does using this battle plan mean that the Citizen
+        defender can’t use other battle plans?
+      a: Yes. This is an errata from the rules as written.
+    - q: >-
+        If the bandits rule Code of Honor as well as other battle plans that
+        they can use, which battle plans will they use when defending in a
+        campaign?
+      a: They will use Code of Honor and no others.
+  card: Code of Honor
+- faq:
+    - q: 'Can I use Palanquin to go to a site with $link:Toll Roads$?'
+      a: >-
+        Yes, but the player whose pawn is at your site must choose to give a
+        favor to Toll Roads’ ruler, if they don’t rule it themself.
+    - q: 'If we’re both at the $link:Shrouded Wood$, who chooses where we go?'
+      a: >-
+        You will always go to the site that you choose, as long as the other
+        player could travel there. If you rule the Shrouded Wood, you choose
+        their destination, which can be different from the site that you go to.
+        If they rule the Shrouded Wood, they will travel to the same site as
+        you. If a third party rules the Shrouded Wood, the third party will
+        choose where the player travels.
+  card: Palanquin
+- faq:
+    - q: Can I target a relic at a site I already rule?
+      a: 'No, you must be targeting the site as well.'
+  card: Relic Hunter
+- faq:
+    - q: What happens if my enemy has multiple advisers of the same suit?
+      a: >-
+        Take one favor per adviser of that suit. So if they have two Hearth
+        advisers, take two favor from the Hearth bank.
+    - q: What happens if the bandits rule this and are victorious?
+      a: >-
+        Burn the gained favor. I will likely add a clarifying rule to always
+        burn favor going to bandits, since this behavior is baked into cards
+        like $link:Toll Roads$.
+  card: Military Parade
+- faq:
+    - q: >-
+        Does this also let me ignore the powers of cards at the site I am
+        traveling to, such as $link:Toll Roads$?
+      a: >-
+        Nope, just the power of the site itself. It lets you get around things
+        like the $link:Narrow Pass$.
+    - q: >-
+        What happens if I use this when traveling from the $link:Shrouded Wood$
+        that is ruled by an enemy?
+      a: >-
+        If the enemy ruler chooses that you travel to a Beast site, you pay no
+        Supply. If you have less than 2 Supply, the enemy could either force
+        your Travel action to fail, or could let you travel to a Beast site for
+        free.
+  card: Forest Paths
+- faq:
+    - q: >-
+        Can I use Trade modifiers at the site my pawn is physically at, in
+        addition to the site I am acting as if I am at?
+      a: Nope! Only the new site.
+  card: Small Friends
+- faq:
+    - q: Can I still use this as an Arcane card for trading?
+      a: Yup! The Trade modifier is optional.
+    - q: Can I treat this as other suits for stuff outside Trade?
+      a: >-
+        Nope! It's a Trade modifier, so it only works with the Trade action.
+        This card is a bit less wacky than most.
+  card: Acting Troupe
+- faq:
+    - q: >-
+        In the Oathkeeper of Protection, if I get the most relics before I
+        return a relic to the deck, do I take the Oathkeeper title?
+      a: >-
+        No. Only count your number of relics after you have completed this
+        action.
+  card: Fae Merchant
+- faq:
+    - q: >-
+        If there are no warbands at the site I travel to, do I have to kill a
+        warband on my board?
+      a: Nope. It’s one at the site.
+    - q: Can I still travel to a site if there are no warbands there?
+      a: 'Yup. That’s what the “if able” signifies ($rule:10$).'
+    - q: >-
+        If I travel to a site that has only one of my warbands on it, do I have
+        to kill it? Pretty please no?
+      a: 'Sorry, you have to kill it!'
+  card: Tyrant
+- faq:
+    - q: >-
+        Does the “unless your enemy has the People's Favor” restriction apply to
+        both the skull cancellation and attack dice?
+      a: "Yes, the entire power is canceled if your enemy has the People's Favor."
+  card: The Great Levy
+- faq:
+    - q: Can I take the extra favor from a different bank?
+      a: 'No, it all must come from the same bank, as normal.'
+  card: Secret Signal
+- faq:
+    - q: What does ‘other’ mean on this card?
+      a: 'If Discord happens to be the most common suit, do not discard Riots.'
+    - q: >-
+        Which cards count for the most common suit, and which get discarded
+        exactly?
+      a: Count and discard cards at all sites. Do not count or discard advisers.
+  card: Riots
+- faq:
+    - q: >-
+        If I am attacking a player who has Imperial Allies, do I have to give
+        the favor to all of them?
+      a: Nope. Give the favor to the player you are attacking.
+    - q: 'If I don’t have the favor to give, can I still be victorious?'
+      a: >-
+        Nope. Consider the favor you’re giving them as part of the cost to use
+        the power.
+    - q: >-
+        Can I use this when targeting their pawn and favor, thus burning some of
+        the favor I give them?
+      a: Yes. Also you are a terrible person and I love it.
+  card: Peace Envoy
+- faq:
+    - q: 'Does this include the $link:Conspiracy$?'
+      a: Yup!
+  card: Book Binders
+- faq:
+    - q: >-
+        If my enemy has any facedown secrets, do they have to burn them in any
+        particular order?
+      a: >-
+        Nope. They burn all of their secrets except one, whether face up or
+        down.
+  card: Book Burning
+- faq:
+    - q: 'How does this interact with $link:Pied Piper$?'
+      a: >-
+        You can always play Pied Piper after Family Wagon. If you play Family
+        Wagon after Pied Piper, you can only keep one non-Nomad adviser, so you
+        could keep Pied Piper or one other non-Nomad card. (This ruling has
+        changed.)
+    - q: >-
+        What happens if I play this into my advisers and already have three
+        Nomad advisers?
+      a: >-
+        Nothing, this is okay. You check whether to discard based on the new
+        adviser limit prompted by the card you are playing. In this case, Family
+        Wagon will increase your adviser limit and allow you to play without
+        discarding. (This ruling has changed.)
+  card: Family Wagon
+- faq:
+    - q: What if I don’t have any warbands?
+      a: Not a problem. You only kill one if you have any on your board.
+    - q: >-
+        Can I be forced to travel from a site affected by this card, and make me
+        lose warbands?
+      a: Yes!
+  card: Grasping Vines
+- faq:
+    - q: >-
+        If I am attacking a player who has Imperial Allies, do I have to give a
+        favor to each of them?
+      a: Nope. Give the favor to the player that you are attacking.
+    - q: >-
+        If my enemy uses a card like $link:Traveling Doctor$ to ignore this, do
+        I still give the favor?
+      a: >-
+        Yes. More accurately, the card should say ‘If you choose to’ rather than
+        ‘If you do.’
+  card: Sticky Fire
+- faq:
+    - q: 'How does this interact with $link:Hospital$?'
+      a: >-
+        Warbands that would be killed are placed on Hospital’s site, as long as
+        that player still rules it. Then, any warbands in that player’s force
+        are put on Obsidian Cage.
+    - q: >-
+        What happens to warbands on this card if it is returned to the relic
+        deck?
+      a: >-
+        The player who holds it must return all the warbands as described on its
+        Action power.
+    - q: What happens to Exile warbands if the Exile becomes a Citizen?
+      a: >-
+        They remain the same color while on the Cage. If they are returned, they
+        must return to that Exile and become purple.
+  card: Obsidian Cage
+- faq:
+    - q: 'How does this interact with $link:Hospital$?'
+      a: >-
+        Hospital prevents warbands from being killed, so you don’t gain warbands
+        for them.
+    - q: >-
+        If I am a Citizen and campaign against the Chancellor or another
+        Citizen, what color of warbands do I gain?
+      a: You still gain purple warbands.
+  card: Cursed Cauldron
+- faq:
+    - q: When exactly do I place the warbands saved from being killed?
+      a: >-
+        At the end of the campaign. More accurately, the card should read ‘If
+        any of your warbands would be killed, place them on Hospital's site
+        instead if you rule it at the end.’
+  card: Hospital
+- faq:
+    - q: Can I use this if the Darkest Secret is still in the shared bank?
+      a: >-
+        Yes, and any excess secrets will return to the shared bank when a player
+        recovers it.
+  card: Storyteller
+- faq:
+    - q: >-
+        Can I use this to add a secret to the Darkest Secret if it is still in
+        the shared bank?
+      a: >-
+        Yes, and any excess secrets will return to the shared bank when a player
+        recovers it.
+  card: Forgotten Vault
+- faq:
+    - q: 'If the bandits rule this card, can anyone recover the Darkest Secret?'
+      a: >-
+        Nope! For completeness, the definition of ‘enemy’ in the Glossary should
+        also say that the bandits consider all players enemies.
+  card: Tome Guardians
+- faq:
+    - q: Can I use this if my region’s discard pile is empty?
+      a: Nope! You have to reveal a card.
+    - q: What happens if I reveal a Vision card from the top of the discard pile?
+      a: 'It does not match anything, so you can travel anywhere. Congratulations!'
+    - q: Where does the card go after I reveal it?
+      a: Just put it back on the discard pile facedown.
+    - q: >-
+        If I use this to travel from the $link:Shrouded Wood$, but an enemy
+        rules it, what happens?
+      a: >-
+        The ruler chooses your destination site from among the possible ones
+        allowed by Brass Horse.
+    - q: >-
+        What happens if the only site with a matching suit is the site where my
+        pawn is?
+      a: >-
+        You can travel to any other site, since when you Travel you move to a
+        different site.
+  card: Brass Horse
+- faq:
+    - q: >-
+        If I’m in $link:The Hidden Place$, can I force them to flip over a
+        secret to travel to me?
+      a: >-
+        No. They have to be willing to flip it over. You do not have power over
+        their resources.
+    - q: >-
+        If they’re in another region and the $link:Narrow Pass$ is in my region,
+        will Whistle work?
+      a: >-
+        Nope. They won’t be able to travel to you, unless you’re at the Narrow
+        Pass.
+    - q: 'If I have the $link: Vow of Silence$, do I have to give the secret away?'
+      a: Nope. Expect that your Whistle is going to get stolen soon!
+    - q: Do they get the secret face up or down?
+      a: Face up.
+  card: Whistle
+- faq:
+    - q: What cases does this cover?
+      a: >-
+        All of them! You can campaign against sites but you can’t place warbands
+        at them. You can’t drop off warbands using a minor action ($rule:6.5$).
+        You can’t use $link:Warning Signals$ to move warbands around. And so on.
+  card: Ring of Devotion
+- faq:
+    - q: >-
+        Can I use this to remove or sacrifice the last warband of mine off a
+        site?
+      a: >-
+        Yes you can. This gets around the restriction in the relevant minor
+        action ($rule:6.5$).
+    - q: Can I not add warbands at my sites to my attacking force?
+      a: 'Nope, as with the other vows, you gotta do it.'
+    - q: >-
+        Does this allow me to redistribute warbands from my attacking force
+        across the sites I rule?
+      a: >-
+        No. You can choose where to remove them from, but you cannot freely
+        redistribute.
+    - q: Can someone make me travel if I have this?
+      a: 'Nope! For example, banishing your pawn would only burn half your favor.'
+    - q: 'How does this work if I have $link:Bandit Crown$?'
+      a: >-
+        Add the bandit warbands to your attacking force. You could not kill or
+        sacrifice the bandit warbands, only your physical warbands. Expect your
+        Bandit Crown to get stolen soon!
+    - q: >-
+        If I am a Citizen attacking a Citizen or the Chancellor, do I add purple
+        warbands at sites to my attacking force?
+      a: >-
+        No. During this campaign you are not an Imperial player, so you do not
+        rule sites that have purple warbands on them.
+  card: Vow of Union
+- faq:
+    - q: "How does this work if I have $link:Witch's Bargain$?"
+      a: >-
+        Other players can still take your secrets, but you cannot use it to give
+        away your secrets. Give and take are distinct keywords.
+  card: Vow of Silence
+- faq:
+    - q: "Can I use this along with the $link:Banner of the People's Favor?$"
+      a: Yup!
+  card: Crop Rotation
+- faq:
+    - q: Can I play this if I have two locked advisers already?
+      a: >-
+        Nope. You need to be able to fulfill your adviser capacity, and you
+        would not be able to.
+  card: Insomnia
+- faq:
+    - q: Can I play this if I have two locked advisers already?
+      a: >-
+        Nope. You need to be able to fulfill your adviser capacity, and you
+        would not be able to.
+  card: Silver Tongue
+- faq:
+    - q: Can I play this if I have two locked advisers already?
+      a: >-
+        Nope. You need to be able to fulfill your adviser capacity, and you
+        would not be able to.
+  card: Assassin
+- faq:
+    - q: Can I be forced to travel here?
+      a: Only if you choose to flip a secret.
+    - q: >-
+        If a travel to the site, do I still have to flip another secret if I
+        declare campaign targets at the site?
+      a: >-
+        Yup! So if you traveled to the site and then targeted the site and a
+        pawn there, you would need to flip two secrets.
+  card: The Hidden Place
+- faq:
+    - q: Can I choose to not burn the secret and just return the card to the box?
+      a: Yes! It says ‘You may...’
+  card: Conspiracy
+- faq:
+    - q: >-
+        If I discard a card that has favor on it, does the favor return to its
+        bank in time to take using this power?
+      a: Yes!
+  card: Taming Charm
+- faq:
+    - q: >-
+        Does this let me avoid stopping when I draw a Vision from the world
+        deck?
+      a: Nope. You still stop if you draw one.
+    - q: Can I choose to draw two more cards after I draw the original amount?
+      a: >-
+        No. As with other action modifiers, you choose whether to use it at the
+        start of the action it modifies. A clearer wording might be 'Draw two
+        more cards. If you use this power, you must reveal every card you draw
+        and the card you keep.'
+  card: Truthful Harp
+- faq:
+    - q: 'If I have the $link:Truthful Harp$, what do I have to reveal?'
+      a: >-
+        The cards you draw from the deck or discard pile, and the specific card
+        you keep, but not swapped Dispossessed cards that you do not keep.
+  card: Great Spire
+- faq:
+    - q: Can the Chancellor use this?
+      a: >-
+        Yes! The other players should probably think about getting the Skeleton
+        Key away from the Chancellor.
+  card: Skeleton Key
+- faq:
+    - q: 'Can this be used against empty, bandit-ruled sites?'
+      a: Yes!
+  card: Key to the City
+- faq:
+    - q: Do I get a warband if someone forces me to travel?
+      a: Yes!
+  card: Dragonskin Drum
+- faq:
+    - q: >-
+        Can I use this card in any way to reroll the same set of dice multiple
+        times?
+      a: >-
+        No. It is too subtle, but the word ‘once’ indicates that the dice cannot
+        be rerolled multiple times.
+    - q: Do I pay for this card before or after rolling?
+      a: After.
+    - q: 'Can I use this to reroll dice for $link:Relic Thief$ or $Gambling Hall$?'
+      a: >-
+        Yup! Jinx is templated super weirdly, as a persistent power rather than
+        a battle plan, so you can do this.
+  card: Jinx
+- faq:
+    - q: >-
+        Can I use this to get around the power of the $link:Shrouded Wood$ if
+        the Chancellor rules it?
+      a: >-
+        Unfortunately, no. You only rule cards at sites, not the sites
+        themselves.
+  card: Grand Mask
+- faq:
+    - q: >-
+        Can I use the Scepter on the same turn that I got it if I was given it
+        in an exchange?
+      a: >-
+        Yes! Take and give are unique keywords, so feel free. Thematically, you
+        were freely given the power to use it, rather than seizing it.
+  card: The Grand Scepter
+- faq:
+    - q: 'How does this interact with the $link:Fertile Valley$?'
+      a: >-
+        If you play a Hearth card to the Fertile Valley, you will get one secret
+        (for playing to a site) and one favor (for playing to the Fertile Valley
+        specifically).
+  card: Book of Records
+- faq:
+    - q: >-
+        If I use Zealots and later roll skulls in a way that makes my force
+        smaller than the defending force, does Zealots trigger?
+      a: >-
+        Nope. Check whether your force is smaller than the defending force when
+        you use the battle plan.
+  card: Zealots
+- faq:
+    - q: So do I basically get an extra warband at sites I rule if I have this?
+      a: >-
+        Yup! A site you rule with one physical warband basically has two, since
+        you count bandits as warbands.
+    - q: >-
+        If I have the Bandit Crown, can I take the last warband off my site as a
+        minor action ($rule:6.5$)? Likewise, can I simply put a warband on a
+        site with no warbands on it?
+      a: >-
+        Yes to both! The bandit there counts as your warband, so you’re not
+        really taking your last one off the site, and you rule empty sites.
+    - q: What does ‘your warbands’ refer to exactly?
+      a: >-
+        As an Exile, they are your color of warbands. As the Chancellor or a
+        Citizen, they are purple warbands. But if you’re a Citizen and attack an
+        Imperial player, they revert to your color of warbands for that
+        campaign.
+    - q: >-
+        Do purple warbands get added to empty sites if I have the Bandit Crown
+        and become a Citizen or flip up facedown sites while I am a Citizen?
+      a: 'Nope. Keep the sites empty, though they are still ruled by the Empire.'
+    - q: 'In the Chronicle, if I win, do I discard sites with no warbands?'
+      a: Nope! You rule them.
+    - q: >-
+        In the Chronicle, if I win as the Chancellor and a Citizen has the
+        Bandit Crown, do I discard sites with no warbands?
+      a: >-
+        No, You rule those sites as well. The Citizen’s warbands are purple, and
+        they treat bandits as their warbands.
+    - q: >-
+        In the Chronicle, if I win as an Exile and make another Exile with the
+        Bandit Crown into a Citizen, what happens?
+      a: >-
+        You’ll place a warband on all of the sites they rule, even sites they
+        had no warbands on.
+  card: Bandit Crown
+- faq:
+    - q: >-
+        Does this protect sites from being discarded even if the winner does not
+        rule it?
+      a: 'Yes! It will become a ruin later in the Chronicle, though.'
+    - q: >-
+        Does this protect sites immediately after being built, or only in the
+        next Chronicle?
+      a: It immediately protects sites.
+    - q: >-
+        If a site has a Beast card and an edifice, but the winner does not rule
+        it, does Forest Temple protect it from getting ruined?
+      a: >-
+        No. All Forest Temple does is prevent a site discard, not whether an
+        edifice degrades to a ruin from lack of rule.
+  card: Forest Temple
+- faq:
+    - q: 'Do rolls of 2x faces multiply the total result, like in a campaign?'
+      a: Yes!
+  card: Gambling Hall
+- faq:
+    - q: 'If I have a banner, can I recover it from myself?'
+      a: 'Yes you can. More accurately, this card should say ‘Other players...’'
+  card: Circlet of Command
+- faq:
+    - q: What does ‘any time’ mean? The same game? Future games?
+      a: >-
+        Whatever your group agrees to. This falls under the Group Agreements
+        guidance in the playbook involving metagame play.
+  card: The Tribunal
+- faq:
+    - q: Can I look at the top five cards before I choose how many to swap?
+      a: >-
+        Nope. You choose how many you want to swap without peeking at all. You
+        better know what is in there if you want to get rid of specific cards!
+  card: Fallen Spire
+- faq:
+    - q: >-
+        If someone forces me to travel away from here and I rule this site, do I
+        get to choose where to go?
+      a: >-
+        No. The power of the Shrouded Wood applies when an enemy rules it, not
+        when you rule it.
+    - q: >-
+        If someone forces me to travel away from here and a different enemy
+        rules this site, do they get to choose where I go?
+      a: Yes!
+    - q: >-
+        If the Chancellor is Decadent and travels from this site to a Hinterland
+        site, how many Supply does this cost?
+      a: 'Three. The base Travel cost is two, and Decadent adds one more.'
+    - q: >-
+        What happens if I want to travel from here, but the bandits rule this
+        site?
+      a: >-
+        Travel as normal. This site text needs a small errata, changing ‘enemy’
+        to ‘enemy player.’
+    - q: How does this work if the Clockwork Prince rules it?
+      a: >-
+        Under Limited Powers, travel as normal. Under Expanded Powers, your
+        desination is chosen by the player with discretion, as described in
+        Expanded Powers.
+  card: Shrouded Wood
+- faq:
+    - q: Can I bury Visions? What does that do to the Visions Drawn track?
+      a: 'Yes you can, and it does not do anything to the Visions Drawn track.'
+  card: Cracked Horn
+- faq:
+    - q: Does this work if I play a card facedown in my advisers?
+      a: >-
+        No. More accurately, the card should say ‘If you play a denizen face up
+        when first drawn, gain favor from the Hearth bank.’
+    - q: Does this power trigger when I play Welcoming Party itself?
+      a: No.
+  card: Welcoming Party
+- faq:
+    - q: Do I gain favor for swapping a card into the site?
+      a: No. A ‘swap’ is not a ‘play.’
+  card: Horned Mask
+- faq:
+    - q: >-
+        What happens if I have no favor to put on it during my Wake Phase, but
+        it only has one favor on it?
+      a: Nothing. It stays at one favor.
+    - q: Can I use this to play cards to facedown sites?
+      a: Nope! They have no capacity for cards.
+    - q: Does anything happen to the favor on this if I give away the banner?
+      a: Nope!
+  card: Banner of the People's Favor
+- faq:
+    - q: >-
+        Can I place one favor and return one favor, or do I have to do the same
+        thing twice?
+      a: >-
+        You may place one favor and return one favor, keeping its value the
+        same.
+  card: Banner of the Mob's Favor
+- faq:
+    - q: Can I recover this from someone if they have no cards at their site?
+      a: Nope.
+    - q: >-
+        Can I recover this from someone who has no advisers if they have cards
+        at their site?
+      a: Yes you can! This is an errata.
+    - q: Does anything happen to the secrets on this if I give away the banner?
+      a: Nope!
+  card: Banner of the Darkest Secret
