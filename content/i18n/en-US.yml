@@ -7,8 +7,8 @@ Common:
     AdvancedShort: Advanced
     SyntaxLong: Syntax Help
     SyntaxShort: Syntax
-    ProductsLong: All Products
-    ProductsShort: Products
+    ProductsLong: All Games
+    ProductsShort: Games
 
   Products:
     Oath: Oath
