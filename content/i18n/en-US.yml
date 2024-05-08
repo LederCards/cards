@@ -136,8 +136,8 @@ Pages:
           - Example: '`-name:"Alchemist"`'
             Text: Cards without "alchemist" in their name.
 
-      Product:
-        Name: Product
+      Game:
+        Name: Game
         Text: >
           You can find cards that are associated with a certain game by using the `game:` operator.
 
@@ -148,7 +148,7 @@ Pages:
           - Example: '`-game:root`'
             Text: Cards that don't belong to the Root game.
 
-      Subproduct:
+      Product:
         Name: Product
         Text: >
           You can find cards that are associated with a certain product by using the `product:` operator.
