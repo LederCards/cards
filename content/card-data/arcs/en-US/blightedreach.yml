@@ -1,0 +1,164 @@
+- id: ARCS/AID01A
+  image: AID01A
+  name: Imperial Council in Session
+  tags:
+    - arcsblightedreach
+    - Imperial Council
+- id: ARCS/AID01B
+  image: AID01B
+  name: Imperial Council Decided
+  tags:
+    - arcsblightedreach
+    - Imperial Council
+- id: ARCS/AID02
+  image: AID02
+  name: Guild Envoys Depart
+  tags:
+    - arcsblightedreach
+    - Edict
+- id: ARCS/AID03
+  image: AID03
+  name: Govern the Imperial Reach
+  tags:
+    - arcsblightedreach
+    - Edict
+- id: ARCS/AID04
+  image: AID04
+  name: Govern the Imperial Reach
+  tags:
+    - arcsblightedreach
+    - Edict
+- id: ARCS/AID05
+  image: AID05
+  name: Govern the Imperial Reach
+  tags:
+    - arcsblightedreach
+    - Edict
+- id: ARCS/AID06A
+  image: AID06A
+  name: Imperial Regent
+  tags:
+    - arcsblightedreach
+    - Title
+- id: ARCS/AID06B
+  image: AID06B
+  name: Outlaw
+  tags:
+    - arcsblightedreach
+    - Title
+- id: ARCS/AID10A
+  image: AID10A
+  name: Flagship Upgrades
+  tags:
+    - arcsblightedreach
+    - Ability
+- id: ARCS/AID10B
+  image: AID10B
+  name: Flagship Upgrades
+  tags:
+    - arcsblightedreach
+    - Ability
+- id: ARCS/CC01
+  image: CC01
+  name: Mining Interest
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Material
+    - 2
+- id: ARCS/CC02
+  image: CC02
+  name: Construction Union
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Material
+    - 2
+- id: ARCS/CC03
+  image: CC03
+  name: Gatekeepers
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Fuel
+    - 2
+- id: ARCS/CC04
+  image: CC04
+  name: Shipping Interest
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Fuel
+    - 2
+- id: ARCS/CC05
+  image: CC05
+  name: Skirmishers
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Weapon
+    - 2
+- id: ARCS/CC06
+  image: CC06
+  name: Arms Union
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Weapon
+    - 2
+- id: ARCS/CC07
+  image: CC07
+  name: Lattice Spies
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Psionic
+    - 2
+- id: ARCS/CC08
+  image: CC08
+  name: Silver Tongues
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Psionic
+    - 2
+- id: ARCS/CC09
+  image: CC09
+  name: Sworn Guardians
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Relic
+    - 2
+- id: ARCS/CC10
+  image: CC10
+  name: Elder Broker
+  tags:
+    - arcsblightedreach
+    - Guild
+    - Relic
+    - 2
+- id: ARCS/CC11
+  image: CC11
+  name: Populist Demands
+  tags:
+    - arcsblightedreach
+    - Vox
+- id: ARCS/CC12
+  image: CC12
+  name: Council Intrigue
+  tags:
+    - arcsblightedreach
+    - Vox
+- id: ARCS/CC13
+  image: CC13
+  name: Diplomatic Fiasco
+  tags:
+    - arcsblightedreach
+    - Vox
+- id: ARCS/CC14
+  image: CC14
+  name: Song of Freedom
+  tags:
+    - arcsblightedreach
+    - Vox
