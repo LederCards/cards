@@ -4,7 +4,6 @@ const yaml = require('js-yaml');
 const readdir = require('recursive-readdir');
 
 fs.ensureDirSync('./dist');
-fs.ensureDirSync('./dist/faq');
 
 const readAllFAQ = async () => {
   const allFAQFiles = await readdir('./content/faq');
@@ -20,8 +19,8 @@ const readAllFAQ = async () => {
     allFAQData[game][locale] = faqs;
   });
 
-  fs.writeJsonSync(`dist/faq.json`, allFAQData),
-    console.log(`Got ${allFAQFiles.length} FAQ files!`);
+  fs.writeJsonSync(`dist/faq.json`, allFAQData);
+  console.log(`Got ${allFAQFiles.length} FAQ files!`);
 };
 
 readAllFAQ();

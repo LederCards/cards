@@ -11,6 +11,7 @@
     "build:meta-data": "ts-node scripts/build-meta-data",
     "build:i18n": "ts-node scripts/build-i18n",
     "build:faq": "ts-node scripts/build-faq",
+    "build:changelog": "ts-node scripts/build-changelog",
     "compress:card-images": "ts-node scripts/compress-card-images",
     "compress:card-symbols": "ts-node scripts/compress-card-symbols",
     "validate": "concurrently \"npm run validate:*\"",
