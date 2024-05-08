@@ -32,8 +32,6 @@ subproducts:
 
 external:
   rules: ''
-  faq:
-    en-US: 'https://dl.dropboxusercontent.com/s/qq3ckwivu0jixt4/oath.json?dl=0'
 
 # https://handlebarsjs.com/guide/
 cardTemplate:
