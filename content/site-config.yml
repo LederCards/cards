@@ -14,9 +14,9 @@ links:
 # https://ionic.io/ionicons
 icons:
   topbar:
-    advanced:
-    syntax:
-    products:
+    advanced: funnel-outline
+    syntax: help-circle-outline
+    products: file-tray-full-outline
 
   advanced:
     CardName: person-outline
