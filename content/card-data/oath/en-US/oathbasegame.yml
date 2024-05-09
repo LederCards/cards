@@ -1584,7 +1584,7 @@
 - id: OATH/180
   text: >-
     **Action**: Kill one warband on the board of a player who has an
-    `symbol:suit-order` or `symbol:suit-beast` adviser to gain one warband.
+    `symbol:suit-order` or `symbol:suit-discord` adviser to gain one warband.
   image: Second Chance
   name: Second Chance
   tags:
