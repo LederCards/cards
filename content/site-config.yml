@@ -1,0 +1,32 @@
+features:
+  github: true
+  discord: true
+  askaquestion: true
+  faq: true
+  changelog: true
+
+links:
+  github: https://github.com/LederCards
+  discord: https://discord.com/servers/woodland-warriors-476234833572397056
+  askaquestion: https://ledergames.com/pages/contact
+  creator: mailto:kyle@seiyria.com
+
+# https://ionic.io/ionicons
+icons:
+  topbar:
+    advanced:
+    syntax:
+    products:
+
+  advanced:
+    CardName: person-outline
+    Product: game-controller-outline
+    Subproducts: hardware-chip-outline
+    Tags: pricetags-outline
+
+    Keys: bookmark-outline
+    Act: bookmark-outline
+    Complexity: bookmark-outline
+
+    Defense: bookmark-outline
+    CardCapacity: bookmark-outline
