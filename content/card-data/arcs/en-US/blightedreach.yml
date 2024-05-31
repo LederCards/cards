@@ -1,4 +1,6 @@
 - id: ARCS/AID01A
+  text: >-
+    **When Secured:** Flip this card over to its Imperial Council Decided side. As a reminder, tuck it partially under your played card so its card title is showing.
   image: AID01A
   name: Imperial Council in Session
   tags:
@@ -11,30 +13,68 @@
     - Blighted Reach
     - Imperial Council
 - id: ARCS/AID02
+  text: >-
+    *This card is only used in two-player games.*
+     
+    Bury all ***Guild cards*** in the Court with no agents on them, then refill the Court.
   image: AID02
   name: Guild Envoys Depart
   tags:
     - Blighted Reach
     - Edict
 - id: ARCS/AID03
+  text: >-
+    The First Regent must either enforce this Policy or change to a new Policy Card.
+     
+    **A Policy of War**
+     
+    **1. Collect Demand:** Take 1 Trophy or Captive, but not Imperial or Regent pieces, from each Rival Regent. If they have none, take 1 agent from their supply as a Favor. If they have no agents, you may make them an Outlaw.
+     
+    **2. Imperial Action:** Give 1 Weapon to each Regent from the supply. If the supply is empty, give it from the Imperial Trust.
   image: AID03
   name: Govern the Imperial Reach
   tags:
     - Blighted Reach
     - Edict
 - id: ARCS/AID04
+  text: >-
+    The First Regent must either enforce this Policy or change to a new Policy Card.
+     
+    **A Policy of Peace**
+     
+    **1. Collect Demand:** Take 1 Relic or Psionic from each Regent, even you. Place it in the ***Imperial Trust*** on your First Regent tile.
+     
+    If a Rival Regent has none, take 1 agent from their supply as a Favor. If they have no agents, you make make them an Outlaw.
+     
+    **2. Imperial Action:** Each Regent gains their bonus city Power on uncovered city slots.
   image: AID04
   name: Govern the Imperial Reach
   tags:
     - Blighted Reach
     - Edict
 - id: ARCS/AID05
+  text: >-
+    The First Regent must either enforce this Policy or change to a new Policy Card.
+     
+    **A Policy of Escalation**
+     
+    **1. Collect Demand:** Take 1 Weapon, Fuel, or Material from each Regent, even you. Place it in the ***Imperial Trust*** on your First Regent tile.
+     
+    If a Rival Regent has none, take 1 agent from their supply as a Favor. If they have no agents, you make make them an Outlaw.
+     
+    **2. Imperial Action:** Place 2 fresh Imperial ships in an Empire-controlled system. If there are none, place them at a Loyal starport.
   image: AID05
   name: Govern the Imperial Reach
   tags:
     - Blighted Reach
     - Edict
 - id: ARCS/AID06A
+  text: >-
+    ***Tuck this partially under your Fate card.***
+     
+    You must follow the rules for Regents listed on the Empire Rules aid sheet.
+     
+    *You can become an **Outlaw**, flipping this title over, if you call a Summit.*
   image: AID06A
   name: Imperial Regent
   tags:
@@ -47,6 +87,20 @@
     - Blighted Reach
     - Title
 - id: ARCS/AID10A
+  text: >-
+    *Damaged Upgrades still give benefits.*
+     
+    **Slipstream Drive**
+     
+    **Prelude:** Once per turn, you may Catapult move either your Flagship alone or other ships from your Flagship.
+     
+    **Tractor Beam**
+     
+    When your Flagship is defending in **battle**, the attacker cannot collect raid dice.
+     
+    **Control Array**
+     
+    While your Flagship is in a gate, you may **tax** any citires in its cluster like they are Loyal. *(Don't take Captives.)*
   image: AID10A
   name: Flagship Upgrades
   tags:
@@ -59,6 +113,10 @@
     - Blighted Reach
     - Ability
 - id: ARCS/CC01
+  text: >-
+    **Manufacture (Build):** Gain 1  Material.
+     
+    **Prelude:** You may discard this to gain Material up to your number of empty resource slots. If the Material supply empties, steal the Material instead.
   image: CC01
   name: Mining Interest
   tags:
@@ -67,6 +125,8 @@
     - Material
     - 2
 - id: ARCS/CC02
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card.
   image: CC02
   name: Construction Union
   tags:
@@ -75,6 +135,10 @@
     - Material
     - 2
 - id: ARCS/CC03
+  text: >-
+    When you **battle** in a gate, you may collect 2 more dice.
+     
+    **Prelude:** You may discard this to place 1 ship in each gate *(unless out of play)*.
   image: CC03
   name: Gatekeepers
   tags:
@@ -83,6 +147,10 @@
     - Fuel
     - 2
 - id: ARCS/CC04
+  text: >-
+    **Synthesize (Build):** Gain 1 Fuel.
+     
+    **Prelude:** You may discard this to gain Fuel up to your number of empty resource slots. If the Fuel supply empties, steal the Fuel instead.
   image: CC04
   name: Shipping Interest
   tags:
@@ -91,6 +159,10 @@
     - Fuel
     - 2
 - id: ARCS/CC05
+  text: >-
+    After you roll in **battle**, you may reroll a number of skirmish dice up to your total Weapon icons from resources and cards.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
   image: CC05
   name: Skirmishers
   tags:
@@ -99,6 +171,8 @@
     - Weapon
     - 2
 - id: ARCS/CC06
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Aggression card. When the round ends, draw that card into your hand and discard this card.
   image: CC06
   name: Arms Union
   tags:
@@ -107,6 +181,10 @@
     - Weapon
     - 2
 - id: ARCS/CC07
+  text: >-
+    **Prelude:** Before any other actions, you may discard this to seize the initiative.
+     
+    *You can't seize the initiative if you have it or if it's already seized this round!*
   image: CC07
   name: Lattice Spies
   tags:
@@ -115,6 +193,8 @@
     - Psionic
     - 2
 - id: ARCS/CC08
+  text: >-
+    **Prelude:** You may discard this to steal a Guild card or resource.
   image: CC08
   name: Silver Tongues
   tags:
@@ -123,6 +203,10 @@
     - Psionic
     - 2
 - id: ARCS/CC09
+  text: >-
+    Rivals cannot steal your resources and other Guild cards. *(In battle they can steal this first and then spend `symbol:key`.)*
+     
+    If this card is stolen, bury it. *(Place it on the bottom of the Court deck.)*
   image: CC09
   name: Sworn Guardians
   tags:
@@ -131,6 +215,10 @@
     - Relic
     - 2
 - id: ARCS/CC10
+  text: >-
+    **Trade (Tax):** Choose a Rival city you control. Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have.
+     
+    **Prelude:** You may discard this to gain 1 Material, 1 Fuel, and 1 Weapon.
   image: CC10
   name: Elder Broker
   tags:
@@ -139,30 +227,50 @@
     - Relic
     - 2
 - id: ARCS/CC11
+  text: >-
+    **Crisis:** Return the declared ambition marker of highest Power to Available Ambitions.
+     
+    **When Secured:** You may declare any ambition. *(An ambition marker must be Available.)* Bury this card.
   image: CC11
   name: Populist Demands
   tags:
     - Blighted Reach
     - Vox
 - id: ARCS/CC12
+  text: >-
+    **Crisis:** Flip the Imperial Council to In Session. Move agents from here to it. Bury this card.
+     
+    **When Secured:** Flip the Imperial Council to In Session. You may move any Loyal agents from here to other Court cards *(even the Council)*. Bury this card.
   image: CC12
   name: Council Intrigue
   tags:
     - Blighted Reach
     - Vox
 - id: ARCS/CC13
+  text: >-
+    **Crisis:** In turn order, each player with more Guild cards than agents in their supply must discard Guild cards until their Guild cards equal their agents. Bury this card. *(Count protected Guild cards but don’t discard them.)*
+     
+    **When Secured:** Rivals resolve the Crisis.
   image: CC13
   name: Diplomatic Fiasco
   tags:
     - Blighted Reach
     - Vox
 - id: ARCS/CC14
+  text: >-
+    **Crisis:** The player with the most Power must replace a Loyal city with a Free city.
+     
+    **When Secured:** You may replace ***any*** Loyal or Rival city you control with a Free city. If you do, you may seize the initiative. Shuffle this card into the Court deck.
   image: CC14
   name: Song of Freedom
   tags:
     - Blighted Reach
     - Vox
 - id: ARCS/CC15
+  text: >-
+    **Crisis:** Repair all Blight in the rolled cluster. Place 1 damaged Blight at each planet of the rolled symbol with no Blight. Bury this card.
+     
+    **When Secured:** You may destroy all damaged Blight in a cluster with Loyal pieces. Bury this card.
   image: CC15
   name: Blight Looms
   tags:

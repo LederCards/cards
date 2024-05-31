@@ -98,12 +98,9 @@
     keys: 2
 - id: ARCS/BC03
   text: >-
-    You keep the Material supply on here.
-     
-    *(You add it to Tycoon but can't spend it.)*
+    You keep the Material supply on here. *(You add it to Tycoon but can't spend it.)*
      
     After **scoring**, Rivals discard all Material.
-     
     **Prelude:** You may discard this to steal 1 Material.
   image: BC03
   name: Material Cartel
@@ -137,9 +134,7 @@
     keys: 2
 - id: ARCS/BC06
   text: >-
-    You keep the Fuel supply on here.
-     
-    *(You add it to Tycoon but can't spend it.)*
+    You keep the Fuel supply on here. *(You add it to Tycoon but can't spend it.)*
      
     After **scoring**, Rivals discard all Fuel.
      
@@ -358,7 +353,7 @@
     keys: 1
 - id: ARCS/BC23
   text: >-
-    **Trade (Tax):** Choose a Rival city you control.Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have.
+    **Trade (Tax):** Choose a Rival city you control. Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have.
      
     **Prelude:** You may discard this to gain 1 Material, 1 Fuel, and 1 Weapon.
   image: BC23
