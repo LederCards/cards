@@ -123,7 +123,8 @@
     - Blighted Reach
     - Guild
     - Material
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC02
   text: >-
     **Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card.
@@ -133,7 +134,8 @@
     - Blighted Reach
     - Guild
     - Material
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC03
   text: >-
     When you **battle** in a gate, you may collect 2 more dice.
@@ -145,7 +147,8 @@
     - Blighted Reach
     - Guild
     - Fuel
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC04
   text: >-
     **Synthesize (Build):** Gain 1 Fuel.
@@ -157,7 +160,8 @@
     - Blighted Reach
     - Guild
     - Fuel
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC05
   text: >-
     After you roll in **battle**, you may reroll a number of skirmish dice up to your total Weapon icons from resources and cards.
@@ -169,7 +173,8 @@
     - Blighted Reach
     - Guild
     - Weapon
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC06
   text: >-
     **Prelude:** You may place this card next to a face-up played Aggression card. When the round ends, draw that card into your hand and discard this card.
@@ -179,7 +184,8 @@
     - Blighted Reach
     - Guild
     - Weapon
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC07
   text: >-
     **Prelude:** Before any other actions, you may discard this to seize the initiative.
@@ -191,7 +197,8 @@
     - Blighted Reach
     - Guild
     - Psionic
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC08
   text: >-
     **Prelude:** You may discard this to steal a Guild card or resource.
@@ -201,7 +208,8 @@
     - Blighted Reach
     - Guild
     - Psionic
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC09
   text: >-
     Rivals cannot steal your resources and other Guild cards. *(In battle they can steal this first and then spend `symbol:key`.)*
@@ -213,7 +221,8 @@
     - Blighted Reach
     - Guild
     - Relic
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC10
   text: >-
     **Trade (Tax):** Choose a Rival city you control. Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have.
@@ -225,7 +234,8 @@
     - Blighted Reach
     - Guild
     - Relic
-    - 2
+  meta:
+    keys: 2
 - id: ARCS/CC11
   text: >-
     **Crisis:** Return the declared ambition marker of highest Power to Available Ambitions.
@@ -292,10 +302,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Steward
+    - Steward
   meta:
-    keys: 1
-    act: 2
+    act: 1
+    complexity: 2
 - id: ARCS/FATE02
   text: >-
     *Build a new order founded on mutual respect and collective action.*
@@ -312,10 +322,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Founder
+    - Founder
   meta:
-    keys: 1
-    act: 2
+    act: 1
+    complexity: 2
 - id: ARCS/FATE03
   text: >-
     *Corner the market and dominate the Reach with your commercial prowess.
@@ -332,10 +342,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Magnate
+    - Magnate
   meta:
-    keys: 1
     act: 1
+    complexity: 1
 - id: ARCS/FATE04
   text: >-
     *Connect with the ancient guilds of the Reach and make yourself indispensable.*
@@ -352,10 +362,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Advocate
+    - Advocate
   meta:
-    keys: 1
     act: 1
+    complexity: 1
 - id: ARCS/FATE05
   text: >-
     *Awaken the Golems to safeguard the wisdom of the Precursors.*
@@ -372,10 +382,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Caretaker
+    - Caretaker
   meta:
-    keys: 1
-    act: 3
+    act: 1
+    complexity: 3
 - id: ARCS/FATE06
   text: >-
     *Destroy the oppressors of the Reach by any means necessary.*
@@ -392,10 +402,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Partisan
+    - Partisan
   meta:
-    keys: 1
     act: 1
+    complexity: 1
 - id: ARCS/FATE07
   text: >-
     *Restore the strength of the Empire’s fleet and claim your rightful throne.*
@@ -412,10 +422,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Admiral
+    - Admiral
   meta:
-    keys: 1
     act: 1
+    complexity: 1
 - id: ARCS/FATE08
   text: >-
     *Open their eyes to the Truth.*
@@ -432,10 +442,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Believer
+    - Believer
   meta:
-    keys: 1
-    act: 3
+    act: 1
+    complexity: 3
 - id: ARCS/FATE09
   text: >-
     *There’s rumor of a Reach beyond our Reach. We must escape the decay engulfing us here.*
@@ -450,10 +460,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Pathfinder
+    - Pathfinder
   meta:
-    keys: 2
     act: 2
+    complexity: 2
 - id: ARCS/FATE10
   text: >-
     *Division breeds chaos. Order demands that we follow one banner, think with one mind.*
@@ -468,10 +478,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Hegemon
+    - Hegemon
   meta:
-    keys: 2
     act: 2
+    complexity: 2
 - id: ARCS/FATE11
   text: >-
     *There are simply too many of us.*
@@ -486,10 +496,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Planet Breaker
+    - Planet Breaker
   meta:
-    keys: 2
-    act: 3
+    act: 2
+    complexity: 3
 - id: ARCS/FATE12
   text: >-
     *The merchants have stripped us of our wealth, but riches await those who would seize them.*
@@ -504,10 +514,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Pirate
+    - Pirate
   meta:
-    keys: 2
-    act: 1
+    act: 2
+    complexity: 1
 - id: ARCS/FATE13
   text: >-
     *The very air of the blighted worlds seems to pulse. The vines grow with purpose and design. We only need to listen.*
@@ -522,10 +532,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Blight Speaker
+    - Blight Speaker
   meta:
-    keys: 2
-    act: 1
+    act: 2
+    complexity: 1
 - id: ARCS/FATE14
   text: >-
     *The Reach is dying. To heal our wounds, we must feel each other’s pain.*
@@ -540,10 +550,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Pacifist
+    - Pacifist
   meta:
-    keys: 2
     act: 2
+    complexity: 2
 - id: ARCS/FATE15
   text: >-
     *For the sake of peace, we must eliminate the tools of suffering.*
@@ -558,10 +568,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Peacekeeper
+    - Peacekeeper
   meta:
-    keys: 2
     act: 2
+    complexity: 2
 - id: ARCS/FATE16
   text: >-
     *The Reach is too wide for any one empire to hold together. To keep it safe, we must return to the old ways.*
@@ -576,10 +586,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Warden
+    - Warden
   meta:
-    keys: 3
     act: 3
+    complexity: 3
 - id: ARCS/FATE17
   text: >-
     *I won’t bow to you any longer. Tremble before me!*
@@ -592,10 +602,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Overlord
+    - Overlord
   meta:
-    keys: 3
-    act: 1
+    act: 3
+    complexity: 1
 - id: ARCS/FATE18
   text: >-
     *The storm is here. Let me offer you shelter.*
@@ -608,10 +618,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Survivalist
+    - Survivalist
   meta:
-    keys: 3
-    act: 2
+    act: 3
+    complexity: 2
 - id: ARCS/FATE19
   text: >-
     *The Precursors taught us violence. The Keepers perpetuate it. A better future means forgetting the past.*
@@ -624,10 +634,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Redeemer
+    - Redeemer
   meta:
-    keys: 3
-    act: 1
+    act: 3
+    complexity: 1
 - id: ARCS/FATE20
   text: >-
     *Our cities are symbols of our shame. If we keep exploiting the bounties of the Reach, nothing will remain.*
@@ -640,10 +650,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Guardian
+    - Guardian
   meta:
-    keys: 3
-    act: 1
+    act: 3
+    complexity: 1
 - id: ARCS/FATE21
   text: >-
     *Blight is beautiful. All it needs is a patient gardener.*
@@ -656,10 +666,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Naturalist
+    - Naturalist
   meta:
-    keys: 3
-    act: 2
+    act: 3
+    complexity: 2
 - id: ARCS/FATE22
   text: >-
     *Find the way... Reunite... Make whole...*
@@ -672,10 +682,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Gate Wraith
+    - Gate Wraith
   meta:
-    keys: 3
     act: 3
+    complexity: 3
 - id: ARCS/FATE23
   text: >-
     *Yes, it was me! I was pulling the strings from the start!*
@@ -688,10 +698,10 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Conspirator
+    - Conspirator
   meta:
-    keys: 3
-    act: 2
+    act: 3
+    complexity: 2
 - id: ARCS/FATE24
   text: >-
     *Absolute power corrupts absolutely. Only I can balance the scales.*
@@ -704,7 +714,7 @@
   tags:
     - Blighted Reach
     - Fate
-    - Fate Deck Judge
+    - Judge
   meta:
-    keys: 3
     act: 3
+    complexity: 3
