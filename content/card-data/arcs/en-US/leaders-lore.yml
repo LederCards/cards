@@ -4,7 +4,7 @@
   image: L15
   name: Predictive Sensors
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L16
   text: >-
@@ -12,7 +12,7 @@
   image: L16
   name: Force Beams
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L17
   text: >-
@@ -20,7 +20,7 @@
   image: L17
   name: Raider Exosuits
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L18
   text: >-
@@ -28,7 +28,7 @@
   image: L18
   name: Survival Overrides
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L19
   text: >-
@@ -37,7 +37,7 @@
   image: L19
   name: Empath’s Vision
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L20
   text: >-
@@ -45,7 +45,7 @@
   image: L20
   name: Empath’s Bond
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L21
   text: >-
@@ -54,7 +54,7 @@
   image: L21
   name: Keeper’s Trust
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L22
   text: >-
@@ -62,7 +62,7 @@
   image: L22
   name: Keeper’s Solidarity
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L23
   text: >-
@@ -71,7 +71,7 @@
   image: L23
   name: Warlord’s Cruelty
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L24
   text: >-
@@ -79,7 +79,7 @@
   image: L24
   name: Warlord’s Terror
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L25
   text: >-
@@ -88,7 +88,7 @@
   image: L25
   name: Tyrant’s Ego
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L26
   text: >-
@@ -96,7 +96,7 @@
   image: L26
   name: Tyrant’s Authority
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L27
   text: >-
@@ -104,7 +104,7 @@
   image: L27
   name: Tycoon’s Ambition
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/L28
   text: >-
@@ -113,7 +113,7 @@
   image: L28
   name: Tycoon’s Charm
   tags:
-    - LL
+    - Leaders and Lore
     - Lore
 - id: ARCS/LEAD09
   text: >-
@@ -122,7 +122,7 @@
   image: LEAD09
   name: Archivist
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD10
   text: >-
@@ -131,7 +131,7 @@
   image: LEAD10
   name: Overseer
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD11
   text: >-
@@ -140,7 +140,7 @@
   image: LEAD11
   name: Corsair
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD12
   text: >-
@@ -150,7 +150,7 @@
   image: LEAD12
   name: Noble
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD13
   text: >-
@@ -161,7 +161,7 @@
   image: LEAD13
   name: Anarchist
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD14
   text: >-
@@ -170,7 +170,7 @@
   image: LEAD14
   name: Shaper
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD15
   text: >-
@@ -179,7 +179,7 @@
   image: LEAD15
   name: Agitator
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
 - id: ARCS/LEAD16
   text: >-
@@ -188,5 +188,5 @@
   image: LEAD16
   name: Quartermaster
   tags:
-    - LL
+    - Leaders and Lore
     - Leader
