@@ -276,3 +276,435 @@
   tags:
     - Blighted Reach
     - Vox
+- id: ARCS/FATE01
+  text: >-
+    *Hold together a fragmenting empire while navigating fractious court politics.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Assert your authority by winning Ambitions as the First Regent.
+     
+    **II.** Extend the Empire's control and fill the Imperial Trust.
+     
+    **III.** Solidify the Empire's control over Outlaw citites and fill the Imperial Trust as the First Regent.
+  image: FATE01
+  name: Steward
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Steward
+  meta:
+    keys: 1
+    act: 2
+- id: ARCS/FATE02
+  text: >-
+    *Build a new order founded on mutual respect and collective action.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Fulfill your ambitions and control systems as an Outlaw.
+     
+    **II.** Lead the Commonwealth and spread Free cities across the map.
+     
+    **III.** Protect the Free cities from control by the Empire and players outside the Commonwealth.
+  image: FATE02
+  name: Founder
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Founder
+  meta:
+    keys: 1
+    act: 2
+- id: ARCS/FATE03
+  text: >-
+    *Corner the market and dominate the Reach with your commercial prowess.
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Barter for resources and Favors from Rivals during Summits.
+     
+    **II.** Take and hold Monopolies over the resource supplies.
+     
+    **III.** Hold Monopolies and escape the Reach with your riches.
+  image: FATE03
+  name: Magnate
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Magnate
+  meta:
+    keys: 1
+    act: 1
+- id: ARCS/FATE04
+  text: >-
+    *Connect with the ancient guilds of the Reach and make yourself indispensable.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Use and recover as many Guild cards as you can while proving yourself to the Guild Overseers.
+     
+    **II.** Have more Guild cards than your Rivals in a variety of suits. 
+     
+    **III.** Fill the Court with Guild cards and keep a variety of Guild suits.
+  image: FATE04
+  name: Advocate
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Advocate
+  meta:
+    keys: 1
+    act: 1
+- id: ARCS/FATE05
+  text: >-
+    *Awaken the Golems to safeguard the wisdom of the Precursors.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Control and awaken the Sleeping Golems, then use them.
+     
+    **II.** Collect lore from the Court and from your Rivals in Summits. 
+     
+    **III.** Use your Golems to scrap your lore and the Golems themselves. 
+  image: FATE05
+  name: Caretaker
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Caretaker
+  meta:
+    keys: 1
+    act: 3
+- id: ARCS/FATE06
+  text: >-
+    *Destroy the oppressors of the Reach by any means necessary.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Get initiative even if you Provoke Outrage, and fulfill the ambitions favored by your supporters.
+     
+    **II.** Hold initiative and gather Guild support to burnish your image. 
+     
+    **III.** Have the most Guild cards and continue to hold the initiative. 
+  image: FATE06
+  name: Partisan
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Partisan
+  meta:
+    keys: 1
+    act: 1
+- id: ARCS/FATE07
+  text: >-
+    *Restore the strength of the Empire’s fleet and claim your rightful throne.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Prove yourself by enlarging the Imperial fleet and using it in battle to take Trophies.
+     
+    **II.** Exert Imperial control of planets and dominate your foes, Regents and Outlaws alike.
+     
+    **III.** Control the Reach’s planets and build the strongest navy.
+  image: FATE07
+  name: Admiral
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Admiral
+  meta:
+    keys: 1
+    act: 1
+- id: ARCS/FATE08
+  text: >-
+    *Open their eyes to the Truth.*
+     
+    **YOUR PATH TO POWER**
+     
+    **I.** Add Faithful action cards into play while winning ambitions.
+     
+    **II.** Establish the Ideals of your faith by declaring ambitions with Faithful cards and fulfilling them.
+     
+    **III.** Insist that the ambitions with Ideals are consistently declared.
+  image: FATE08
+  name: Believer
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Believer
+  meta:
+    keys: 1
+    act: 3
+- id: ARCS/FATE09
+  text: >-
+    *There’s rumor of a Reach beyond our Reach. We must escape the decay engulfing us here.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Search for clues and locate the secret Portal. **Abandon your buildings for a Flagship.**
+     
+    **III.** Guide the Pilgrims to the Portal. **Rivals can gain Power by drawing ships into the Portal.**
+  image: FATE09
+  name: Pathfinder
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Pathfinder
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/FATE10
+  text: >-
+    *Division breeds chaos. Order demands that we follow one banner, think with one mind.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Plant Banners of a new order on planets you dominate. **Abandon your buildings for a Flagship and lose some of your fleet forever, but replenish your fleet.**
+     
+    **III.** Keep many Banners on the map. **Rivals can gain Power by holding them as Trophies.**
+  image: FATE10
+  name: Hegemon
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Hegemon
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/FATE11
+  text: >-
+    *There are simply too many of us.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Collect the Hammer Fragments to repair the Planet Hammer, then break a planet. **Abandon your buildings for a Flagship.**
+     
+    **III.** Fill the Reach with Outrage and destroy buildings by breaking planets. **Rivals can clear Outrage and gain resources by resettling Refugees.**
+  image: FATE11
+  name: Planet Breaker
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Planet Breaker
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/FATE12
+  text: >-
+    *The merchants have stripped us of our wealth, but riches await those who would seize them.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Fill your Pirate Hoard with stolen resources. **Abandon your buildings for a Flagship, but replenish your fleet.**
+     
+    **III.** Keep your Pirate Haven secret and safe. **Rivals can gain Power by finding the Haven.**
+  image: FATE12
+  name: Pirate
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Pirate
+  meta:
+    keys: 2
+    act: 1
+- id: ARCS/FATE13
+  text: >-
+    *The very air of the blighted worlds seems to pulse. The vines grow with purpose and design. We only need to listen.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Spread the Blight and study them while winning ambitions. **Replenish your fleet.**
+     
+    **III.** Dominate the Warlord ambition and ensure the Blight is well-fed. **Rivals can gain Power by hunting Blight.**
+  image: FATE13
+  name: Blight Speaker
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Blight Speaker
+  meta:
+    keys: 2
+    act: 1
+- id: ARCS/FATE14
+  text: >-
+    *The Reach is dying. To heal our wounds, we must feel each other’s pain.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Commit to taking no Trophies or Captives while spreading Psionic energy. **Clear all your Outrage and replenish your fleet.**
+     
+    **III.** Commit to pacifism while ensuring your Rivals have a Psionic connection. **Rivals will benefit from your efforts.**
+  image: FATE14
+  name: Pacifist
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Pacifist
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/FATE15
+  text: >-
+    *For the sake of peace, we must eliminate the tools of suffering.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Control Weapons planets and confiscate Weapons. **Clear your Outrage but Provoke Weapon Outrage. Replenish your fleet. Warlord is now worthless to you.**
+     
+    **III.** Enforce peace with Ceasefires. **Rivals can gain Power by controlling systems at peace.**
+  image: FATE15
+  name: Peacekeeper
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Peacekeeper
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/FATE16
+  text: >-
+    *The Reach is too wide for any one empire to hold together. To keep it safe, we must return to the old ways.*
+     
+    **YOUR PATH TO POWER**
+     
+    **II.** Become a Lord by establishing Fiefs and controlling their Seat cities. **Replenish your fleet.**
+     
+    **III.** Keep hold of your Fiefs as feudalism spreads through the Reach. **Rivals can gain Power as Lords of their own Fiefs.**
+  image: FATE16
+  name: Warden
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Warden
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/FATE17
+  text: >-
+    *I won’t bow to you any longer. Tremble before me!*
+     
+    **YOUR PATH TO POWER**
+     
+    Rule over those who despise you by controlling Outraged planets and holding Outraged resources. **You may abandon your Flagship to replenish your fleet. When the Edicts are called, your Outrage will make you lose Power as the Reach rejects your rule.**
+  image: FATE17
+  name: Overlord
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Overlord
+  meta:
+    keys: 3
+    act: 1
+- id: ARCS/FATE18
+  text: >-
+    *The storm is here. Let me offer you shelter.*
+     
+    **YOUR PATH TO POWER**
+     
+    Build Bunkers across the planets of the Reach and take Captives into them, protecting them against the Blight. **You may abandon your Flagship to replenish your fleet. You can no longer declare Tyrant, and you gain less Power from winning ambitions.**
+  image: FATE18
+  name: Survivalist
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Survivalist
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/FATE19
+  text: >-
+    *The Precursors taught us violence. The Keepers perpetuate it. A better future means forgetting the past.*
+     
+    **YOUR PATH TO POWER**
+     
+    Collect the Relics and then destroy them. **You may abandon your Flagship to replenish your fleet. Provoke Relic Outrage. Keeper is harder for you and can make you lose Power.**
+  image: FATE19
+  name: Redeemer
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Redeemer
+  meta:
+    keys: 3
+    act: 1
+- id: ARCS/FATE20
+  text: >-
+    *Our cities are symbols of our shame. If we keep exploiting the bounties of the Reach, nothing will remain.*
+     
+    **YOUR PATH TO POWER**
+     
+    Protect the Reach with the new Edenguard ambition—control the most Material and Fuel planets—and by capturing Material and Fuel. **You may abandon your Flagship to replenish your fleet. Provoke Material and Fuel Outrage. Tycoon is now worthless to you.**
+  image: FATE20
+  name: Guardian
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Guardian
+  meta:
+    keys: 3
+    act: 1
+- id: ARCS/FATE21
+  text: >-
+    *Blight is beautiful. All it needs is a patient gardener.*
+     
+    **YOUR PATH TO POWER**
+     
+    Show that Blight is not a threat with the new Blightkin ambition—control the most systems with fresh Blight. You can move and repair Blight, and you can stop Blight Crises in systems with Loyal ships. **You may abandon your Flagship to replenish your fleet. Damaging and destroying Blight now makes you scrap agents.**
+  image: FATE21
+  name: Naturalist
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Naturalist
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/FATE22
+  text: >-
+    *Find the way... Reunite... Make whole...*
+     
+    **YOUR PATH TO POWER**
+     
+    Collapse gates to create Passages into the central area of the map, the Twisted Passage, and then control it. **You may abandon your Flagship to replenish your fleet. The Twisted Passage is a space-time anomaly that connects the map in new, strange ways and brings ships back from the dead. **
+  image: FATE22
+  name: Gate Wraith
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Gate Wraith
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/FATE23
+  text: >-
+    *Yes, it was me! I was pulling the strings from the start!*
+     
+    **YOUR PATH TO POWER**
+     
+    Plot Conspiracies to predict who will win ambitions or tie for first place. But don’t be too obvious—Rivals can foil you by guessing them. **You may abandon your Flagship to replenish your fleet. You can no longer declare ambitions yourself.**
+  image: FATE23
+  name: Conspirator
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Conspirator
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/FATE24
+  text: >-
+    *Absolute power corrupts absolutely. Only I can balance the scales.*
+     
+    **YOUR PATH TO POWER**
+     
+    Balance the Reach by ensuring players tie for first place in ambitions. **You may abandon your Flagship to replenish your fleet. Rivals can now steal your Trophies and Captives. Each time the Edicts happen, you must name a Rival as the Judge’s Chosen, letting them use your ships.**
+  image: FATE24
+  name: Judge
+  tags:
+    - Blighted Reach
+    - Fate
+    - Fate Deck Judge
+  meta:
+    keys: 3
+    act: 3
