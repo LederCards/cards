@@ -7,6 +7,20 @@
     - Blighted Reach
     - Imperial Council
 - id: ARCS/AID01B
+  text: >-
+    **When the round ends, return Imperial Council Decided to the Court, then:**
+     
+    1. You may call a Summit.
+     
+    2. If you're a Regent, become First Regent.
+     
+    3. If you're an outlaw, steal from the First Regent tile. *(See Empire Rules sheet.)*
+     
+    4. You must resolve either Crises or Edits.
+     
+    You cannot **influence** or **secure** this card.
+     
+    *You may flip this card to In Session if you call a Summit and Petition the Council.*
   image: AID01B
   name: Imperial Council Decided
   tags:
@@ -81,6 +95,14 @@
     - Blighted Reach
     - Title
 - id: ARCS/AID06B
+  text: >-
+    ***Tuck this partially under your Fate card.***
+     
+    You must follow the rules for Outlaws listed on the Empire rules aid sheet.
+     
+    *You can become a **Regent**, flipping this card over, if the First Regent consents to it in a Summit.*
+     
+    *You can force them to make you a Regent if you called the Summit and return 1 Favor of their to them.*
   image: AID06B
   name: Outlaw
   tags:
@@ -107,6 +129,20 @@
     - Blighted Reach
     - Ability
 - id: ARCS/AID10B
+  text: >-
+    *Damaged Upgrades still give benefits.*
+     
+    **Defense Array**
+     
+    When defending in **battle**, your Flagship can intercept, dealing 1 hit for each fresh starport on your Flagship board.
+     
+    **Ship Crane**
+     
+    Your Flagship may **build** up to 2 ships per turn, not 1. *(You still must build twice to build 2 ships)*
+     
+    **Hull**
+     
+    This has no special benefit. It may be hit like any other Upgrade.
   image: AID10B
   name: Flagship Upgrades
   tags:
@@ -328,7 +364,7 @@
     complexity: 2
 - id: ARCS/FATE03
   text: >-
-    *Corner the market and dominate the Reach with your commercial prowess.
+    *Corner the market and dominate the Reach with your commercial prowess.*
      
     **YOUR PATH TO POWER**
      
@@ -718,3 +754,4783 @@
   meta:
     act: 3
     complexity: 3
+- id: ARCS/F101A
+  text: >-
+    1. Gain Imperial Authority (02) and Dealmakers (03).
+    2. Gain the First Regent tile.
+     
+#REF!
+    *Flip this card over.*
+  image: F101A
+  name: Steward Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Steward
+  meta:
+    act: 1
+- id: ARCS/F101B
+  text: >-
+    ***Consolidate Your Imperial Power***
+     
+    Each time you win an ambition while you’re the First Regent, advance 1 `symbol:clock` for each Power you gain from it.
+     
+    *Count bonus Power from city slots uncovered on your player board. For example, if you gain 5 Power from winning an ambition and gain 5 bonus city Power, advance your objective marker 10 spaces.*
+  image: F101B
+  name: Imperial Authority
+  tags:
+    - Blighted Reach
+    - Objective
+    - Steward
+  meta:
+    act: 1
+- id: ARCS/F102
+  text: >-
+    ***Bury this if you’re an Outlaw.***
+     
+    You may **tax *any*** cities controlled by the Empire like they are Loyal, ignoring the Empire’s Presence and Truce Laws. *(Don’t take Captives.)*
+  image: F102
+#REF!
+  tags:
+    - Blighted Reach
+    - Lore
+    - Steward
+  meta:
+    act: 1
+- id: ARCS/F103
+  text: >-
+    **Bargain (Secure):** Choose a Court card that a Rival could secure. They secure it but return agents they would capture. You influence once for each agent they had on the card, then you secure once.
+  image: F103
+  name: Dealmakers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Steward
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F104
+  text: >-
+    **If you completed your objective:**
+     
+    1, Add Council Intrigue (05), Tax Collectors (06), and Hunter Squads (07) to the Court deck.
+     
+    2. Add Imperial Protectors (08) to the rules booklet. ***Explain it to everyone.***
+     
+    Scrap Empire Falls (09) and 2 Lesser Regents (10–11).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Council Intrigue (05), Tax Collectors (06), Hunter Squads (07), and Imperial Protectors (08).
+     
+    2. Add Empire Falls (09) and 2 Lesser Regents (10–11) to the Court deck.
+     
+    3. Add Dealmakers (03) to the Court deck.
+  image: F104
+  name: Steward Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Steward
+  meta:
+    act: 1
+- id: ARCS/F105
+  text: >-
+    **Crisis:** Flip the Imperial Council to In Session. Move agents from here to it. Bury this card.
+     
+    **When Secured:** Flip the Imperial Council to In Session. You may move any Loyal agents from here to other Court cards *(even the Council)*. Bury this card.
+  image: F105
+  name: Council Intrigue
+  tags:
+    - Blighted Reach
+    - Vox
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F106
+  text: >-
+    ***Bury this if you’re an Outlaw.***
+     
+    When you *tax* an Outlaw’s city, you may take the resource from their player board.
+  image: F106
+  name: Tax Collectors
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Steward
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F107
+  text: >-
+    When attacking an Outlaw in **battle**, you may reroll assault dice up to your total Weapons resources and cards.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F107
+  name: Hunter Squads
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Steward
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F108
+  text: >-
+    **Blight Crises** do not happen in systems controlled by the Empire. *(That is, in systems with any fresh Imperial ships.)*
+  image: F108
+  name: Imperial Protectors
+  tags:
+    - Blighted Reach
+    - Law
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F109
+  text: >-
+    **Crisis:** If `symbol:arrow` was rolled, all Regents become Outlaws, hit each Imperial ship on the map, and discard this card.
+     
+    **When Secured:** You may take any Loyal agents from here and place them on other Court cards. Bury this card.
+  image: F109
+  name: Empire Falls
+  tags:
+    - Blighted Reach
+    - Vox
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F110
+  text: >-
+    **Prelude:** You may discard this to declare any ambition.
+  image: F110
+  name: Lesser Regent
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Steward
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F111
+  text: >-
+    **Prelude:** You may discard this to declare any ambition.
+  image: F111
+  name: Lesser Regent
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Steward
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F112A
+  text: >-
+    1. Add Imperial Quorum (13) to the Edicts.
+     
+    *Flip this card over.*
+  image: F112A
+  name: Steward Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F112B
+  text: >-
+    ***Expand the Empire***
+     
+    At the end of each chapter, if you’re the First Regent, **advance** 1 `symbol:clock` for each cluster where the Empire controls any systems.
+     
+    ***Ensure the Emperor's Tribute***
+     
+    At the end of each chapter, **advance** 1 `symbol:clock` for each resource in the First Regent’s Imperial Trust.
+     
+    *You advance this way even if you’re not First Regent.*
+  image: F112B
+  name: Steward Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F113
+  text: >-
+    Resolve the effects of Edict 03—Govern the Imperial Reach, or Govern with Authority in Act III—as follows, then skip Edict 03 itself.
+     
+    **First, Collect Demand:** The First Regent collects the Demand.
+     
+    **Second, Take Action:** The Regent with the most starports built ***may*** take the Imperial Action. On a tie, skip this.
+     
+    **Third, Change Policy:** The Regent with the most cities built ***may*** change the Policy of Edict 03. On a tie, skip this.
+     
+    *The conditions "most starports built" and "most cities built" do include cities and starports on Flagship boards.*
+  image: F113
+  name: Imperial Quorum
+  tags:
+    - Blighted Reach
+    - Edict
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F114
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add Navy Reprisal (15), Council Insiders (16), and Galactic Bards (17) to the Court deck.
+     
+    2. Scrap the 2 Imperial Defectors (18–19) and 2 Lesser Regents (20–22).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Navy Reprisal (15), Council Insiders (16), and Galactic Bards (17).
+     
+    2. Add the 2 Imperial Defectors (18–19) and 2 Lesser Regents (20–22) to the Court deck.
+  image: F114
+  name: Steward Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Steward
+  meta:
+    act: 2
+- id: ARCS/F115
+  text: >-
+    **Crisis:** Each Imperial ship hits 1 ship of each Outlaw in its system, fresh ships first. Bury this card.
+     
+    **When Secured:** You may resolve the Crisis in one cluster you choose, or you may hit all Imperial ships in a cluster you choose. Bury this card.
+  image: F115
+  name: Navy Reprisal
+  tags:
+    - Blighted Reach
+    - Vox
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F116
+  text: >-
+    When you **secure** a Guild card, you may flip the Imperial Council to In Session or you may influence the Imperial Council if it is already In Session.
+  image: F116
+  name: Council Insiders
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Steward
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F117
+  text: >-
+    When you **Surpass** or **Pivot**, before taking ***any*** actions, you may declare the ambition on your played card if an ambition has not been declared yet this round. Do not place the zero marker.
+  image: F117
+  name: Galactic Bards
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Steward
+  meta:
+    keys: 1
+    act: 3
+- id: ARCS/F118
+  text: >-
+    **Crisis:** In the rolled cluster, replace all Imperial ships with ships of the Outlaw earliest in turn order. Bury this card.
+     
+    **When Secured:** You may resolve the Crisis in any cluster. Bury or discard this card.
+  image: F118
+  name: Imperial Defectors
+  tags:
+    - Blighted Reach
+    - Vox
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F119
+  text: >-
+    **Crisis:** In the rolled cluster, replace all Imperial ships with ships of the Outlaw earliest in turn order. Bury this card.
+     
+    **When Secured:** You may resolve the Crisis in any cluster. Bury or discard this card.
+  image: F119
+  name: Imperial Defectors
+  tags:
+    - Blighted Reach
+    - Vox
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F120
+  text: >-
+    **Prelude:** You may discard this to declare any ambition.
+  image: F120
+  name: Lesser Regent
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Steward
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F121
+  text: >-
+    **Prelude:** You may discard this to declare any ambition.
+  image: F121
+  name: Lesser Regent
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Steward
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F122A
+  text: >-
+    1. Add Imperial Sponsor (23) to the rules booklet.
+     
+    2. Place the Sponsored token on the First Regent tile.
+     
+    3. Scrap the 3 Govern the Imperial Reach cards (♦01–03) from the rules booklet and add the 3 Govern with Authority cards (24–26) to it.
+     
+    4.  The First Regent chooses which Govern with Authority card to place on top of the stack. ***Explain that Outlaws are now subject to the Imperial Demand if the Empire controls a city or Flagship of theirs.***
+     
+    *Flip this card over.*
+  image: F122A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F122B
+  text: >-
+    ***Entrench the Empire in the Reach***
+     
+    You’re a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
+     
+    You’re the ***First Regent*** and the Imperial Trust has more resources than the current Chapter.
+  image: F122B
+  name: Steward Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F123
+  text: >-
+    The First Regent must place the **Sponsored token** on an undeclared ambition box. *(If it’s already placed, they may keep it on its current ambition box.)*
+     
+    Then, they may add 1 resource they have to the Imperial Trust.
+     
+    When a player **declares** the Sponsored ambition, they must take 1 resource from the Imperial Trust, gain the Power for second place on the placed ambition marker, and return the Sponsored token to the First Regent tile. If they are an Outlaw, they become a Regent.
+  image: B123
+  name: Imperial Sponsor
+  tags:
+    - Blighted Reach
+    - Edict
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F124
+  text: >-
+    **A Policy of War**
+     
+    **1. Collect Demand:** Take 1 Trophy or Captive, but not Imperial or Regent pieces, from each Rival Regent ***and from each Outlaw with a Loyal city or Flagship controlled by the Empire.*** If they have none, take 1 agent from their supply as a Favor. If a Regent has no agents, you may make them an Outlaw.
+     
+    **2. Imperial Action:** Give 1 Weapon ***and any 1 resource*** to each Regent from the supply. If the supply is empty, give it from the Imperial Trust.
+  image: B124
+  name: Govern with Authority
+  tags:
+    - Blighted Reach
+    - Edict
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F125
+  text: >-
+    **A Policy of Escalation**
+     
+    **1. Collect Demand:** Take 1 Weapon, Fuel, or Material from each Regent, even you, ***and from each Outlaw with a Loyal city or Flagship controlled by the Empire.*** Place it in the Imperial Trust on your First Regent tile.
+     
+    If they have none, take 1 agent from their supply as a Favor. If a Regent has no agents, you may make them an Outlaw.
+     
+    **2. Imperial Action:** Place ***4 fresh Imperial ships*** in an Empire-controlled system. If there are none, place them at a Loyal starport.
+  image: F125
+  name: Govern with Authority
+  tags:
+    - Blighted Reach
+    - Edict
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F126
+  text: >-
+    **A Policy of Peace**
+     
+    **1. Collect Demand:** Take 1 Relic or Psionic from each Regent, even you, ***and from each Outlaw with a Loyal city or Flagship controlled by the Empire.*** Place it in the Imperial Trust on your First Regent tile.
+     
+    If they have none, take 1 agent from their supply as a Favor. If a Regent has no agents, you may make them an Outlaw.
+     
+    **2. Imperial Action:** Each Regent gains ***double*** their bonus city Power on uncovered city slots.
+  image: F126
+  name: Govern with Authority
+  tags:
+    - Blighted Reach
+    - Edict
+    - Steward
+  meta:
+    act: 3
+- id: ARCS/F201A
+  text: >-
+    1. Gain Parade Fleets (02).
+     
+    *Flip this card over.*
+  image: F201A
+  name: Founder Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Founder
+  meta:
+    act: 1
+- id: ARCS/F201B
+  text: >-
+    ***Inspire Confidence in the Cause***
+     
+    While you’re an Outlaw, **advance** `symbol:clock`3 for each ambition you win.
+     
+    ***Defy the Empire’s Grip***
+     
+    At the end of a chapter, if you’re an Outlaw, **advance** `symbol:clock`1 for each system you control.
+     
+    *You can become an Outlaw when you call a Summit or when you declare an ambition, using your Parade Fleets card.*
+  image: F201B
+  name: Founder Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Founder
+  meta:
+    act: 1
+- id: ARCS/F202
+  text: >-
+    When you **declare an ambition**, you may place 2 fresh ships at a Free city. Then, if you are a Regent, you may become an Outlaw.
+  image: F202
+  name: Parade Fleets
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Founder
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F203
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Book of Liberation (04).
+     
+    2. Add the 3 Political Intrigue cards (05–07) to the Court deck.
+     
+    3. Place the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) behind the Founder’s next Resolution card (22).
+     
+    **If you failed your objective:**
+     
+    1. Scrap the Book of Liberation (04) and 3 Political Intrigue cards (05–07).
+     
+    2. Add the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) to the Court deck.
+  image: F203
+  name: Found Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Founder
+  meta:
+    act: 1
+- id: ARCS/F204
+  text: >-
+    You cannot **harm** Free buildings.
+     
+    You may **build** Free buildings, except in Empire-controlled systems.
+     
+    When you **build** a Free building on a planet, clear your Outrage of its type.
+  image: F204
+  name: Book of Liberation
+  tags:
+    - Blighted Reach
+    - Lore
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F205
+  text: >-
+    **Crisis:** Each player gives Favors as follows. If `symbol:arrow` was rolled, give one to your left. If `symbol:hex` was rolled, give one right. If `symbol:moon` was rolled, give one to both your left and right. Bury this card.
+     
+    **When Secured:** Take 1 Favor from each Rival. Discard this card.
+  image: F205
+  name: Political Intrigue
+  tags:
+    - Blighted Reach
+    - Vox
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F206
+  text: >-
+    **Crisis:** Each player gives Favors as follows. If `symbol:arrow` was rolled, give one to your left. If `symbol:hex` was rolled, give one right. If `symbol:moon` was rolled, give one to both your left and right. Bury this card.
+     
+    **When Secured:** Take 1 Favor from each Rival. Discard this card.
+  image: F206
+  name: Political Intrigue
+  tags:
+    - Blighted Reach
+    - Vox
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F207
+  text: >-
+    **Crisis:** Each player gives Favors as follows. If `symbol:arrow` was rolled, give one to your left. If `symbol:hex` was rolled, give one right. If `symbol:moon` was rolled, give one to both your left and right. Bury this card.
+     
+    **When Secured:** Take 1 Favor from each Rival. Discard this card.
+  image: F207
+  name: Political Intrigue
+  tags:
+    - Blighted Reach
+    - Vox
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F208
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card.
+  image: F208
+  name: Construction Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Founder
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F209
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Construction card. When the round ends, draw that card into your hand and discard this card.
+  image: F209
+  name: Construction Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Founder
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F210
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Administration card. When the round ends, draw that card into your hand and discard this card.
+  image: F210
+  name: Admin Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Founder
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F211
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Administration card. When the round ends, draw that card into your hand and discard this card.
+  image: F211
+  name: Admin Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Founder
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F212A
+  text: >-
+    Gain the Founder of the Commonwealth card (13).
+     
+    Place the Commonwealth Ambition marker on your Fate card.
+     
+    Place the Commonwealth Ambition law (14) and Call for Armistice edict (15) to the rules booklet.
+     
+    Tuck the 2 Armistices (16–17) under Call for Armistice (15).
+     
+    Give a Member of the Commonwealth title card (18–21) to each player, including you.
+     
+    Add Commonwealth Membership (22) to the rules booklet. ***Explain it to everyone.***
+     
+    *Flip this card over.*
+  image: F212A
+  name: Founder Act II Setup'
+  tags:
+    - Blighted Reach
+    - Setup
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F212B
+  text: >-
+    ***Distribute Power Fairly***
+     
+    When the Commonwealth wins the Commonwealth ambition, **advance `symbol:clock`2** for each Member of the Commonwealth.
+     
+    *This is explained more on the Commonwealth Ambition card.*
+     
+    *Everyone starts as a Member, but stops being a Member if they harm a Free city.*
+     
+    ***Protect Freedom in the Reach***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each Free city on the map not controlled by the Empire.
+     
+    *The Empire controls a system with just 1 fresh Imperial ship.*
+  image: F212B
+  name: Founder Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F213
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    Keep the Commonwealth Ambition marker on your Fate card.
+     
+    When you **declare an ambition**, you may also place the Commonwealth Ambition marker from your Fate card onto the declared ambition box.
+     
+    This ambition scores as described on the Commonwealth Ambition law card.
+  image: F213
+  name: Founder of the Commonwealth
+  tags:
+    - Blighted Reach
+    - Title
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F214
+  text: >-
+    *The Founder of the Commonwealth can add the Commonwealth Ambition marker to an ambition they declare.*
+     
+    **Score this ambition as follows:**
+     
+    This ambition only gives Power for winning it—getting first place with no tie.
+     
+    All Members of the **Commonwealth** combine ambition values into the Commonwealth to determine place for gaining Power. *(Use individual ambition values for everything else, like objectives.)*
+     
+    If the Commonwealth wins, evenly divide the total Power of first and second place among Members. Ignore bonus city Power and Power remainders.
+     
+    If a non-Member wins, they gain ***double*** the total Power of first and second place.
+  image: F214
+  name: Commonwealth Ambition
+  tags:
+    - Blighted Reach
+    - Law
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F215
+  text: >-
+    ***Scrap this if there are no Members of the Commonwealth.***
+     
+    The Member of the Commonwealth with the least Power may untuck 1 Armistice card from here and attach it to a card in the Court. On a tie, skip this.
+     
+    *The Armistice also prevents Members from leaving the Commonwealth until the Armistice ends!*
+  image: F215
+  name: Call for Armistice
+  tags:
+    - Blighted Reach
+    - Edict
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F216
+  text: >-
+    ***While this is in the Court,*** Members of the Commonwealth cannot **harm** each other or Free buildings. *(This card has no Crisis.)*
+     
+    **When Secured:** You must place ***all*** agents from here onto other Court cards of your choice. Tuck this card behind Edict 25.
+  image: F216
+  name: Armistice
+  tags:
+    - Blighted Reach
+    - Vox
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F217
+  text: >-
+    ***While this is in the Court,*** Members of the Commonwealth cannot **harm** each other or Free buildings. *(This card has no Crisis.)*
+     
+    **When Secured:** You must place ***all*** agents from here onto other Court cards of your choice. Tuck this card behind Edict 25.
+  image: F217
+  name: Armistice
+  tags:
+    - Blighted Reach
+    - Vox
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F218
+  text: >-
+    ***Tuck this partially under your Fate card.***
+     
+    **Free Buildings.** You may take actions with Free buildings that are not controlled by the Empire like they are Loyal. Pieces built in this way are always placed fresh.
+     
+    **Armistice.** During Edicts, a Member may stop Members from harming each other and Free cities. *(See the Call for Armistice edict card.)*
+     
+    **Commonwealth Ambition.** Members can score the Commonwealth ambition together. *(See the Commonwealth Ambition law card.)*
+     
+    **Disgrace.** If you **harm** a Free city, scrap this title. *(You cannot become a Member again!)*
+  image: F218
+  name: Member of the Commonwealth
+  tags:
+    - Blighted Reach
+    - Title
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F219
+  text: >-
+    ***Tuck this partially under your Fate card.***
+     
+    **Free Buildings.** You may take actions with Free buildings that are not controlled by the Empire like they are Loyal. Pieces built in this way are always placed fresh.
+     
+    **Armistice.** During Edicts, a Member may stop Members from harming each other and Free cities. *(See the Call for Armistice edict card.)*
+     
+    **Commonwealth Ambition.** Members can score the Commonwealth ambition together. *(See the Commonwealth Ambition law card.)*
+     
+    **Disgrace.** If you **harm** a Free city, scrap this title. *(You cannot become a Member again!)*
+  image: F219
+  name: Member of the Commonwealth
+  tags:
+    - Blighted Reach
+    - Title
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F220
+  text: >-
+    ***Tuck this partially under your Fate card.***
+     
+    **Free Buildings.** You may take actions with Free buildings that are not controlled by the Empire like they are Loyal. Pieces built in this way are always placed fresh.
+     
+    **Armistice.** During Edicts, a Member may stop Members from harming each other and Free cities. *(See the Call for Armistice edict card.)*
+     
+    **Commonwealth Ambition.** Members can score the Commonwealth ambition together. *(See the Commonwealth Ambition law card.)*
+     
+    **Disgrace.** If you **harm** a Free city, scrap this title. *(You cannot become a Member again!)*
+  image: F220
+  name: Member of the Commonwealth
+  tags:
+    - Blighted Reach
+    - Title
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F221
+  text: >-
+    ***Tuck this partially under your Fate card.***
+     
+    **Free Buildings.** You may take actions with Free buildings that are not controlled by the Empire like they are Loyal. Pieces built in this way are always placed fresh.
+     
+    **Armistice.** During Edicts, a Member may stop Members from harming each other and Free cities. *(See the Call for Armistice edict card.)*
+     
+    **Commonwealth Ambition.** Members can score the Commonwealth ambition together. *(See the Commonwealth Ambition law card.)*
+     
+    **Disgrace.** If you **harm** a Free city, scrap this title. *(You cannot become a Member again!)*
+  image: F221
+  name: Member of the Commonwealth
+  tags:
+    - Blighted Reach
+    - Title
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F222
+  text: >-
+    **Privileges.** Members may take actions with Free buildings that are not controlled by the Empire like they are Loyal—**tax** Free cities, **build** ships and take Catapult moves with Free starports, **build** buildings at them, and **repair** them. Pieces built in this way are always placed fresh.
+     
+    During Edicts, a Member may stop Members from harming each other and Free cities. *(See the Call for Armistice edict card.)*
+     
+    Members can score the Commonwealth ambition together. *(See the Commonwealth Ambition law card.)*
+     
+    **Disgrace.** If a Member **harms** a Free city, they scrap their Member title. *(They cannot become a Member again.)*
+  image: F222
+  name: Commonwealth Membership
+  tags:
+    - Blighted Reach
+    - Law
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F223
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Spirit of Freedom (24).
+     
+    2. Scrap the 2 Construction Union (08–09) and 2 Admin Union cards (10–11).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Spirit of Freedom (24).
+     
+    2. Scrap your Founder of the Commonwealth card (13) and the Commonwealth Ambition marker.
+     
+    3. Add the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) to the Court deck.
+  image: F223
+  name: Founder Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Founder
+  meta:
+    act: 2
+- id: ARCS/F224
+  text: >-
+    You may **secure** cards from the Court where you are tied for most agents *(but not zero)* with a Rival who is not a Commonwealth Member.
+  image: F224
+  name: Spirit of Freedom
+  tags:
+    - Blighted Reach
+    - Lore
+    - Founder
+  meta:
+    act: 3
+- id: ARCS/F225A
+  text: >-
+    Scrap the Call for Armistice edict (15) and add the Mass Call for Armistice edict (26) to the rules booklet. ***Explain that it is the same as before, but now the Founder can also call for a Armistice.***
+     
+    Gain Freedom Fighters (27).
+     
+    *Flip this card over.*
+  image: F225A
+  name: Founder Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Founder
+  meta:
+    act: 3
+- id: ARCS/F225B
+  text: >-
+    ***Secure Freedom for All***
+     
+    The Commonwealth won the Commonwealth ambition and...
+     
+    3 Free cities are neither controlled by the Empire nor a player who is not a Commonwealth Member.
+     
+    7 Free cities are neither controlled by the Empire nor a player who is not a Commonwealth Member.
+  image: F225B
+  name: Founder Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Founder
+  meta:
+    act: 3
+- id: ARCS/F226
+  text: >-
+    ***Scrap this if there are no Commonwealth Members.***
+     
+    The Member of the Commonwealth with the least Power may untuck 1 Armistice card from here and attach it to a card in the Court. On a tie, skip this.
+     
+    Then, the Founder may do the same.
+     
+    *The Armistice also prevents Members from leaving the Commonwealth until the Armistice ends!*
+  image: F226
+  name: Mass Call for Armistice
+  tags:
+    - Blighted Reach
+    - Edict
+    - Founder
+  meta:
+    act: 3
+- id: ARCS/F227
+  text: >-
+    **Incite Revolt (Battle):** In a system with a fresh Free city, destroy all damaged Rival and Imperial ships, ignoring the Imperial Truce Law. Don’t take Trophies.
+  image: F227
+  name: Freedom Fighters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Founder
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F301A
+  text: >-
+    Gain Merchant League (02).
+     
+    *Flip this card over.*
+  image: F301A
+  name: Magnate Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Magnate
+  meta:
+    act: 1
+- id: ARCS/F301B
+  text: >-
+    ***Close Deals with Rivals***
+     
+    In Summit Negotiations, **advance `symbol:clock`2** each time a Rival gives you a Favor or resource, except one that you gave them during this Summit.
+     
+    ***Export to the Galactic Core***
+     
+    In Summit Negotiations, **advance `symbol:clock`2** each time you choose to discard 3 resources.
+     
+    *You can fulfill both objectives multiple times in one Summit!*
+     
+    *Summits happen from Event cards and the Imperial Council.*
+     
+    *You can’t discard resources from your Merchant League—they’re frozen except for the Transfer Asset action.*
+  image: F301B
+  name: Magnate Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Magnate
+  meta:
+    act: 1
+- id: ARCS/F302
+  text: >-
+    **Crisis:** Discard all resources from here.
+     
+    When you **declare an ambition,** you may gain any 2 resources onto here. These resources are frozen except for the Transfer Asset action in **Summits.**
+  image: F302
+  name: Merchant League
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Magnate
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F303
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add the Elder Broker (04), Relic Fence (05), and Prison Wardens (06) to the Court deck.
+     
+    2. Place the 5 Cartel cards (07–11) behind the Magnate’s next Resolution card (21).
+     
+    3. If Mining Interest (CC01) or Shipping Interest (CC04) are in the Court discard pile, add them to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Scrap the Elder Broker (04), Relic Fence (05), and Prison Wardens (06).
+     
+    2. Add the 5 Cartel cards (07–11) to the Court deck.
+  image: F303
+  name: Magnate Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Magnate
+  meta:
+    act: 1
+- id: ARCS/F304
+  text: >-
+    **Trade (Tax):** Choose a Rival city you control.Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don’t have.
+     
+    **Prelude:** You may discard this to gain 1 Material, 1 Fuel, and 1 Weapon.
+  image: F304
+  name: Elder Broker
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F305
+  text: >-
+    **Prelude:** Once per turn, you may discard 1 resource to gain 1 Relic.
+  image: F305
+  name: Relic Fence
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F306
+  text: >-
+    **Pressgang (Build):** Return any number of your Captives to gain any 1 resource for each.
+     
+    **Execute (Influence):** Move any number of your Captives to your Trophies.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F306
+  name: Prison Wardens
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F307
+  text: >-
+    You keep the Material supply on here. *(You add it to Tycoon but can’t spend it.)*
+     
+    After **scoring,** Rivals discard all Material.
+     
+    **Prelude:** You may discard this to steal 1 Material.
+  image: F307
+  name: Material Cartel
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F308
+  text: >-
+    You keep the Fuel supply on here. (You add it to Tycoon but can’t spend it.)
+    After **scoring**, Rivals discard all Fuel.
+     
+    **Prelude:** You may discard this to steal 1 Fuel.
+  image: F308
+  name: Fuel Cartel
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F309
+  text: >-
+    You keep the Weapon supply on here. (You add it to Warlord but can’t spend it.)
+    After **scoring,** Rivals discard all Weapons.
+     
+    **Prelude:** You may discard this to steal 1 Weapon.
+  image: F309
+  name: Weapon Cartel
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F310
+  text: >-
+    You keep the Psionic supply on here. (You add it to Empath but can’t spend it.)
+    After **scoring,** Rivals discard all Psionic.
+     
+    **Prelude:** You may discard this to steal 1 Psionic.
+  image: F310
+  name: Psionic Cartel
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F311
+  text: >-
+    You keep the Relic supply on here. (You add it to Keeper but can’t spend it.)
+     
+    After **scoring,** Rivals discard all Relics.
+     
+    **Prelude:** You may discard this to steal 1 Relic.
+  image: F311
+  name: Relic Cartel
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Magnate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F312A
+  text: >-
+    Place the 5 Monopoly cards (13–17) in the general supply. Place the resource supplies on their respective Monopoly cards.
+     
+    Add the Gain Monopolies edict (18) to the rules booklet.
+     
+    Place the War Profiteer marker on the Warlord ambition box.
+     
+    Add the Monopoly Consent card (19) and War Profiteering card (20) to the rules booklet. **Explain them to everyone.**
+     
+    *Flip this card over.*
+  image: F312A
+  name: Magnate Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F312B
+  text: >-
+    ***Corner the Market...***
+     
+    **Advance `symbol:clock`1** each time you gain a Monopoly card from the supply.
+     
+    *Players can gain Monopolies as described on the Gain Monopolies edict in the rules booklet.*
+     
+    ***...And Hold It***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each Monopoly card you have.
+  image: F312B
+  name: Magnate Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F313
+  text: >-
+    You hold the Material supply here. (Add Material on here to Tycoon. You cannot spend it.)
+     
+    In **Summits,** your consent is required to give Material.
+  image: F313
+  name: Material Monopoly
+  tags:
+    - Blighted Reach
+    - Monopoly
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F314
+  text: >-
+    You hold the Fuel supply here. (Add Fuel on here to Tycoon. You cannot spend it.)
+     
+    In **Summits,** your consent is required to give Fuel.
+  image: F314
+  name: Fuel Monopoly
+  tags:
+    - Blighted Reach
+    - Monopoly
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F315
+  text: >-
+    You hold theRelic supply here. (Add Relics on here to Keeper. You cannot spend them.)
+     
+    In **Summits,** your consent is required to give Relics.
+  image: F315
+  name: Relic Monopoly
+  tags:
+    - Blighted Reach
+    - Monopoly
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F316
+  text: >-
+    You hold the Psionic supply here. (Add Psionic on here to Empath. You cannot spend it.)
+     
+    In **Summits,** your consent is required to give Psionic.
+  image: F316
+  name: Psionic Monopoly
+  tags:
+    - Blighted Reach
+    - Monopoly
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F317
+  text: >-
+    You hold the Weapon supply here. (Add Weapons on here to Warlord. You cannot spend them.)
+     
+    In **Summits,** your consent is required to give Weapons.
+  image: F317
+  name: Weapon Monopoly
+  tags:
+    - Blighted Reach
+    - Monopoly
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F318
+  text: >-
+    For each resource type, a player takes the Monopoly card of its type if they have more than half of the total resources of its type in play.
+     
+    *Usually this means you need 3 resources out of 5. Some Fates add resources or scrap them, removing them from play. Two-player games remove resources from play onto ambition boxes.*
+     
+    ***Monopolies* let you hold the matching resource supply. You add resources on Monopolies to ambitions, but you can’t spend them. Also, players need your consent to give that resource during Summits.**
+  image: F318
+  name: Gain Monopolies
+  tags:
+    - Blighted Reach
+    - Edict
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F319
+  text: >-
+    In **Summits,** players may only give a resource with **Transfer Asset** if they have the consent of the player with the Monopoly for that resource. Consent is not needed if no one has the Monopoly.
+     
+    In the Call to Order, the player who called the Summit may force the Monopoly holder’s consent by returning 1 Favor of theirs to them.
+  image: F319
+  name: Monopoly Consent
+  tags:
+    - Blighted Reach
+    - Summit
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F320
+  text: >-
+    In Act II & III **setup,** place the War Profiteer marker on the Warlord ambition box.
+     
+    The Warlord ambition now counts the total of Trophies and Weapons icons from resources and cards.
+  image: F320
+  name: War Profiteering
+  tags:
+    - Blighted Reach
+    - Law
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F321
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Prospectors (22).
+     
+    2. Scrap the 5 Cartel cards (07–11) and the 2 Extortion cards (23–24).
+     
+    3. If Mining Interest (CC01) or Fuel Interest (CC04) are in the Court discard pile, add them to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Scrap Prospectors (22) and any Monopoly cards (13–17) that players do not have.
+     
+    2. Add the Cartel cards (07–11) matching the scrapped Monopolies to the Court deck. Scrap the rest of the Cartel cards (07–11).
+     
+    3. Add the 2 Extortion cards (23–24) to the Court deck.
+  image: F321
+  name: Magnate Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Magnate
+  meta:
+    act: 2
+- id: ARCS/F322
+  text: >-
+    You may **build** cities on ***any*** planets if you don’t have the Monopoly matching that planet type. *(You don’t need Loyal pieces there!)*
+  image: F322
+  name: Prospectors
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Magnate
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F323
+  text: >-
+    **Crisis:** For each resource type, the player with most of it, or the players tied for the most of it, must discard 1 resource of that type. Discard this card.
+     
+    **When Secured:** Steal 1 resource from a Rival. Discard this card.
+  image: F323
+  name: Extortion
+  tags:
+    - Blighted Reach
+    - Vox
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F324
+  text: >-
+    **Crisis:** For each resource type, the player with most of it, or the players tied for the most of it, must discard 1 resource of that type. Discard this card.
+     
+    **When Secured:** Steal 1 resource from a Rival. Discard this card.
+  image: F324
+  name: Extortion
+  tags:
+    - Blighted Reach
+    - Vox
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F325A
+  text: >-
+    If you’re a Regent, tuck the Economy law card (26) on its Closed Economy side under the card play area near the map. If you’re an Outlaw, tuck it on its Open Economy side.
+     
+    Add Closed & Open Economy (27) to the rules booklet. **Explain it to everyone.**
+     
+    Remember to place the War Profiteer marker on the Warlord ambition box.
+     
+    *Flip this card over.*
+  image: F325A
+  name: Magnate Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F325B
+  text: >-
+    Escape the Reach, Content with Your Riches
+     
+    Have any Monopolies
+     
+    Have at least 2 Monopolies
+     
+    After scoring, you must scrap 1 Monopoly you have and all of your resources of that Monopoly type.
+     
+    *Scrap all resources in your play area, whether they’re on your player board, on the Monopoly, Imperial Trust, on Merchant League, and so on!*
+     
+    *If you have no Monopolies, do not scrap resources.*
+  image: F325B
+  name: Magnate Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F326A
+  text: >-
+    **While the Magnate is a Regent,** Regents other than the Magnate cannot **tax** Empire-controlled cities *(even Loyal ones)* unless they have the matching Monopoly.
+     
+    If the Magnate becomes an Outlaw, flip this to Open Economy.
+  image: F326A
+  name: Closed Economy
+  tags:
+    - Blighted Reach
+    - Economy
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F326B
+  text: >-
+    **While the Magnate is a Outlaw,** players may **tax** Loyal cities more than once per turn. The Magnate may also **tax** Rival and Free cities more than once per turn.
+     
+    If the Magnate becomes a Regent, flip this to Closed Economy.
+  image: F326B
+  name: Open Economy
+  tags:
+    - Blighted Reach
+    - Economy
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F327
+  text: >-
+    The Economy of the Reach is shown by the Economy card (26) tucked under the card play area on the map.
+     
+    **While the Magnate is a Regent, the Empire has a Closed Economy:** Regents cannot **tax** Empire-controlled cities *(even Loyal ones)* unless they have the matching Monopoly.
+     
+    **While the Magnate is an Outlaw, the Reach has an Open Economy:** Players may **tax** Loyal cities more than once per turn. The Magnate may also **tax** Rival and Free cities more than once per turn.
+  image: F327
+  name: Closed & Open Economy
+  tags:
+    - Blighted Reach
+    - Law
+    - Magnate
+  meta:
+    act: 3
+- id: ARCS/F401A
+  text: >-
+    Gain Guild Investigators (02) and Guild Overseers (03).
+     
+    Guild Overseers has a When Secured action. Do not resolve this now. It is only relevant once Guild Overseers enters the Court deck in Act II.
+     
+    Flip this card over.
+  image: F401A
+  name: Advocate Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Advocate
+  meta:
+    act: 1
+- id: ARCS/F401B
+  text: >-
+    ***Prove Yourself to the Overseers***
+     
+    While you have Guild Overseers, ***advance `symbol:clock`3*** each time you use the Prelude action of a Guild card that discards itself.
+     
+    *The Guild Overseers card limits when you can use Guild cards, including Guild Investigators!*
+     
+    ***Keep the Guilds in Power***
+     
+    While you have Guild Overseers, **advance `symbol:clock`2** each time you take the Recover action of your Guild Investigators.
+  image: F401B
+  name: Advocate Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Advocate
+  meta:
+    act: 1
+- id: ARCS/F402
+  text: >-
+    **Recover (Move):** Attach the topmost Guild card from the Court discard pile to a card in the Court with no agents.
+  image: F402
+  name: Guild Investigators
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Advocate
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F403
+  text: >-
+    To use actions on Guild cards, you must be in first or second place for a declared ambition. *(That is, you’d gain Power if it scored now.)*
+     
+    **When Secured:** Search the Court deck and discard pile to take any 1 Guild card. If you searched the deck, shuffle it.
+  image: F403
+  name: Guild Overseers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Advocate
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F404
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add your Guild Overseers (03), the 5 Liaison cards (05–09), and Diplomatic Fiasco (10) to the Court deck.
+     
+    2. Scrap Guild Struggle (11).
+     
+    **If you failed your objective:**
+     
+    1. Add your Guild Overseers (03) to the Court deck.
+     
+    2. For each Guild card suit that you have more of than each Rival, add the matching Liaison card (05–09) to the Court deck. Scrap the remaining Liaison cards.
+     
+    3. Scrap Diplomatic Fiasco (10).
+     
+    4. Add Guild Struggle (11) to the Court deck.
+  image: F404
+  name: Advocate Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Advocate
+  meta:
+    act: 1
+- id: ARCS/F405
+  text: >-
+    When you Copy to **build,** you may gain 1 Material.
+     
+    **Prelude:** You may attach this to a Court card with no agents to declare the Tycoon ambition.
+  image: F405
+  name: Material Liasons
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Advocate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F406
+  text: >-
+    When you Copy to **move,** you may gain 1 Fuel.
+     
+    **Prelude:** You may attach this to a Court card with no agents to declare the Tycoon ambition.
+  image: F406
+  name: Fuel Liasons
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Advocate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F407
+  text: >-
+    When you Copy to **battle,** you may gain 1 Weapon.
+     
+    **Prelude:** You may attach this to a Court card with no agents to declare the Warlord ambition.
+  image: F407
+  name: Weapon Liasons
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Advocate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F408
+  text: >-
+    When you Copy to **secure,** you may gain 1 Relic.
+     
+    **Prelude:** You may attach this to a Court card with no agents to declare the Keeper ambition.
+  image: F408
+  name: Relic Liasons
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Advocate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F409
+  text: >-
+    When you Copy to **influence,** you may gain 1 Psionic.
+     
+    **Prelude:** You may attach this to a Court card with no agents to declare the Empath ambition.
+  image: F409
+  name: Psionic Liasons
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Advocate
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F410
+  text: >-
+    **Crisis:** In turn order, each player with more Guild cards than agents in their supply must discard Guild cards until their Guild cards equal their agents. Bury this card. *(Count Protected Guild cards but don’t discard them.)*
+     
+    **When Secured:** Rivals resolve the Crisis.
+  image: F410
+  name: Diplomatic Fiasco
+  tags:
+    - Blighted Reach
+    - Vox
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F411
+  text: >-
+    **Crisis:** In turn order, each player gives 1 Guild card to their left, except the card they were given. Bury Guild Struggle.
+     
+    **When Secured:** You may steal 1 Guild card from a Rival. Shuffle all Guild cards from the Court discard pile into the Court deck. Bury Guild Struggle.
+  image: F411
+  name: Guild Struggle
+  tags:
+    - Blighted Reach
+    - Vox
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F412A
+  text: >-
+    1. Add the Advocate’s Demand edict (13) to the rules booklet. ***Explain it to everyone.***
+     
+    2. Add Guild Negotiations (14) to the rules booklet. ***Explain it to everyone.***
+     
+    *Flip this card over.*
+  image: F412A
+  name: Advocate Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F412B
+  text: >-
+    ***Connect with the Guilds***
+     
+    At the end of a chapter, ***advance `symbol:clock`1*** for each different suit of Guild card you have.
+     
+    ***Improve Your Standing***
+     
+    At the end of a chapter, **advance `symbol"clock`1** for each Rival that you have more Guild cards than.
+     
+    *The Advocate’s Demand edict will help you advance these objectives!*
+  image: F412B
+  name: Advocate Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F413
+  text: >-
+    ***Scrap this if the Advocate is not in play.***
+     
+    The Advocate may choose 1 Guild card held by a Rival, but its suit cannot match any Guild card held by the Advocate.
+     
+    That Rival must either give that Guild card to the Advocate and take 1 Favor from the Advocate, or give 1 Favor to the Advocate.
+     
+    *This is not stealing, so cards like Sworn Guardians don’t prevent it. The Advocate can even demand protected Guild cards!*
+  image: F413
+  name: Advocate's Deman
+  tags:
+    - Blighted Reach
+    - Edict
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F414
+  text: >-
+    **In Summits, you can take a new Negotiation action, Transfer Guild Support:**
+     
+    Give a Guild card. This requires the Advocate’s consent if they are in play.
+     
+    Forcing this with Return Favors costs Favors equal to the Guild card’s raid cost. You may force the Advocate’s consent by returning 1 Favor of theirs to them.
+     
+    *Players cannot be forced to give protected Guild cards.*
+  image: F414
+  name: Guild Negotiations
+  tags:
+    - Blighted Reach
+    - Summit
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F415
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add Guild Fair (16) and the 5 Guildmaster cards (17–21) to the Court deck.
+     
+    2. Scrap Guilds Withdraw (22).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Guild Fair (16) and the 5 Guildmaster cards (17–21).
+     
+    2. Add Guilds Withdraw (22) to the Court deck.
+     
+    3. Scrap Advocate’s Demand (13) from the rules booklet.
+  image: F415
+  name: Advocate Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Advocate
+  meta:
+    act: 2
+- id: ARCS/F416
+  text: >-
+    **Crisis:** Players secure all Guild cards that they currently can. Bury this card.
+     
+    **When Secured:** Return all Rival agents from Guild cards in the Court. Secure all Guild cards that you currently can. Bury this card.
+  image: F416
+  name: Guild Fair
+  tags:
+    - Blighted Reach
+    - Vox
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F417
+  text: >-
+    When you **declare** the Tycoon ambition, you may steal a Material Guild card.
+  image: F417
+  name: Material Guildmasters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Advocate
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/F418
+  text: >-
+    When you **declare** the Tycoon ambition, you may steal a Fuel Guild card.
+  image: F418
+  name: Fuel Guildmasters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Advocate
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/F419
+  text: >-
+    When you **declare** the Warlord ambition, you may steal a Weapon Guild card.
+  image: F419
+  name: Weapons Guildmasters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Advocate
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/F420
+  text: >-
+    When you **declare** the Keeper ambition, you may steal a Relic Guild card.
+  image: F420
+  name: Relic Guildmasters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Advocate
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/F421
+  text: >-
+    When you **declare** the Empath ambition, you may steal a Psionic Guild card.
+  image: F421
+  name: Psionic Guildmasters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Advocate
+  meta:
+    keys: 3
+    act: 3
+- id: ARCS/F422
+  text: >-
+    **Crisis:** If a `symbol:hex` or `symbol:arrow` was rolled, each player in turn order must bury 1 Guild card. Bury this card.
+     
+    **When Secured:** Each Rival must bury 1 Guild card. Bury this card.
+  image: F422
+  name: Guilds Withdraw
+  tags:
+    - Blighted Reach
+    - Vox
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F423A
+  text: >-
+    Gain Guild Loyalty (24).
+     
+    Add Guild Supremacy to the rules booklet (25). ***Explain it to everyone.***
+     
+    As a reminder, place the second copy of Guild Supremacy (26) near the ambition boxes.
+     
+    *Flip this card over.*
+  image: F423A
+  name: Advocate Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F423B
+  text: >-
+    ***Consolidate Guild Supremacy***
+     
+    Have more different suits of Guild cards than the current Chapter.
+     
+    Guild cards make up more than half of the Court.
+     
+    *The second grand ambition counts attached cards. For example, if the Court has the Imperial Council, 3 cards, and 2 attached cards, this grand ambition requires 4 Guild cards.*
+     
+    *Remember that you can attach a Guild card to the Imperial Council, since it’s a card in the Court. It doesn’t even have to be In Session!
+  image: F423B
+  name: Advocate Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F424
+  text: >-
+    When you **Provoke Outrage,** you do not bury Guild cards.
+  image: F424
+  name: Guild Loyalty
+  tags:
+    - Blighted Reach
+    - Lore
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F425
+  text: >-
+    When **scoring,** Guild cards count twice.
+     
+    *For example, each Psionic Guild card counts as two toward the Empath ambition.*
+  image: F425
+  name: Guild Supremacy
+  tags:
+    - Blighted Reach
+    - Law
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F426
+  text: >-
+    When **scoring,** Guild cards count twice.
+     
+    *For example, each Psionic Guild card counts as two toward the Empath ambition.*
+  image: F426
+  name: Guild Supremacy
+  tags:
+    - Blighted Reach
+    - Reminder
+    - Advocate
+  meta:
+    act: 3
+- id: ARCS/F501A
+  text: >-
+    Gain Golem Beacon (02), Golem Hearth (03), and Stone-Speakers (04).
+     
+    Shuffle the 4 Sleeping Golem tokens. Place one on its Sleeping side at each gate in the clusters without Imperial ships.
+     
+    Add Golems (05) and Golem Actions (06) to the rules booklet. ***Explain them to everyone.***
+     
+    *Flip this card over.*
+  image: F501A
+  name: Caretaker Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F501B
+  text: >-
+    ***Find the Golems***
+     
+    Each time you win an ambition, **advance `symbol:clock`2** for each Golem you have.
+     
+    *You can take Golems from the map with your Golem Beacon card.*
+     
+    ***Use the Golems***
+     
+    **Advance `symbol:clock`2** each time any player spends a Golem in their Prelude.
+     
+    *Advance even if the player chooses not to use the Golem’s Prelude action.*
+  image: F501B
+  name: Caretaker Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F502
+  text: >-
+    **Awaken (Influence): **Take any Golems you control from the map and place them on your Golem Hearth card. Flip these Golems to Awake if you are winning a declared ambition.
+  image: F502
+  name: Golm Beacon
+  tags:
+    - Blighted Reach
+    - Lore
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F503
+  text: >-
+    **Crisis:** Flip all Sleeping Golems that are not on the map to Awake.
+     
+    This card holds any number of Golems. *(You may spend Awake Golems here.)* Their raid cost is `symbol:key``symbol:key` each.
+  image: F503
+  name: Golem Hearth
+  tags:
+    - Blighted Reach
+    - Lore
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F504
+  text: >-
+    When you **declare an ambition,** you may end your turn immediately. If you do, take any Golems from Rivals, then roll the event die and resolve Crises if you roll it. *(Don’t resolve Edicts.)*
+  image: F504
+  name: Stone-Speakers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Caretaker
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F505
+  text: >-
+    *Only the Caretaker can take Golems from the map.*
+     
+    Golems fill resource slots and can be discarded, rearranged, and spent for actions like resources. *(See the Golem Actions card for details.)*
+     
+    They have Sleeping and Awake sides. Its Awake side is public if a player holds it. *(Players’ Golems flip to Awake in Crises.)*
+     
+    When a Golem is spent or discarded, flip it to Sleeping and place it in a Rival’s empty resource slot. If there are none, you keep it.
+     
+    In Act II/III **setup,** Golems flip to Awake.
+  image: F505
+  name: Golems
+  tags:
+    - Blighted Reach
+    - Law
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F506
+  text: >-
+    **Prelude:** You may spend your Awake Golems to optionally take their actions.
+     
+    **Warrior:** Destroy ***all*** damaged ships in one system. *(Return Loyal ships to your supply.)*
+     
+    **Protector:** Repair ***any*** ships of your choice. *(Also 1 Upgrade or Armor with a Flagship.)*
+     
+    **Seeker:** Take a Catapult move from one system.
+     
+    **Harvester:** Gain any resource.
+  image: F506
+  name: Golem Actions
+  tags:
+    - Blighted Reach
+    - Law
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F507
+  text: >-
+    **If you completed your objective:**
+     
+    1. Scrap your Golem Beacon (02).
+     
+    2. Place all Golem tokens from the map onto your Golem Hearth (03).
+     
+    3. Add 1 lore card per player at random from the lore deck to the Court deck. Add the 4 Unstable cards (08–11) to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Scrap your Golem Beacon (02).
+     
+    2. Add your Stone-Speakers (04) to the Court deck
+     
+    3. Scrap all Golem tokens on the map.
+     
+    4. Add the Unstable cards (08–11) matching the Golems still in play to the Court deck. Scrap the rest of the Unstable cards (08–11).
+  image: F507
+  name: Caretaker Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Caretaker
+  meta:
+    act: 1
+- id: ARCS/F508
+  text: >-
+    **Crisis:** The player with the Harvester discards all of their resources.
+     
+    **When Secured:** Flip the Harvester to Awake and take it. Discard this card.
+  image: F508
+  name: Unstable Harvester
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F509
+  text: >-
+    **Crisis:** The player with the Seeker moves their Loyal ships from planets of the rolled symbol to the gate in the rolled cluster.
+     
+    **When Secured:** Flip the Seeker to Awake and take it. Discard this card.
+  image: F509
+  name: Unstable Seeker
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F510
+  text: >-
+    **Crisis:** Repair all ships except those of the player with the Protector.
+     
+    **When Secured:** Flip the Protector to Awake and take it. Discard this card.
+  image: F510
+  name: Unstable Protector
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F511
+  text: >-
+    **Crisis:** Destroy all damaged Loyal ships of the player with the Warrior.
+     
+    **When Secured:** Flip the Warrior to Awake and take it. Discard this card.
+  image: F511
+  name: Unstable Warrior
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F512A
+  text: >-
+    1. Gain Librarians (13).
+     
+    2. Add Knowledge Set Free (14) to the rules booklet. **Explain it to everyone.**
+     
+    3. Shuffle the extra Event card (15)into the action deck. ***Mention this to everyone.** (This card does not list its card number.)*
+     
+    4. Flip all Sleeping Golems to Awake.
+     
+    *Flip this card over.*
+  image: F512A
+  name: Caretaker Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F512B
+  text: >-
+    ***Collect the Galaxy’s Knowledge***
+     
+    **Advance `symbol:clock`2** each time you secure a lore card.
+     
+    In Summit Negotiations, **advance `symbol:clock`1** each time a Rival gives you a lore card using Transfer Lore, unless you gave them that lore card during the same Summit.
+     
+    *The Knowledge Set Free card lets players give away lore in Summits.*
+     
+    **Build the Largest Collection**
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each Rival that you have more lore cards than.
+  image: F512B
+  name: Caretaker Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F513
+  text: >-
+    **Crisis:** The player holding this card must attach it to a card in the Court.
+     
+    After you **secure** a card, you may draw 1 lore card from the lore deck and attach it to the card that refilled the Court.
+  image: F513
+  name: Librarians
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Caretaker
+  meta:
+    keys: 0
+    act: 2
+- id: ARCS/F514
+  text: >-
+    **In Summits, you can take these new Negotiation actions:**
+     
+    **Transfer Lore:** Give a lore card to a Rival. This cannot be forced with Return Favors.
+     
+    **Transfer Golem:** Give a Golem to a Rival. To force this with Return Favors, you must return Favors equal in number to the Golem’s raid cost.
+  image: F514
+  name: Knowledge Set Free
+  tags:
+    - Blighted Reach
+    - Summit
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F515
+  text: >-
+    **Mirror Lead, Add Event to Round End**
+     
+    Take actions like the lead card unless a Rival played an Event card or secured the Imperial Council this round.
+     
+    You cannot Lead this, Copy wtih this, or discard this to seize the initiative
+     
+    At the end of the round, after checking initiative, the player with initiative may call a Summit, then must roll an event.
+     
+    `symbol:crisis`: **Resolve Crises**
+     
+     `symbol:edict`: **Resolve Edicts.**
+     
+    If the Imperial Council was secured this round, resolve it instead of this.
+  image: F515
+  name: Event
+  tags:
+    - Blighted Reach
+    - Event
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F516
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add the 3 Golem Worship cards (17–19) to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Scrap the 3 Golem Worship cards (17–19).
+     
+    2. Add all Unstable cards (08–11) from the Court discard pile to the Court deck.
+  image: F516
+  name: Caretaker Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Caretaker
+  meta:
+    act: 2
+- id: ARCS/F517
+  text: >-
+    **Crisis:** In turn order, each player with any Golems must return 1 Loyal city to their player board. Bury this card.
+     
+    **When Secured:** Take any Golem and flip it to Awake. Discard this card.
+  image: F517
+  name: Golem Worship
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 3
+- id: ARCS/F518
+  text: >-
+    **Crisis:** In turn order, each player with any Golems must return 1 Loyal city to their player board. Bury this card.
+     
+    **When Secured:** Take any Golem and flip it to Awake. Discard this card.
+  image: F518
+  name: Golem Worship
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 3
+- id: ARCS/F519
+  text: >-
+    **Crisis:** In turn order, each player with any Golems must return 1 Loyal city to their player board. Bury this card.
+     
+    **When Secured:** Take any Golem and flip it to Awake. Discard this card.
+  image: F519
+  name: Golem Worship
+  tags:
+    - Blighted Reach
+    - Vox
+    - Caretaker
+  meta:
+    act: 3
+- id: ARCS/F520A
+  text: >-
+    Add the Golems Sate Their Appetite edict (21) to the rules booklet. ***Explain it to everyone.***
+     
+    Flip all Sleeping Golems to Awake.
+     
+    *Flip this card over.*
+  image: F520A
+  name: Caretaker Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Caretaker
+  meta:
+    act: 3
+- id: ARCS/F520B
+  text: >-
+    Consume Dangerous Lore with the Golems, but Silence Them Before They Eat Everything
+     
+    At the end of a chapter, you have a Golem and choose to scrap 1 lore card you have except the Golem Hearth.
+     
+    At the end of a chapter, you choose to scrap 1 Golem you have.
+     
+    *You can take each of these actions once per chapter. You may scrap the Golem after scrapping the lore card.*
+  image: F520B
+  name: Caretaker Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Caretaker
+  meta:
+    act: 3
+- id: ARCS/F521
+  text: >-
+    **First, Consume Sentience.** In turn order, each player must scrap 1 Guild card for each Awake Golem they have, ignoring the limits of protected Guild cards. *(In other words, you can scrap protected Guild cards too!)*
+     
+    If they have no Guild cards, scrap the leftmost Guild card in the Court that has any agents, and scrap those agents.
+     
+    **Then, Golems Awaken.** Flip all Sleeping Golems to Awake.
+  image: F521
+  name: Golems Sate Their Appetite
+  tags:
+    - Blighted Reach
+    - Edict
+    - Caretaker
+  meta:
+    act: 3
+- id: ARCS/F601A
+  text: >-
+    1. Gain Informants (02) and Partisan Seizing (03).
+     
+    *Flip this card over.*
+  image: F601A
+  name: Partisan Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Partisan
+  meta:
+    act: 1
+- id: ARCS/F601B
+  text: >-
+    ***Sow Division in the Reach***
+     
+    **Advance `symobl:clock`1** each time you get the initiative marker in any way.
+     
+    *Your Partisan Seizing card changes how you seize the initiative—instead of discarding an extra card, you need to Provoke Outrage.*
+     
+    ***Appeal to Your Supporters***
+     
+    **Advance `symbol:clock`2** each time you win an ambition where you don’t have Outrage for the resource it counts. Weapon Outrage stops you from advancing by winning Warlord.
+  image: F601B
+  name: Partisan Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Partisan
+  meta:
+    act: 1
+- id: ARCS/F602
+  text: >-
+    **Spy (Influence):** Once per turn, give your action card of highest number to a Rival. After you do, they must give you their action card of highest number. *(It can be the same card.)*
+  image: F602
+  name: Informants
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Partisan
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F603
+  text: >-
+    ***Scrap this and clear all your Outrage if you’re not the Partisan.***
+     
+    You cannot **seize the initiative** by discarding a second action card. *(This doesn’t limit other ways to seize.)*
+     
+    Instead, you may seize the initiative when you play a card if you choose to Provoke Outrage with a non-Outraged resource. *(Discard resources and Guild cards of the Outrage type. Place an agent on the matching Outrage slot.)*
+     
+    *Remember, you can’t seize the initiative if you have it or it has been seized!*
+  image: F603
+  name: Partisan Seizing
+  tags:
+    - Blighted Reach
+    - Ability
+    - Partisan
+  meta:
+    act: 1
+- id: ARCS/F604
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add the 5 Loyal cards (05–09) to the Court deck.
+     
+    2. Gain Galactic Bards (10).
+     
+    3. Scrap the Spacing Union (11), Arms Union (12), and 2 Outrage Spreads (13–14).
+     
+    **If you failed your objective:**
+     
+    1. Scrap the 5 Loyal cards (05–09).
+     
+    2. Add Galactic Bards (10), Spacing Union (11), Arms Union (12), and 2 Outrage Spreads (13–14) to the Court deck.
+     
+    3. Scrap your Partisan Seizing card (03) and clear all your Outrage.
+  image: F604
+  name: Partisan Act 1 Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Partisan
+  meta:
+    act: 1
+- id: ARCS/F605
+  text: >-
+    If you **Provoke Outrage,** keep this card.
+     
+    You may spend any resources as Material. You ignore Outrage when spending Material for its Prelude action.
+  image: F605
+  name: Loyal Engineers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Partisan
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F606
+  text: >-
+    If you **Provoke Outrage,** keep this card.
+     
+    You may spend any resources as Fuel. You ignore Outrage when spending Fuel for its Prelude action.
+  image: F606
+  name: Loyal Pilots
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Partisan
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F607
+  text: >-
+    If you **Provoke Outrage,** keep this card.
+     
+    You may spend any resources as Weapons. You ignore Outrage when spending Weapons for their Prelude action.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F607
+  name: Loyal Marines
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Partisan
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F608
+  text: >-
+    If you **Provoke Outrage,** keep this card.
+     
+    You may spend any resources as Psionic. You ignore Outrage when spending Psionic for its Prelude action.
+  image: F608
+  name: Loyal Empaths
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Partisan
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F609
+  text: >-
+    If you **Provoke Outrage,** keep this card.
+     
+    You may spend any resources as Relics. You ignore Outrage when spending Relics for their Prelude action.
+  image: F609
+  name: Loyal Keepers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Partisan
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F610
+  text: >-
+    When you **Surpass** or **Pivot,** before taking ***any*** actions, you may declare the ambition on your played card if an ambition has not been declared yet this round. Do not place the zero marker.
+  image: F610
+  name: Galactic Bards
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Partisan
+  meta:
+    keys: 1
+    act: 2
+- id: ARCS/F611
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Mobilization card. When the round ends, draw that card into your hand and discard this card.
+  image: F611
+  name: Spacing Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Partisan
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F612
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Aggression card. When the round ends, draw that card into your hand and discard this card.
+  image: F612
+  name: Arms Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Partisan
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F613
+  text: >-
+    **Crisis:** Each player Provokes Outrage of the rolled planet. Discard this card.
+     
+    **When Secured:** You may choose an Outrage type. Each player *(even you)* must Provoke Outrage of that type. Discard this card.
+  image: F613
+  name: Outrage Spreads
+  tags:
+    - Blighted Reach
+    - Vox
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F614
+  text: >-
+    **Crisis:** Each player Provokes Outrage of the rolled planet. Discard this card.
+     
+    **When Secured:** You may choose an Outrage type. Each player *(even you)* must Provoke Outrage of that type. Discard this card.
+  image: F614
+  name: Outrage Spreads
+  tags:
+    - Blighted Reach
+    - Vox
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F615A
+  text: >-
+    1. Add Partisan Seizing (16) to the rules booklet. ***Explain it to everyone.***
+     
+    2. As a reminder, tuck your copy of Partisan Seizing (04) under the map near the card play area, so only its title shows.
+     
+    3. Gain People’s Hero (17).
+     
+    *Flip this card over.*
+  image: F615A
+  name: Partisan Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F615B
+  text: >-
+    **Show Your Leadership**
+     
+    **Advance `symbol:clock`1** each time you play an action card while you have the initiative.
+     
+    ***Burnish Your Image***
+     
+    When you return Outrage using People’s Hero, **advance `symbol:clock`1** for each Guild card you have.
+  image: F615B
+  name: Partisan Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F616
+  text: >-
+    You cannot **seize the initiative** by discarding a second action card. *(This doesn't limit other ways to seize.)*
+     
+    Instead, you may seize the initiative when playing a card if you choose to Provoke Outrage with a non-Outraged resource. *(Discard resources and Guild cards of the Outrage type. Place an agent on the matching Outrage slot.)*
+     
+    *Remember, you can’t seize the initiative if you have it or it has been seized!*
+  image: F616
+  name: Partisan Seizing
+  tags:
+    - Blighted Reach
+    - Law
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F617
+  text: >-
+    When you **declare an ambition,** you may clear 1 Outrage you have as long as you have more Guild cards of the Outrage type than each Rival.
+  image: F617
+  name: People's Hero
+  tags:
+    - Blighted Reach
+    - Lore
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F618
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add Guilds Decry Terror (19) to the rules booklet.
+     
+    2. Add 2 Terror Strikes (20–21) to the Court deck.
+     
+    3. Scrap the Spacing Union (22) and Arms Union (23).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Guilds Decry Terror (19) and the 2 Terror Strikes (20–21).
+    2
+    Add Spacing Union (22) and Arms Union (23) to the Court deck.
+  image: F618
+  name: Partisan Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Partisan
+  meta:
+    act: 2
+- id: ARCS/F619
+  text: >-
+    If Diplomatic Fiasco is not in the Court, search the Court deck for it, attach it to the Imperial Council card, and flip the Imperial Council to its In Session side.
+  image: F619
+  name: Guilds Decry Terror
+  tags:
+    - Blighted Reach
+    - Edict
+    - Partisan
+  meta:
+    act: 3
+- id: ARCS/F620
+  text: >-
+    **Crisis:** Destroy all damaged pieces at planets matching any players’ Outrage. Shuffle this into the Court deck.
+     
+    **When Secured:** Resolve the Crisis but do not destroy Loyal pieces.
+  image: F620
+  name: Terror Strike
+  tags:
+    - Blighted Reach
+    - Vox
+    - Partisan
+  meta:
+    act: 3
+- id: ARCS/F621
+  text: >-
+    **Crisis:** Destroy all damaged pieces at planets matching any players’ Outrage. Shuffle this into the Court deck.
+     
+    **When Secured:** Resolve the Crisis but do not destroy Loyal pieces.
+  image: F621
+  name: Terror Strike
+  tags:
+    - Blighted Reach
+    - Vox
+    - Partisan
+  meta:
+    act: 3
+- id: ARCS/F622
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Mobilization card. When the round ends, draw that card into your hand and discard this card.
+  image: F622
+  name: Spacing Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Partisan
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F623
+  text: >-
+    **Prelude:** You may place this card next to a face-up played Aggression card. When the round ends, draw that card into your hand and discard this card.
+  image: F623
+  name: Arms Union
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Partisan
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F624A
+  text: >-
+    Gain Sower of Division (25).
+     
+    *Flip this card over.*
+  image: F624A
+  name: Partisan Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Partisan
+  meta:
+    act: 3
+- id: ARCS/F624B
+  text: >-
+    **Form a Dominant Power Bloc***
+    Have more Guild cards than each Rival.
+    Have the initiative marker.
+  image: F624B
+  name: Partisan Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Partisan
+  meta:
+    act: 3
+- id: ARCS/F625
+  text: >-
+    At the end of a round, when you get the initiative marker from Surpassing, you may place a Loyal agent on a Rival’s empty Outrage slot. *(This does not Provoke Outrage.)*
+  image: F625
+  name: Sower of Division
+  tags:
+    - Blighted Reach
+    - Lore
+    - Partisan
+  meta:
+    act: 3
+- id: ARCS/F701A
+  text: >-
+    1. Gain Imperial Officers (02).
+     
+    2. Add the Use Imperial Foundries edict (03) to the rules booklet.
+     
+    3. Gain the First Regent tile unless the Steward is in play.
+     
+    *Flip this card over.*
+  image: F701A
+  name: Admiral Act 1 Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Admiral
+  meta:
+    act: 1
+- id: ARCS/F701B
+  text: >-
+    ***Prove Yourself as a New Admiral***
+     
+    While you’re a Regent and winning an ambition, **advance `symbol:clock`1** for each Imperial ship that anyone places on the map.
+     
+    *Imperial ships are placed with the Use Imperial Foundries and Govern the Imperial Reach (Policy of Escalation) edicts.*
+     
+    ***Demonstrate the Navy’s Might***
+     
+    While you’re a Regent, **advance `symbol:clock`1** for each Trophy you take in battle with attacking Imperial ships.
+     
+    *To advance, you can battle Blight, Free cities, and Outlaws.*
+     
+    *You can attack with both Loyal and Imperial ships, and the Imperial ship can be destroyed.*
+  image: F701B
+  name: Admiral Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Admiral
+  meta:
+    act: 1
+- id: ARCS/F702
+  text: >-
+    ***Bury this if you are an Outlaw.***
+     
+    You ignore the Empire’s Presence and Movement Laws. *(Basically, on your turn, you can take actions with **any** Imperial ships and you control **all** Empire-controlled systems! You don’t need Loyal pieces in either case.)*
+  image: F702
+  name: Imperial Officers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Admiral
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F703
+  text: >-
+    ***The player who has Imperial Officers resolves this.***
+     
+    For each Loyal starport, you may replace 1 Loyal ship in its system with 1 Imperial ship.
+     
+    *If you’re the Admiral, remember to advance your objective if you’re winning an ambition!*
+  image: F703
+  name: Use Imperial Foundries
+  tags:
+    - Blighted Reach
+    - Edict
+    - Admiral
+  meta:
+    act: 1
+- id: ARCS/F704
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Honor Guard (05).
+     
+    2. Add the 2 Rogue Admirals (06–07) and 2 Court Enforcers (08–09) to the Court deck.
+     
+    3. Scrap the 2 Imperial Defectors (10–11).
+     
+    **If you failed your objective:**
+     
+    1. Scrap the Use Imperial Foundries edict (03) from the rules booklet.
+     
+    2. Scrap Honor Guard (05) and the 2 Rogue Admirals (06–07).
+     
+    3. Add the 2 Court Enforcers (08–09) and 2 Imperial Defectors (10–11) to the Court deck.
+  image: F704
+  name: Admiral Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Admiral
+  meta:
+    act: 1
+- id: ARCS/F705
+  text: >-
+    Your Weapon Guild cards cannot be stolen while you have any Weapons.
+  image: F705
+  name: Honor Guard
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weaopn
+    - Admiral
+  meta:
+    keys: 0
+    act: 2
+- id: ARCS/F706
+  text: >-
+    ***Bury this if you’re an Outlaw.***
+     
+    You ignore the Empire’s Presence, Movement, and Truce Laws.
+     
+    **Prelude:** You may discard this to place 3 Imperial ships in a system you control.
+  image: F706
+  name: Rogue Admirals
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Admiral
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F707
+  text: >-
+    ***Bury this if you’re an Outlaw.***
+     
+    You ignore the Empire’s Presence, Movement, and Truce Laws.
+     
+    **Prelude:** You may discard this to place 3 Imperial ships in a system you control.
+  image: F707
+  name: Rogue Admirals
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Admiral
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F708
+  text: >-
+    **Abduct (Battle):** Capture all Rival agents from a card in the Court that has fewer Rival agents than your total Weapon icons from resources and cards.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F708
+  name: Court Enforcers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Admiral
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F709
+  text: >-
+    **Abduct (Battle):** Capture all Rival agents from a card in the Court that has fewer Rival agents than your total Weapon icons from resources and cards.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F709
+  name: Court Enforcers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Admiral
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F710
+  text: >-
+    **Crisis:** In the rolled cluster, replace all Imperial ships with ships of the Outlaw earliest in turn order. Bury this card.
+     
+    **When Secured:** You may discard this card or resolve the Crisis in a cluster of your choice.
+  image: F710
+  name: Imperial Defectors
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 2
+- id: ARCS/F711
+  text: >-
+    **Crisis:** In the rolled cluster, replace all Imperial ships with ships of the Outlaw earliest in turn order. Bury this card.
+     
+    **When Secured:** You may discard this card or resolve the Crisis in a cluster of your choice.
+  image: F711
+  name: Imperial Defectors
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 2
+- id: ARCS/F712A
+  text: >-
+    1. Shuffle Command Chaos (13) into the Court deck.
+     
+    *Flip this card over.*
+  image: F712A
+  name: Admiral Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Admiral
+  meta:
+    act: 2
+- id: ARCS/F712B
+  text: >-
+    ***Expand the Navy’s Holdings***
+     
+    At the end of a chapter, if you’re a Regent, **advance `symbol:clock`1** for each planet controlled by the Empire.
+     
+    ***Crush the Empire’s Foes***
+     
+    While you’re a Regent, **advance `symbol:clock`2** for each Outlaw piece you take as a Trophy in battle.
+     
+    *Unlike in Act I, you don’t advance from Blight anymore!*
+     
+    ***Dominate Rival Regents***
+     
+    While you’re a Regent, **advance `symbol:clock`2** for each Regent agent you capture.
+     
+    *This doesn’t count pieces transferred during Summits.*
+  image: F712B
+  name: Admiral Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Admiral
+  meta:
+    act: 2
+- id: ARCS/F713
+  text: >-
+    **Crisis:** Attach Imperial Officers here. Shuffle all Rogue Admirals from the Court discard pile into the Court deck.
+     
+    **When Secured:** Influence once. You may become a Regent. Shuffle this card into the Court deck.
+  image: F713
+  name: Command Chaos
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 2
+- id: ARCS/F714
+  text: >-
+    **If you completed your objective:**
+     
+    1. Scrap the 2 Imperial Defectors (15–16).
+     
+    2. Add the 2 Mass Uprisings (17–18) to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Add the 2 Imperial Defectors (15–16) to the Court deck.
+     
+    2. Scrap the 2 Mass Uprisings (17–18).
+  image: F714
+  name: Admiral Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Admiral
+  meta:
+    act: 2
+- id: ARCS/F715
+  text: >-
+    **Crisis:** In the rolled cluster, replace all Imperial ships with ships of the Outlaw earliest in turn order. Bury this card.
+     
+    **When Secured:** You may discard this card or resolve the Crisis in a cluster of your choice.
+  image: F715
+  name: Imperial Defectors
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F716
+  text: >-
+    **Crisis:** In the rolled cluster, replace all Imperial ships with ships of the Outlaw earliest in turn order. Bury this card.
+     
+    **When Secured:** You may discard this card or resolve the Crisis in a cluster of your choice.
+  image: F716
+  name: Imperial Defectors
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F717
+  text: >-
+    **Crisis:** Destroy every damaged ship. Bury this card.
+     
+    **When Secured:** Choose a cluster on the map. You place 1 ship in each system of that cluster. Discard this card.
+  image: F717
+  name: Mass Uprising
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F718
+  text: >-
+    **Crisis:** Destroy every damaged ship. Bury this card.
+     
+    **When Secured:** Choose a cluster on the map. You place 1 ship in each system of that cluster. Discard this card.
+  image: F718
+  name: Mass Uprising
+  tags:
+    - Blighted Reach
+    - Vox
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F719A
+  text: >-
+    1. Add Martial Law (20) to the rules booklet. **Explain it to everyone.**
+     
+    2. As a reminder, tuck the second copy of Martial Law (21) partially under the card play area of the map.
+     
+    *Flip this card over.*
+  image: F719A
+  name: Admiral Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F719B
+  text: >-
+    ***Keep the Monopoly on Force***
+     
+    You’re a Regent and...
+     
+    You control at least 9 planets.
+     
+    You have more Loyal ships on the map than each Rival.
+    *You control planets that are controlled by the Empire if you’re the First Regent.*
+  image: F719B
+  name: Admiral Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F720
+  text: >-
+    **Regents except the Admiral follow these rules if they do not have Imperial Officers or Rogue Admirals:**
+     
+    You cannot Command the Imperial Fleet. *(On your turn, you don’t control Empire-controlled systems and can’t take actions with Imperial ships.)*
+     
+    If you’re the First Regent, you don’t control Empire-controlled systems for ambitions, objectives, and events.
+     
+    When taking a Catapult **move,** Empire control of gates ends your move.
+  image: F720
+  name: Martial Law
+  tags:
+    - Blighted Reach
+    - Law
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F721
+  text: >-
+    **Regents except the Admiral follow these rules if they do not have Imperial Officers or Rogue Admirals:**
+     
+    You cannot Command the Imperial Fleet. *(On your turn, you don’t control Empire-controlled systems and can’t take actions with Imperial ships.)*
+     
+    If you’re the First Regent, you don’t control Empire-controlled systems for ambitions, objectives, and events.
+     
+    When taking a Catapult **move,** Empire control of gates ends your move.
+  image: F721
+  name: Martial Law
+  tags:
+    - Blighted Reach
+    - Reminder
+    - Admiral
+  meta:
+    act: 3
+- id: ARCS/F801A
+  text: >-
+    1. Gain Faithful Disciples (02) and Spreading the Faith (03).
+     
+    2. Stack the 9 Faithful action cards (04–12) in number order so the “1” card is on the bottom and the “9” card is on the top. *(These cards don’t list their card numbers.)*
+     
+    3. Add Faithful Cards (13) and Pluralistic Faith (14) to the rules booklet. ***Explain them to everyone.***
+     
+    *Flip this card over.*
+  image: F801A
+  name: Believer Act I Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F801B
+  text: >-
+    ***Spread the Good Word***
+     
+    Each time you win an ambition, **advance `symbol:clock`1** for each action pip on the top card of the Faithful action card stack. If the stack is empty, **advance `symbol:clock`10** instead.
+     
+    *Using your Spreading the Faith card, you can attach Faithful action cards from their stack onto cards in the Court.*
+     
+    *If you win multiple ambitions in the same chapter, advance multiple times!*
+  image: F801B
+  name: Believer Act I Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F802
+  text: >-
+    If you play a Faithful action card and **declare an ambition** you’re winning, gain one more action pip.
+  image: F802
+  name: Faithful Disciples
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Believer
+  meta:
+    keys: 0
+    act: 1
+- id: ARCS/F803
+  text: >-
+    **Teach (Influence):** Scrap the bottom non-Event action card from the discard pile. *(Continue past Events.)* If you do, attach the top Faithful action card from its stack to a Guild card in the Court whose suit matches a planet with a Loyal city.
+     
+    *Once you’re familiar with this, you can tuck this card partially under your Faithful action card stack to save space.*
+  image: F803
+  name: Spreading the Faith
+  tags:
+    - Blighted Reach
+    - Ability
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F813
+  text: >-
+    Faithful cards are a new suit of action cards. When you **secure** one from the Court, draw it into your hand.
+     
+    When you play one, place the card on either its ***Zeal*** or ***Wisdom*** side.
+     
+    Zeal lets you move, influence, battle, or tax
+     
+    Wisdom lets you build, repair, or secure
+     
+    **They have a couple differences from normal action cards:**
+     
+    To **Surpass** a Faithful card, you must play a Faithful card on the same side. *(So if a player leads Zeal, you only Surpass if you play Zeal. You can still Pivot to Wisdom.)*
+     
+    You do not seize the initiative when you **Surpass** with a "7" Faithful action card.
+  image: F813
+  name: Faithful Cards
+  tags:
+    - Blighted Reach
+    - Law
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F814
+  text: >-
+    When you **Lead** a Faithful action card, you may use it to declare ***any ambition.***
+     
+    *This works exactly like when you Lead a "7" action card.*
+  image: F814
+  name: Pluralistic Faith
+  tags:
+    - Blighted Reach
+    - Law
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F815
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain The Young Light (16).
+     
+    2. Add Plot to Kidnap (17) to the Court deck.
+     
+    3. Scrap your Spreading the Faith (03), The Prodigal One (18), and Secret Order (19).
+     
+    4. Add all Faithful action cards left in their stack to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Scrap your Spreading the Faith (03), The Young Light (16), and Plot to Kidnap (17).
+     
+    2. Add The Prodigal One (18) and Secret Order (19) to the Court deck.
+     
+    3. Add all Faithful action cards left in their stack to the Court deck.
+  image: F815
+  name: Believer Act I Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F816
+  text: >-
+    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. *(Even one that’s face down!)* When the round ends, draw it into your hand and take this card.
+  image: F816
+  name: The Young Light
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Believer
+  meta:
+    keys: 3
+    act: 2
+- id: ARCS/F817
+  text: >-
+    **Crisis:** Attach The Young Light or The Prophet here. Each player discards their highest-number Faithful action card.
+     
+    **When Secured:** Search the action discard pile, draw the Faithful action card of highest number, then shuffle it. Discard Plot to Kidnap.
+  image: F817
+  name: Plot to Kidnap
+  tags:
+    - Blighted Reach
+    - Vox
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F818
+  text: >-
+    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. (Even one that’s face down!) When the round ends, draw it into your hand and take this card.
+  image: F818
+  name: The Prodigal One
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Believer
+  meta:
+    keys: 1
+    act: 2
+- id: ARCS/F819
+  text: >-
+    When you **declare** Keeper or Empath, do not place the zero marker.
+  image: F819
+  name: Secret Order
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Believer
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F820A
+  text: >-
+    1. Collect the 5 Ideal markers. *(They are double-sided!)*
+     
+    2. Add the Set Doctrine edict (21) to rules booklet.
+     
+    3. Tuck the Doctrine card (22) into the card play area on the left edge of the map. If you have the initiative, place it to show its Zeal side. If not, place it to show its Wisdom side.
+     
+    4. Scrap Pluralistic Faith (14) from the rules booklet and add Doctrinal Faith (23) to it. ***Explain it to everyone.***
+     
+    *Flip this card over.*
+  image: F820A
+  name: Believer Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F820B
+  text: >-
+    ***Develop the Ideals of your Faith***
+     
+    Each time you win an ambition that has an Ideal marker, **advance `symbol:clock`1** for each Power you gain from it.
+     
+    *As described on Doctrinal Faith in the rules booklet, players place Ideals on ambitions they declare on turns where they play Faithful action cards.*
+     
+    *Count bonus Power from city slots uncovered on your player board. For example, if you gain 5 Power from winning an ambition with an Ideal marker and gain 5 bonus city Power, advance your objective marker 10 spaces.*
+  image: F820B
+  name: Believer Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F821
+  text: >-
+    The player who holds The Young Light or The Prophet may change the **Doctrine** to Zeal or Wisdom, flipping the Doctrine card tucked into the card play area on the map.
+     
+    *The **Doctrine** determines the side that Faithful action cards must be played on, and which ambitions can be declared by leading Faithful action cards.*
+  image: F821
+  name: Set Doctrine
+  tags:
+    - Blighted Reach
+    - Edict
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F822A
+  text: >-
+    You must play Faithful action cards on their Zeal side.
+     
+    **When you play a Faithful action card:**
+     
+    You cannot declare ambitions this turn that have the Wisdom Ideal.
+     
+    If you declare an ambition this turn with no Ideal, place an Ideal marker in its ambition box on the Zeal side.
+     
+    In Act III **setup,** this Doctrine card starts on the side matching the Ideal with more markers on ambition boxes. On a tie, it starts on Wisdom.
+  image: F822A
+  name: Doctrine of Zeal
+  tags:
+    - Blighted Reach
+    - Doctrine
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F822B
+  text: >-
+    You must play Faithful action cards on their Wisdom side.
+     
+    **When you play a Faithful action card:**
+     
+    You cannot declare ambitions this turn that have the Zeal Ideal.
+     
+    If you declare an ambition this turn with no Ideal, place an Ideal marker in its ambition box on the Wisdom side.
+     
+    In Act III **setup,** this Doctrine card starts on the side matching the Ideal with more markers on ambition boxes. On a tie, it starts on Wisdom.
+  image: F822B
+  name: Doctrine of Wisdom
+  tags:
+    - Blighted Reach
+    - Doctrine
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F823
+  text: >-
+    From now on, you must play Faithful action cards on the same side as the **Doctrine**, shown by the card tucked near the card play area.
+     
+    When you play a Faithful action card, you must follow these rules on your turn when you want to **declare an ambition.**
+     
+    If the ambition box ***has no Ideal*** marker, place an Ideal marker showing the Doctrine in the box.
+     
+    If the ambition box ***does have an Ideal marker***, you cannot declare this ambition if its Ideal doesn’t match the Doctrine.
+     
+    *These rules do not change non-Faithful cards. The Ideals will remain in Act III.*
+  image: F823
+  name: Doctrinal Faith
+  tags:
+    - Blighted Reach
+    - Law
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F824
+  text: >-
+    ***Record all Ideals on your log sheet.***
+     
+    **If you completed your objective:**
+     
+    1. If you have The Young Light (16), scrap it and gain The Prophet (25). Otherwise, scrap The Prophet (25).
+     
+    2. Scrap Secret Order (26), Set Lay Doctrine (27), and Repressed Faith (28).
+     
+    **If you failed your objective:**
+     
+    1. Scrap all Ideal markers not on ambitions.
+     
+    2. Scrap The Prophet (25).
+     
+    3. Add Secret Order (26) to the Court deck.
+     
+    4. Scrap Set Doctrine (21) and Doctrinal Faith (23) from the rules booklet, and add Set Lay Doctrine (27) and Repressed Faith (28) to it. ***Explain them to everyone.***
+  image: F824
+  name: Believer Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Believer
+  meta:
+    act: 2
+- id: ARCS/F825
+  text: >-
+    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. *(Even one that’s face down!)* When the round ends, draw it into your hand and take this card.
+  image: F825
+  name: The Prophet
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Believer
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F826
+  text: >-
+    When you **declare** Keeper or Empath, do not place the zero marker.
+  image: F826
+  name: Secret Order
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Believer
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F827
+  text: >-
+    Players reveal their Faithful action cards. The player who reveals the highest initiative number may change the **Doctrine** to Zeal or Wisdom, flipping the Doctrine card tucked into the card play area on the map.
+     
+    *The **Doctrine** determines the side that Faithful action cards must be played on, and which ambitions can be declared by leading Faithful action cards.*
+  image: F827
+  name: Set Lay Doctrine
+  tags:
+    - Blighted Reach
+    - Edict
+    - Believer
+  meta:
+    act: 3
+- id: ARCS/F828
+  text: >-
+    **Follow these same rules from before:**
+     
+    You must play Faithful action cards on the same side as the Doctrine.
+     
+    When you play a Faithful action card you cannot **declare** ambitions that turn if they have an Ideal different from the Doctrine.
+     
+    **There is one new limit:** If you play a Faithful action card, you cannot **declare** ambitions that have no Ideal this turn.
+     
+    *These rules don’t limit declaring ambitions with non-Faithful cards.*
+  image: F828
+  name: Repressed Faith
+  tags:
+    - Blighted Reach
+    - Law
+    - Believer
+  meta:
+    act: 3
+- id: ARCS/F829A
+  text: >-
+    1. Tuck Dominant Faith (30) in front of Doctrinal Faith (23) in the rules booklet. ***Explain Dominant Faith to everyone.***
+     
+    2. Add Breaking the Faith (31) to the rules booklet. ***Explain it to everyone.***
+     
+    3. Flip the Doctrine card (22) to match the Ideal with more markers on ambition boxes. On a tie, flip it to its Wisdom side.
+     
+    *Flip this card over.*
+  image: F829A
+  name: Believer Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Believer
+  meta:
+    act: 3
+- id: ARCS/F829B
+  text: >-
+    ***Guide the Flock***
+     
+    Two ambition markers are on ambitions with Ideals.
+     
+    All three ambition markers are on ambitions with Ideals.
+     
+    *This objective checks for how many ambition **markers** are on ambitions with Ideals, not how many different ambitions with Ideals have markers.*
+  image: F829B
+  name: Believer Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Believer
+  meta:
+    act: 3
+- id: ARCS/F830
+  text: >-
+    **Follow these same rules from before:**
+     
+    You must play Faithful action cards on the same side as the **Doctrine.**
+     
+    When you play a Faithful action card, you must follow these rules on your turn when you want to **declare an ambition.**
+     
+    *If the ambition box **has no Ideal** marker, place an Ideal marker showing the Doctrine in the box.*
+     
+    *If the ambition box **does have an Ideal marker,** you cannot declare this ambition if its Ideal doesn’t match the Doctrine.*
+     
+    **There is one new limit:** When you play a non-Faithful card, you cannot declare an ambition with an Ideal this turn.
+  image: F830
+  name: Dominant Faith
+  tags:
+    - Blighted Reach
+    - Law
+    - Believer
+  meta:
+    act: 3
+- id: ARCS/F831
+  text: >-
+    When a Rival of the Believer destroys a Loyal city of the Believer, the destroying player may remove 1 Ideal token from an ***undeclared*** ambition.
+  image: F831
+  name: Breaking the Faith
+  tags:
+    - Blighted Reach
+    - Law
+    - Believer
+  meta:
+    act: 3
+- id: ARCS/F901A
+  image: F901A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F901B
+  image: F901B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F902
+  image: F902
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F903
+  image: F903
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F904
+  image: F904
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F905
+  image: F905
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F906
+  image: F906
+  tags:
+    - Blighted Reach
+    - Guild
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F907A
+  image: F907A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F907B
+  image: F907B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F908
+  image: F908
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F909
+  image: F909
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F910
+  image: F910
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F911
+  image: F911
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F1001A
+  image: F1001A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1001B
+  image: F1001B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1002
+  image: F1002
+  tags:
+    - Blighted Reach
+    - Ability
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1003
+  image: F1003
+  tags:
+    - Blighted Reach
+    - Law
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1004
+  image: F1004
+  tags:
+    - Blighted Reach
+    - Lore
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1005
+  image: F1005
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1006
+  image: F1006
+  tags:
+    - Blighted Reach
+    - Guild
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1007
+  image: F1007
+  tags:
+    - Blighted Reach
+    - Guild
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1008
+  image: F1008
+  tags:
+    - Blighted Reach
+    - Guild
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1009
+  image: F1009
+  tags:
+    - Blighted Reach
+    - Vox
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1010
+  image: F1010
+  tags:
+    - Blighted Reach
+    - Vox
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1011A
+  image: F1011A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1011B
+  image: F1011B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1012
+  image: F1012
+  tags:
+    - Blighted Reach
+    - Guild
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1101A
+  image: F1101A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1101B
+  image: F1101B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1102
+  image: F1102
+  tags:
+    - Blighted Reach
+    - Guild
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1103A
+  image: F1103A
+  tags:
+    - Blighted Reach
+    - Ability
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1103B
+  image: F1103B
+  tags:
+    - Blighted Reach
+    - Ability
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1104
+  image: F1104
+  tags:
+    - Blighted Reach
+    - Lore
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1105
+  image: F1105
+  tags:
+    - Blighted Reach
+    - Guild
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1106
+  image: F1106
+  tags:
+    - Blighted Reach
+    - Guild
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1107
+  image: F1107
+  tags:
+    - Blighted Reach
+    - Guild
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1108
+  image: F1108
+  tags:
+    - Blighted Reach
+    - Guild
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1109
+  image: F1109
+  tags:
+    - Blighted Reach
+    - Guild
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1110
+  image: F1110
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1111
+  image: F1111
+  tags:
+    - Blighted Reach
+    - Vox
+    - Planet Breaker
+  meta:
+    act: 3
+- id: ARCS/F1112A
+  image: F1112A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Planet Breaker
+  meta:
+    act: 3
+- id: ARCS/F1112B
+  image: F1112B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Planet Breaker
+  meta:
+    act: 3
+- id: ARCS/F1201A
+  image: F1201A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1201B
+  image: F1201B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1202
+  image: F1202
+  tags:
+    - Blighted Reach
+    - Lore
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1203
+  image: F1203
+  tags:
+    - Blighted Reach
+    - Guild
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1204
+  image: F1204
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1205
+  image: F1205
+  tags:
+    - Blighted Reach
+    - Guild
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1206
+  image: F1206
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1207
+  image: F1207
+  tags:
+    - Blighted Reach
+    - Guild
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1208A
+  image: F1208A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1208B
+  image: F1208B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1209
+  image: F1209
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1210
+  image: F1210
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1211
+  image: F1211
+  tags:
+    - Blighted Reach
+    - Law
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1212
+  image: F1212
+  tags:
+    - Blighted Reach
+    - Summit
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1301A
+  image: F1301A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1301B
+  image: F1301B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1302
+  image: F1302
+  tags:
+    - Blighted Reach
+    - Guild
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1303
+  image: F1303
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1304
+  image: F1304
+  tags:
+    - Blighted Reach
+    - Lore
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1305
+  image: F1305
+  tags:
+    - Blighted Reach
+    - Guild
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1306
+  image: F1306
+  tags:
+    - Blighted Reach
+    - Guild
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1307
+  image: F1307
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1308
+  image: F1308
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1309
+  image: F1309
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1310
+  image: F1310
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1311
+  image: F1311
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1312A
+  image: F1312A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1312B
+  image: F1312B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1313
+  image: F1313
+  tags:
+    - Blighted Reach
+    - Lore
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1401A
+  image: F1401A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1401B
+  image: F1401B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1402
+  image: F1402
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1403
+  image: F1403
+  tags:
+    - Blighted Reach
+    - Lore
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1404
+  image: F1404
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1405
+  image: F1405
+  tags:
+    - Blighted Reach
+    - Guild
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1406
+  image: F1406
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1407
+  image: F1407
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1408A
+  image: F1408A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1408B
+  image: F1408B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1409
+  image: F1409
+  tags:
+    - Blighted Reach
+    - Law
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1410
+  image: F1410
+  tags:
+    - Blighted Reach
+    - Reminder
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1411
+  image: F1411
+  tags:
+    - Blighted Reach
+    - Summit
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1412
+  image: F1412
+  tags:
+    - Blighted Reach
+    - Edict
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1501A
+  image: F1501A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1501B
+  image: F1501B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1502
+  image: F1502
+  tags:
+    - Blighted Reach
+    - Lore
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1503
+  image: F1503
+  tags:
+    - Blighted Reach
+    - Guild
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1504
+  image: F1504
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1505
+  image: F1505
+  tags:
+    - Blighted Reach
+    - Guild
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1506
+  image: F1506
+  tags:
+    - Blighted Reach
+    - Guild
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1507A
+  image: F1507A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1507B
+  image: F1507B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1508
+  image: F1508
+  tags:
+    - Blighted Reach
+    - Law
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1509
+  image: F1509
+  tags:
+    - Blighted Reach
+    - Edict
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1510
+  image: F1510
+  tags:
+    - Blighted Reach
+    - Edict
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1511
+  image: F1511
+  tags:
+    - Blighted Reach
+    - Sumit
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1601A
+  image: F1601A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1601B
+  image: F1601B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1602
+  image: F1602
+  tags:
+    - Blighted Reach
+    - Lore
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1603
+  image: F1603
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1604
+  image: F1604
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1605
+  image: F1605
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1606
+  image: F1606
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1607
+  image: F1607
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1608
+  image: F1608
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1609
+  image: F1609
+  tags:
+    - Blighted Reach
+    - Law
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1610
+  image: F1610
+  tags:
+    - Blighted Reach
+    - Law
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1611
+  image: F1611
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1612
+  image: F1612
+  tags:
+    - Blighted Reach
+    - Lore
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1613
+  image: F1613
+  tags:
+    - Blighted Reach
+    - Vox
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1614
+  image: F1614
+  tags:
+    - Blighted Reach
+    - Vox
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1615
+  image: F1615
+  tags:
+    - Blighted Reach
+    - Guild
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1616
+  image: F1616
+  tags:
+    - Blighted Reach
+    - Guild
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1617A
+  image: F1617A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1617B
+  image: F1617B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1618
+  image: F1618
+  tags:
+    - Blighted Reach
+    - Law
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1619
+  image: F1619
+  tags:
+    - Blighted Reach
+    - Edict
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1701A
+  image: F1701A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1701B
+  image: F1701B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1702
+  image: F1702
+  tags:
+    - Blighted Reach
+    - Guild
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1703
+  image: F1703
+  tags:
+    - Blighted Reach
+    - Edict
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1801A
+  image: F1801A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1801B
+  image: F1801B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1802
+  image: F1802
+  tags:
+    - Blighted Reach
+    - Lore
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1803
+  image: F1803
+  tags:
+    - Blighted Reach
+    - Ability
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1804
+  image: F1804
+  tags:
+    - Blighted Reach
+    - Law
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1805
+  image: F1805
+  tags:
+    - Blighted Reach
+    - Edict
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1901A
+  image: F1901A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1901B
+  image: F1901B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1902
+  image: F1902
+  tags:
+    - Blighted Reach
+    - Lore
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1903
+  image: F1903
+  tags:
+    - Blighted Reach
+    - Edict
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1904
+  image: F1904
+  tags:
+    - Blighted Reach
+    - Guild
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F2001A
+  image: F2001A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2001B
+  image: F2001B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2002
+  image: F2002
+  tags:
+    - Blighted Reach
+    - Lore
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2003
+  image: F2003
+  tags:
+    - Blighted Reach
+    - Lore
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2004
+  image: F2004
+  tags:
+    - Blighted Reach
+    - Law
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2101A
+  image: F2101A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2101B
+  image: F2101B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2102
+  image: F2102
+  tags:
+    - Blighted Reach
+    - Lore
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2103
+  image: F2103
+  tags:
+    - Blighted Reach
+    - Guild
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F214
+  image: F214
+  tags:
+    - Blighted Reach
+    - Law
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2201A
+  image: F2201A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2201B
+  image: F2201B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2202
+  image: F2202
+  tags:
+    - Blighted Reach
+    - Lore
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2203
+  image: F2203
+  tags:
+    - Blighted Reach
+    - Ability
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2204
+  image: F2204
+  tags:
+    - Blighted Reach
+    - Reminder
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2205
+  image: F2205
+  tags:
+    - Blighted Reach
+    - Law
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2206
+  image: F2206
+  tags:
+    - Blighted Reach
+    - Vox
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2301A
+  image: F2301A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2301B
+  image: F2301B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2302
+  image: F2302
+  tags:
+    - Blighted Reach
+    - Guild
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2303
+  image: F2303
+  tags:
+    - Blighted Reach
+    - Ability
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2304
+  image: F2304
+  tags:
+    - Blighted Reach
+    - Law
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2305
+  image: F2305
+  tags:
+    - Blighted Reach
+    - Law
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2401A
+  image: F2401A
+  tags:
+    - Blighted Reach
+    - Setup
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2401B
+  image: F2401B
+  tags:
+    - Blighted Reach
+    - Objective
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2402
+  image: F2402
+  tags:
+    - Blighted Reach
+    - Lore
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2403
+  image: F2403
+  tags:
+    - Blighted Reach
+    - Guild
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2404
+  image: F2404
+  tags:
+    - Blighted Reach
+    - Title
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2405
+  image: F2405
+  tags:
+    - Blighted Reach
+    - Edict
+    - Judge
+  meta:
+    act: 3
