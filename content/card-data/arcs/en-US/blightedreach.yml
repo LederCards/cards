@@ -570,6 +570,7 @@
     - Fate
     - Blight Speaker
   meta:
+    keys: 0
     act: 2
     complexity: 1
 - id: ARCS/FATE14
@@ -4229,5 +4230,2696 @@
     - Blighted Reach
     - Law
     - Believer
+  meta:
+    act: 3
+- id: ARCS/F901A
+  text: >-
+    1. **You gain a Flagship**—take a Flagship board and set it up as described on the board back.
+     
+    2. Place 1 starport on your Slipstream Drive Upgrade. Place 1 city on your Hull Upgrade.
+     
+    3. Gain the Uncovering Clues card (02).
+     
+    4. The player to your right secretly writes down the cluster number and planet ID symbol (`symbol:arrow`/`symbol:hex`/`symbol:moon`) of any one planet on the map.
+     
+    5. Give the Clues to the Portal card (03), 6 Clue tokens, and the Portal token to the player to your right. *(The Clues are double-sided!)*
+     
+    *Flip this card over.*
+  image: F901A
+  name: Pathfinder Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F901B
+  text: >-
+    ***Find the Portal***
+     
+    **Advance `symbol:clock`1** each time a "Check" Clue token is placed. This cannot complete your objective.
+     
+    **Advance `symbol:clock`8** when the Portal token is placed.
+     
+    *Your Uncovering Clues ability card describes how Clues and the Portal are placed.*
+  image: F901B
+  name: Pathfinder Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F902
+  text: >-
+    **Prelude:** If your Flagship is at a planet with no Clue token, you may spend 1 resource that is different from all planets in its cluster to make the player to your right place 1 Clue token at the planet. Gain 1 resource of the planet type for each city there, and place 2 ships there for each starport there.
+     
+    A "Check" Clue means the planet is ***either*** in the right cluster or it has the correct ID symbol (`symbol:arrow`/`symbol:hex`/`symbol:moon`).
+     
+    An "X" Clue means the planet is ***not*** in the right cluster and does ***not*** have the correct ID symbol (`symbol:arrow`/`symbol:hex`/`symbol:moon`).
+     
+    A Portal token means that you found the Portal! *(You complete your objective.)*
+  image: F902
+  name: Uncovering Clues
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F903
+  text: >-
+    The Pathfinder can make you place a Clue token at a planet. If you have none in your supply, take it from the map.
+     
+    Place the Clue on its "Check" side if the planet is either in the correct cluster or has the correct ID symbol (`symbol:arrow`/`symbol:hex`/`symbol:moon`).
+     
+    Place the Clue on its "X" side if the planet is not in the correct cluster and does not have the correct ID symbol (`symbol:arrow`/`symbol:hex`/`symbol:moon`).
+     
+    If their Flagship is at the ***correct planet***, instead place the Portal token. Scrap all Clues, this card, and the Uncovering Clues card.
+     
+    You can’t discuss or hint at the Portal’s system. You can only place these tokens as described.
+  image: F903
+  name: Clues to the Portal
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F904
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add Call to Pilgrimage (05) to the Court deck.
+     
+    2. Scrap Portal Seekers (06).
+     
+    3. Build 1 Upgrade or Armor on your Flagship board, ignoring the need to be at a specific planet.
+     
+    **If you failed your objective:**
+     
+    1. Scrap Call to Pilgrimage (05).
+     
+    2. Add Portal Seekers (06) to the Court deck.
+     
+    3. Place the Portal token on the system that was recorded during setup.
+     
+    4. Scrap all Clue tokens, your Uncovering Clues card (02), and the Clues to the Portal card (03).
+  image: F904
+  name: Pathfinder Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Pathfinder
+  meta:
+    act: 2
+- id: ARCS/F905
+  text: >-
+    **Crisis:** If `symbol:arrow` was rolled, each player in turn order must discard 1 Guild card. 
+     
+    **When Secured:** Choose a suit of a Guild card you have. Clockwise from you, each Rival must discard all of their Guild cards of that suit. Shuffle Call to Pilgrimage into the Court deck.
+  image: F905
+  name: Call to Pilgrimage
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F906
+  text: >-
+    In **scoring**, you fulfill a grand ambition if you control the Portal token. *(Fulfilling three grand ambitions does not gain you more Power.)*
+  image: F906
+  name: Portal Seekers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Pathfinder
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F907A
+  text: >-
+    1. Gain the Pilgrims card (08).
+     
+    2. Place 1 Seek the Portal card (09) on top of the Court deck.
+     
+    3. Tuck the other 2 Seek the Portal cards (10–11) under the Pilgrims and the Portal card (08).
+     
+    4. Collect the 6 Pilgrim tokens. Roll the event die and place 1 Pilgrim token at each planet of the rolled symbol.
+     
+    *Flip this card over.*
+  image: F907A
+  name: Pathfinder Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F907B
+  text: >-
+    ***See the Pilgrims Delivered***
+     
+    Control the Portal token.
+     
+    Have more Pilgrims on this card than the current Chapter.
+     
+    *Your Pilgrims and the Portal card says how to move Pilgrims and get them on this card.*
+  image: F907B
+  name: Pathfinder Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F908
+  text: >-
+    Pilgrim tokens are your Loyal pieces.
+     
+    **Prelude:** Once per turn, you may move each Pilgrim token once into a system that you control or has your Flagship.
+     
+    *This is the only way Pilgrims can move. You cannot interrupt this Prelude action with other ones, like spending Fuel.*
+     
+    **Use the Portal (Move):** If you control the Portal token, take all Pilgrims from its system onto your objective card. Untuck a Seek the Portal card from here and place it on top of the Court deck.
+  image: F908
+  name: Pilgrims
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F909
+  text: >-
+    **Crisis:** In turn order, each player must scrap 1 Loyal ship on the map.
+     
+    **When Secured:** If you control the Portal token, scrap any number of ***any*** ships in its system. Gain 2 Power per ship scrapped. Shuffle this card into the Court deck.
+  image: F909
+  name: Seek the Portal
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F910
+  text: >-
+    **Crisis:** In turn order, each player must scrap 1 Loyal ship on the map.
+     
+    **When Secured:** If you control the Portal token, scrap any number of ***any*** ships in its system. Gain 2 Power per ship scrapped. Shuffle this card into the Court deck.
+  image: F910
+  name: Seek the Portal
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F911
+  text: >-
+    **Crisis:** In turn order, each player must scrap 1 Loyal ship on the map.
+     
+    **When Secured:** If you control the Portal token, scrap any number of ***any*** ships in its system. Gain 2 Power per ship scrapped. Shuffle this card into the Court deck.
+  image: F911
+  name: Seek the Portal
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pathfinder
+  meta:
+    act: 3
+- id: ARCS/F1001A
+  text: >-
+    1. **You gain a Flagship**—take a Flagship board and set it up as described on the board back.
+     
+    2. Place 1 fresh starport each on your Defense Array and Slipstream Drive Upgrades.
+     
+    3. **Replenish your fleet**—if you have fewer than ***6 Loyal ships*** on the map other than your Flagship, place ships at your Flagship until you have 6.
+     
+    4. Scrap any 4 Loyal ships.
+     
+    5. Gain the Planting Banners card (02). Collect the 8 Banner tokens.
+     
+    6. Add the Banners of Hegemony card (03) to the rules booklet. ***Explain it to everyone.***
+     
+    7. Gain Song of the Banner (04).
+     
+    *Flip this card over.*
+  image: F1001A
+  name: Hegemon Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1001B
+  text: >-
+    ***Plant Banners of the New Order***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each Banner on the map.
+     
+    If you won any number of ambitions, **advance `symbol:clock`1** for each Banner on the map again.
+     
+    *For example, if you win 3 ambitions and 2 Banners are on the map, you advance 4.* 
+     
+    *Your Planting Banners card explains how to place Banners.*
+  image: F1001B
+  name: Hegemon Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1002
+  text: >-
+    ***Scrap this if you don’t have a Flagship.***
+     
+    Banner tokens are your Loyal pieces.
+     
+    **Prelude:** You may place a Banner at your Flagship’s planet if it has no Banners and no ships or buildings that are not Loyal. *(You can do this multiple times.)*
+  image: F1002
+  name: Planting Banners
+  tags:
+    - Blighted Reach
+    - Ability
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1003
+  text: >-
+    *The Hegemon can place a Banner at their Flagship’s planet if it has no non-Loyal ships or buildings.*
+     
+    *Building.* Banners can be **harmed** and **repaired** like buildings. *(They can’t be raided. Blight destroys them in the Intermission if no ships are in their system.)*
+     
+    *Valuable.* When **scoring** Warlord, gain 2 extra Power for each Banner you have in your Trophies. *(Gain this Power even if you didn’t gain Power from placing in Warlord.)*
+  image: F1003
+  name: Banners of Hegemony
+  tags:
+    - Blighted Reach
+    - Law
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1004
+  text: >-
+    You may **move** between planets with Banners as if they were adjacent.
+     
+    **Call Spirits (Tax):** Once per turn, gain 2 resources of a planet with a Banner.
+     
+    **Call Bodies (Build):** Once per turn, place 2 fresh ships at a Banner.
+  image: F1004
+  name: Song of the Banner
+  tags:
+    - Blighted Reach
+    - Lore
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1005
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Mind Managers (06).
+     
+    2. Add 2 Prison Wardens (07–08) to the Court deck.
+     
+    3. Scrap the 2 Against Hegemony cards (09–10).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Mind Managers (06).
+     
+    2. Add 2 Prison Wardens (07–08) and 2 Against Hegemony (09–10) to the Court deck.
+     
+    3. Scrap all Banner tokens that are not on the map.
+  image: F1005
+  name: Hegemon Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Hegemon
+  meta:
+    act: 2
+- id: ARCS/F1006
+  text: >-
+    **Manipulate (Influence):** Choose a Rival that you have a Captive of. Peek at their hand, take 1 card from it, then give any card from your hand.
+  image: F1006
+  name: Mind Managers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Hegemon
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F1007
+  text: >-
+    **Pressgang (Build):** Return any number of your Captives to gain any 1 resource for each.
+     
+    **Execute (Influence):** Move any number of your Captives to your Trophies.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F1007
+  name: Prison Wardens
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Hegemon
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1008
+  text: >-
+    **Pressgang (Build):** Return any number of your Captives to gain any 1 resource for each.
+     
+    **Execute (Influence):** Move any number of your Captives to your Trophies.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F1008
+  name: Prison Wardens
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Hegemon
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1009
+  text: >-
+    ***Scrap this if no Banners are on the map.***
+     
+    **Crisis:** Bury this card.
+     
+    **When Secured:** You may take any Banners you control as Trophies. Discard this card.
+  image: F1009
+  name: Against Hegemony
+  tags:
+    - Blighted Reach
+    - Vox
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1010
+  text: >-
+    ***Scrap this if no Banners are on the map.***
+     
+    **Crisis:** Bury this card.
+     
+    **When Secured:** You may take any Banners you control as Trophies. Discard this card.
+  image: F1010
+  name: Against Hegemony
+  tags:
+    - Blighted Reach
+    - Vox
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1011A
+  text: >-
+    1. Gain the Happy Hosts card (12).
+     
+    *Flip this card over.*
+  image: F1011A
+  name: Hegemon Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1011B
+  text: >-
+    ***Form One Body, One Mind***
+     
+    No Rival won the Tyrant ambition.
+     
+    More Banners are on the map than the current Chapter.
+  image: F1011B
+  name: Hegemon Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Hegemon
+  meta:
+    act: 3
+- id: ARCS/F1012
+  text: >-
+    **Pacify (Secure):** Capture all damaged ships you control except Loyal ones.
+     
+    When Captives are returned in **scoring**, you may keep 1 Captive per Banner that you control or is uncontrolled.
+  image: F1012
+  name: Happy Hosts
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Hegemon
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F1101A
+  text: >-
+    1. **You gain a Flagship**—take a Flagship board and set it up as described on the board back.
+     
+    2. Place 1 fresh starport on your Slipstream Drive Upgrade.
+     
+    3. Gain Sycophants (02).
+     
+    4. Gain the Hammer Fragments card (03). 
+     
+    5. Tuck the Planet Hammer (04) and the 5 Refugees cards (05–09) under the Hammer Fragments card.
+     
+    6. Collect the 6 Hammer Fragment tokens.
+     
+    7. Roll the event die. Place 1 Hammer Fragment token on each planet of the rolled symbol.
+     
+    *Flip this card over.*
+  image: F1101A
+  name: Planet Breaker Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1101B
+  text: >-
+    ***Repair the Planet Hammer***
+     
+    **Advance `symbol:clock`1**  for each Hammer Fragment you take from the map.
+     
+    ***Crush a Planet into Dust***
+     
+    **Advance `symbol:clock`6** when you use the Break World action of the Planet Hammer and flip a Hammer token to its Broken World side.
+     
+    *You gain the Hammer of Worlds once you collect all 6 Hammer Fragments.*
+  image: F1101B
+  name: Planet Breaker Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1102
+  text: >-
+    When you **Provoke Outrage**, keep this card, and you may place 2 fresh ships at a planet of the Outrage type once per turn.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F1102
+  name: Sycophants
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Planet Breaker
+  meta:
+    keys: 0
+    act: 2
+- id: ARCS/F1103A
+  text: >-
+    **Repair Hammer (Repair):** Take 1 Hammer Fragment token you control and place it on this card. Place 1 fresh ship at the planet you took it from.
+     
+    **If you have all 6 Hammer Fragments on this card:**
+     
+    1. Untuck the Planet Hammer card from here and take it. ***Hammer Fragment tokens are now known as Hammer tokens.***
+     
+    2. Warn everyone that you can use the Planet Hammer to break planets, which makes ***everyone*** Provoke Outrage of the broken planet’s type.
+     
+    3. Flip this card to its Breaking Worlds side. Keep the 5 Refugee cards tucked under it.
+  image: F1103A
+  name: Hammer Fragments
+  tags:
+    - Blighted Reach
+    - Ability
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1103B
+  text: >-
+    This action harms all buildings on the planet.
+     
+    In turn order, each Rival may choose to battle you at the planet with the Hammer token.
+     
+    After these battles, if you control the planet, flip the Hammer token to its Broken World side and resolve this.
+     
+    1. ***All players*** Provoke Outrage of this planet type.
+     
+    2. Untuck the Refugee card (05–09) of this planet type from here. Place it on top of the Court deck.
+     
+    3. Place ***all*** buildings from the planet on here.
+     
+    4. Scrap ***all*** Guild cards in the Court of the planet type. Return all agents from them.
+     
+    ***Planets that are Broken Worlds have no building slots.***
+  image: F1103B
+  name: Breaking Worlds
+  tags:
+    - Blighted Reach
+    - Ability
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1104
+  text: >-
+    **Prepare (Build):** Place a Hammer token at a planet you control. If one is already on the map, return it to your supply first.
+     
+    **Break World (Battle):** If you did not Prepare this turn, resolve the Breaking Worlds card.
+  image: F1104
+  name: Planet Hammer
+  tags:
+    - Blighted Reach
+    - Lore
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1105
+  text: >-
+    ***Scrap this if you have the Planet Hammer.***
+     
+    **Resettle (Build):** Build a Free city on a Material planet you control. Clear your Material Outrage and gain Material up to your number of empty resource slots. Tuck this card under the Breaking Worlds card.
+  image: F1105
+  name: Forgeworld Refugees
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Planet Breaker
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F1106
+  text: >-
+    ***Scrap this if you have the Planet Hammer.***
+     
+    **Resettle (Build):** Build a Free city on a Fuel planet you control. Clear your Fuel Outrage and gain Fuel up to your number of empty resource slots. Tuck this card under the Breaking Worlds card.
+  image: F1106
+  name: Blazeworld Refugees
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Planet Breaker
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F1107
+  text: >-
+    ***Scrap this if you have the Planet Hammer.***
+     
+    **Resettle (Build):** Build a Free city on a Weapon planet you control. Clear your Weapon Outrage and gain Weapons up to your number of empty resource slots. Tuck this card under the Breaking Worlds card.
+  image: F1107
+  name: Deadworld Refugees
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Planet Breaker
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F1108
+  text: >-
+    ***Scrap this if you have the Planet Hammer.***
+     
+    **Resettle (Build):** Build a Free city on a Relic planet you control. Clear your Relic Outrage and gain Relics up to your number of empty resource slots. Tuck this card under the Breaking Worlds card.
+  image: F1108
+  name: Lostworld Refugees
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Planet Breaker
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F1109
+  text: >-
+    ***Scrap this if you have the Planet Hammer.***
+     
+    **Resettle (Build):** Build a Free city on a Psionic planet you control. Clear your Psionic Outrage and gain Psionic up to your number of empty resource slots. Tuck this card under the Breaking Worlds card.
+  image: F1109
+  name: Heartworld Refugees
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Planet Breaker
+  meta:
+    keys: 2
+    act: 2
+- id: ARCS/F1110
+  text: >-
+    **If you completed your objective:**
+     
+    1. Scrap Planet-Eater Loose (11).
+     
+    2. Use your log sheet to record all pieces on your Breaking Worlds card (03). *(They stay on it in Act III.)*
+     
+    **If you failed your objective:**
+     
+    1. Add Planet-Eater Loose (11) to the Court deck.
+     
+    2. Resolve the text under ”If you have all 6 Hammer Fragments” on the Hammer Fragments card (03) if you haven’t already.
+     
+    3. Place the Breaking Worlds card (03) and 6 Hammer tokens in the supply. *(They’re used by Planet-Eater Loose in Act III.)*
+     
+    4. Scrap your Planet Hammer (04).
+  image: F1110
+  name: Hegemon Act III Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Planet Breaker
+  meta:
+    act: 2
+- id: ARCS/F1111
+  text: >-
+    **Crisis:** Roll the event die again. If you roll the same symbol, place a Broken World token on the rolled planet. Resolve the Breaking Worlds card.
+     
+    **When Secured:** Roll 1 skirmish die per agent here. If you roll at least 3hit, gain 3 Power, draw the bottom card from the action discard pile, and bury this card. If not, this card and agents on it remain.
+  image: F1111
+  name: Planet-Eater Loose
+  tags:
+    - Blighted Reach
+    - Vox
+    - Planet Breaker
+  meta:
+    act: 3
+- id: ARCS/F1112A
+  text: >-
+    1. Place pieces that were on your Breaking Worlds card (03) in Act II back on it.
+     
+    2. ***Remind everyone that placing a Broken World token on a planet will make each player Provoke Outrage of that planet type.***
+     
+    *Flip this card over.*
+  image: F1112A
+  name: Planet Breaker Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Planet Breaker
+  meta:
+    act: 3
+- id: ARCS/F1112B
+  text: >-
+    ***Break the Worlds of the Reach***
+     
+    No Rival wins the Warlord ambition and...
+     
+    Every player has Outrage.
+     
+    More buildings are on the Breaking Worlds card than the current Chapter, or there are no buildings on the map.
+  image: F1112B
+  name: Planet Breaker Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Planet Breaker
+  meta:
+    act: 3
+- id: ARCS/F1201A
+  text: >-
+    1. **You gain a Flagship**—take a Flagship board and set it up as described on the board back.
+     
+    2. Place 1 fresh starport each on your Tractor Beam and Defense Array Upgrades.
+     
+    3. Gain the Pirate Hoard (02) and Pirate Fleet (03).
+     
+    4. **Replenish your fleet**—in each cluster where you have no Loyal ships, place 1 ship on the gate.
+     
+    *Flip this card over.*
+  image: F1201A
+  name: Pirate Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1201B
+  text: >-
+    ***Grow Your Hoard of Resources*
+     
+    At the end of a chapter, **advance `symbol:1`** for each resource in your Pirate Hoard.
+     
+    *Basically, you get resources on your Hoard by stealing them.*
+     
+    ***Embarrass Your Rivals with Riches***
+     
+    At the end of a chapter, **advance `symbol:2`** for each type of resource that your Pirate Hoard has more of than each Rival.
+     
+    *Don’t count Guild cards.*
+     
+    *With 2 players, count resources on ambition boxes as a Rival.*
+  image: F1201B
+  name: Pirate Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1202
+  text: >-
+    ***Outrage doesn’t discard resources here.***
+     
+    You may place resources you steal here. Their raid cost is `symbol:key` `symbol:key` each. *(You can spend them and add them to ambitions. Remember, you can raid Free buildings!)*
+  image: F1202
+  name: Pirate Hoard
+  tags:
+    - Blighted Reach
+    - Lore
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1203
+  text: >-
+    When attacking in **battle**, you may collect raid dice even if there are no defending buildings or Flagships. If you do this, you can only steal resources, max 1 per damaged defending ship.
+  image: F1203
+  name: Pirate Fleet
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Pirate
+  meta:
+    keys: 0
+    act: 2
+- id: ARCS/F1204
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Pirate Smugglers (05).
+     
+    2. Scrap Call to Action (06) and Silver-Tongues (07).
+     
+    3. You may spend Fuel, Material, and Relics on your Pirate Hoard for their Prelude actions, ignoring ship **build** limits for Material. You may place any resources from it onto your player board. Return all resources remaining on it to the supply.
+     
+    **If you failed your objective:**
+     
+    1. Add your Pirate Fleet (03), Pirate Smugglers (05), Call to Action (06), and Silver-Tongues (07) to the Court deck.
+     
+    2. Return all resources from your Pirate Hoard to the supply.
+  image: F1204
+  name: Pirate Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Pirate
+  meta:
+    act: 2
+- id: ARCS/F1205
+  text: >-
+    You may **tax** Rival cities with any Loyal ships, ignoring control, but you do not capture an agent if you do not control it.
+  image: F1205
+  name: Pirate Smugglers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Pirate
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1206
+  text: >-
+    **Crisis:** The player with the most resources takes the When Secured action.
+     
+    **When Secured:** Draw 1 action card from the bottom of the action discard pile. Discard Call to Action.
+  image: F1206
+  name: Call to Action
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1207
+  text: >-
+    **Prelude:** You may discard this to steal 1 Guild card or resource.
+  image: F1207
+  name: Silver-Tongues
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Pirate
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1208A
+  text: >-
+    1. Shuffle the 2 Rumors Spread cards (09–10) into the Court deck.
+     
+    2. Place the 2 True Rumor and 2 False Rumor tokens each ***face down*** on a different planet. You may peek at them. *(Read below for details.)*
+     
+    3. Add Rumors of the Haven (11) and Sharing Rumors (12) to the rules booklet. ***Explain them to everyone.***
+     
+    *The True Rumors show the cluster and ID symbol of the Pirate Haven, which you must hide. For example, placing the "Cluster Correct" Rumor on a planet in cluster 5 and the "Symbol Correct" Rumor on a `symbol:arrow` planet in cluster 2 means the Haven is secretly at the 5`symbol:arrow` planet.*
+     
+    *Flip this card over.*
+  image: F1208A
+  name: Pirate Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1208B
+  text: >-
+    ***Laugh at Your Rivals’ Folly***
+     
+    Your Pirate Hoard card has at least 2 resources and...
+     
+    You choose to declare truthfully that no Rival pieces are in the Pirate Haven’s system.
+     
+    You choose to declare truthfully that a Loyal piece is in the Pirate Haven’s system.
+     
+    ***At the end of Act III,*** the Pirate’s Rivals in turn order may each choose 1 planet that they control. Reveal the True Rumor tokens to show the Pirate Haven’s planet. If any player chose the Pirate Haven’s planet, they gain 10 Power and you lose 10 Power. If no one did, you gain 10 Power.
+  image: F1208B
+  name: Pirate Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1209
+  text: >-
+    **Crisis:** In the rolled cluster, flip all Rumor tokens face up and return all agents on them. If this flipped any Rumors, discard this card.
+     
+    **When Secured:** You may place an agent on a Rumor token in a system with Loyal pieces. Discard this card.
+  image: F1209
+  name: Rumors Spread
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1210
+  text: >-
+    **Crisis:** In the rolled cluster, flip all Rumor tokens face up and return all agents on them. If this flipped any Rumors, discard this card.
+     
+    **When Secured:** You may place an agent on a Rumor token in a system with Loyal pieces. Discard this card.
+  image: F1210
+  name: Rumors Spread
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1211
+  text: >-
+    There are 4 Rumors on the map, 2 True and 2 False. The True Rumors saying "Cluster Correct" and "Symbol Correct" indicate the cluster and planet ID of the Haven planet.
+     
+    At the end of the Act, you gain 10 Power and make the Pirate lose 10 Power if you control the Haven’s planet and guess it. *(See the Pirate’s objective card.)*
+     
+    The Pirate may peek at Rumors. The Pirate’s Rivals may peek at Rumors with their Loyal agents.
+     
+    In **battle**, if a player steals anything from the Pirate, they may also place 1 agent on a Rumor without a Loyal agent.
+  image: F1211
+  name: Rumors of the Haven
+  tags:
+    - Blighted Reach
+    - Law
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1212
+  text: >-
+    **In Summits, Rivals of the Pirate can take a new Negotiation action, Share Rumor:** A Rival places their Loyal agent on a Rumor token that has your Loyal agent.
+     
+    *Now that they have an agent on the Rumor, they can peek at it from now on, and they can take the Share Rumor action to let other Rivals peek at it too.*
+  image: F1212
+  name: Sharing Rumors
+  tags:
+    - Blighted Reach
+    - Summit
+    - Pirate
+  meta:
+    act: 3
+- id: ARCS/F1301A
+  text: >-
+    1. Gain Spore Ships ( 02 ).
+     
+    2. Scrap 2 Loyal ships rom your supply or the map.
+     
+    3. **Replenish your fleet—**if you have fewer than ***8 Loyal ships*** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
+     
+    **Flip this card over.**
+  image: F1301A
+  name: Blight Speaker Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1301B
+  text: >-
+    ***Contact an Ancient Intelligence**
+     
+    Each time you win an ambition, **advance `symbol:clock` 1** for each Blight in systems with Loyal ships.
+     
+    ***Spread the Spores of New Life***
+     
+    **Advance `symbol:clock` 1** each time you place Blight on the map using your Spore Ships card.
+  image: F1301B
+  name: Blight Speaker Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1302
+  text: >-
+    When you take a **Catapult move,** Blight no longer ends it.
+     
+    **Spawn (Build):** Damage 1 fresh Blight you control to place 1 damaged Blight in the same system.
+  image: F1302
+  name: Spore Ships
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Blight Speaker
+  meta:
+    keys: 0
+    act: 2
+- id: ARCS/F1303
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Blight Fury (04).
+     
+    2. Add Blight Hunters (05), Blight Reapers (06), and the 3 Blight Purge cards (07–09) to the Court deck.
+     
+    3. Scrap Blight Panic (10) and Blight Looms (11).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Blight Fury (04), Blight Hunters (05), Blight Reapers (06), and 2 Blight Purge cards (07–08).
+     
+    2. Add 1 Blight Purge card (09), Blight Panic (10), and Blight Looms (11) to the Court deck.
+  image: F1303
+  name: Blight Speaker Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Blight Speaker
+  meta:
+    act: 2
+- id: ARCS/F1304
+  text: >-
+    You can **move** and **repair** Blight you control. *(They can’t Catapult. They’re not Loyal.)*
+     
+    **Anger (Battle):** Roll the number die. For each Psionic you spend, change the roll by 1—“6” wraps to “1” and vice versa. A Blight Crisis happens in each system of the rolled cluster.
+  image: F1304
+  name: Blight Fury
+  tags:
+    - Blighted Reach
+    - Lore
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1305
+  text: >-
+    When attacking in **battle,** you can damage and destroy Blight by dealing only 1 hit *(instead of 2).*
+  image: F1305
+  name: Blight Hunters
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Blight Speaker
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1306
+  text: >-
+    **Harvest (Tax):** Destroy 1 damaged Blight from a system you control. *(Do not take it as a Trophy.)* Gain 1 resource of the planet in that system, or gain any 1 resource if it is a gate.
+  image: F1306
+  name: Blight Reapers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Material
+    - Blight Speaker
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1307
+  text: >-
+    **Crisis:** Each player gains 2 Power per Blight Trophy they have. Bury this card.
+     
+    **When Secured:** Gain 2 Power per Blight Trophy you have. Return all Blight Trophies of Rivals to the supply. Discard this card.
+  image: F1307
+  name: Blight Purge
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1308
+  text: >-
+    **Crisis:** Each player gains 2 Power per Blight Trophy they have. Bury this card.
+     
+    **When Secured:** Gain 2 Power per Blight Trophy you have. Return all Blight Trophies of Rivals to the supply. Discard this card.
+  image: F1308
+  name: Blight Purge
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1309
+  text: >-
+    **Crisis:** Each player gains 2 Power per Blight Trophy they have. Bury this card.
+     
+    **When Secured:** Gain 2 Power per Blight Trophy you have. Return all Blight Trophies of Rivals to the supply. Discard this card.
+  image: F1309
+  name: Blight Purge
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1310
+  text: >-
+    **Crisis** In turn order, each player must return 1 Loyal agent from the Court for each Blight at a Loyal building or Flagship. Bury this card.
+     
+    **When Secured:** Destroy all damaged Blight in a cluster with Loyal pieces, taking them as Trophies. Bury this card.
+  image: F1310
+  name: Blight Panic
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1311
+  text: >-
+    **Crisis:** Repair all Blight in the rolled cluster. Place 1 damaged Blight at each planet of the rolled symbol with no Blight. Bury this card.
+     
+    **When Secured:** You may destroy all damaged Blight in a cluster with Loyal pieces. Bury this card.
+  image: F1311
+  name: Blight Looms
+  tags:
+    - Blighted Reach
+    - Vox
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1312A
+  text: >-
+    1. Gain Blight Hunger (13).
+     
+    *Flip this card over.*
+  image: F1312A
+  name: Blight Speaker Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1312B
+  text: >-
+    ***Gorge the Blight with Bodies***
+     
+    No Rival wins the Warlord ambition.
+     
+    Blight Hunger has more pieces than the current Chapter.
+  image: F1312B
+  name: Blight Speaker Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1313
+  text: >-
+    Place pieces *(even yours)* destroyed by a **Blight Crisis** on this card. *(They add to one of your grand ambitions.)*
+     
+    After **scoring,** return all of the pieces from this card.
+  image: F1313
+  name: Blight Hunger
+  tags:
+    - Blighted Reach
+    - Lore
+    - Blight Speaker
+  meta:
+    act: 3
+- id: ARCS/F1401A
+  text: >-
+    1. Clear all of your Outrage.
+     
+    2. Gain the Witnesses (02) and Well of Empathy (03) cards.
+     
+    3. Collect the 4 Witness tokens. Place 1 Witness on their spyglass side *(shown to the right)* at each Weapon planet.
+     
+    4. **Replenish your fleet—**if you have fewer than ***8 Loyal ships*** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
+     
+    *Flip this card over.*
+  image: F1401A
+  name: Pacifist Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1401B
+  text: >-
+    ***Commit to Pacifism***
+     
+    At the end of a chapter, **advance `symbol:clock` 2** if you have no Trophies, and **advance `symbol:clock` 1** if you have no Captives.
+     
+    ***Spread Empathy***
+     
+    **Advance `symbol:clock` 1** for each Psionic you spend in your Prelude while Empath is declared.
+  image: F1401B
+  name: Pacifist Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1402
+  text: >-
+    Witness tokens are your Loyal pieces.
+     
+    You may **move** Witnesses you control. When you Catapult move ships, you may move Witnesses along with them.
+     
+    **Prelude:** You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. You may declare Empath.
+  image: F1402
+  name: Witnesses
+  tags:
+    - Blighted Reach
+    - Ability
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1403
+  text: >-
+    When defending in **battle,** if you take Trophies, return them and gain 1 Psionic for each Trophy returned.
+     
+    You may hold any number of Psionic here. Their raid cost is `symbol:key` `symbol:key` each.
+  image: F1403
+  name: Well of Empathy
+  tags:
+    - Blighted Reach
+    - Lore
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1404
+  text: >-
+    **If you completed your objective:**
+     
+    1. Scrap your Witnesses card (02).
+     
+    2. Scrap the Psionic Liaisons (05) and 2 Itinerant Empaths (06–07).
+     
+    3. Flip any Witnesses on the map to Psionic and add them to the resource supply.
+     
+    **If you failed your objective:**
+     
+    1. Scrap your Witnesses card (02).
+     
+    2. Add the Psionic Liaisons (05) and 2 Itinerant Empaths (06–07) to the Court deck.
+     
+    3. Scrap all Witness tokens on the map.
+  image: F1404
+  name: Wait to resolve this until the Intermission
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Pacifist
+  meta:
+    act: 2
+- id: ARCS/F1405
+  text: >-
+    When you Copy to **influence,** you may gain 1 Psionic.
+     
+    **Prelude:** You may attach this to a Court card with no agents to declare the Empath ambition.
+  image: F1405
+  name: Psionic Liaisons
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Pacifist
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1406
+  text: >-
+    **Crisis:** The player with the least Power gains Psionic up to their number of empty resource slots. Discard this card.
+     
+    **When Secured:** Gain Psionic up to your number of empty resource slots. Discard this card.
+  image: F1406
+  name: Itinerant Empaths
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1407
+  text: >-
+    **Crisis:** The player with the least Power gains Psionic up to their number of empty resource slots. Discard this card.
+     
+    **When Secured:** Gain Psionic up to your number of empty resource slots. Discard this card.
+  image: F1407
+  name: Itinerant Empaths
+  tags:
+    - Blighted Reach
+    - Vox
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1408A
+  text: >-
+    1. Add Empathy for All to the rules booklet (13). ***Explain it to everyone.***
+    2. As a reminder, tuck the second copy of Empathy for All (14) into the card play area of the map.
+    3. Add Reconcile with the Outraged (14) and Rebuke of the Empaths (15) to the rules booklet. ***Explain them to everyone.***
+    *Flip this card over.*
+  image: F1408A
+  name: Pacifist Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1408B
+  text: >-
+    ***Demonstrate Nonviolence***
+     
+    You have no Trophies or Captives.
+     
+    In total, your Rivals have more Psionic resources than you.
+  image: F1408B
+  name: Pacifist Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1409
+  text: >-
+    When a player **harms** anything at a planet that matches a resource they have, they Provoke Outrage of that planet type.
+     
+    *For battles, resolve this at the end of dealing hits and before raiding.*
+  image: F1409
+  name: Empathy for All
+  tags:
+    - Blighted Reach
+    - Law
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1410
+  text: >-
+    **Tuck this partially under the card play area of the map.**
+     
+    When a player **harms** anything at a planet that matches a resource they have, they Provoke Outrage of that planet type.
+     
+    *In battle, resolve this at the end of dealing hits and before raiding.*
+  image: F1410
+  name: Empathy for All
+  tags:
+    - Blighted Reach
+    - Reminder
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1411
+  text: >-
+    **In Summits, you can take a new Negotiation action, Forgive:** Take a Rival’s Outrage as a Favor.
+     
+    In the Call to Order, the player who called the Summit may Forgive a Rival without their consent by giving a Psionic to that Rival.
+     
+    *The Rival must be able to hold the Psionic. The player who called the Summit may return this Favor now.*
+     
+    *If the Psionic Monopoly is in play, the Monopoly holder must give their consent to give the Psionic.*
+  image: F1411
+  name: Reconcile with the Outraged
+  tags:
+    - Blighted Reach
+    - Summit
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1412
+  text: >-
+    If Empath is declared, each player discards all resources matching their Outrage types, and each player with no Psionic Outrage gains 1 Psionic.
+     
+    *Don’t discard Guild cards or frozen resources, such as Material and Fuel held in Captives for the Guardian, or resources on Merchant League for the Magnate.*
+  image: F1412
+  name: Rebuke of the Empaths
+  tags:
+    - Blighted Reach
+    - Edict
+    - Pacifist
+  meta:
+    act: 3
+- id: ARCS/F1501A
+  text: >-
+    1. With 2 players, return all Weapons from the Warlord ambition box to the supply.
+     
+    2. Clear all your Outrage.
+     
+    3. Provoke Outrage with Weapons. *(Discard all Weapons and Weapon Guild cards.)*
+     
+    4. Gain Oath of Peace (02) and Arsenal Keepers (03).
+     
+    5. **Replenish your fleet—**if you have fewer than **8 Loyal ships** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
+     
+    *Flip this card over.*
+  image: F1501A
+  name: Peacekeeper Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1501B
+  text: >-
+    ***Restrict the Weapons Supply***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each Weapon you have.
+     
+    ***Control the Arms Manufacturers***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each Weapons planet you control.
+     
+    *For objectives, you control Empire-controlled planets if you’re the First Regent.*
+  image: F1501B
+  name: Peacekeeper Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1502
+  text: >-
+    **Scrap this if you’re not the Peacekeeper.**
+     
+    Return all Trophies you gain except Blight.
+     
+    You cannot **declare** Warlord or gain Power from **scoring** it. *(You can still prevent Rivals from scoring.)* You cannot change Imperial Policy to War or enforce Imperial War Policy.
+  image: F1502
+  name: Oath of Peace
+  tags:
+    - Blighted Reach
+    - Lore
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1503
+  text: >-
+    When you take a Weapon, you may place it here instead. *(Even if you’re taking for the Imperial Trust!)*
+     
+    Weapons on this card are frozen. Their raid cost is `symbol:key` `symbol:key` each.
+  image: F1503
+  name: Arsenal Keepers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Peacekeeper
+  meta:
+    keys: 0
+    act: 2
+- id: ARCS/F1504
+  text: >-
+    **If you completed your objective:**
+     
+    1. Add 2 Arms Interests (05–06) to the Court deck.
+     
+    **If you failed your objective:**
+     
+    1. Scrap your Oath of Peace (02).
+     
+    2. Add your Arsenal Keepers (03), if you have it, to the Court deck.
+  image: F1504
+  name: Wait to resolve this until the Intermission
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Peacekeeper
+  meta:
+    act: 2
+- id: ARCS/F1505
+  text: >-
+    **Assemble (Build):** Gain 1 Weapon.
+     
+    **Prelude:** You may discard this to gain Weapons up to your number of empty resource slots. If the Weapon supply empties, steal the Weapon instead.
+  image: F1505
+  name: Arms Interest
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Peacekeeper
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1506
+  text: >-
+    **Assemble (Build):** Gain 1 Weapon.
+     
+    **Prelude:** You may discard this to gain Weapons up to your number of empty resource slots. If the Weapon supply empties, steal the Weapon instead.
+  image: F1506
+  name: Arms Interest
+  tags:
+    - Blighted Reach
+    - Guild
+    - Fuel
+    - Peacekeeper
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1507A
+  text: >-
+    1. Place 1 Ceasefire token near each cluster—we recommend in its gate. Place it on its Peace side *(shown right)* if you control any systems in that cluster, or on its War side if not. *(If you’re the First Regent, you control Empire-controlled systems.)*
+    2. With 2 players, return all Weapons from the Warlord ambition box.
+    3. Add Ceasefires (08), Empire Balks at Peace (09), Peace Dividends (10), and Peace Accords (11) to the rules booklet. **Explain them to everyone.**
+  image: F1507A
+  name: Peacekeeper Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1507B
+  text: >-
+    ***A Peaceful Reach***
+     
+    2 clusters or more are at Peace.
+     
+    5 clusters or more are at Peace.
+     
+    *You can flip clusters to Peace using your Peace Accords card.*
+     
+    *If you’re an Outlaw, the First Regent can easily flip clusters to War by using the Empire Balks at Peace edict.*
+     
+    *The Peace Dividends edict can encourage players to keep clusters at Peace.*
+  image: F1507B
+  name: Peacekeeper Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1508
+  text: >-
+    *Each cluster has a Ceasefire token, which shows whether its systems are at War or at Peace. The Peace side, shown to the right, limits harm as follows.*
+     
+    To **harm** anything in a cluster at Peace except Loyal pieces and Blight, you must spend 1 Weapon. If you do, flip the Ceasefire token in the cluster to War.
+     
+    *Harm means battle, hit, damage, or destroy. It doesn’t count Crises.*
+     
+    **Ceasefires cannot be removed. They track the states of clusters and are only placed in gates for convenience.**
+  image: F1508
+  name: Ceasefires
+  tags:
+    - Blighted Reach
+    - Law
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1509
+  text: >-
+    If the Imperial Policy is **War** and the Peacekeeper is an **Outlaw,** the First Regent may flip 1 Ceasefire token to **War** in a cluster where the Empire controls at least 2 systems.
+  image: F1509
+  name: Empire Balks at Peace
+  tags:
+    - Blighted Reach
+    - Edict
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1510
+  text: >-
+    Players gain 2 Power for each system they control in clusters at **Peace.**
+     
+    The First Regent controls Empire- controlled systems but only gains Power for them if the Imperial Policy is **Peace.**
+  image: F1510
+  name: Peace Dividends
+  tags:
+    - Blighted Reach
+    - Edict
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1511
+  text: >-
+    **In Summits, you can take a new Negotiation action, Broker Peace:** Flip a Ceasefire token from War to Peace, with the consent of players who control at least 2 systems in total in that cluster, including yourself. You may get the consent of Rivals by returning 1 Favor of theirs.
+     
+    *You can return Favors to gain consent from Rivals who control systems even if you didn’t call the Summit.*
+     
+    *During Summits, the First Regent controls Empire-controlled systems.*
+  image: F1511
+  name: Peace Accords
+  tags:
+    - Blighted Reach
+    - Sumit
+    - Peacekeeper
+  meta:
+    act: 3
+- id: ARCS/F1601A
+  text: >-
+    1. Collect the 6 Seat tokens. *(They are labeled 1st through 6th.)*
+     
+    2. Gain Claims of Nobility (02).
+     
+    3. Add the 6 Lord title cards (03–08) to the supply.
+     
+    4. Add the Seats & Fiefs card (09) and Feudal Law card (10) to the rules booklet. ***Explain them to everyone.***
+     
+    5. **Replenish your fleet**—if you have fewer than ***8 Loyal ships*** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
+     
+    *Flip this card over.*
+  image: F1601A
+  name: Warden Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1601B
+  text: >-
+    ***Control the Fiefs’ Seats***
+     
+    At the end of a chapter, **advance `symbol:clock`2** for each Seat you control.
+     
+    *Seat tokens are placed using the Claims of Nobility card.*
+     
+    ***Lord Over the Fiefs***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each city in all Fiefs you are Lord of.
+     
+    *You are the Lord of a Fief if you placed its Seat.*
+     
+    *When counting cities in your Fiefs, include Free cities and cities with Seat tokens.*
+  image: F1601B
+  name: Warden Act II Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1602
+  text: >-
+    **Crisis:** The player holding this card must take the Claim Fief action.
+     
+    **Claim Fief (Tax):** Attach this to a Court card. You may place a Seat token above a Loyal city you control in a cluster with no Seat.
+  image: F1602
+  name: Claims of Nobility
+  tags:
+    - Blighted Reach
+    - Lore
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1603
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    You are the **Lord** of Cluster 1.
+     
+    Rivals with a Loyal city or Flagship in Cluster 1 are your **Vassals** in Cluster 1.
+     
+    You may **tax** any cities in Cluster 1, ignoring control. (Take Captives if you tax cities of your Vassals!)
+     
+    If you **harm** a Vassal in Cluster 1, or a Vassal harms you in Cluster 1, the harming player Provokes Outrage with ***all cities*** in Cluster 1.
+  image: F1603
+  name: Lord of the 1st Cluster
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1604
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    You are the **Lord** of Cluster 2.
+     
+    Rivals with a Loyal city or Flagship in Cluster 2 are your **Vassals** in Cluster 2.
+     
+    You may **tax** any cities in Cluster 2, ignoring control. (Take Captives if you tax cities of your Vassals!)
+     
+    If you **harm** a Vassal in Cluster 2, or a Vassal harms you in Cluster 2, the harming player Provokes Outrage with ***all cities*** in Cluster 2.
+  image: F1604
+  name: Lord of the 2nd Cluster
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1605
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    You are the **Lord** of Cluster 3.
+     
+    Rivals with a Loyal city or Flagship in Cluster 3 are your **Vassals** in Cluster 3.
+     
+    You may **tax** any cities in Cluster 3, ignoring control. (Take Captives if you tax cities of your Vassals!)
+     
+    If you **harm** a Vassal in Cluster 3, or a Vassal harms you in Cluster 3, the harming player Provokes Outrage with ***all cities*** in Cluster 3.
+  image: F1605
+  name: Lord of the 3rd Cluster
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1606
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    You are the **Lord** of Cluster 4.
+     
+    Rivals with a Loyal city or Flagship in Cluster 4 are your **Vassals** in Cluster 4.
+     
+    You may **tax** any cities in Cluster 4, ignoring control. (Take Captives if you tax cities of your Vassals!)
+     
+    If you **harm** a Vassal in Cluster 4, or a Vassal harms you in Cluster 4, the harming player Provokes Outrage with ***all cities*** in Cluster 4.
+  image: F1606
+  name: Lord of the 4th Cluster
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1607
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    You are the **Lord** of Cluster 5.
+     
+    Rivals with a Loyal city or Flagship in Cluster 5 are your **Vassals** in Cluster 5.
+     
+    You may **tax** any cities in Cluster 5, ignoring control. (Take Captives if you tax cities of your Vassals!)
+     
+    If you **harm** a Vassal in Cluster 5, or a Vassal harms you in Cluster 5, the harming player Provokes Outrage with ***all cities*** in Cluster 5.
+  image: F1607
+  name: Lord of the 5th Cluster
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1608
+  text: >-
+    ***Tuck this under your Fate card.***
+     
+    You are the **Lord** of Cluster 6.
+     
+    Rivals with a Loyal city or Flagship in Cluster 6 are your **Vassals** in Cluster 6.
+     
+    You may **tax** any cities in Cluster 6, ignoring control. (Take Captives if you tax cities of your Vassals!)
+     
+    If you **harm** a Vassal in Cluster 6, or a Vassal harms you in Cluster 6, the harming player Provokes Outrage with ***all cities*** in Cluster 6.
+  image: F1608
+  name: Lord of the 6th Cluster
+  tags:
+    - Blighted Reach
+    - Title
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1609
+  text: >-
+    *Players can add Seat tokens to cities using the Claims of Nobility card.*
+     
+    While a city has a Seat token, its player is the **Lord** of its cluster, which is the Lord’s **Fief**. They take the Lord title card (03–08) for that cluster.
+     
+    Rivals of the Lord that have a Loyal city or Flagship in the Lord’s Fief are the Lord’s **Vassals** in that Fief alone.
+     
+    If a city with a Seat is destroyed, return its Seat and matching Lord title card.
+     
+    *The Feudal Law card describes the relationship between Lords and Vassals.*
+  image: F1609
+  name: Seats & Fiefs
+  tags:
+    - Blighted Reach
+    - Law
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1610
+  text: >-
+    A Lord may **tax** any cities in their Fief, ignoring control. *(They still take Captives from Rival Vassals’ cities!)*
+     
+    If a Lord **harms** their Vassal in their Fief, or a Vassal harms their Lord in their Fief, they Provoke Outrage with ***all the Fief’s cities.** (In battle, resolve this before raiding.)*
+     
+    Vassals do not **Provoke Outrage** if they destroy a Rival Vassal’s city in the Fief.
+     
+    *Feudal Law only triggers from actions that the Lord and their Vassals take within the Fief where they share that relationship, not other Fiefs! In Act III, using the Warden’s Levy card does not count as harming your Vassal.*
+  image: F1610
+  name: Feudal Law
+  tags:
+    - Blighted Reach
+    - Law
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1611
+  text: >-
+    **If you completed your objective:**
+     
+    1. Gain Warden’s Levy (12).
+     
+    2. Add the 2 Feast Days (13–14) to the Court deck.
+     
+    3. Scrap Skirmishers (15) and Sworn Guardians (16).
+     
+    **If you failed your objective:**
+     
+    1. Scrap Claims of Nobility (02) and all Seat tokens that are not on the map.
+     
+    2. Scrap all Lord title cards (03–08) matching the scrapped Seat tokens.
+     
+    3. Scrap Warden’s Levy (12) and the 2 Feast Days (13–14).
+     
+    4. Add Skirmishers (15) and Sworn Guardians (16) to the Court deck.
+  image: F1611
+  name: Warden Act II Resolution
+  tags:
+    - Blighted Reach
+    - Resolution
+    - Warden
+  meta:
+    act: 2
+- id: ARCS/F1612
+  text: >-
+    **Levy (Tax):** Place 1 ship here from a Vassal’s supply. This card can hold a max of 1 ship of a Vassal for each Fief where you are their Lord.
+     
+    When attacking in **battle**, ships on this card must take hits first. Return ships here that are destroyed—they are not taken as Trophies.
+  image: F1612
+  name: Warden's Levy
+  tags:
+    - Blighted Reach
+    - Lore
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1613
+  text: >-
+    ***While this is in the Court,*** players cannot **harm** each other in Fiefs.
+     
+    **Crisis:** Scrap this card and agents on it.
+     
+    **When Secured:** You may replace 1 Rival city that has a Seat token with a Loyal city. Bury this card.
+  image: F1613
+  name: Feast Day
+  tags:
+    - Blighted Reach
+    - Vox
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1614
+  text: >-
+    ***While this is in the Court,*** players cannot **harm** each other in Fiefs.
+     
+    **Crisis:** Scrap this card and agents on it.
+     
+    **When Secured:** You may replace 1 Rival city that has a Seat token with a Loyal city. Bury this card.
+  image: F1614
+  name: Feast Day
+  tags:
+    - Blighted Reach
+    - Vox
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1615
+  text: >-
+    After you roll in **battle**, you may reroll a number of skirmish dice up to your total Weapon icons from resources and cards.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F1615
+  name: Skirmishers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Warden
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F1616
+  text: >-
+    Rivals cannot steal your resources and other Guild cards. *(In battle they can steal this first and then spend `symbol:key`.)*
+     
+    If this card is stolen, bury it. *(Place it on the bottom of the Court deck.)*
+  image: F1616
+  name: Sworn Guardians
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Warden
+  meta:
+    keys: 1
+    act: 3
+- id: ARCS/F1617A
+  text: >-
+    1. Collect the 6 Court tokens in the general supply near the Court. *(They are labeled 1st through 6th.)*
+     
+    2. Add Feudal Courts (18) and Lords Gain Power (19) to the rules booklet. ***Explain them to everyone.***
+     
+    *Flip this card over.*
+  image: F1617A
+  name: Warden Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1617B
+  text: >-
+    ***Return to the Old Ways***
+    You are Lord of more Fiefs than each Rival.
+     
+    You control more Seats than the current Chapter.
+  image: F1617B
+  name: Warden Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1618
+  text: >-
+    When you **influence** an empty card in the Court except the Imperial Council, you may also place the Court token from the supply for a Fief where you are a Lord or Vassal.
+     
+    To **influence** or **secure** a card that has a Court token, you must be a Lord or Vassal in the respective Fief.
+     
+    If a Lord **secures** a card with a Court token, they return the Court token and all Vassal agents from the card.
+     
+    When a player **Ransacks the Court**, they can secure a card that has a Court token only if they destroyed a city in the respective Fief.
+  image: F1618
+  name: Feudal Courts
+  tags:
+    - Blighted Reach
+    - Law
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1619
+  text: >-
+    **Resolve this for each Fief, starting with Cluster 1 and going clockwise:** The Fief’s Lord gains 3 Power. Then, if the Fief’s Court token is on a card in the Court, the Fief’s Lord may influence or secure that card.
+  image: F1619
+  name: Lords Gain Power
+  tags:
+    - Blighted Reach
+    - Edict
+    - Warden
+  meta:
+    act: 3
+- id: ARCS/F1701A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Gain Sycophants (02).
+     
+    3. Add Reach Rejects Overlord (03) to the rules booklet.
+     
+    4. If you have no Outrage, you may Provoke Outrage once to place 2 ships at a planet of that Outrage type. *(Do not also trigger Sycophants.)*
+     
+    *Flip this card over.*
+  image: F1701A
+  name: Overlord Act II Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1701B
+  text: >-
+    ***Rule by Fear Alone***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each resource type you have that matches your Outrage.
+     
+    ***Control by Fear Alone***
+     
+    At the end of a chapter, **advance `symbol:clock`2** for each planet type you control that matches your Outrage.
+     
+    *If you’re First Regent, you control all Empire-controlled systems for objectives.*
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F1701B
+  name: Overlord Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1702
+  text: >-
+    When you **Provoke Outrage**, keep this card, and you may place 2 fresh ships at a planet of the Outrage type once per turn.
+     
+    **Prelude:** You may discard this to place 3 ships in a system you control.
+  image: F1702
+  name: Sycophants
+  tags:
+    - Blighted Reach
+    - Guild
+    - Weapon
+    - Overlord
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F1703
+  text: >-
+    **The Overlord loses Power based on their number of Outrage:**
+     
+    **1 Outrage:** Lose 1 Power
+     
+    **2 Outrage:** Lose 3 Power
+     
+    **3 Outrage:** Lose 6 Power
+     
+    **4 Outrage:** Lose 8 Power
+     
+    **5 Outrage:** Lose 10 Power
+  image: F1703
+  name: Reach Rejects Overlord
+  tags:
+    - Blighted Reach
+    - Edict
+    - Overlord
+  meta:
+    act: 3
+- id: ARCS/F1801A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Gain Vow of Survival (02).
+     
+    3. Gain the Building Bunkers card (03) and collect the 9 Bunker tokens on it.
+     
+    4. Add the Bunkers (04) and Captive Release cards (05) to the rules booklet. ***Explain them to everyone.***
+     
+    *Flip this card over.*
+  image: F1801A
+  name: Survivalist Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1801B
+  text: >-
+    ***Keep the People Safe***
+     
+    Each time you win an ambition, **advance `symbol:clock`1** for each Captive you have or for each Bunker on the map, whichever is lower.
+     
+    ***Protect Against the Blight***
+     
+    **Advance `symbol:clock`1** each time a Blight Crisis happens at a planet with a Bunker.
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F1801B
+  name: Survivalist Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1802
+  text: >-
+    You cannot **declare** the Tyrant ambition.
+     
+    In **scoring**, when you win any ambition, you only gain Power for second place. When returning Captives, you keep 1 Captive for each Bunker on the map.
+  image: F1802
+  name: Vow of Survival
+  tags:
+    - Blighted Reach
+    - Lore
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1803
+  text: >-
+    Bunker tokens are your Loyal pieces.
+     
+    You can **build** Bunkers on planets, max 1 per planet. To build a Bunker, you must also scrap 1 agent from your supply.
+     
+    When you build a Bunker, capture 1 agent from any Rival’s supply. When a Rival destroys a Bunker, they scrap 1 Captive that you have.
+     
+    *Building.* Bunkers can be harmed like buildings. *(They don’t fill building slots and can’t be raided.)*
+     
+    *Tough*. Bunkers take 2 hits each to damage and to destroy.
+  image: F1803
+  name: Building Bunkers
+  tags:
+    - Blighted Reach
+    - Ability
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1804
+  text: >-
+    *The Survivalist can scrap their agents to build Bunkers on planets, which captures Rival agents and lets them keep Captives when Tyrant is scored.*
+     
+    When a Rival destroys a Bunker, they scrap 1 Captive held by the Survivalist.
+     
+    *Building.* Bunkers can be harmed like buildings. *(They don’t fill building slots and can’t be raided.)*
+     
+    *Tough*. Bunkers take 2 hits each to damage and to destroy.
+  image: F1804
+  name: Bunkers
+  tags:
+    - Blighted Reach
+    - Law
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1805
+  text: >-
+    **In turn order, each player with more Power than the Survivalist does this:**
+     
+    If the Survivalist has any Captives that are Loyal to you, you may choose a Bunker that you control.
+     
+    The Survivalist must either return all of those Captives or Provoke Outrage of that Bunker’s planet type.
+  image: F1805
+  name: Captive Release
+  tags:
+    - Blighted Reach
+    - Edict
+    - Survivalist
+  meta:
+    act: 3
+- id: ARCS/F1901A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Provoke Relic Outrage.
+     
+    3. Gain Ire of the Keepers (02).
+     
+    4. Add Rebuke of the Keepers (03) to the rules booklet. **Explain it to everyone.**
+     
+    5. Place Relic Fence (04) on top of the Court deck.
+     
+    6. With 2 players, return all Relics from the Keeper ambition box to the supply.
+     
+    *Flip this card over.*
+  image: F1901A
+  name: Redeemer Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1901B
+  text: >-
+    ***Subdue the Keepers***
+     
+    After scoring, if you won Keeper or it was not declared, **advance `symbol:clock`3.**
+     
+    ***Shatter the Relics***
+     
+    After scoring, if you won any ambitions, you may scrap any number of Relics you have. For each you scrap, **advance `symbol:clock`2.**
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F1901B
+  name: Redeemer Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1902
+  text: >-
+    You cannot **declare** the Keeper ambition.
+     
+    You can only **tax** Loyal cities on Relic planets if you control them.
+  image: F1902
+  name: Ore of the Keepers
+  tags:
+    - Blighted Reach
+    - Lore
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1903
+  text: >-
+    If Keeper is declared and the Redeemer ***is not*** winning it, the Redeemer loses Power equal to Keeper’s first place.
+     
+    If Keeper ***is not*** declared, the player with the most Relics may declare Keeper. *(The Redeemer can’t declare it. On a tie, skip this.)*
+  image: F1903
+  name: Rebuke of the Keepers
+  tags:
+    - Blighted Reach
+    - Edict
+    - Redeemer
+  meta:
+    act: 3
+- id: ARCS/F1904
+  text: >-
+    **Prelude:** Once per turn, you may discard 1 resource to gain 1 Relic.
+  image: F1904
+  name: Relic Fence
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Redeemer
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F2001A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. You Provoke Outrage for Fuel and Material. *(Discard these resources and cards. Place agents on their Outrage icons.)*
+     
+    3. With 2 players, return all Material and Fuel on ambition boxes to the supply.
+     
+    4. Place the Edenguard Ambition tile by the Tycoon ambition box.
+     
+    5. Gain Green Vault (02) and Ire of the Tycoons (03).
+     
+    6. Add Edenguard Ambition (04) to the rules booklet. ***Explain it to everyone.***
+     
+    *Flip this card over.*
+  image: F2001A
+  name: Guardian Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2001B
+  text: >-
+    ***Give Back to the Land***
+     
+    At the end of a chapter, if you win Tyrant or it’s not declared, **advance `symbol:clock`1** for each Material or Fuel in your Captives.
+     
+    ***Guard the Reach’s Splendor***
+     
+    At the end of a chapter, if you win Edenguard or it’s not declared, **advance `symbol:clock`1** for each Material and Fuel planet you control.
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F2001B
+  name: Guardian Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2002
+  text: >-
+    When you take Material or Fuel, you may place it in your Captives. *(Even if you’re taking for the Imperial Trust!)*
+     
+    Material and Fuel in your Captives are frozen. *(They add to both Tyrant and Tycoon, and they return to the supply if Tyrant is scored.)*
+  image: F2002
+  name: Green Vault
+  tags:
+    - Blighted Reach
+    - Lore
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2003
+  text: >-
+    You cannot **declare** Tycoon or gain Power from **scoring** it.
+     
+    You can only **tax** Loyal cities on Material and Fuel planets if you control them.
+  image: F2003
+  name: Ire of the Tycoons
+  tags:
+    - Blighted Reach
+    - Lore
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2004
+  text: >-
+    **There is now a new ambition, Edenguard:** Control the most Fuel and Material planets. *(For ambitions, the First Regent controls Empire-controlled systems.)*
+     
+    When a player would **declare Tycoon**, they may declare Edenguard instead.
+  image: F2004
+  name: Edenguard Ambition
+  tags:
+    - Blighted Reach
+    - Law
+    - Guardian
+  meta:
+    act: 3
+- id: ARCS/F2101A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Gain Blight Society (02) and Spore Guides (03).
+     
+    3. Place the Blightkin Ambition tile by the Empath ambition box.
+     
+    4. Add Blightkin Ambition (04) to the rules booklet. ***Explain it to everyone.***
+     
+    *Flip this card over.*
+  image: F2101A
+  name: Naturalist Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2101B
+  text: >-
+    ***Live in the Garden***
+     
+    At the end of a chapter, if you win Blightkin or it is not declared, **advance `symbol:clock`1** for each system you control that has any fresh Blight.
+     
+    *Your Blight Society lets you repair Blight and helps you coexist with them.*
+     
+    *Your Spore Guides helps you add Blight to the map.*
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F2101B
+  name: Naturalist Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2102
+  text: >-
+    You can **repair** and **move** Blight you control. *(They can’t Catapult. They’re not Loyal.)*
+     
+    Once per action, if you **damage** or **destroy** Blight, scrap 1 Loyal agent from your supply.
+     
+    In **Blight Crises**, you may spend 1 Psionic to prevent them in all systems with Loyal ships.
+  image: F2102
+  name: Blight Society
+  tags:
+    - Blighted Reach
+    - Lore
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2103
+  text: >-
+    **Seed (Build):** Roll the number die. For each Loyal agent you choose to return from the Court, change the roll by 1—“6” wraps to “1” and vice versa. In the rolled cluster, place 1 damaged Blight in a system with no Blight.
+  image: F2103
+  name: Spore Guides
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Naturalist
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F214
+  text: >-
+    **There is a new ambition, Blightkin:** Control the most systems with ***fresh*** Blight. *(The First Regent controls Empire-controlled systems.)*
+     
+    When a player would **declare** Empath, they may declare Blightkin instead.
+  image: F214
+  name: Blightkin Ambition
+  tags:
+    - Blighted Reach
+    - Law
+    - Naturalist
+  meta:
+    act: 3
+- id: ARCS/F2201A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Gain Catapult Overdrive (02)and Breaking Gates & Placing Passages (03).
+     
+    3. Collect the 6 Passage tokens. Place one on any gate. Resolve step 3 of Breaking Gates & Placing Passages (03).
+     
+    4. Roll the event die and place it in the central map area.
+     
+    5. Place The Dead Live (04) near the map by the chapter track.
+     
+    6. Add Passages & The Twisted Passage (05) to the rules booklet. ***Explain it and to everyone.***
+     
+    7. Place Passage Storms (06) on top of the Court deck.
+     
+    *Flip this card over.*
+  image: F2201A
+  name: Gate Wraith Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2201B
+  text: >-
+    ***Collapse the Gates of the Reach***
+     
+    Each time you win an ambition, **advance `symbol:clock`1** for each Passage token on the map.
+     
+    ***Control the Twisted Passage***
+     
+    At the end of a chapter, before scoring, **advance `symbol:clock`1** for each Passage token on the map if you control the Twisted Passage.
+     
+    *Check control before pieces return from The Dead Live.*
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F2201B
+  name: Gate Wraith Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2202
+  text: >-
+    You may Catapult **move** with Rival starports you control.
+     
+    When you Catapult **move** into the Twisted Passage, you may continue your Catapult move, ignoring control and Blight.
+  image: F2202
+  name: Catapult Overdrive
+  tags:
+    - Blighted Reach
+    - Lore
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2203
+  text: >-
+    When you Catapult **move** from a planet into the gate of the same cluster, do the following.
+     
+    1. Place a Passage token on the gate you moved into.
+     
+    2. Destroy the buildings you used to Catapult—the starport on the map, or your Flagship’s Slipstream Drive Upgrade and Armor. Do not take them as Trophies.
+     
+    3. Place all ships and tokens from the gate onto the Twisted Passage, the central map area. Destroy all buildings on the gate, but do not take them as Trophies.
+  image: F2203
+  name: Breaking Gates & Placing Passages
+  tags:
+    - Blighted Reach
+    - Ability
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2204
+  text: >-
+    Destroyed ships that would return to a supply are instead placed on this card.
+     
+    After **scoring**, take all ships that were destroyed this chapter—including those in Trophies and on this card—and place them fresh on the Twisted Passage.
+     
+    *Do this after all scoring, including grand ambitions, even if Warlord wasn’t scored.*
+  image: F2204
+  name: The Dead Live
+  tags:
+    - Blighted Reach
+    - Reminder
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2205
+  text: >-
+    *The Gate Wraith can use Catapult moves to place Passage tokens on gates.*
+     
+    The map center is now a gate called the **Twisted Passage.**
+     
+    Gates with Passage tokens are out of play—pieces that would be placed on them are placed in the Twisted Passage instead.
+     
+    You may **move** from systems adjacent to gates with a Passage to the Twisted Passage.
+     
+    You may **move** from the Twisted Passage to any planet whose ID symbol is on the event die. After this, reroll the event die.
+     
+    Players cannot **harm** Rivals in the Twisted Passage. *(Crises can still harm.)* Cities in the Twisted Passage are Psionic.
+     
+    After **scoring**, The Dead Live places all ships destroyed this chapter on the Twisted Passage.
+  image: F2205
+  name: Passages & The Twisted Passage
+  tags:
+    - Blighted Reach
+    - Law
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2206
+  text: >-
+    **When Drawn:** The player with initiative attaches this to a card in the Court.
+     
+    **Crisis:** Hit each piece in the Twisted Passage. Place this under the top card of the Court deck.
+     
+    **When Secured:** Move any number of times from the Twisted Passage to any planets. *(Don’t remove this card!)*
+  image: F2206
+  name: Passage Storms
+  tags:
+    - Blighted Reach
+    - Vox
+    - Gate Wraith
+  meta:
+    act: 3
+- id: ARCS/F2301A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Gain Farseers (02).
+     
+    3. Collect the 8 Conspiracy tokens—2 per player color. (Even if you don’t have all 4 players!)
+     
+    4. Gain the Conspiracies card (03). ***Explain it to everyone.***
+     
+    5. Add Scoring Conspiracies (04) and Foiling Conspiracies (05) to the rules booklet. ***Explain it to everyone.***
+     
+    *Flip this card over.*
+  image: F2301A
+  name: Conspirator Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2301B
+  text: >-
+    ***Control the Proceedings***
+     
+    When scoring ambitions, **advance `symbol:clock`1** for each correct revealed Conspiracy and each unrevealed Conspiracy.
+     
+    *Conspiracies are scored as described on the Scoring Conspiracies card.*
+     
+    *Conspiracies are placed as described on the Conspiracies card and removed by Rivals as described on the Foiling Conspiracies card.*
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F2301B
+  name: Conspirator Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2302
+  text: >-
+    When you **declare an ambition**, look at a Rival’s hand. You may swap 1 card with them.
+     
+    **Prelude:** You may discard this and any number of cards from your hand. Draw the same number of cards *(including Farseers)* from the bottom of the action discard pile.
+  image: F2302
+  name: Farseers
+  tags:
+    - Blighted Reach
+    - Guild
+    - Psionic
+    - Conspirator
+  meta:
+    keys: 2
+    act: 3
+- id: ARCS/F2303
+  text: >-
+    *You have 2 Conspiracy Tokens for each player color.*
+     
+    When you **declare an ambition**, you do not place an ambition marker. *(You cannot declare an ambition if there are no Available markers.)* Instead, you place a Conspiracy from your supply facedown in the declared ambition box.
+     
+    When you **secure** a card, you may refill the Court with a Guild card you have to place a Conspiracy facedown in an ambition box **with no ambition marker.**
+  image: F2303
+  name: Conspiracies
+  tags:
+    - Blighted Reach
+    - Ability
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2304
+  text: >-
+    *There are 2 Conspiracies per player color.*
+     
+    After **scoring** ambitions, reveal all Conspiracies on scored ambitions.
+     
+    The Conspirator advances `symbol:clock`**1** for each Conspiracy that is still ***unrevealed.***
+     
+    The Conspirator advances `symbol:clock`**1** for each revealed Conspiracy showing a player in first place for the ambition or tied for it.
+     
+    The Conspirator ***increases*** their objective marker on the Power track by `symbol:clock`**1** for each Conspiracy that does not show this. *(This moves them away from completion.)*
+     
+    Combine all of these steps into a single movement of the objective marker. Return all revealed Conspiracies.
+  image: F2304
+  name: Scoring Conspiracies
+  tags:
+    - Blighted Reach
+    - Law
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2305
+  text: >-
+    *The Conspirator has 2 Conspiracy Tokens for each player color.*
+     
+    When you **secure any*** Vox card or a card with Conspirator agents, you may guess a facedown Conspiracy token on an ambition box.
+     
+    If you are correct, return it to the Conspirator. If you are incorrect, the Conspirator advances `symbol:clock`**1**.
+  image: F2305
+  name: Foiling Conspiracies
+  tags:
+    - Blighted Reach
+    - Law
+    - Conspirator
+  meta:
+    act: 3
+- id: ARCS/F2401A
+  text: >-
+    1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
+     
+    2. Gain Vow of Fairness (02), The Arbiter (03), and Judge’s Chosen (04).
+     
+    3. Add Judge Sets Agenda (05) to the rules booklet.
+     
+    *Flip this card over.*
+  image: F2401A
+  name: Judge Act III Setup
+  tags:
+    - Blighted Reach
+    - Setup
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2401B
+  text: >-
+    ***Balance the Reach***
+     
+    At the end of a chapter, **advance `symbol:clock`1** for each ambition where any players are tied for first place.
+     
+    *If you’re playing with 2 players, the resources on ambitions can cause a player to tie.*
+     
+    *If a Commonwealth ambition is declared, it only advances the Judge if individual players tie for first place. Do not combine ambition values for this.*
+     
+    **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
+  image: F2401B
+  name: Judge Act III Objective
+  tags:
+    - Blighted Reach
+    - Objective
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2402
+  text: >-
+    Your Trophies and Captives can be stolen. Their raid cost is `symbol:key` each.
+     
+    If a player steals Trophies or Captives that are Loyal to them, those pieces return to their supply.
+  image: F2402
+  name: Vow of Fairness
+  tags:
+    - Blighted Reach
+    - Lore
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2403
+  text: >-
+    At the start of **scoring**, you may give any number of your Trophies, Captives, and resources to Rivals, up to their number of empty resource slots. Pieces Loyal to that Rival return to their supply.
+  image: F2403
+  name: Arbiter
+  tags:
+    - Blighted Reach
+    - Guild
+    - Relic
+    - Judge
+  meta:
+    keys: 0
+    act: 3
+- id: ARCS/F2404
+  text: >-
+    **If you’re a Rival of the Judge, follow these rules:**
+     
+    You may take actions with the Judge’s Loyal ships. *(Their ships don’t add to your control.)*
+     
+    When attacking anyone except the Judge in **battle**, you may add the Judge’s Loyal ships in the battle system to your attacking ships.
+     
+    When attacking the Judge in **battle**, Judge’s Loyal ships add to their defending pieces, not your attacking ships.
+  image: F2404
+  name: Judge's Chosen
+  tags:
+    - Blighted Reach
+    - Title
+    - Judge
+  meta:
+    act: 3
+- id: ARCS/F2405
+  text: >-
+    The Judge may declare ***any*** ambition, placing ***any*** unplaced ambition marker. *(It doesn’t need to have the most Power.)* If they do, they lose Power for second place on the declared ambition marker.
+     
+    Then, return the Judge's Chosen card to the Judge. The Judge must give it to any Rival.
+  image: F2405
+  name: Judge Sets Agenda
+  tags:
+    - Blighted Reach
+    - Edict
+    - Judge
   meta:
     act: 3
