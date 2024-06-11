@@ -1,71 +1,83 @@
 - id: ARCS/2SETUP01
   image: 2SETUP01
+  imageClass: rotated
   name: 2 Player Frontiers
   tags:
     - Base
     - Setup
 - id: ARCS/2SETUP02
   image: 2SETUP02
+  imageClass: rotated
   name: 2 Player Mix Up 1
   tags:
     - Base
     - Setup
 - id: ARCS/2SETUP03
   image: 2SETUP03
+  imageClass: rotated
   name: 2 Player Homelands
   tags:
     - Base
     - Setup
 - id: ARCS/2SETUP04
   image: 2SETUP04
+  imageClass: rotated
   name: 2 Player Mix Up 2
   tags:
     - Base
     - Setup
 - id: ARCS/3SETUP01
   image: 3SETUP01
+  imageClass: rotated
   name: 3 Player Mix Up
   tags:
     - Base
     - Setup
 - id: ARCS/3SETUP02
   image: 3SETUP02
+  imageClass: rotated
   name: 3 Player Frontiers
   tags:
     - Base
     - Setup
 - id: ARCS/3SETUP03
   image: 3SETUP03
+  imageClass: rotated
   name: 3 Player Homelands
   tags:
     - Base
     - Setup
 - id: ARCS/3SETUP04
   image: 3SETUP04
+  imageClass: rotated
   name: 3 Player Core Conflict
   tags:
     - Base
     - Setup
 - id: ARCS/4SETUP01
   image: 4SETUP01
+  imageClass: rotated
   name: 4 Player Mix Up 1
   tags:
     - Base
     - Setup
 - id: ARCS/4SETUP02
   image: 4SETUP02
+  imageClass: rotated
   name: 4 Player Mix Up 2
   tags:
     - Base
     - Setup
 - id: ARCS/4SETUP03
   image: 4SETUP03
+  imageClass: rotated
   name: 4 Player Frontiers
   tags:
     - Base
     - Setup
 - id: ARCS/4SETUP04
   image: 4SETUP04
+  imageClass: rotated
   name: 4 Player Mix Up 3
   tags:
     - Base
