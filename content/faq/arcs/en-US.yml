@@ -1,0 +1,184 @@
+- faq:
+    - q: >-
+        When do you collect the Action Card?
+      a: >-
+        At the end of the round, after all players finish their turns
+    - q: >-
+        Can this been stolen while it being played?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+  card: Admin Union
+- faq:
+    - q: >-
+        When do you collect the Action Card?
+      a: >-
+        At the end of the round, after all players finish their turns
+    - q: >-
+        Can this been stolen while it being played?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+  card: Arms Union
+- faq:
+    - q: >-
+        When do you collect the Action Card?
+      a: >-
+        At the end of the round, after all players finish their turns
+    - q: >-
+        Can this been stolen while it being played?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+  card: Construction Union
+- faq:
+    - q: >-
+        Is Trade blocked by Sworn Guardians?
+      a: >-
+        The Trade action is not stealing and is not blocked by Sworn Guardian.
+  card: Elder Brokers
+- faq:
+    - q: >-
+        What happens if you use Farseer’s prelude ability and discard e.g.  2 cards + Farseers
+      a: >-
+        Draw 3 cards from the bottom of the action card discard pile.
+  card: Farseers
+- faq:
+    - q: >-
+        How does the Card Supply interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and Keeper’s Solidarity, but they cannot be discarded for Relic Fence, or be stolen.
+    - q: >-
+        Do rivals discard even if Tycoon wasn't scored?
+      a: >-
+        Yes
+  card: Fuel Cartel
+- faq:
+    - q: >-
+        In what order do you choose to Seize Initiative and Declare an Ambition
+      a: >-
+        You may choose eithier to Seize and Declare in any order
+  card: Galactic Bards
+- faq:
+    - q: >-
+        How does the Card Supply interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and Keeper’s Solidarity, but they cannot be discarded for Relic Fence, or be stolen.
+    - q: >-
+        Do rivals discard even if Tycoon wasn't scored?
+      a: >-
+        Yes
+  card: Material Cartel
+- faq:
+    - q: >-
+        When do you collect the Action Card?
+      a: >-
+        At the end of the round, after all players finish their turns
+    - q: >-
+        Can this been stolen while it being played?
+      a: >-
+        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+  card: Spacing Union
+- faq:
+    - q: >-
+        Can you secure this card if you are leading or if Initiative has already been seized?
+      a: >-
+        Yes. In this case, you may return a city you control, but you don't seize the initiative.
+  card: Song of Freedom
+- faq:
+    - q: >-
+        How many cards can I influence with **Bold**?
+      a: >-
+        You may put up to one agent on each card in the Court.
+  card: Demagogue
+- faq:
+    - q: >-
+        Do my Influence and Secure actions need to be on the same card?
+      a: >-
+        You can influence and secure different cards.
+    - q: >-
+        Do I have to secure after Influencing?
+      a: >-
+        You must perform a legal secure action after influencing (must have a legal target to secure). Otherwise the influence must be undone.
+  card: Feastbringer
+- faq:
+    - q: >-
+        If a resource stack is empty, can I still tax it to then gain a Fuel from Insatiable?
+      a: >-
+        You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.
+  card: Fuel Drinker
+- faq:
+    - q: >-
+        If a resource stack is empty, can I still tax it to then gain a Psionic from Attuned?
+      a: >-
+        You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.
+  card: Mystic
+- faq:
+    - q: >-
+        If the top card of the Court deck is Populist Demand, do you trigger Connected again?
+      a: >-
+        Yes, if you declare and undeclared ambition with a drawn Populist Demand, this ability triggers again.
+    - q: >-
+        If I secure Farseers, does Connected trigger?
+      a: >-
+        No. Farseers being drawn as a result of Connected does not see the timing window to then trigger it's ability to look at a rival's hand and swap a card with them.
+  card: Noble
+- faq:
+    - q: >-
+        Can I tax a city once per turn and build a ship in the same turn to use Ruthless twice?
+      a: >-
+        Each turn, you can only tax or build a ship with Ruthless, not both.
+    - q: >-
+        If a city is destroyed with Ruthless, when do I provoke outrage?
+      a: >-
+        When you destroy a city to tax, you first provoke outrage, then gain the resource from taxing.
+    - q: >-
+        Is Ruthless granting me additional actions, or do the bonus activations of a city or startport counting against my total Action pips?
+      a: >-
+        Hitting the building provides the extra action. You don’t have to spend a second action pip.
+    - q: >-
+        Can I use Ruthless to hit a building even if I do not gain a resource or cannot build a ship?
+      a: >-
+        It is possible to hit a building to Tax or Build even if the action yields nothing.
+  card: Overseer
+- faq:
+    - q: >-
+        When does Resilient count the number of starports I control?
+      a: >-
+        Resilient checks the number of starports after battle. If the battle destroys a starport previously controlled by Quartermaster, or if the battle causes the Quartermaster to lose control over a starport, it does not add to the number of repairs.
+  card: Quartermaster
+- faq:
+    - q: >-
+        Can I choose not to use the two extra dice from Committed?
+      a: >-
+        These 2 dice are mandatory.
+    - q: >-
+        How does Disorganized interact with Predictive Sensors?
+      a: >-
+        Predictive Sensor is subject to this restriction. When the Rebel uses Predictive Sensor, they can move in up to 2 ships from each adjacent system. This is because a move is defined as “number of Loyal ships from one system to an adjacent system”
+    - q: >-
+        How does Disorganized interact with Force Beams?
+      a: >-
+        Force Beams ignores this restriction.
+  card: Rebel
+- faq:
+    - q: >-
+        When during my turn to I use Ambitious?
+      a: >-
+        You declare an ambition and gain the resource before you can spend any resources.
+    - q: >-
+        Does Callow restrict taxing rival cities with Empath's Bond?
+      a: >-
+        This does not restrict taxing rival cities. Even if you tax them “like they are Loyal” with Empath’s Bond. And even with Empath’s Bond, you still can only tax Loyal cities if you control them.
+  card: Upstart
+- faq:
+    - q: >-
+        Do I have to move and battle with the same ships with Tactical?
+      a: >-
+        You can move and battle with different ships.
+    - q: >-
+        Can the Tactical Move be a catapult move?
+      a: >-
+        Yes.
+    - q: >-
+        Can I do the Tactical move if I end up moving to a space with no ships to battle?
+      a: >-
+        You must perform a legal battle action after moving (must have a legal target to attack). Otherwise the move must be undone.
+  card: Warrior
