@@ -30,9 +30,9 @@
   card: Construction Union
 - faq:
     - q: >-
-        Is Trade blocked by Sworn Guardians?
+        Is Trade blocked by $link:Sworn Guardians$?
       a: >-
-        The Trade action is not stealing and is not blocked by Sworn Guardian.
+        The Trade action is not stealing and is not blocked by $link:Sworn Guardians$.
   card: Elder Brokers
 - faq:
     - q: >-
@@ -44,11 +44,11 @@
     - q: >-
         How does the Card Supply interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and Keeper’s Solidarity, but they cannot be discarded for Relic Fence, or be stolen.
+        The resources count towards ambitions and $link:Keeper’s Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
-        Yes
+        Yes.
   card: Fuel Cartel
 - faq:
     - q: >-
@@ -60,7 +60,7 @@
     - q: >-
         How does the Card Supply interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and Keeper’s Solidarity, but they cannot be discarded for Relic Fence, or be stolen.
+        The resources count towards ambitions and $link:Keeper’s Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
@@ -112,13 +112,13 @@
   card: Mystic
 - faq:
     - q: >-
-        If the top card of the Court deck is Populist Demand, do you trigger Connected again?
+        If the top card of the Court deck is $link:Populist Demand$, do you trigger Connected again?
       a: >-
-        Yes, if you declare and undeclared ambition with a drawn Populist Demand, this ability triggers again.
+        Yes, if you declare and undeclared ambition with a drawn $link:Populist Demand$, this ability triggers again.
     - q: >-
-        If I secure Farseers, does Connected trigger?
+        If I secure $link:Farseers$, does Connected trigger?
       a: >-
-        No. Farseers being drawn as a result of Connected does not see the timing window to then trigger it's ability to look at a rival's hand and swap a card with them.
+        No. $link:Farseers$ being drawn as a result of Connected does not see the timing window to then trigger it's ability to look at a rival's hand and swap a card with them.
   card: Noble
 - faq:
     - q: >-
@@ -150,13 +150,13 @@
       a: >-
         These 2 dice are mandatory.
     - q: >-
-        How does Disorganized interact with Predictive Sensors?
+        How does Disorganized interact with $link:Predictive Sensors$?
       a: >-
-        Predictive Sensor is subject to this restriction. When the Rebel uses Predictive Sensor, they can move in up to 2 ships from each adjacent system. This is because a move is defined as “number of Loyal ships from one system to an adjacent system”
+        $link:Predictive Sensors$ is subject to this restriction. When the Rebel uses $link:Predictive Sensors$, they can move in up to 2 ships from each adjacent system. This is because a move is defined as “number of Loyal ships from one system to an adjacent system”
     - q: >-
-        How does Disorganized interact with Force Beams?
+        How does Disorganized interact with $link:Force Beams$?
       a: >-
-        Force Beams ignores this restriction.
+        $link:Force Beams$ ignores this restriction.
   card: Rebel
 - faq:
     - q: >-
@@ -164,9 +164,9 @@
       a: >-
         You declare an ambition and gain the resource before you can spend any resources.
     - q: >-
-        Does Callow restrict taxing rival cities with Empath's Bond?
+        Does Callow restrict taxing rival cities with $link:Empath's Bond$?
       a: >-
-        This does not restrict taxing rival cities. Even if you tax them “like they are Loyal” with Empath’s Bond. And even with Empath’s Bond, you still can only tax Loyal cities if you control them.
+        This does not restrict taxing rival cities. Even if you tax them “like they are Loyal” with $link:Empath’s Bond$. And even with $link:Empath’s Bond$, you still can only tax Loyal cities if you control them.
   card: Upstart
 - faq:
     - q: >-
@@ -204,7 +204,7 @@
     - q: >-
         Is Fire Rifles modified by abilities that modify Battle?
       a: >-
-        Abilities that modify Battle do not apply to Fire Rifles action. (e.g., you cannot use Skirmisher to reroll the dice; you cannot use Gatekeepers to collect more dice)
+        Abilities that modify Battle do not apply to Fire Rifles action. (e.g., you cannot use $link:Skirmishers$ to reroll the dice; you cannot use $link:Gatekeepers$ to collect more dice)
   card: Galactic Rifle
 - faq:
     - q: >-
