@@ -183,6 +183,10 @@
         You must perform a legal battle action after moving (must have a legal target to attack). Otherwise the move must be undone.
   card: Warrior
 - faq:
+    - q: >-
+        Can Ancient Holding hold a $link:Golems$?
+      a: >-
+        Yes, Ancient Holding provides a resource slot that holds one Golem.
   card: Ancient Holding
 - faq:
     - q: >-
