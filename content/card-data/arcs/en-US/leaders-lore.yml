@@ -36,7 +36,7 @@
       
     **Prelude:** You may discard this to clear your Psionic Outrage.
   image: L19
-  name: Empath’s Vision
+  name: Empath's Vision
   tags:
     - Leaders and Lore
     - Lore
@@ -44,7 +44,7 @@
   text: >-
     ***While Empath is declared***, you may **tax** ***any*** cities, and **build** ships and Catapult **move** with ***any*** starports, like they are Loyal. *(Don't take Captives. Build ships damaged in Rival-controlled systems.)*
   image: L20
-  name: Empath’s Bond
+  name: Empath's Bond
   tags:
     - Leaders and Lore
     - Lore
@@ -54,7 +54,7 @@
      
     **Prelude:** You may discard this to clear your Relic Outrage.
   image: L21
-  name: Keeper’s Trust
+  name: Keeper's Trust
   tags:
     - Leaders and Lore
     - Lore
@@ -62,7 +62,7 @@
   text: >-
     ***While Keeper is declared***, Rivals cannot steal Guild cards from you while you have any resources of the same type. *(If you have both Relics and Sworn Guardians, neither can be stolen!)*
   image: L22
-  name: Keeper’s Solidarity
+  name: Keepers Solidarity
   tags:
     - Leaders and Lore
     - Lore
@@ -72,7 +72,7 @@
      
     **Prelude:** You may discard this to clear your Weapon Outrage.
   image: L23
-  name: Warlord’s Cruelty
+  name: Warlord's Cruelty
   tags:
     - Leaders and Lore
     - Lore
@@ -80,7 +80,7 @@
   text: >-
     ***While Warlord is declared***, you may spend Trophies in your Prelude, returning them, to influence once for each.
   image: L24
-  name: Warlord’s Terror
+  name: Warlord's Terror
   tags:
     - Leaders and Lore
     - Lore
@@ -90,7 +90,7 @@
      
     **Prelude:** You may discard this to clear your Weapon Outrage.
   image: L25
-  name: Tyrant’s Ego
+  name: Tyrant's Ego
   tags:
     - Leaders and Lore
     - Lore
@@ -98,7 +98,7 @@
   text: >-
     **Annex (Build):** ***While Tyrant is declared***, replace ***any*** city or starport you control with a Loyal city or starport, respectively. *(Cities return to player boards.)*
   image: L26
-  name: Tyrant’s Authority
+  name: Tyrant's Authority
   tags:
     - Leaders and Lore
     - Lore
@@ -106,7 +106,7 @@
   text: >-
     **Prelude:** ***While Tycoon is declared***, before taking any other actions, you may discard all of your Material and Fuel to declare exactly 1 undeclared ambition. Do not place the zero marker. *(You may do this just after declaring Tycoon.)*
   image: L27
-  name: Tycoon’s Ambition
+  name: Tycoon's Ambition
   tags:
     - Leaders and Lore
     - Lore
@@ -116,7 +116,7 @@
      
     **Prelude:** You may discard this to clear your Material and Fuel Outrage.
   image: L28
-  name: Tycoon’s Charm
+  name: Tycoon's Charm
   tags:
     - Leaders and Lore
     - Lore

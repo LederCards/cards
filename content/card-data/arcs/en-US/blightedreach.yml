@@ -294,7 +294,7 @@
     - Vox
 - id: ARCS/CC13
   text: >-
-    **Crisis:** In turn order, each player with more Guild cards than agents in their supply must discard Guild cards until their Guild cards equal their agents. Bury this card. *(Count protected Guild cards but don’t discard them.)*
+    **Crisis:** In turn order, each player with more Guild cards than agents in their supply must discard Guild cards until their Guild cards equal their agents. Bury this card. *(Count protected Guild cards but don't discard them.)*
      
     **When Secured:** Rivals resolve the Crisis.
   image: CC13
@@ -444,7 +444,7 @@
     complexity: 1
 - id: ARCS/FATE07
   text: >-
-    *Restore the strength of the Empire’s fleet and claim your rightful throne.*
+    *Restore the strength of the Empire's fleet and claim your rightful throne.*
      
     **YOUR PATH TO POWER**
      
@@ -452,7 +452,7 @@
      
     **II.** Exert Imperial control of planets and dominate your foes, Regents and Outlaws alike.
      
-    **III.** Control the Reach’s planets and build the strongest navy.
+    **III.** Control the Reach's planets and build the strongest navy.
   image: FATE07
   name: Admiral
   tags:
@@ -484,7 +484,7 @@
     complexity: 3
 - id: ARCS/FATE09
   text: >-
-    *There’s rumor of a Reach beyond our Reach. We must escape the decay engulfing us here.*
+    *There's rumor of a Reach beyond our Reach. We must escape the decay engulfing us here.*
      
     **YOUR PATH TO POWER**
      
@@ -575,7 +575,7 @@
     complexity: 1
 - id: ARCS/FATE14
   text: >-
-    *The Reach is dying. To heal our wounds, we must feel each other’s pain.*
+    *The Reach is dying. To heal our wounds, we must feel each other's pain.*
      
     **YOUR PATH TO POWER**
      
@@ -629,7 +629,7 @@
     complexity: 3
 - id: ARCS/FATE17
   text: >-
-    *I won’t bow to you any longer. Tremble before me!*
+    *I won't bow to you any longer. Tremble before me!*
      
     **YOUR PATH TO POWER**
      
@@ -729,7 +729,7 @@
      
     **YOUR PATH TO POWER**
      
-    Plot Conspiracies to predict who will win ambitions or tie for first place. But don’t be too obvious—Rivals can foil you by guessing them. **You may abandon your Flagship to replenish your fleet. You can no longer declare ambitions yourself.**
+    Plot Conspiracies to predict who will win ambitions or tie for first place. But don't be too obvious—Rivals can foil you by guessing them. **You may abandon your Flagship to replenish your fleet. You can no longer declare ambitions yourself.**
   image: FATE23
   name: Conspirator
   tags:
@@ -745,7 +745,7 @@
      
     **YOUR PATH TO POWER**
      
-    Balance the Reach by ensuring players tie for first place in ambitions. **You may abandon your Flagship to replenish your fleet. Rivals can now steal your Trophies and Captives. Each time the Edicts happen, you must name a Rival as the Judge’s Chosen, letting them use your ships.**
+    Balance the Reach by ensuring players tie for first place in ambitions. **You may abandon your Flagship to replenish your fleet. Rivals can now steal your Trophies and Captives. Each time the Edicts happen, you must name a Rival as the Judge's Chosen, letting them use your ships.**
   image: FATE24
   name: Judge
   tags:
@@ -774,7 +774,7 @@
   text: >-
     ***Consolidate Your Imperial Power***
      
-    Each time you win an ambition while you’re the First Regent, advance 1 `symbol:clock` for each Power you gain from it.
+    Each time you win an ambition while you're the First Regent, advance 1 `symbol:clock` for each Power you gain from it.
      
     *Count bonus Power from city slots uncovered on your player board. For example, if you gain 5 Power from winning an ambition and gain 5 bonus city Power, advance your objective marker 10 spaces.*
   image: F101B
@@ -787,9 +787,9 @@
     act: 1
 - id: ARCS/F102
   text: >-
-    ***Bury this if you’re an Outlaw.***
+    ***Bury this if you're an Outlaw.***
      
-    You may **tax *any*** cities controlled by the Empire like they are Loyal, ignoring the Empire’s Presence and Truce Laws. *(Don’t take Captives.)*
+    You may **tax *any*** cities controlled by the Empire like they are Loyal, ignoring the Empire's Presence and Truce Laws. *(Don't take Captives.)*
   image: F102
   name: Imperial Authority
   tags:
@@ -851,9 +851,9 @@
     act: 2
 - id: ARCS/F106
   text: >-
-    ***Bury this if you’re an Outlaw.***
+    ***Bury this if you're an Outlaw.***
      
-    When you *tax* an Outlaw’s city, you may take the resource from their player board.
+    When you *tax* an Outlaw's city, you may take the resource from their player board.
   image: F106
   name: Tax Collectors
   tags:
@@ -946,13 +946,13 @@
   text: >-
     ***Expand the Empire***
      
-    At the end of each chapter, if you’re the First Regent, **advance** 1 `symbol:clock` for each cluster where the Empire controls any systems.
+    At the end of each chapter, if you're the First Regent, **advance** 1 `symbol:clock` for each cluster where the Empire controls any systems.
      
     ***Ensure the Emperor's Tribute***
      
-    At the end of each chapter, **advance** 1 `symbol:clock` for each resource in the First Regent’s Imperial Trust.
+    At the end of each chapter, **advance** 1 `symbol:clock` for each resource in the First Regent's Imperial Trust.
      
-    *You advance this way even if you’re not First Regent.*
+    *You advance this way even if you're not First Regent.*
   image: F112B
   name: Steward Act II Objective
   tags:
@@ -1115,9 +1115,9 @@
   text: >-
     ***Entrench the Empire in the Reach***
      
-    You’re a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
+    You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
      
-    You’re the ***First Regent*** and the Imperial Trust has more resources than the current Chapter.
+    You're the ***First Regent*** and the Imperial Trust has more resources than the current Chapter.
   image: F122B
   name: Steward Act III Objective
   tags:
@@ -1128,7 +1128,7 @@
     act: 3
 - id: ARCS/F123
   text: >-
-    The First Regent must place the **Sponsored token** on an undeclared ambition box. *(If it’s already placed, they may keep it on its current ambition box.)*
+    The First Regent must place the **Sponsored token** on an undeclared ambition box. *(If it's already placed, they may keep it on its current ambition box.)*
      
     Then, they may add 1 resource they have to the Imperial Trust.
      
@@ -1207,11 +1207,11 @@
   text: >-
     ***Inspire Confidence in the Cause***
      
-    While you’re an Outlaw, **advance** `symbol:clock`3 for each ambition you win.
+    While you're an Outlaw, **advance** `symbol:clock`3 for each ambition you win.
      
-    ***Defy the Empire’s Grip***
+    ***Defy the Empire's Grip***
      
-    At the end of a chapter, if you’re an Outlaw, **advance** `symbol:clock`1 for each system you control.
+    At the end of a chapter, if you're an Outlaw, **advance** `symbol:clock`1 for each system you control.
      
     *You can become an Outlaw when you call a Summit or when you declare an ambition, using your Parade Fleets card.*
   image: F201B
@@ -1243,7 +1243,7 @@
      
     2. Add the 3 Political Intrigue cards (05–07) to the Court deck.
      
-    3. Place the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) behind the Founder’s next Resolution card (22).
+    3. Place the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) behind the Founder's next Resolution card (22).
      
     **If you failed your objective:**
      
@@ -1667,7 +1667,7 @@
     act: 3
 - id: ARCS/F227
   text: >-
-    **Incite Revolt (Battle):** In a system with a fresh Free city, destroy all damaged Rival and Imperial ships, ignoring the Imperial Truce Law. Don’t take Trophies.
+    **Incite Revolt (Battle):** In a system with a fresh Free city, destroy all damaged Rival and Imperial ships, ignoring the Imperial Truce Law. Don't take Trophies.
   image: F227
   name: Freedom Fighters
   tags:
@@ -1705,7 +1705,7 @@
      
     *Summits happen from Event cards and the Imperial Council.*
      
-    *You can’t discard resources from your Merchant League—they’re frozen except for the Transfer Asset action.*
+    *You can't discard resources from your Merchant League—they're frozen except for the Transfer Asset action.*
   image: F301B
   name: Magnate Act I Objective
   tags:
@@ -1735,7 +1735,7 @@
      
     1. Add the Elder Broker (04), Relic Fence (05), and Prison Wardens (06) to the Court deck.
      
-    2. Place the 5 Cartel cards (07–11) behind the Magnate’s next Resolution card (21).
+    2. Place the 5 Cartel cards (07–11) behind the Magnate's next Resolution card (21).
      
     3. If Mining Interest (CC01) or Shipping Interest (CC04) are in the Court discard pile, add them to the Court deck.
      
@@ -1754,7 +1754,7 @@
     act: 1
 - id: ARCS/F304
   text: >-
-    **Trade (Tax):** Choose a Rival city you control.Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don’t have.
+    **Trade (Tax):** Choose a Rival city you control.Swap 1 resource with that Rival—take a resource of that city type from them, and give them a resource they don't have.
      
     **Prelude:** You may discard this to gain 1 Material, 1 Fuel, and 1 Weapon.
   image: F304
@@ -1799,7 +1799,7 @@
     act: 2
 - id: ARCS/F307
   text: >-
-    You keep the Material supply on here. *(You add it to Tycoon but can’t spend it.)*
+    You keep the Material supply on here. *(You add it to Tycoon but can't spend it.)*
      
     After **scoring,** Rivals discard all Material.
      
@@ -1816,7 +1816,7 @@
     act: 2
 - id: ARCS/F308
   text: >-
-    You keep the Fuel supply on here. (You add it to Tycoon but can’t spend it.)
+    You keep the Fuel supply on here. (You add it to Tycoon but can't spend it.)
     After **scoring**, Rivals discard all Fuel.
      
     **Prelude:** You may discard this to steal 1 Fuel.
@@ -1832,7 +1832,7 @@
     act: 2
 - id: ARCS/F309
   text: >-
-    You keep the Weapon supply on here. (You add it to Warlord but can’t spend it.)
+    You keep the Weapon supply on here. (You add it to Warlord but can't spend it.)
     After **scoring,** Rivals discard all Weapons.
      
     **Prelude:** You may discard this to steal 1 Weapon.
@@ -1848,7 +1848,7 @@
     act: 2
 - id: ARCS/F310
   text: >-
-    You keep the Psionic supply on here. (You add it to Empath but can’t spend it.)
+    You keep the Psionic supply on here. (You add it to Empath but can't spend it.)
     After **scoring,** Rivals discard all Psionic.
      
     **Prelude:** You may discard this to steal 1 Psionic.
@@ -1864,7 +1864,7 @@
     act: 2
 - id: ARCS/F311
   text: >-
-    You keep the Relic supply on here. (You add it to Keeper but can’t spend it.)
+    You keep the Relic supply on here. (You add it to Keeper but can't spend it.)
      
     After **scoring,** Rivals discard all Relics.
      
@@ -1988,7 +1988,7 @@
      
     *Usually this means you need 3 resources out of 5. Some Fates add resources or scrap them, removing them from play. Two-player games remove resources from play onto ambition boxes.*
      
-    ***Monopolies* let you hold the matching resource supply. You add resources on Monopolies to ambitions, but you can’t spend them. Also, players need your consent to give that resource during Summits.**
+    ***Monopolies* let you hold the matching resource supply. You add resources on Monopolies to ambitions, but you can't spend them. Also, players need your consent to give that resource during Summits.**
   image: F318
   name: Gain Monopolies
   tags:
@@ -2001,7 +2001,7 @@
   text: >-
     In **Summits,** players may only give a resource with **Transfer Asset** if they have the consent of the player with the Monopoly for that resource. Consent is not needed if no one has the Monopoly.
      
-    In the Call to Order, the player who called the Summit may force the Monopoly holder’s consent by returning 1 Favor of theirs to them.
+    In the Call to Order, the player who called the Summit may force the Monopoly holder's consent by returning 1 Favor of theirs to them.
   image: F319
   name: Monopoly Consent
   tags:
@@ -2050,7 +2050,7 @@
     act: 2
 - id: ARCS/F322
   text: >-
-    You may **build** cities on ***any*** planets if you don’t have the Monopoly matching that planet type. *(You don’t need Loyal pieces there!)*
+    You may **build** cities on ***any*** planets if you don't have the Monopoly matching that planet type. *(You don't need Loyal pieces there!)*
   image: F322
   name: Prospectors
   tags:
@@ -2089,7 +2089,7 @@
     act: 3
 - id: ARCS/F325A
   text: >-
-    If you’re a Regent, tuck the Economy law card (26) on its Closed Economy side under the card play area near the map. If you’re an Outlaw, tuck it on its Open Economy side.
+    If you're a Regent, tuck the Economy law card (26) on its Closed Economy side under the card play area near the map. If you're an Outlaw, tuck it on its Open Economy side.
      
     Add Closed & Open Economy (27) to the rules booklet. **Explain it to everyone.**
      
@@ -2114,7 +2114,7 @@
      
     After scoring, you must scrap 1 Monopoly you have and all of your resources of that Monopoly type.
      
-    *Scrap all resources in your play area, whether they’re on your player board, on the Monopoly, Imperial Trust, on Merchant League, and so on!*
+    *Scrap all resources in your play area, whether they're on your player board, on the Monopoly, Imperial Trust, on Merchant League, and so on!*
      
     *If you have no Monopolies, do not scrap resources.*
   image: F325B
@@ -2215,7 +2215,7 @@
     act: 1
 - id: ARCS/F403
   text: >-
-    To use actions on Guild cards, you must be in first or second place for a declared ambition. *(That is, you’d gain Power if it scored now.)*
+    To use actions on Guild cards, you must be in first or second place for a declared ambition. *(That is, you'd gain Power if it scored now.)*
      
     **When Secured:** Search the Court deck and discard pile to take any 1 Guild card. If you searched the deck, shuffle it.
   image: F403
@@ -2330,7 +2330,7 @@
     act: 2
 - id: ARCS/F410
   text: >-
-    **Crisis:** In turn order, each player with more Guild cards than agents in their supply must discard Guild cards until their Guild cards equal their agents. Bury this card. *(Count Protected Guild cards but don’t discard them.)*
+    **Crisis:** In turn order, each player with more Guild cards than agents in their supply must discard Guild cards until their Guild cards equal their agents. Bury this card. *(Count Protected Guild cards but don't discard them.)*
      
     **When Secured:** Rivals resolve the Crisis.
   image: F410
@@ -2356,7 +2356,7 @@
     act: 2
 - id: ARCS/F412A
   text: >-
-    1. Add the Advocate’s Demand edict (13) to the rules booklet. ***Explain it to everyone.***
+    1. Add the Advocate's Demand edict (13) to the rules booklet. ***Explain it to everyone.***
      
     2. Add Guild Negotiations (14) to the rules booklet. ***Explain it to everyone.***
      
@@ -2379,7 +2379,7 @@
      
     At the end of a chapter, **advance `symbol"clock`1** for each Rival that you have more Guild cards than.
      
-    *The Advocate’s Demand edict will help you advance these objectives!*
+    *The Advocate's Demand edict will help you advance these objectives!*
   image: F412B
   name: Advocate Act II Objective
   tags:
@@ -2396,7 +2396,7 @@
      
     That Rival must either give that Guild card to the Advocate and take 1 Favor from the Advocate, or give 1 Favor to the Advocate.
      
-    *This is not stealing, so cards like Sworn Guardians don’t prevent it. The Advocate can even demand protected Guild cards!*
+    *This is not stealing, so cards like Sworn Guardians don't prevent it. The Advocate can even demand protected Guild cards!*
   image: F413
   name: Advocate's Deman
   tags:
@@ -2409,9 +2409,9 @@
   text: >-
     **In Summits, you can take a new Negotiation action, Transfer Guild Support:**
      
-    Give a Guild card. This requires the Advocate’s consent if they are in play.
+    Give a Guild card. This requires the Advocate's consent if they are in play.
      
-    Forcing this with Return Favors costs Favors equal to the Guild card’s raid cost. You may force the Advocate’s consent by returning 1 Favor of theirs to them.
+    Forcing this with Return Favors costs Favors equal to the Guild card's raid cost. You may force the Advocate's consent by returning 1 Favor of theirs to them.
      
     *Players cannot be forced to give protected Guild cards.*
   image: F414
@@ -2436,7 +2436,7 @@
      
     2. Add Guilds Withdraw (22) to the Court deck.
      
-    3. Scrap Advocate’s Demand (13) from the rules booklet.
+    3. Scrap Advocate's Demand (13) from the rules booklet.
   image: F415
   name: Advocate Act II Resolution
   tags:
@@ -2563,7 +2563,7 @@
      
     *The second grand ambition counts attached cards. For example, if the Court has the Imperial Council, 3 cards, and 2 attached cards, this grand ambition requires 4 Guild cards.*
      
-    *Remember that you can attach a Guild card to the Imperial Council, since it’s a card in the Court. It doesn’t even have to be In Session!
+    *Remember that you can attach a Guild card to the Imperial Council, since it's a card in the Court. It doesn't even have to be In Session!
   image: F423B
   name: Advocate Act III Objective
   tags:
@@ -2638,7 +2638,7 @@
      
     **Advance `symbol:clock`2** each time any player spends a Golem in their Prelude.
      
-    *Advance even if the player chooses not to use the Golem’s Prelude action.*
+    *Advance even if the player chooses not to use the Golem's Prelude action.*
   image: F501B
   name: Caretaker Act I Objective
   tags:
@@ -2673,7 +2673,7 @@
     act: 1
 - id: ARCS/F504
   text: >-
-    When you **declare an ambition,** you may end your turn immediately. If you do, take any Golems from Rivals, then roll the event die and resolve Crises if you roll it. *(Don’t resolve Edicts.)*
+    When you **declare an ambition,** you may end your turn immediately. If you do, take any Golems from Rivals, then roll the event die and resolve Crises if you roll it. *(Don't resolve Edicts.)*
   image: F504
   name: Stone-Speakers
   tags:
@@ -2690,9 +2690,9 @@
      
     Golems fill resource slots and can be discarded, rearranged, and spent for actions like resources. *(See the Golem Actions card for details.)*
      
-    They have Sleeping and Awake sides. Its Awake side is public if a player holds it. *(Players’ Golems flip to Awake in Crises.)*
+    They have Sleeping and Awake sides. Its Awake side is public if a player holds it. *(Players' Golems flip to Awake in Crises.)*
      
-    When a Golem is spent or discarded, flip it to Sleeping and place it in a Rival’s empty resource slot. If there are none, you keep it.
+    When a Golem is spent or discarded, flip it to Sleeping and place it in a Rival's empty resource slot. If there are none, you keep it.
      
     In Act II/III **setup,** Golems flip to Awake.
   image: F505
@@ -2822,7 +2822,7 @@
     act: 2
 - id: ARCS/F512B
   text: >-
-    ***Collect the Galaxy’s Knowledge***
+    ***Collect the Galaxy's Knowledge***
      
     **Advance `symbol:clock`2** each time you secure a lore card.
      
@@ -2862,7 +2862,7 @@
      
     **Transfer Lore:** Give a lore card to a Rival. This cannot be forced with Return Favors.
      
-    **Transfer Golem:** Give a Golem to a Rival. To force this with Return Favors, you must return Favors equal in number to the Golem’s raid cost.
+    **Transfer Golem:** Give a Golem to a Rival. To force this with Return Favors, you must return Favors equal in number to the Golem's raid cost.
   image: F514
   name: Knowledge Set Free
   tags:
@@ -3022,7 +3022,7 @@
      
     ***Appeal to Your Supporters***
      
-    **Advance `symbol:clock`2** each time you win an ambition where you don’t have Outrage for the resource it counts. Weapon Outrage stops you from advancing by winning Warlord.
+    **Advance `symbol:clock`2** each time you win an ambition where you don't have Outrage for the resource it counts. Weapon Outrage stops you from advancing by winning Warlord.
   image: F601B
   name: Partisan Act I Objective
   tags:
@@ -3046,13 +3046,13 @@
     act: 1
 - id: ARCS/F603
   text: >-
-    ***Scrap this and clear all your Outrage if you’re not the Partisan.***
+    ***Scrap this and clear all your Outrage if you're not the Partisan.***
      
-    You cannot **seize the initiative** by discarding a second action card. *(This doesn’t limit other ways to seize.)*
+    You cannot **seize the initiative** by discarding a second action card. *(This doesn't limit other ways to seize.)*
      
     Instead, you may seize the initiative when you play a card if you choose to Provoke Outrage with a non-Outraged resource. *(Discard resources and Guild cards of the Outrage type. Place an agent on the matching Outrage slot.)*
      
-    *Remember, you can’t seize the initiative if you have it or it has been seized!*
+    *Remember, you can't seize the initiative if you have it or it has been seized!*
   image: F603
   name: Partisan Seizing
   tags:
@@ -3234,7 +3234,7 @@
      
     2. As a reminder, tuck your copy of Partisan Seizing (04) under the map near the card play area, so only its title shows.
      
-    3. Gain People’s Hero (17).
+    3. Gain People's Hero (17).
      
     *Flip this card over.*
   image: F615A
@@ -3253,7 +3253,7 @@
      
     ***Burnish Your Image***
      
-    When you return Outrage using People’s Hero, **advance `symbol:clock`1** for each Guild card you have.
+    When you return Outrage using People's Hero, **advance `symbol:clock`1** for each Guild card you have.
   image: F615B
   name: Partisan Act II Objective
   tags:
@@ -3268,7 +3268,7 @@
      
     Instead, you may seize the initiative when playing a card if you choose to Provoke Outrage with a non-Outraged resource. *(Discard resources and Guild cards of the Outrage type. Place an agent on the matching Outrage slot.)*
      
-    *Remember, you can’t seize the initiative if you have it or it has been seized!*
+    *Remember, you can't seize the initiative if you have it or it has been seized!*
   image: F616
   name: Partisan Seizing
   tags:
@@ -3324,7 +3324,7 @@
     act: 3
 - id: ARCS/F620
   text: >-
-    **Crisis:** Destroy all damaged pieces at planets matching any players’ Outrage. Shuffle this into the Court deck.
+    **Crisis:** Destroy all damaged pieces at planets matching any players' Outrage. Shuffle this into the Court deck.
      
     **When Secured:** Resolve the Crisis but do not destroy Loyal pieces.
   image: F620
@@ -3337,7 +3337,7 @@
     act: 3
 - id: ARCS/F621
   text: >-
-    **Crisis:** Destroy all damaged pieces at planets matching any players’ Outrage. Shuffle this into the Court deck.
+    **Crisis:** Destroy all damaged pieces at planets matching any players' Outrage. Shuffle this into the Court deck.
      
     **When Secured:** Resolve the Crisis but do not destroy Loyal pieces.
   image: F621
@@ -3402,7 +3402,7 @@
     act: 3
 - id: ARCS/F625
   text: >-
-    At the end of a round, when you get the initiative marker from Surpassing, you may place a Loyal agent on a Rival’s empty Outrage slot. *(This does not Provoke Outrage.)*
+    At the end of a round, when you get the initiative marker from Surpassing, you may place a Loyal agent on a Rival's empty Outrage slot. *(This does not Provoke Outrage.)*
   image: F625
   name: Sower of Division
   tags:
@@ -3432,13 +3432,13 @@
   text: >-
     ***Prove Yourself as a New Admiral***
      
-    While you’re a Regent and winning an ambition, **advance `symbol:clock`1** for each Imperial ship that anyone places on the map.
+    While you're a Regent and winning an ambition, **advance `symbol:clock`1** for each Imperial ship that anyone places on the map.
      
     *Imperial ships are placed with the Use Imperial Foundries and Govern the Imperial Reach (Policy of Escalation) edicts.*
      
-    ***Demonstrate the Navy’s Might***
+    ***Demonstrate the Navy's Might***
      
-    While you’re a Regent, **advance `symbol:clock`1** for each Trophy you take in battle with attacking Imperial ships.
+    While you're a Regent, **advance `symbol:clock`1** for each Trophy you take in battle with attacking Imperial ships.
      
     *To advance, you can battle Blight, Free cities, and Outlaws.*
      
@@ -3455,7 +3455,7 @@
   text: >-
     ***Bury this if you are an Outlaw.***
      
-    You ignore the Empire’s Presence and Movement Laws. *(Basically, on your turn, you can take actions with **any** Imperial ships and you control **all** Empire-controlled systems! You don’t need Loyal pieces in either case.)*
+    You ignore the Empire's Presence and Movement Laws. *(Basically, on your turn, you can take actions with **any** Imperial ships and you control **all** Empire-controlled systems! You don't need Loyal pieces in either case.)*
   image: F702
   name: Imperial Officers
   tags:
@@ -3472,7 +3472,7 @@
      
     For each Loyal starport, you may replace 1 Loyal ship in its system with 1 Imperial ship.
      
-    *If you’re the Admiral, remember to advance your objective if you’re winning an ambition!*
+    *If you're the Admiral, remember to advance your objective if you're winning an ambition!*
   image: F703
   name: Use Imperial Foundries
   tags:
@@ -3521,9 +3521,9 @@
     act: 2
 - id: ARCS/F706
   text: >-
-    ***Bury this if you’re an Outlaw.***
+    ***Bury this if you're an Outlaw.***
      
-    You ignore the Empire’s Presence, Movement, and Truce Laws.
+    You ignore the Empire's Presence, Movement, and Truce Laws.
      
     **Prelude:** You may discard this to place 3 Imperial ships in a system you control.
   image: F706
@@ -3538,9 +3538,9 @@
     act: 2
 - id: ARCS/F707
   text: >-
-    ***Bury this if you’re an Outlaw.***
+    ***Bury this if you're an Outlaw.***
      
-    You ignore the Empire’s Presence, Movement, and Truce Laws.
+    You ignore the Empire's Presence, Movement, and Truce Laws.
      
     **Prelude:** You may discard this to place 3 Imperial ships in a system you control.
   image: F707
@@ -3624,21 +3624,21 @@
     act: 2
 - id: ARCS/F712B
   text: >-
-    ***Expand the Navy’s Holdings***
+    ***Expand the Navy's Holdings***
      
-    At the end of a chapter, if you’re a Regent, **advance `symbol:clock`1** for each planet controlled by the Empire.
+    At the end of a chapter, if you're a Regent, **advance `symbol:clock`1** for each planet controlled by the Empire.
      
-    ***Crush the Empire’s Foes***
+    ***Crush the Empire's Foes***
      
-    While you’re a Regent, **advance `symbol:clock`2** for each Outlaw piece you take as a Trophy in battle.
+    While you're a Regent, **advance `symbol:clock`2** for each Outlaw piece you take as a Trophy in battle.
      
-    *Unlike in Act I, you don’t advance from Blight anymore!*
+    *Unlike in Act I, you don't advance from Blight anymore!*
      
     ***Dominate Rival Regents***
      
-    While you’re a Regent, **advance `symbol:clock`2** for each Regent agent you capture.
+    While you're a Regent, **advance `symbol:clock`2** for each Regent agent you capture.
      
-    *This doesn’t count pieces transferred during Summits.*
+    *This doesn't count pieces transferred during Summits.*
   image: F712B
   name: Admiral Act II Objective
   tags:
@@ -3752,12 +3752,12 @@
   text: >-
     ***Keep the Monopoly on Force***
      
-    You’re a Regent and...
+    You're a Regent and...
      
     You control at least 9 planets.
      
     You have more Loyal ships on the map than each Rival.
-    *You control planets that are controlled by the Empire if you’re the First Regent.*
+    *You control planets that are controlled by the Empire if you're the First Regent.*
   image: F719B
   name: Admiral Act III Objective
   tags:
@@ -3770,9 +3770,9 @@
   text: >-
     **Regents except the Admiral follow these rules if they do not have Imperial Officers or Rogue Admirals:**
      
-    You cannot Command the Imperial Fleet. *(On your turn, you don’t control Empire-controlled systems and can’t take actions with Imperial ships.)*
+    You cannot Command the Imperial Fleet. *(On your turn, you don't control Empire-controlled systems and can't take actions with Imperial ships.)*
      
-    If you’re the First Regent, you don’t control Empire-controlled systems for ambitions, objectives, and events.
+    If you're the First Regent, you don't control Empire-controlled systems for ambitions, objectives, and events.
      
     When taking a Catapult **move,** Empire control of gates ends your move.
   image: F720
@@ -3787,9 +3787,9 @@
   text: >-
     **Regents except the Admiral follow these rules if they do not have Imperial Officers or Rogue Admirals:**
      
-    You cannot Command the Imperial Fleet. *(On your turn, you don’t control Empire-controlled systems and can’t take actions with Imperial ships.)*
+    You cannot Command the Imperial Fleet. *(On your turn, you don't control Empire-controlled systems and can't take actions with Imperial ships.)*
      
-    If you’re the First Regent, you don’t control Empire-controlled systems for ambitions, objectives, and events.
+    If you're the First Regent, you don't control Empire-controlled systems for ambitions, objectives, and events.
      
     When taking a Catapult **move,** Empire control of gates ends your move.
   image: F721
@@ -3804,7 +3804,7 @@
   text: >-
     1. Gain Faithful Disciples (02) and Spreading the Faith (03).
      
-    2. Stack the 9 Faithful action cards (04–12) in number order so the “1” card is on the bottom and the “9” card is on the top. *(These cards don’t list their card numbers.)*
+    2. Stack the 9 Faithful action cards (04–12) in number order so the “1” card is on the bottom and the “9” card is on the top. *(These cards don't list their card numbers.)*
      
     3. Add Faithful Cards (13) and Pluralistic Faith (14) to the rules booklet. ***Explain them to everyone.***
      
@@ -3836,7 +3836,7 @@
     act: 1
 - id: ARCS/F802
   text: >-
-    If you play a Faithful action card and **declare an ambition** you’re winning, gain one more action pip.
+    If you play a Faithful action card and **declare an ambition** you're winning, gain one more action pip.
   image: F802
   name: Faithful Disciples
   tags:
@@ -3851,7 +3851,7 @@
   text: >-
     **Teach (Influence):** Scrap the bottom non-Event action card from the discard pile. *(Continue past Events.)* If you do, attach the top Faithful action card from its stack to a Guild card in the Court whose suit matches a planet with a Loyal city.
      
-    *Once you’re familiar with this, you can tuck this card partially under your Faithful action card stack to save space.*
+    *Once you're familiar with this, you can tuck this card partially under your Faithful action card stack to save space.*
   image: F803
   name: Spreading the Faith
   tags:
@@ -3925,7 +3925,7 @@
     act: 1
 - id: ARCS/F816
   text: >-
-    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. *(Even one that’s face down!)* When the round ends, draw it into your hand and take this card.
+    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. *(Even one that's face down!)* When the round ends, draw it into your hand and take this card.
   image: F816
   name: The Young Light
   tags:
@@ -3951,7 +3951,7 @@
     act: 2
 - id: ARCS/F818
   text: >-
-    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. (Even one that’s face down!) When the round ends, draw it into your hand and take this card.
+    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. (Even one that's face down!) When the round ends, draw it into your hand and take this card.
   image: F818
   name: The Prodigal One
   tags:
@@ -4070,7 +4070,7 @@
      
     If the ambition box ***has no Ideal*** marker, place an Ideal marker showing the Doctrine in the box.
      
-    If the ambition box ***does have an Ideal marker***, you cannot declare this ambition if its Ideal doesn’t match the Doctrine.
+    If the ambition box ***does have an Ideal marker***, you cannot declare this ambition if its Ideal doesn't match the Doctrine.
      
     *These rules do not change non-Faithful cards. The Ideals will remain in Act III.*
   image: F823
@@ -4110,7 +4110,7 @@
     act: 2
 - id: ARCS/F825
   text: >-
-    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. *(Even one that’s face down!)* When the round ends, draw it into your hand and take this card.
+    **Prelude:** You may discard 1 non-Event action card to place this card next to a played Faithful card. *(Even one that's face down!)* When the round ends, draw it into your hand and take this card.
   image: F825
   name: The Prophet
   tags:
@@ -4157,7 +4157,7 @@
      
     **There is one new limit:** If you play a Faithful action card, you cannot **declare** ambitions that have no Ideal this turn.
      
-    *These rules don’t limit declaring ambitions with non-Faithful cards.*
+    *These rules don't limit declaring ambitions with non-Faithful cards.*
   image: F828
   name: Repressed Faith
   tags:
@@ -4210,7 +4210,7 @@
      
     *If the ambition box **has no Ideal** marker, place an Ideal marker showing the Doctrine in the box.*
      
-    *If the ambition box **does have an Ideal marker,** you cannot declare this ambition if its Ideal doesn’t match the Doctrine.*
+    *If the ambition box **does have an Ideal marker,** you cannot declare this ambition if its Ideal doesn't match the Doctrine.*
      
     **There is one new limit:** When you play a non-Faithful card, you cannot declare an ambition with an Ideal this turn.
   image: F830
@@ -4297,7 +4297,7 @@
      
     If their Flagship is at the ***correct planet***, instead place the Portal token. Scrap all Clues, this card, and the Uncovering Clues card.
      
-    You can’t discuss or hint at the Portal’s system. You can only place these tokens as described.
+    You can't discuss or hint at the Portal's system. You can only place these tokens as described.
   image: F903
   name: Clues to the Portal
   tags:
@@ -4497,11 +4497,11 @@
     act: 2
 - id: ARCS/F1002
   text: >-
-    ***Scrap this if you don’t have a Flagship.***
+    ***Scrap this if you don't have a Flagship.***
      
     Banner tokens are your Loyal pieces.
      
-    **Prelude:** You may place a Banner at your Flagship’s planet if it has no Banners and no ships or buildings that are not Loyal. *(You can do this multiple times.)*
+    **Prelude:** You may place a Banner at your Flagship's planet if it has no Banners and no ships or buildings that are not Loyal. *(You can do this multiple times.)*
   image: F1002
   name: Planting Banners
   tags:
@@ -4512,11 +4512,11 @@
     act: 2
 - id: ARCS/F1003
   text: >-
-    *The Hegemon can place a Banner at their Flagship’s planet if it has no non-Loyal ships or buildings.*
+    *The Hegemon can place a Banner at their Flagship's planet if it has no non-Loyal ships or buildings.*
      
-    *Building.* Banners can be **harmed** and **repaired** like buildings. *(They can’t be raided. Blight destroys them in the Intermission if no ships are in their system.)*
+    *Building.* Banners can be **harmed** and **repaired** like buildings. *(They can't be raided. Blight destroys them in the Intermission if no ships are in their system.)*
      
-    *Valuable.* When **scoring** Warlord, gain 2 extra Power for each Banner you have in your Trophies. *(Gain this Power even if you didn’t gain Power from placing in Warlord.)*
+    *Valuable.* When **scoring** Warlord, gain 2 extra Power for each Banner you have in your Trophies. *(Gain this Power even if you didn't gain Power from placing in Warlord.)*
   image: F1003
   name: Banners of Hegemony
   tags:
@@ -4752,7 +4752,7 @@
      
     1. Untuck the Planet Hammer card from here and take it. ***Hammer Fragment tokens are now known as Hammer tokens.***
      
-    2. Warn everyone that you can use the Planet Hammer to break planets, which makes ***everyone*** Provoke Outrage of the broken planet’s type.
+    2. Warn everyone that you can use the Planet Hammer to break planets, which makes ***everyone*** Provoke Outrage of the broken planet's type.
      
     3. Flip this card to its Breaking Worlds side. Keep the 5 Refugee cards tucked under it.
   image: F1103A
@@ -4888,9 +4888,9 @@
      
     1. Add Planet-Eater Loose (11) to the Court deck.
      
-    2. Resolve the text under ”If you have all 6 Hammer Fragments” on the Hammer Fragments card (03) if you haven’t already.
+    2. Resolve the text under ”If you have all 6 Hammer Fragments” on the Hammer Fragments card (03) if you haven't already.
      
-    3. Place the Breaking Worlds card (03) and 6 Hammer tokens in the supply. *(They’re used by Planet-Eater Loose in Act III.)*
+    3. Place the Breaking Worlds card (03) and 6 Hammer tokens in the supply. *(They're used by Planet-Eater Loose in Act III.)*
      
     4. Scrap your Planet Hammer (04).
   image: F1110
@@ -4977,7 +4977,7 @@
      
     At the end of a chapter, **advance `symbol:2`** for each type of resource that your Pirate Hoard has more of than each Rival.
      
-    *Don’t count Guild cards.*
+    *Don't count Guild cards.*
      
     *With 2 players, count resources on ambition boxes as a Rival.*
   image: F1201B
@@ -4990,7 +4990,7 @@
     act: 2
 - id: ARCS/F1202
   text: >-
-    ***Outrage doesn’t discard resources here.***
+    ***Outrage doesn't discard resources here.***
      
     You may place resources you steal here. Their raid cost is `symbol:key` `symbol:key` each. *(You can spend them and add them to ambitions. Remember, you can raid Free buildings!)*
   image: F1202
@@ -5101,11 +5101,11 @@
      
     Your Pirate Hoard card has at least 2 resources and...
      
-    You choose to declare truthfully that no Rival pieces are in the Pirate Haven’s system.
+    You choose to declare truthfully that no Rival pieces are in the Pirate Haven's system.
      
-    You choose to declare truthfully that a Loyal piece is in the Pirate Haven’s system.
+    You choose to declare truthfully that a Loyal piece is in the Pirate Haven's system.
      
-    ***At the end of Act III,*** the Pirate’s Rivals in turn order may each choose 1 planet that they control. Reveal the True Rumor tokens to show the Pirate Haven’s planet. If any player chose the Pirate Haven’s planet, they gain 10 Power and you lose 10 Power. If no one did, you gain 10 Power.
+    ***At the end of Act III,*** the Pirate's Rivals in turn order may each choose 1 planet that they control. Reveal the True Rumor tokens to show the Pirate Haven's planet. If any player chose the Pirate Haven's planet, they gain 10 Power and you lose 10 Power. If no one did, you gain 10 Power.
   image: F1208B
   name: Pirate Act III Objective
   tags:
@@ -5144,9 +5144,9 @@
   text: >-
     There are 4 Rumors on the map, 2 True and 2 False. The True Rumors saying "Cluster Correct" and "Symbol Correct" indicate the cluster and planet ID of the Haven planet.
      
-    At the end of the Act, you gain 10 Power and make the Pirate lose 10 Power if you control the Haven’s planet and guess it. *(See the Pirate’s objective card.)*
+    At the end of the Act, you gain 10 Power and make the Pirate lose 10 Power if you control the Haven's planet and guess it. *(See the Pirate's objective card.)*
      
-    The Pirate may peek at Rumors. The Pirate’s Rivals may peek at Rumors with their Loyal agents.
+    The Pirate may peek at Rumors. The Pirate's Rivals may peek at Rumors with their Loyal agents.
      
     In **battle**, if a player steals anything from the Pirate, they may also place 1 agent on a Rumor without a Loyal agent.
   image: F1211
@@ -5244,7 +5244,7 @@
     act: 2
 - id: ARCS/F1304
   text: >-
-    You can **move** and **repair** Blight you control. *(They can’t Catapult. They’re not Loyal.)*
+    You can **move** and **repair** Blight you control. *(They can't Catapult. They're not Loyal.)*
      
     **Anger (Battle):** Roll the number die. For each Psionic you spend, change the roll by 1—“6” wraps to “1” and vice versa. A Blight Crisis happens in each system of the rolled cluster.
   image: F1304
@@ -5576,7 +5576,7 @@
     act: 3
 - id: ARCS/F1411
   text: >-
-    **In Summits, you can take a new Negotiation action, Forgive:** Take a Rival’s Outrage as a Favor.
+    **In Summits, you can take a new Negotiation action, Forgive:** Take a Rival's Outrage as a Favor.
      
     In the Call to Order, the player who called the Summit may Forgive a Rival without their consent by giving a Psionic to that Rival.
      
@@ -5595,7 +5595,7 @@
   text: >-
     If Empath is declared, each player discards all resources matching their Outrage types, and each player with no Psionic Outrage gains 1 Psionic.
      
-    *Don’t discard Guild cards or frozen resources, such as Material and Fuel held in Captives for the Guardian, or resources on Merchant League for the Magnate.*
+    *Don't discard Guild cards or frozen resources, such as Material and Fuel held in Captives for the Guardian, or resources on Merchant League for the Magnate.*
   image: F1412
   name: Rebuke of the Empaths
   tags:
@@ -5635,7 +5635,7 @@
      
     At the end of a chapter, **advance `symbol:clock`1** for each Weapons planet you control.
      
-    *For objectives, you control Empire-controlled planets if you’re the First Regent.*
+    *For objectives, you control Empire-controlled planets if you're the First Regent.*
   image: F1501B
   name: Peacekeeper Act II Objective
   tags:
@@ -5646,7 +5646,7 @@
     act: 2
 - id: ARCS/F1502
   text: >-
-    **Scrap this if you’re not the Peacekeeper.**
+    **Scrap this if you're not the Peacekeeper.**
      
     Return all Trophies you gain except Blight.
      
@@ -5661,7 +5661,7 @@
     act: 2
 - id: ARCS/F1503
   text: >-
-    When you take a Weapon, you may place it here instead. *(Even if you’re taking for the Imperial Trust!)*
+    When you take a Weapon, you may place it here instead. *(Even if you're taking for the Imperial Trust!)*
      
     Weapons on this card are frozen. Their raid cost is `symbol:key` `symbol:key` each.
   image: F1503
@@ -5725,7 +5725,7 @@
     act: 3
 - id: ARCS/F1507A
   text: >-
-    1. Place 1 Ceasefire token near each cluster—we recommend in its gate. Place it on its Peace side *(shown right)* if you control any systems in that cluster, or on its War side if not. *(If you’re the First Regent, you control Empire-controlled systems.)*
+    1. Place 1 Ceasefire token near each cluster—we recommend in its gate. Place it on its Peace side *(shown right)* if you control any systems in that cluster, or on its War side if not. *(If you're the First Regent, you control Empire-controlled systems.)*
     2. With 2 players, return all Weapons from the Warlord ambition box.
     3. Add Ceasefires (08), Empire Balks at Peace (09), Peace Dividends (10), and Peace Accords (11) to the rules booklet. **Explain them to everyone.**
   image: F1507A
@@ -5746,7 +5746,7 @@
      
     *You can flip clusters to Peace using your Peace Accords card.*
      
-    *If you’re an Outlaw, the First Regent can easily flip clusters to War by using the Empire Balks at Peace edict.*
+    *If you're an Outlaw, the First Regent can easily flip clusters to War by using the Empire Balks at Peace edict.*
      
     *The Peace Dividends edict can encourage players to keep clusters at Peace.*
   image: F1507B
@@ -5763,7 +5763,7 @@
      
     To **harm** anything in a cluster at Peace except Loyal pieces and Blight, you must spend 1 Weapon. If you do, flip the Ceasefire token in the cluster to War.
      
-    *Harm means battle, hit, damage, or destroy. It doesn’t count Crises.*
+    *Harm means battle, hit, damage, or destroy. It doesn't count Crises.*
      
     **Ceasefires cannot be removed. They track the states of clusters and are only placed in gates for convenience.**
   image: F1508
@@ -5802,7 +5802,7 @@
   text: >-
     **In Summits, you can take a new Negotiation action, Broker Peace:** Flip a Ceasefire token from War to Peace, with the consent of players who control at least 2 systems in total in that cluster, including yourself. You may get the consent of Rivals by returning 1 Favor of theirs.
      
-    *You can return Favors to gain consent from Rivals who control systems even if you didn’t call the Summit.*
+    *You can return Favors to gain consent from Rivals who control systems even if you didn't call the Summit.*
      
     *During Summits, the First Regent controls Empire-controlled systems.*
   image: F1511
@@ -5988,9 +5988,9 @@
   text: >-
     *Players can add Seat tokens to cities using the Claims of Nobility card.*
      
-    While a city has a Seat token, its player is the **Lord** of its cluster, which is the Lord’s **Fief**. They take the Lord title card (03–08) for that cluster.
+    While a city has a Seat token, its player is the **Lord** of its cluster, which is the Lord's **Fief**. They take the Lord title card (03–08) for that cluster.
      
-    Rivals of the Lord that have a Loyal city or Flagship in the Lord’s Fief are the Lord’s **Vassals** in that Fief alone.
+    Rivals of the Lord that have a Loyal city or Flagship in the Lord's Fief are the Lord's **Vassals** in that Fief alone.
      
     If a city with a Seat is destroyed, return its Seat and matching Lord title card.
      
@@ -6007,11 +6007,11 @@
   text: >-
     A Lord may **tax** any cities in their Fief, ignoring control. *(They still take Captives from Rival Vassals’ cities!)*
      
-    If a Lord **harms** their Vassal in their Fief, or a Vassal harms their Lord in their Fief, they Provoke Outrage with ***all the Fief’s cities.** (In battle, resolve this before raiding.)*
+    If a Lord **harms** their Vassal in their Fief, or a Vassal harms their Lord in their Fief, they Provoke Outrage with ***all the Fief's cities.** (In battle, resolve this before raiding.)*
      
-    Vassals do not **Provoke Outrage** if they destroy a Rival Vassal’s city in the Fief.
+    Vassals do not **Provoke Outrage** if they destroy a Rival Vassal's city in the Fief.
      
-    *Feudal Law only triggers from actions that the Lord and their Vassals take within the Fief where they share that relationship, not other Fiefs! In Act III, using the Warden’s Levy card does not count as harming your Vassal.*
+    *Feudal Law only triggers from actions that the Lord and their Vassals take within the Fief where they share that relationship, not other Fiefs! In Act III, using the Warden's Levy card does not count as harming your Vassal.*
   image: F1610
   name: Feudal Law
   tags:
@@ -6024,7 +6024,7 @@
   text: >-
     **If you completed your objective:**
      
-    1. Gain Warden’s Levy (12).
+    1. Gain Warden's Levy (12).
      
     2. Add the 2 Feast Days (13–14) to the Court deck.
      
@@ -6036,7 +6036,7 @@
      
     2. Scrap all Lord title cards (03–08) matching the scrapped Seat tokens.
      
-    3. Scrap Warden’s Levy (12) and the 2 Feast Days (13–14).
+    3. Scrap Warden's Levy (12) and the 2 Feast Days (13–14).
      
     4. Add Skirmishers (15) and Sworn Guardians (16) to the Court deck.
   image: F1611
@@ -6049,7 +6049,7 @@
     act: 2
 - id: ARCS/F1612
   text: >-
-    **Levy (Tax):** Place 1 ship here from a Vassal’s supply. This card can hold a max of 1 ship of a Vassal for each Fief where you are their Lord.
+    **Levy (Tax):** Place 1 ship here from a Vassal's supply. This card can hold a max of 1 ship of a Vassal for each Fief where you are their Lord.
      
     When attacking in **battle**, ships on this card must take hits first. Return ships here that are destroyed—they are not taken as Trophies.
   image: F1612
@@ -6168,7 +6168,7 @@
     act: 3
 - id: ARCS/F1619
   text: >-
-    **Resolve this for each Fief, starting with Cluster 1 and going clockwise:** The Fief’s Lord gains 3 Power. Then, if the Fief’s Court token is on a card in the Court, the Fief’s Lord may influence or secure that card.
+    **Resolve this for each Fief, starting with Cluster 1 and going clockwise:** The Fief's Lord gains 3 Power. Then, if the Fief's Court token is on a card in the Court, the Fief's Lord may influence or secure that card.
   image: F1619
   name: Lords Gain Power
   tags:
@@ -6206,7 +6206,7 @@
      
     At the end of a chapter, **advance `symbol:clock`2** for each planet type you control that matches your Outrage.
      
-    *If you’re First Regent, you control all Empire-controlled systems for objectives.*
+    *If you're First Regent, you control all Empire-controlled systems for objectives.*
      
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F1701B
@@ -6310,9 +6310,9 @@
      
     You can **build** Bunkers on planets, max 1 per planet. To build a Bunker, you must also scrap 1 agent from your supply.
      
-    When you build a Bunker, capture 1 agent from any Rival’s supply. When a Rival destroys a Bunker, they scrap 1 Captive that you have.
+    When you build a Bunker, capture 1 agent from any Rival's supply. When a Rival destroys a Bunker, they scrap 1 Captive that you have.
      
-    *Building.* Bunkers can be harmed like buildings. *(They don’t fill building slots and can’t be raided.)*
+    *Building.* Bunkers can be harmed like buildings. *(They don't fill building slots and can't be raided.)*
      
     *Tough*. Bunkers take 2 hits each to damage and to destroy.
   image: F1803
@@ -6329,7 +6329,7 @@
      
     When a Rival destroys a Bunker, they scrap 1 Captive held by the Survivalist.
      
-    *Building.* Bunkers can be harmed like buildings. *(They don’t fill building slots and can’t be raided.)*
+    *Building.* Bunkers can be harmed like buildings. *(They don't fill building slots and can't be raided.)*
      
     *Tough*. Bunkers take 2 hits each to damage and to destroy.
   image: F1804
@@ -6346,7 +6346,7 @@
      
     If the Survivalist has any Captives that are Loyal to you, you may choose a Bunker that you control.
      
-    The Survivalist must either return all of those Captives or Provoke Outrage of that Bunker’s planet type.
+    The Survivalist must either return all of those Captives or Provoke Outrage of that Bunker's planet type.
   image: F1805
   name: Captive Release
   tags:
@@ -6412,9 +6412,9 @@
     act: 3
 - id: ARCS/F1903
   text: >-
-    If Keeper is declared and the Redeemer ***is not*** winning it, the Redeemer loses Power equal to Keeper’s first place.
+    If Keeper is declared and the Redeemer ***is not*** winning it, the Redeemer loses Power equal to Keeper's first place.
      
-    If Keeper ***is not*** declared, the player with the most Relics may declare Keeper. *(The Redeemer can’t declare it. On a tie, skip this.)*
+    If Keeper ***is not*** declared, the player with the most Relics may declare Keeper. *(The Redeemer can't declare it. On a tie, skip this.)*
   image: F1903
   name: Rebuke of the Keepers
   tags:
@@ -6463,11 +6463,11 @@
   text: >-
     ***Give Back to the Land***
      
-    At the end of a chapter, if you win Tyrant or it’s not declared, **advance `symbol:clock`1** for each Material or Fuel in your Captives.
+    At the end of a chapter, if you win Tyrant or it's not declared, **advance `symbol:clock`1** for each Material or Fuel in your Captives.
      
-    ***Guard the Reach’s Splendor***
+    ***Guard the Reach's Splendor***
      
-    At the end of a chapter, if you win Edenguard or it’s not declared, **advance `symbol:clock`1** for each Material and Fuel planet you control.
+    At the end of a chapter, if you win Edenguard or it's not declared, **advance `symbol:clock`1** for each Material and Fuel planet you control.
      
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F2001B
@@ -6480,7 +6480,7 @@
     act: 3
 - id: ARCS/F2002
   text: >-
-    When you take Material or Fuel, you may place it in your Captives. *(Even if you’re taking for the Imperial Trust!)*
+    When you take Material or Fuel, you may place it in your Captives. *(Even if you're taking for the Imperial Trust!)*
      
     Material and Fuel in your Captives are frozen. *(They add to both Tyrant and Tycoon, and they return to the supply if Tyrant is scored.)*
   image: F2002
@@ -6557,7 +6557,7 @@
     act: 3
 - id: ARCS/F2102
   text: >-
-    You can **repair** and **move** Blight you control. *(They can’t Catapult. They’re not Loyal.)*
+    You can **repair** and **move** Blight you control. *(They can't Catapult. They're not Loyal.)*
      
     Once per action, if you **damage** or **destroy** Blight, scrap 1 Loyal agent from your supply.
      
@@ -6661,7 +6661,7 @@
      
     1. Place a Passage token on the gate you moved into.
      
-    2. Destroy the buildings you used to Catapult—the starport on the map, or your Flagship’s Slipstream Drive Upgrade and Armor. Do not take them as Trophies.
+    2. Destroy the buildings you used to Catapult—the starport on the map, or your Flagship's Slipstream Drive Upgrade and Armor. Do not take them as Trophies.
      
     3. Place all ships and tokens from the gate onto the Twisted Passage, the central map area. Destroy all buildings on the gate, but do not take them as Trophies.
   image: F2203
@@ -6678,7 +6678,7 @@
      
     After **scoring**, take all ships that were destroyed this chapter—including those in Trophies and on this card—and place them fresh on the Twisted Passage.
      
-    *Do this after all scoring, including grand ambitions, even if Warlord wasn’t scored.*
+    *Do this after all scoring, including grand ambitions, even if Warlord wasn't scored.*
   image: F2204
   name: The Dead Live
   tags:
@@ -6716,7 +6716,7 @@
      
     **Crisis:** Hit each piece in the Twisted Passage. Place this under the top card of the Court deck.
      
-    **When Secured:** Move any number of times from the Twisted Passage to any planets. *(Don’t remove this card!)*
+    **When Secured:** Move any number of times from the Twisted Passage to any planets. *(Don't remove this card!)*
   image: F2206
   name: Passage Storms
   tags:
@@ -6731,7 +6731,7 @@
      
     2. Gain Farseers (02).
      
-    3. Collect the 8 Conspiracy tokens—2 per player color. (Even if you don’t have all 4 players!)
+    3. Collect the 8 Conspiracy tokens—2 per player color. (Even if you don't have all 4 players!)
      
     4. Gain the Conspiracies card (03). ***Explain it to everyone.***
      
@@ -6767,7 +6767,7 @@
     act: 3
 - id: ARCS/F2302
   text: >-
-    When you **declare an ambition**, look at a Rival’s hand. You may swap 1 card with them.
+    When you **declare an ambition**, look at a Rival's hand. You may swap 1 card with them.
      
     **Prelude:** You may discard this and any number of cards from your hand. Draw the same number of cards *(including Farseers)* from the bottom of the action discard pile.
   image: F2302
@@ -6835,7 +6835,7 @@
   text: >-
     1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
      
-    2. Gain Vow of Fairness (02), The Arbiter (03), and Judge’s Chosen (04).
+    2. Gain Vow of Fairness (02), The Arbiter (03), and Judge's Chosen (04).
      
     3. Add Judge Sets Agenda (05) to the rules booklet.
      
@@ -6854,7 +6854,7 @@
      
     At the end of a chapter, **advance `symbol:clock`1** for each ambition where any players are tied for first place.
      
-    *If you’re playing with 2 players, the resources on ambitions can cause a player to tie.*
+    *If you're playing with 2 players, the resources on ambitions can cause a player to tie.*
      
     *If a Commonwealth ambition is declared, it only advances the Judge if individual players tie for first place. Do not combine ambition values for this.*
      
@@ -6895,13 +6895,13 @@
     act: 3
 - id: ARCS/F2404
   text: >-
-    **If you’re a Rival of the Judge, follow these rules:**
+    **If you're a Rival of the Judge, follow these rules:**
      
-    You may take actions with the Judge’s Loyal ships. *(Their ships don’t add to your control.)*
+    You may take actions with the Judge's Loyal ships. *(Their ships don't add to your control.)*
      
-    When attacking anyone except the Judge in **battle**, you may add the Judge’s Loyal ships in the battle system to your attacking ships.
+    When attacking anyone except the Judge in **battle**, you may add the Judge's Loyal ships in the battle system to your attacking ships.
      
-    When attacking the Judge in **battle**, Judge’s Loyal ships add to their defending pieces, not your attacking ships.
+    When attacking the Judge in **battle**, Judge's Loyal ships add to their defending pieces, not your attacking ships.
   image: F2404
   name: Judge's Chosen
   tags:
@@ -6912,7 +6912,7 @@
     act: 3
 - id: ARCS/F2405
   text: >-
-    The Judge may declare ***any*** ambition, placing ***any*** unplaced ambition marker. *(It doesn’t need to have the most Power.)* If they do, they lose Power for second place on the declared ambition marker.
+    The Judge may declare ***any*** ambition, placing ***any*** unplaced ambition marker. *(It doesn't need to have the most Power.)* If they do, they lose Power for second place on the declared ambition marker.
      
     Then, return the Judge's Chosen card to the Judge. The Judge must give it to any Rival.
   image: F2405
