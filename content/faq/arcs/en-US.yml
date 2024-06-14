@@ -36,7 +36,7 @@
   card: Elder Brokers
 - faq:
     - q: >-
-        What happens if you use Farseer’s prelude ability and discard e.g.  2 cards + Farseers
+        What happens if you use Farseer's prelude ability and discard e.g.  2 cards + Farseers
       a: >-
         Draw 3 cards from the bottom of the action card discard pile.
   card: Farseers
@@ -44,7 +44,7 @@
     - q: >-
         How does the Card Supply interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and $link:Keeper’s Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
@@ -60,7 +60,7 @@
     - q: >-
         How does the Card Supply interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and $link:Keeper’s Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
@@ -166,7 +166,7 @@
     - q: >-
         Does Callow restrict taxing rival cities with $link:Empath's Bond$?
       a: >-
-        This does not restrict taxing rival cities. Even if you tax them “like they are Loyal” with $link:Empath’s Bond$. And even with $link:Empath’s Bond$, you still can only tax Loyal cities if you control them.
+        This does not restrict taxing rival cities. Even if you tax them “like they are Loyal” with $link:Empath's Bond$. And even with $link:Empath's Bond$, you still can only tax Loyal cities if you control them.
   card: Upstart
 - faq:
     - q: >-
