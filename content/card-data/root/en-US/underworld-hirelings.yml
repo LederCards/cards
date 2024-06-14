@@ -32,3 +32,15 @@
   name: Mole Artisans
   tags:
     - Hirelings
+- id: ROOT/190
+  image: adset-hirelings-protector-big
+  imageClass: rotated
+  name: Furious Protector
+  tags:
+    - Hirelings
+- id: ROOT/191
+  image: adset-hirelings-protector-small
+  imageClass: rotated
+  name: Stoic Protector
+  tags:
+    - Hirelings

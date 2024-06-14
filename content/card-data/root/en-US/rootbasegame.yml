@@ -34,14 +34,14 @@
   image: vagabond-arbiter
   name: Arbiter
   tags:
-    - Base Game
+    - Riverfolk
     - Vagabond
 - id: ROOT/23
   text: 'Hideout: Repair three items. Then, immediately end daylight.'
   image: vagabond-ranger
   name: Ranger
   tags:
-    - Base Game
+    - Riverfolk
     - Vagabond
 - id: ROOT/24
   text: >-
@@ -50,7 +50,7 @@
   image: vagabond-scoundrel
   name: Scoundrel
   tags:
-    - Base Game
+    - Riverfolk
     - Vagabond
 - id: ROOT/25
   text: 'Steal: Take a random card from a player in your clearing'
@@ -468,6 +468,7 @@
   image: card-spybird
   name: Spy
   tags:
+    - Riverfolk
     - Mechanical Marquise 1.0
 - id: ROOT/99
   text: >-
@@ -476,6 +477,7 @@
   image: card-spybunny
   name: Spy
   tags:
+    - Riverfolk
     - Mechanical Marquise 1.0
 - id: ROOT/100
   text: >-
@@ -484,6 +486,7 @@
   image: card-spyfox
   name: Spy
   tags:
+    - Riverfolk
     - Mechanical Marquise 1.0
 - id: ROOT/101
   text: >-
@@ -492,6 +495,7 @@
   image: card-spymouse
   name: Spy
   tags:
+    - Riverfolk
     - Mechanical Marquise 1.0
 - id: ROOT/102
   text: >-

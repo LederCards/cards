@@ -2,31 +2,37 @@
   image: adset-setup-eyrie
   name: 'ADSET: Eyrie Dynasties'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/166
   image: adset-setup-badgers
   name: 'ADSET: Keepers in Iron'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/168
   image: adset-setup-rats
   name: 'ADSET: Lord of the Hundreds'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/169
   image: adset-setup-marquise
   name: 'ADSET: Marquise de Cat'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/172
   image: adset-setup-vagabond
   name: 'ADSET: Vagabond'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/173
   image: adset-setup-woodland
   name: 'ADSET: Woodland Alliance'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/174
   image: adset-hirelings-badgers-big
@@ -52,18 +58,6 @@
   name: Street Band
   tags:
     - Hirelings
-- id: ROOT/178
-  image: adset-hirelings-bandits-big
-  imageClass: rotated
-  name: Highway Bandits
-  tags:
-    - Hirelings
-- id: ROOT/179
-  image: adset-hirelings-bandits-small
-  imageClass: rotated
-  name: Bandit Gangs
-  tags:
-    - Hirelings
 - id: ROOT/186
   image: adset-hirelings-eyrie-big
   imageClass: rotated
@@ -86,18 +80,6 @@
   image: adset-hirelings-marquise-small
   imageClass: rotated
   name: Feline Physicians
-  tags:
-    - Hirelings
-- id: ROOT/190
-  image: adset-hirelings-protector-big
-  imageClass: rotated
-  name: Furious Protector
-  tags:
-    - Hirelings
-- id: ROOT/191
-  image: adset-hirelings-protector-small
-  imageClass: rotated
-  name: Stoic Protector
   tags:
     - Hirelings
 - id: ROOT/192

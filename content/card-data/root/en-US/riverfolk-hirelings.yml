@@ -2,11 +2,13 @@
   image: adset-setup-cult
   name: 'ADSET: Lizard Cult'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/170
   image: adset-setup-riverfolk
   name: 'ADSET: Riverfolk Company'
   tags:
+    - Marauders
     - ADSET
 - id: ROOT/182
   image: adset-hirelings-cult-big

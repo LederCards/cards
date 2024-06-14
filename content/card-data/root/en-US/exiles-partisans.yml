@@ -230,6 +230,8 @@
   text: >-
     In Birdsong, may discard this card to move half of an enemy's warriors
     (rounded up) from any clearing, as if you were that player, ignoring rule.
+    
+    *ERRATA:* In Birdsong, may discard this card to force an enemy to move half their faction warriors (round up) from a clearing you choose to a clearing you choose, ignoring rule.
   image: card-falseorders
   name: False Orders
   tags:
