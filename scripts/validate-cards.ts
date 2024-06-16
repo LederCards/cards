@@ -34,6 +34,14 @@ allCards.forEach((card, index) => {
     process.exit(1);
   }
 
+  if (card.flipSide) {
+    const flipSide = allCards.find((c) => c.id === card.flipSide);
+    if (!flipSide) {
+      console.error(`Card ${card.id} has invalid flipSide ${card.flipSide}`);
+      process.exit(1);
+    }
+  }
+
   const otherProps = omit(card, [
     'id',
     'name',
@@ -45,10 +53,13 @@ allCards.forEach((card, index) => {
     'locale',
     'tags',
     'meta',
+    'flipSide',
   ]);
 
   if (Object.keys(otherProps).length > 0) {
-    console.error(`Card ${card.id} has other props: ${otherProps.join(',')}`);
+    console.error(
+      `Card ${card.id} has other props: ${Object.keys(otherProps).join(',')}`,
+    );
     process.exit(1);
   }
 });

@@ -3,6 +3,7 @@
     **When Secured:** Flip this card over to its Imperial Council Decided side. As a reminder, tuck it partially under your played card so its card title is showing.
   image: AID01A
   name: Imperial Council in Session
+  flipSide: ARCS/AID01B
   tags:
     - Blighted Reach
     - Imperial Council
@@ -23,6 +24,7 @@
     *You may flip this card to In Session if you call a Summit and Petition the Council.*
   image: AID01B
   name: Imperial Council Decided
+  flipSide: ARCS/AID01A
   tags:
     - Blighted Reach
     - Imperial Council
@@ -412,7 +414,7 @@
      
     **II.** Collect lore from the Court and from your Rivals in Summits. 
      
-    **III.** Use your Golems to scrap your lore and the Golems themselves. 
+    **III.** Use your Golems to scrap your lore and the Golems themselves.
   image: FATE05
   name: Caretaker
   tags:
@@ -432,7 +434,7 @@
      
     **II.** Hold initiative and gather Guild support to burnish your image. 
      
-    **III.** Have the most Guild cards and continue to hold the initiative. 
+    **III.** Have the most Guild cards and continue to hold the initiative.
   image: FATE06
   name: Partisan
   tags:
