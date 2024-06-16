@@ -184,10 +184,10 @@
   card: Warrior
 - faq:
     - q: >-
-        Can Ancient Holding hold a $link:Golems$?
+        Can Ancient Holdings hold a $link:Golems$?
       a: >-
-        Yes, Ancient Holding provides a resource slot that holds one Golem.
-  card: Ancient Holding
+        Yes, Ancient Holdings provides a resource slot that holds one Golem.
+  card: Ancient Holdings
 - faq:
     - q: >-
         Can I spend a resource to build a city while outraged in that resource?
