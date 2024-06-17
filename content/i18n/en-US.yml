@@ -209,3 +209,13 @@ Pages:
     FAQ: FAQ
     Rules: Rules
     Errata: Errata
+
+  FAQ:
+    Single: FAQ
+    Plural: FAQ(s)
+    Q: Q
+    A: A
+
+  Errata:
+    Single: Errata
+    Plural: Errata(s)
