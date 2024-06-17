@@ -2997,7 +2997,7 @@
     *Flip this card over.*
   image: F520A
   name: Caretaker Act III Setup
-  flipSide: ARCS/520B
+  flipSide: ARCS/F520B
   tags:
     - Blighted Reach
     - Setup
@@ -3015,7 +3015,7 @@
     *You can take each of these actions once per chapter. You may scrap the Golem after scrapping the lore card.*
   image: F520B
   name: Caretaker Act III Objective
-  flipSide: ARCS/520A
+  flipSide: ARCS/F520A
   tags:
     - Blighted Reach
     - Objective
@@ -4430,7 +4430,7 @@
     *Flip this card over.*
   image: F907A
   name: Pathfinder Act III Setup
-  flipSide: ARCS/F908B
+  flipSide: ARCS/F907B
   tags:
     - Blighted Reach
     - Setup
@@ -4448,7 +4448,7 @@
     *Your Pilgrims and the Portal card says how to move Pilgrims and get them on this card.*
   image: F907B
   name: Pathfinder Act III Objective
-  flipSide: ARCS/F908A
+  flipSide: ARCS/F907A
   tags:
     - Blighted Reach
     - Objective
@@ -5255,7 +5255,7 @@
     **Flip this card over.**
   image: F1301A
   name: Blight Speaker Act II Setup
-  flipSide: ARCS/1301B
+  flipSide: ARCS/F1301B
   tags:
     - Blighted Reach
     - Setup
@@ -5478,7 +5478,7 @@
     *Flip this card over.*
   image: F1401A
   name: Pacifist Act II Setup
-  flipSide: ARCS/1401B
+  flipSide: ARCS/F1401B
   tags:
     - Blighted Reach
     - Setup
