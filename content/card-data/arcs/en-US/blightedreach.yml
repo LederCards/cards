@@ -93,6 +93,7 @@
     *You can become an **Outlaw**, flipping this title over, if you call a Summit.*
   image: AID06A
   name: Imperial Regent
+  flipSide: ARCS/AID06B
   tags:
     - Blighted Reach
     - Title
@@ -107,6 +108,7 @@
     *You can force them to make you a Regent if you called the Summit and return 1 Favor of their to them.*
   image: AID06B
   name: Outlaw
+  flipSide: ARCS/AID06A
   tags:
     - Blighted Reach
     - Title
@@ -127,6 +129,7 @@
     While your Flagship is in a gate, you may **tax** any citires in its cluster like they are Loyal. *(Don't take Captives.)*
   image: AID10A
   name: Flagship Upgrades
+  flipSide: ARCS/AID10B
   tags:
     - Blighted Reach
     - Ability
@@ -147,6 +150,7 @@
     This has no special benefit. It may be hit like any other Upgrade.
   image: AID10B
   name: Flagship Upgrades
+  flipSide: ARCS/AID10A
   tags:
     - Blighted Reach
     - Ability
@@ -766,6 +770,7 @@
     *Flip this card over.*
   image: F101A
   name: Steward Act I Setup
+  flipSide: ARCS/F101B
   tags:
     - Blighted Reach
     - Setup
@@ -781,6 +786,7 @@
     *Count bonus Power from city slots uncovered on your player board. For example, if you gain 5 Power from winning an ambition and gain 5 bonus city Power, advance your objective marker 10 spaces.*
   image: F101B
   name: Imperial Authority
+  flipSide: ARCS/F101A
   tags:
     - Blighted Reach
     - Objective
@@ -938,6 +944,7 @@
     *Flip this card over.*
   image: F112A
   name: Steward Act II Setup
+  flipSide: ARCS/F112B
   tags:
     - Blighted Reach
     - Setup
@@ -957,6 +964,7 @@
     *You advance this way even if you're not First Regent.*
   image: F112B
   name: Steward Act II Objective
+  flipSide: ARCS/F112A
   tags:
     - Blighted Reach
     - Objective
@@ -1107,6 +1115,7 @@
     *Flip this card over.*
   image: F122A
   name: Steward Act III Setup
+  flipSide: ARCS/F122B
   tags:
     - Blighted Reach
     - Setup
@@ -1122,6 +1131,7 @@
     You're the ***First Regent*** and the Imperial Trust has more resources than the current Chapter.
   image: F122B
   name: Steward Act III Objective
+  flipSide: ARCS/F122A
   tags:
     - Blighted Reach
     - Objective
@@ -1199,6 +1209,7 @@
     *Flip this card over.*
   image: F201A
   name: Founder Act I Setup
+  flipSide: ARCS/F201B
   tags:
     - Blighted Reach
     - Setup
@@ -1218,6 +1229,7 @@
     *You can become an Outlaw when you call a Summit or when you declare an ambition, using your Parade Fleets card.*
   image: F201B
   name: Founder Act I Objective
+  flipSide: ARCS/F201A
   tags:
     - Blighted Reach
     - Objective
@@ -1383,6 +1395,7 @@
     *Flip this card over.*
   image: F212A
   name: Founder Act II Setup'
+  flipSide: ARCS/F212B
   tags:
     - Blighted Reach
     - Setup
@@ -1406,6 +1419,7 @@
     *The Empire controls a system with just 1 fresh Imperial ship.*
   image: F212B
   name: Founder Act II Objective
+  flipSide: ARCS/F212A
   tags:
     - Blighted Reach
     - Objective
@@ -1627,6 +1641,7 @@
     *Flip this card over.*
   image: F225A
   name: Founder Act III Setup
+  flipSide: ARCS/F225B
   tags:
     - Blighted Reach
     - Setup
@@ -1644,6 +1659,7 @@
     7 Free cities are neither controlled by the Empire nor a player who is not a Commonwealth Member.
   image: F225B
   name: Founder Act III Objective
+  flipSide: ARCS/F225A
   tags:
     - Blighted Reach
     - Objective
@@ -1687,6 +1703,7 @@
     *Flip this card over.*
   image: F301A
   name: Magnate Act I Setup
+  flipSide: ARCS/F301B
   tags:
     - Blighted Reach
     - Setup
@@ -1710,6 +1727,7 @@
     *You can't discard resources from your Merchant League—they're frozen except for the Transfer Asset action.*
   image: F301B
   name: Magnate Act I Objective
+  flipSide: ARCS/F301A
   tags:
     - Blighted Reach
     - Objective
@@ -1894,6 +1912,7 @@
     *Flip this card over.*
   image: F312A
   name: Magnate Act II Setup
+  flipSide: ARCS/F312B
   tags:
     - Blighted Reach
     - Setup
@@ -1913,6 +1932,7 @@
     At the end of a chapter, **advance `symbol:clock`1** for each Monopoly card you have.
   image: F312B
   name: Magnate Act II Objective
+  flipSide: ARCS/F312A
   tags:
     - Blighted Reach
     - Objective
@@ -2100,6 +2120,7 @@
     *Flip this card over.*
   image: F325A
   name: Magnate Act III Setup
+  flipSide: ARCS/F325B
   tags:
     - Blighted Reach
     - Setup
@@ -2121,6 +2142,7 @@
     *If you have no Monopolies, do not scrap resources.*
   image: F325B
   name: Magnate Act III Objective
+  flipSide: ARCS/F325A
   tags:
     - Blighted Reach
     - Objective
@@ -2134,6 +2156,7 @@
     If the Magnate becomes an Outlaw, flip this to Open Economy.
   image: F326A
   name: Closed Economy
+  flipSide: ARCS/F326B
   tags:
     - Blighted Reach
     - Economy
@@ -2147,6 +2170,7 @@
     If the Magnate becomes a Regent, flip this to Closed Economy.
   image: F326B
   name: Open Economy
+  flipSide: ARCS/F326A
   tags:
     - Blighted Reach
     - Economy
@@ -2177,6 +2201,7 @@
     Flip this card over.
   image: F401A
   name: Advocate Act I Setup
+  flipSide: ARCS/F401B
   tags:
     - Blighted Reach
     - Setup
@@ -2196,6 +2221,7 @@
     While you have Guild Overseers, **advance `symbol:clock`2** each time you take the Recover action of your Guild Investigators.
   image: F401B
   name: Advocate Act I Objective
+  flipSide: ARCS/F401A
   tags:
     - Blighted Reach
     - Objective
@@ -2365,6 +2391,7 @@
     *Flip this card over.*
   image: F412A
   name: Advocate Act II Setup
+  flipSide: ARCS/F412B
   tags:
     - Blighted Reach
     - Setup
@@ -2384,6 +2411,7 @@
     *The Advocate's Demand edict will help you advance these objectives!*
   image: F412B
   name: Advocate Act II Objective
+  flipSide: ARCS/F412A
   tags:
     - Blighted Reach
     - Objective
@@ -2549,6 +2577,7 @@
     *Flip this card over.*
   image: F423A
   name: Advocate Act III Setup
+  flipSide: ARCS/F423B
   tags:
     - Blighted Reach
     - Setup
@@ -2568,6 +2597,7 @@
     *Remember that you can attach a Guild card to the Imperial Council, since it's a card in the Court. It doesn't even have to be In Session!
   image: F423B
   name: Advocate Act III Objective
+  flipSide: ARCS/F423A
   tags:
     - Blighted Reach
     - Objective
@@ -2622,6 +2652,7 @@
     *Flip this card over.*
   image: F501A
   name: Caretaker Act I Setup
+  flipSide: ARCS/F501B
   tags:
     - Blighted Reach
     - Setup
@@ -2643,6 +2674,7 @@
     *Advance even if the player chooses not to use the Golem's Prelude action.*
   image: F501B
   name: Caretaker Act I Objective
+  flipSide: ARCS/F501A
   tags:
     - Blighted Reach
     - Objective
@@ -2816,6 +2848,7 @@
     *Flip this card over.*
   image: F512A
   name: Caretaker Act II Setup
+  flipSide: ARCS/F512B
   tags:
     - Blighted Reach
     - Setup
@@ -2837,6 +2870,7 @@
     At the end of a chapter, **advance `symbol:clock`1** for each Rival that you have more lore cards than.
   image: F512B
   name: Caretaker Act II Objective
+  flipSide: ARCS/F512A
   tags:
     - Blighted Reach
     - Objective
@@ -2963,6 +2997,7 @@
     *Flip this card over.*
   image: F520A
   name: Caretaker Act III Setup
+  flipSide: ARCS/F520B
   tags:
     - Blighted Reach
     - Setup
@@ -2980,6 +3015,7 @@
     *You can take each of these actions once per chapter. You may scrap the Golem after scrapping the lore card.*
   image: F520B
   name: Caretaker Act III Objective
+  flipSide: ARCS/F520A
   tags:
     - Blighted Reach
     - Objective
@@ -3008,6 +3044,7 @@
     *Flip this card over.*
   image: F601A
   name: Partisan Act I Setup
+  flipSide: ARCS/F601B
   tags:
     - Blighted Reach
     - Setup
@@ -3027,6 +3064,7 @@
     **Advance `symbol:clock`2** each time you win an ambition where you don't have Outrage for the resource it counts. Weapon Outrage stops you from advancing by winning Warlord.
   image: F601B
   name: Partisan Act I Objective
+  flipSide: ARCS/F601A
   tags:
     - Blighted Reach
     - Objective
@@ -3241,6 +3279,7 @@
     *Flip this card over.*
   image: F615A
   name: Partisan Act II Setup
+  flipSide: ARCS/F615B
   tags:
     - Blighted Reach
     - Setup
@@ -3258,6 +3297,7 @@
     When you return Outrage using People's Hero, **advance `symbol:clock`1** for each Guild card you have.
   image: F615B
   name: Partisan Act II Objective
+  flipSide: ARCS/F615A
   tags:
     - Blighted Reach
     - Objective
@@ -3383,6 +3423,7 @@
     *Flip this card over.*
   image: F624A
   name: Partisan Act III Setup
+  flipSide: ARCS/F624B
   tags:
     - Blighted Reach
     - Setup
@@ -3396,6 +3437,7 @@
     Have the initiative marker.
   image: F624B
   name: Partisan Act III Objective
+  flipSide: ARCS/F624A
   tags:
     - Blighted Reach
     - Objective
@@ -3424,6 +3466,7 @@
     *Flip this card over.*
   image: F701A
   name: Admiral Act 1 Setup
+  flipSide: ARCS/F701B
   tags:
     - Blighted Reach
     - Setup
@@ -3447,6 +3490,7 @@
     *You can attack with both Loyal and Imperial ships, and the Imperial ship can be destroyed.*
   image: F701B
   name: Admiral Act I Objective
+  flipSide: ARCS/F701A
   tags:
     - Blighted Reach
     - Objective
@@ -3618,6 +3662,7 @@
     *Flip this card over.*
   image: F712A
   name: Admiral Act II Setup
+  flipSide: ARCS/F712B
   tags:
     - Blighted Reach
     - Setup
@@ -3643,6 +3688,7 @@
     *This doesn't count pieces transferred during Summits.*
   image: F712B
   name: Admiral Act II Objective
+  flipSide: ARCS/F712A
   tags:
     - Blighted Reach
     - Objective
@@ -3744,6 +3790,7 @@
     *Flip this card over.*
   image: F719A
   name: Admiral Act III Setup
+  flipSide: ARCS/F719B
   tags:
     - Blighted Reach
     - Setup
@@ -3762,6 +3809,7 @@
     *You control planets that are controlled by the Empire if you're the First Regent.*
   image: F719B
   name: Admiral Act III Objective
+  flipSide: ARCS/F719A
   tags:
     - Blighted Reach
     - Objective
@@ -3813,6 +3861,7 @@
     *Flip this card over.*
   image: F801A
   name: Believer Act I Setup
+  flipSide: ARCS/F801B
   tags:
     - Blighted Reach
     - Setup
@@ -3830,6 +3879,7 @@
     *If you win multiple ambitions in the same chapter, advance multiple times!*
   image: F801B
   name: Believer Act I Objective
+  flipSide: ARCS/F801A
   tags:
     - Blighted Reach
     - Objective
@@ -3990,6 +4040,7 @@
     *Flip this card over.*
   image: F820A
   name: Believer Act II Setup
+  flipSide: ARCS/F820B
   tags:
     - Blighted Reach
     - Setup
@@ -4007,6 +4058,7 @@
     *Count bonus Power from city slots uncovered on your player board. For example, if you gain 5 Power from winning an ambition with an Ideal marker and gain 5 bonus city Power, advance your objective marker 10 spaces.*
   image: F820B
   name: Believer Act II Objective
+  flipSide: ARCS/F820A
   tags:
     - Blighted Reach
     - Objective
@@ -4039,6 +4091,7 @@
     In Act III **setup,** this Doctrine card starts on the side matching the Ideal with more markers on ambition boxes. On a tie, it starts on Wisdom.
   image: F822A
   name: Doctrine of Zeal
+  flipSide: ARCS/F822B
   tags:
     - Blighted Reach
     - Doctrine
@@ -4058,6 +4111,7 @@
     In Act III **setup,** this Doctrine card starts on the side matching the Ideal with more markers on ambition boxes. On a tie, it starts on Wisdom.
   image: F822B
   name: Doctrine of Wisdom
+  flipSide: ARCS/F822A
   tags:
     - Blighted Reach
     - Doctrine
@@ -4249,6 +4303,7 @@
     *Flip this card over.*
   image: F901A
   name: Pathfinder Act II Setup
+  flipSide: ARCS/F901B
   tags:
     - Blighted Reach
     - Setup
@@ -4266,6 +4321,7 @@
     *Your Uncovering Clues ability card describes how Clues and the Portal are placed.*
   image: F901B
   name: Pathfinder Act II Objective
+  flipSide: ARCS/F901A
   tags:
     - Blighted Reach
     - Objective
@@ -4374,6 +4430,7 @@
     *Flip this card over.*
   image: F907A
   name: Pathfinder Act III Setup
+  flipSide: ARCS/F907B
   tags:
     - Blighted Reach
     - Setup
@@ -4391,6 +4448,7 @@
     *Your Pilgrims and the Portal card says how to move Pilgrims and get them on this card.*
   image: F907B
   name: Pathfinder Act III Objective
+  flipSide: ARCS/F907A
   tags:
     - Blighted Reach
     - Objective
@@ -4472,6 +4530,7 @@
     *Flip this card over.*
   image: F1001A
   name: Hegemon Act II Setup
+  flipSide: ARCS/F1001B
   tags:
     - Blighted Reach
     - Setup
@@ -4491,6 +4550,7 @@
     *Your Planting Banners card explains how to place Banners.*
   image: F1001B
   name: Hegemon Act II Objective
+  flipSide: ARCS/F1001A
   tags:
     - Blighted Reach
     - Objective
@@ -4651,6 +4711,7 @@
     *Flip this card over.*
   image: F1011A
   name: Hegemon Act III Setup
+  flipSide: ARCS/F1011B
   tags:
     - Blighted Reach
     - Setup
@@ -4666,6 +4727,7 @@
     More Banners are on the map than the current Chapter.
   image: F1011B
   name: Hegemon Act III Objective
+  flipSide: ARCS/F1011A
   tags:
     - Blighted Reach
     - Objective
@@ -4706,6 +4768,7 @@
     *Flip this card over.*
   image: F1101A
   name: Planet Breaker Act II Setup
+  flipSide: ARCS/F1101B
   tags:
     - Blighted Reach
     - Setup
@@ -4725,6 +4788,7 @@
     *You gain the Hammer of Worlds once you collect all 6 Hammer Fragments.*
   image: F1101B
   name: Planet Breaker Act II Objective
+  flipSide: ARCS/F1101A
   tags:
     - Blighted Reach
     - Objective
@@ -4759,6 +4823,7 @@
     3. Flip this card to its Breaking Worlds side. Keep the 5 Refugee cards tucked under it.
   image: F1103A
   name: Hammer Fragments
+  flipSide: ARCS/F1103B
   tags:
     - Blighted Reach
     - Ability
@@ -4784,6 +4849,7 @@
     ***Planets that are Broken Worlds have no building slots.***
   image: F1103B
   name: Breaking Worlds
+  flipSide: ARCS/F1103A
   tags:
     - Blighted Reach
     - Ability
@@ -4925,6 +4991,7 @@
     *Flip this card over.*
   image: F1112A
   name: Planet Breaker Act III Setup
+  flipSide: ARCS/F1112B
   tags:
     - Blighted Reach
     - Setup
@@ -4942,6 +5009,7 @@
     More buildings are on the Breaking Worlds card than the current Chapter, or there are no buildings on the map.
   image: F1112B
   name: Planet Breaker Act III Objective
+  flipSide: ARCS/F1112A
   tags:
     - Blighted Reach
     - Objective
@@ -4961,6 +5029,7 @@
     *Flip this card over.*
   image: F1201A
   name: Pirate Act II Setup
+  flipSide: ARCS/F1201B
   tags:
     - Blighted Reach
     - Setup
@@ -4984,6 +5053,7 @@
     *With 2 players, count resources on ambition boxes as a Rival.*
   image: F1201B
   name: Pirate Act II Objective
+  flipSide: ARCS/F1201A
   tags:
     - Blighted Reach
     - Objective
@@ -5091,6 +5161,7 @@
     *Flip this card over.*
   image: F1208A
   name: Pirate Act III Setup
+  flipSide: ARCS/F1208B
   tags:
     - Blighted Reach
     - Setup
@@ -5110,6 +5181,7 @@
     ***At the end of Act III,*** the Pirate's Rivals in turn order may each choose 1 planet that they control. Reveal the True Rumor tokens to show the Pirate Haven's planet. If any player chose the Pirate Haven's planet, they gain 10 Power and you lose 10 Power. If no one did, you gain 10 Power.
   image: F1208B
   name: Pirate Act III Objective
+  flipSide: ARCS/F1208A
   tags:
     - Blighted Reach
     - Objective
@@ -5183,6 +5255,7 @@
     **Flip this card over.**
   image: F1301A
   name: Blight Speaker Act II Setup
+  flipSide: ARCS/F1301B
   tags:
     - Blighted Reach
     - Setup
@@ -5200,6 +5273,7 @@
     **Advance `symbol:clock` 1** each time you place Blight on the map using your Spore Ships card.
   image: F1301B
   name: Blight Speaker Act II Objective
+  flipSide: ARCS/F1301A
   tags:
     - Blighted Reach
     - Objective
@@ -5355,6 +5429,7 @@
     *Flip this card over.*
   image: F1312A
   name: Blight Speaker Act III Setup
+  flipSide: ARCS/F1312B
   tags:
     - Blighted Reach
     - Setup
@@ -5370,6 +5445,7 @@
     Blight Hunger has more pieces than the current Chapter.
   image: F1312B
   name: Blight Speaker Act III Objective
+  flipSide: ARCS/F1312A
   tags:
     - Blighted Reach
     - Objective
@@ -5402,6 +5478,7 @@
     *Flip this card over.*
   image: F1401A
   name: Pacifist Act II Setup
+  flipSide: ARCS/F1401B
   tags:
     - Blighted Reach
     - Setup
@@ -5419,6 +5496,7 @@
     **Advance `symbol:clock` 1** for each Psionic you spend in your Prelude while Empath is declared.
   image: F1401B
   name: Pacifist Act II Objective
+  flipSide: ARCS/F1401A
   tags:
     - Blighted Reach
     - Objective
@@ -5527,6 +5605,7 @@
     *Flip this card over.*
   image: F1408A
   name: Pacifist Act III Setup
+  flipSide: ARCS/F1408B
   tags:
     - Blighted Reach
     - Setup
@@ -5542,6 +5621,7 @@
     In total, your Rivals have more Psionic resources than you.
   image: F1408B
   name: Pacifist Act III Objective
+  flipSide: ARCS/F1408A
   tags:
     - Blighted Reach
     - Objective
@@ -5621,6 +5701,7 @@
     *Flip this card over.*
   image: F1501A
   name: Peacekeeper Act II Setup
+  flipSide: ARCS/F1501B
   tags:
     - Blighted Reach
     - Setup
@@ -5640,6 +5721,7 @@
     *For objectives, you control Empire-controlled planets if you're the First Regent.*
   image: F1501B
   name: Peacekeeper Act II Objective
+  flipSide: ARCS/F1501A
   tags:
     - Blighted Reach
     - Objective
@@ -5732,6 +5814,7 @@
     3. Add Ceasefires (08), Empire Balks at Peace (09), Peace Dividends (10), and Peace Accords (11) to the rules booklet. **Explain them to everyone.**
   image: F1507A
   name: Peacekeeper Act III Setup
+  flipSide: ARCS/F1507B
   tags:
     - Blighted Reach
     - Setup
@@ -5753,6 +5836,7 @@
     *The Peace Dividends edict can encourage players to keep clusters at Peace.*
   image: F1507B
   name: Peacekeeper Act III Objective
+  flipSide: ARCS/F1507A
   tags:
     - Blighted Reach
     - Objective
@@ -5830,6 +5914,7 @@
     *Flip this card over.*
   image: F1601A
   name: Warden Act II Setup
+  flipSide: ARCS/F1601B
   tags:
     - Blighted Reach
     - Setup
@@ -5853,6 +5938,7 @@
     *When counting cities in your Fiefs, include Free cities and cities with Seat tokens.*
   image: F1601B
   name: Warden Act II Objective
+  flipSide: ARCS/F1601A
   tags:
     - Blighted Reach
     - Objective
@@ -6131,6 +6217,7 @@
     *Flip this card over.*
   image: F1617A
   name: Warden Act III Setup
+  flipSide: ARCS/F1617B
   tags:
     - Blighted Reach
     - Setup
@@ -6145,6 +6232,7 @@
     You control more Seats than the current Chapter.
   image: F1617B
   name: Warden Act III Objective
+  flipSide: ARCS/F1617A
   tags:
     - Blighted Reach
     - Objective
@@ -6192,6 +6280,7 @@
     *Flip this card over.*
   image: F1701A
   name: Overlord Act II Setup
+  flipSide: ARCS/F1701B
   tags:
     - Blighted Reach
     - Setup
@@ -6213,6 +6302,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F1701B
   name: Overlord Act III Objective
+  flipSide: ARCS/F1701A
   tags:
     - Blighted Reach
     - Objective
@@ -6268,6 +6358,7 @@
     *Flip this card over.*
   image: F1801A
   name: Survivalist Act III Setup
+  flipSide: ARCS/F1801B
   tags:
     - Blighted Reach
     - Setup
@@ -6287,6 +6378,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F1801B
   name: Survivalist Act III Objective
+  flipSide: ARCS/F1801A
   tags:
     - Blighted Reach
     - Objective
@@ -6374,6 +6466,7 @@
     *Flip this card over.*
   image: F1901A
   name: Redeemer Act III Setup
+  flipSide: ARCS/F1901B
   tags:
     - Blighted Reach
     - Setup
@@ -6393,6 +6486,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F1901B
   name: Redeemer Act III Objective
+  flipSide: ARCS/F1901A
   tags:
     - Blighted Reach
     - Objective
@@ -6455,6 +6549,7 @@
     *Flip this card over.*
   image: F2001A
   name: Guardian Act III Setup
+  flipSide: ARCS/F2001B
   tags:
     - Blighted Reach
     - Setup
@@ -6474,6 +6569,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F2001B
   name: Guardian Act III Objective
+  flipSide: ARCS/F2001A
   tags:
     - Blighted Reach
     - Objective
@@ -6532,6 +6628,7 @@
     *Flip this card over.*
   image: F2101A
   name: Naturalist Act III Setup
+  flipSide: ARCS/F2101B
   tags:
     - Blighted Reach
     - Setup
@@ -6551,6 +6648,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F2101B
   name: Naturalist Act III Objective
+  flipSide: ARCS/F2101A
   tags:
     - Blighted Reach
     - Objective
@@ -6585,12 +6683,12 @@
   meta:
     keys: 0
     act: 3
-- id: ARCS/F214
+- id: ARCS/F2104
   text: >-
     **There is a new ambition, Blightkin:** Control the most systems with ***fresh*** Blight. *(The First Regent controls Empire-controlled systems.)*
      
     When a player would **declare** Empath, they may declare Blightkin instead.
-  image: F214
+  image: F2104
   name: Blightkin Ambition
   tags:
     - Blighted Reach
@@ -6617,6 +6715,7 @@
     *Flip this card over.*
   image: F2201A
   name: Gate Wraith Act III Setup
+  flipSide: ARCS/F2201B
   tags:
     - Blighted Reach
     - Setup
@@ -6638,6 +6737,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F2201B
   name: Gate Wraith Act III Objective
+  flipSide: ARCS/F2201A
   tags:
     - Blighted Reach
     - Objective
@@ -6742,6 +6842,7 @@
     *Flip this card over.*
   image: F2301A
   name: Conspirator Act III Setup
+  flipSide: ARCS/F2301B
   tags:
     - Blighted Reach
     - Setup
@@ -6761,6 +6862,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F2301B
   name: Conspirator Act III Objective
+  flipSide: ARCS/F2301A
   tags:
     - Blighted Reach
     - Objective
@@ -6844,6 +6946,7 @@
     *Flip this card over.*
   image: F2401A
   name: Judge Act III Setup
+  flipSide: ARCS/F2401B
   tags:
     - Blighted Reach
     - Setup
@@ -6863,6 +6966,7 @@
     **At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.**
   image: F2401B
   name: Judge Act III Objective
+  flipSide: ARCS/F2401A
   tags:
     - Blighted Reach
     - Objective

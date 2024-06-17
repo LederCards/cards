@@ -34,3 +34,15 @@
   name: Otter Divers
   tags:
     - Hirelings
+- id: ROOT/178
+  image: adset-hirelings-bandits-big
+  imageClass: rotated
+  name: Highway Bandits
+  tags:
+    - Hirelings
+- id: ROOT/179
+  image: adset-hirelings-bandits-small
+  imageClass: rotated
+  name: Bandit Gangs
+  tags:
+    - Hirelings
