@@ -141,6 +141,20 @@ Pages:
           - Example: '`-name:"Alchemist"`'
             Text: Cards without "alchemist" in their name.
 
+      Text:
+        Name: Text
+        Text: >
+          You can find cards that match a certain expansion by using the \`text:\` or \`t:\` operator.
+
+          This operator is a loose-text operator, which means that you can search any part of the card text.
+
+        Examples:
+          - Example: '`name:secure`'
+            Text: Cards with "secure" in their text.
+
+          - Example: '`-name:"secure"`'
+            Text: Cards without "secure" in their text.
+
       Game:
         Name: Game
         Text: >

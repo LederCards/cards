@@ -20,6 +20,7 @@ icons:
 
   advanced:
     CardName: person-outline
+    CardText: document-text-outline
     Product: game-controller-outline
     Subproducts: hardware-chip-outline
     Tags: pricetags-outline
