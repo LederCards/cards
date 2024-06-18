@@ -59,6 +59,9 @@ Pages:
     CardNameLabel: Card Name
     CardNamePlaceholder: Search any card name
 
+    CardTextLabel: Card Text
+    CardTextPlaceholder: Search any card text
+
     ProductLabel: Game
     ProductPlaceholder: Select game
 
