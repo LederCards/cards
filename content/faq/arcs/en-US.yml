@@ -103,7 +103,7 @@
         If a resource stack is empty, can I still tax it to then gain a Fuel from Insatiable?
       a: >-
         You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.
-  card: Fuel Drinker
+  card: Fuel-Drinker
 - faq:
     - q: >-
         If a resource stack is empty, can I still tax it to then gain a Psionic from Attuned?
@@ -197,7 +197,7 @@
         Do I have to have the resource to build the city?
       a: >-
         Building a Cloud City requires spending a resource of the planet type.
-  card: Cloud City
+  card: Cloud Cities
 - faq:
     - q: >-
         How does Empath's Bond interact with the Empire, who is not a Rival?
@@ -209,7 +209,7 @@
         Is Fire Rifles modified by abilities that modify Battle?
       a: >-
         Abilities that modify Battle do not apply to Fire Rifles action. (e.g., you cannot use $link:Skirmishers$ to reroll the dice; you cannot use $link:Gatekeepers$ to collect more dice)
-  card: Galactic Rifle
+  card: Galactic Rifles
 - faq:
     - q: >-
         What happens if the cluster has no cities?
