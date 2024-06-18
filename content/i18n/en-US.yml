@@ -105,7 +105,7 @@ Pages:
       ID:
         Name: ID
         Text: >
-          You can find cards that match a certain id by using the `id:` operator.
+          You can find cards that match a certain id (partially or exactly) by using the `id:` operator.
 
 
           This operator is special, you may also search without using the operator.
@@ -123,7 +123,7 @@ Pages:
       Name:
         Name: Name
         Text: >
-          You can find cards that match a certain expansion by using the `name:` or `n:` operator.
+          You can find cards that have a certain name by using the `name:` or `n:` operator.
 
 
           This operator is a loose-text operator, which means that you can use partial names. You can also specify multiple expansions by separating them with a comma. If a name has spaces in its name, you must use quotation marks around the name.
