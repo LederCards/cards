@@ -3560,7 +3560,7 @@
   tags:
     - Blighted Reach
     - Guild
-    - Weaopn
+    - Weapon
     - Admiral
   meta:
     keys: 0
@@ -5895,7 +5895,7 @@
   name: Peace Accords
   tags:
     - Blighted Reach
-    - Sumit
+    - Summit
     - Peacekeeper
   meta:
     act: 3
