@@ -1,0 +1,16 @@
+id: vast
+name: Vast
+
+filters: []
+
+subproducts:
+  - name: Vast Base Game
+    id: vastbasegame
+    desc: >
+      Where a knight, dragon, cave, goblins, or thief, prepare for an asymmetric battle.
+
+external:
+  rules: https://vast.seiyria.com
+  faq: {}
+
+cardTemplate: {}

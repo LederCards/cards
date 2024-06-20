@@ -1,0 +1,15 @@
+id: fort
+name: Fort
+
+filters: []
+
+subproducts:
+  - name: Fort Base Game
+    id: fortbasegame
+    desc: >
+      Build the most awesome fort while making friends, collecting toys and eating pizza.
+
+external:
+  faq: {}
+
+cardTemplate: {}

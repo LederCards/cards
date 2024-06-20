@@ -1,0 +1,1789 @@
+- id: VAST-1
+  name: Lava Tube
+  image: cave-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+    - Difficulty
+- id: VAST-2
+  name: Spillway
+  image: cave-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+    - Difficulty
+- id: VAST-3
+  name: Cave
+  image: cave-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+    - Difficulty
+- id: VAST-4
+  name: Great Cave
+  image: cave-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+    - Difficulty
+- id: VAST-5
+  name: Grand Cave
+  image: cave-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+    - Difficulty
+- id: VAST-6
+  name: Ambush
+  image: cave-event-03
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-7
+  name: Light
+  image: cave-event-04
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-8
+  name: Vantage Point
+  image: cave-event-05
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-9
+  name: Fresh Air
+  image: cave-event-06
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-10
+  name: Fresh Water
+  image: cave-event-07
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-11
+  name: Cave Bread
+  image: cave-event-08
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-12
+  name: Rats
+  image: cave-event-11
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-13
+  name: Deep and Dark
+  image: cave-event-14
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-14
+  name: Quake!
+  image: cave-event-15
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-15
+  name: Canyon
+  image: cave-terrain-00
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-16
+  name: Lake
+  image: cave-terrain-01
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-17
+  name: Magma
+  image: cave-terrain-02
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-18
+  name: Mushroom Forest
+  image: cave-terrain-03
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-19
+  name: Pits
+  image: cave-terrain-04
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-20
+  name: River
+  image: cave-terrain-05
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-21
+  name: Silver Gauntlet
+  image: cave-treasure-00
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-22
+  name: Elvish Sword
+  image: cave-treasure-01
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-23
+  name: Mighty Axe
+  image: cave-treasure-02
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-24
+  name: Potion Kit
+  image: cave-treasure-03
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-25
+  name: Enchanted Bow
+  image: cave-treasure-04
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-26
+  name: Pixie Lantern
+  image: cave-treasure-05
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-27
+  name: Treasure Trove
+  image: cave-treasure-06
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-28
+  name: Cursed Amulet
+  image: cave-treasure-07
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-29
+  name: Rune Staff
+  image: cave-treasure-08
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-30
+  name: Heroic Boots
+  image: cave-treasure-09
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-31
+  name: Javelin
+  image: cave-treasure-10
+  tags:
+    - Crystal Caverns
+    - CC - Cave
+- id: VAST-32
+  name: Hatchling
+  image: dragon-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+    - Difficulty
+- id: VAST-33
+  name: Whelp
+  image: dragon-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+    - Difficulty
+- id: VAST-34
+  name: Dragon
+  image: dragon-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+    - Difficulty
+- id: VAST-35
+  name: Elder Dragon
+  image: dragon-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+    - Difficulty
+- id: VAST-36
+  name: Ancient Dragon
+  image: dragon-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+    - Difficulty
+- id: VAST-37
+  name: Claw
+  image: dragon-power-05
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+- id: VAST-38
+  name: Flame
+  image: dragon-power-11
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+- id: VAST-39
+  name: Wing
+  image: dragon-power-17
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+- id: VAST-40
+  name: Gold Scale
+  image: dragon-power-18
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+- id: VAST-41
+  name: Silver Scale
+  image: dragon-power-19
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+- id: VAST-42
+  name: Platinum Scale
+  image: dragon-power-20
+  tags:
+    - Crystal Caverns
+    - CC - Dragon
+- id: VAST-43
+  name: Spirit
+  image: ghost-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+    - Difficulty
+- id: VAST-44
+  name: Specter
+  image: ghost-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+    - Difficulty
+- id: VAST-45
+  name: Ghost
+  image: ghost-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+    - Difficulty
+- id: VAST-46
+  name: Phantom
+  image: ghost-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+    - Difficulty
+- id: VAST-47
+  name: Wraith
+  image: ghost-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+    - Difficulty
+- id: VAST-48
+  name: Possessed Knight
+  image: ghost-possession-00
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-49
+  name: Possessed Goblins
+  image: ghost-possession-01
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-50
+  name: Possessed Dragon
+  image: ghost-possession-02
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-51
+  name: Possessed Cave
+  image: ghost-possession-03
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-52
+  name: Possessed Thief
+  image: ghost-possession-04
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-53
+  name: Possessed Ghoul
+  image: ghost-possession-05
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-54
+  name: Possessed Ghost
+  image: ghost-possession-06
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-55
+  name: Possessed Unicorn
+  image: ghost-possession-07
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-56
+  name: Possessed Vile Ghoul
+  image: ghost-possession-08
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+- id: VAST-57
+  name: Blocking the Ghost
+  image: ghost-reference-00
+  tags:
+    - Crystal Caverns
+    - CC - Ghost
+    - Reference
+- id: VAST-58
+  name: Ragpicker
+  image: ghoul-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+    - Difficulty
+- id: VAST-59
+  name: Scavenger
+  image: ghoul-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+    - Difficulty
+- id: VAST-60
+  name: Ghoul
+  image: ghoul-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+    - Difficulty
+- id: VAST-61
+  name: Stalker
+  image: ghoul-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+    - Difficulty
+- id: VAST-62
+  name: Hunter
+  image: ghoul-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+    - Difficulty
+- id: VAST-63
+  name: Attacking the Ghoul
+  image: ghoul-reference-00
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+    - Reference
+- id: VAST-64
+  name: Chase
+  image: ghoul-terror-00
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-65
+  name: Hunt
+  image: ghoul-terror-05
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-66
+  name: Sneak
+  image: ghoul-terror-06
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-67
+  name: Cheat
+  image: ghoul-terror-08
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-68
+  name: Blink
+  image: ghoul-terror-09
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-69
+  name: Adapt
+  image: ghoul-terror-10
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-70
+  name: Seize
+  image: ghoul-terror-11
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-71
+  name: Scour
+  image: ghoul-terror-12
+  tags:
+    - Crystal Caverns
+    - CC - Ghoul
+- id: VAST-72
+  name: Miscreant
+  image: goblins-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+    - Difficulty
+- id: VAST-73
+  name: Boss
+  image: goblins-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+    - Difficulty
+- id: VAST-74
+  name: Chief
+  image: goblins-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+    - Difficulty
+- id: VAST-75
+  name: Master
+  image: goblins-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+    - Difficulty
+- id: VAST-76
+  name: Warlord
+  image: goblins-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+    - Difficulty
+- id: VAST-77
+  name: Pet Frog
+  image: goblins-monster-00
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-78
+  name: Ogre
+  image: goblins-monster-01
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-79
+  name: Troll
+  image: goblins-monster-02
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-80
+  name: Golem
+  image: goblins-monster-03
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-81
+  name: Gnome
+  image: goblins-monster-04
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-82
+  name: Wisp
+  image: goblins-monster-05
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-83
+  name: Bright Beetles
+  image: goblins-monster-06
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-84
+  name: Underworm
+  image: goblins-monster-07
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-85
+  name: Blob
+  image: goblins-monster-08
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-86
+  name: Flame Giant
+  image: goblins-monster-09
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-87
+  name: Ground Kraken
+  image: goblins-monster-10
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-88
+  name: Secret Tunnels
+  image: goblins-secret-00
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-89
+  name: Cave-In
+  image: goblins-secret-01
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-90
+  name: Poison
+  image: goblins-secret-02
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-91
+  name: Leader
+  image: goblins-secret-03
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-92
+  name: Goblin Ruby
+  image: goblins-secret-04
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-93
+  name: Blind Fury
+  image: goblins-secret-05
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-94
+  name: Fire Bomber
+  image: goblins-secret-06
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-95
+  name: Hex
+  image: goblins-secret-07
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-96
+  name: Trap
+  image: goblins-secret-08
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-97
+  name: Hiding Spots
+  image: goblins-secret-09
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-98
+  name: Slingshot
+  image: goblins-secret-10
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-99
+  name: Cave Mushrooms
+  image: goblins-secret-11
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-100
+  name: Meat
+  image: goblins-secret-12
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-101
+  name: Armory
+  image: goblins-secret-13
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-102
+  name: Warbanner
+  image: goblins-secret-14
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-103
+  name: Underboss
+  image: goblins-secret-15
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-104
+  name: Press Gangs
+  image: goblins-secret-16
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-105
+  name: Ancient Rituals
+  image: goblins-secret-17
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-106
+  name: Mercenaries
+  image: goblins-secret-18
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-107
+  name: Eye of Rage
+  image: goblins-secret-19
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-108
+  name: Cave Oil
+  image: goblins-secret-20
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-109
+  name: Thirst
+  image: goblins-war-00
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-110
+  name: Spite
+  image: goblins-war-01
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-111
+  name: Consumption
+  image: goblins-war-02
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-112
+  name: Desolation
+  image: goblins-war-03
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-113
+  name: Waste
+  image: goblins-war-04
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-114
+  name: Ruin
+  image: goblins-war-05
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-115
+  name: Hate
+  image: goblins-war-06
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-116
+  name: Fear
+  image: goblins-war-07
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-117
+  name: Desperation
+  image: goblins-war-08
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-118
+  name: Pain
+  image: goblins-war-09
+  tags:
+    - Crystal Caverns
+    - CC - Goblins
+- id: VAST-119
+  name: Novice
+  image: knight-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+    - Difficulty
+- id: VAST-120
+  name: Squire
+  image: knight-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+    - Difficulty
+- id: VAST-121
+  name: Knight
+  image: knight-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+    - Difficulty
+- id: VAST-122
+  name: Baroness
+  image: knight-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+    - Difficulty
+- id: VAST-123
+  name: Lady
+  image: knight-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+    - Difficulty
+- id: VAST-124
+  name: Stalwart
+  image: knight-sidequest-00
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-125
+  name: Intrepid
+  image: knight-sidequest-01
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-126
+  name: Daring
+  image: knight-sidequest-02
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-127
+  name: Fearless
+  image: knight-sidequest-03
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-128
+  name: Cunning
+  image: knight-sidequest-04
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-129
+  name: Bedecked
+  image: knight-sidequest-05
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-130
+  name: Adventrous
+  image: knight-sidequest-06
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-131
+  name: Swift
+  image: knight-sidequest-07
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-132
+  name: Eagle-Eyed
+  image: knight-sidequest-08
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-133
+  name: Persistent
+  image: knight-sidequest-09
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-134
+  name: Prepared
+  image: knight-sidequest-10
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-135
+  name: Noble Failure
+  image: knight-sidequest-11
+  tags:
+    - Crystal Caverns
+    - CC - Knight
+- id: VAST-136
+  name: Flare
+  image: miscellaneous-variant-00
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-137
+  name: Goblin Infestation
+  image: miscellaneous-variant-01
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-138
+  name: Ash Dragon
+  image: miscellaneous-variant-02
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-139
+  name: Past Plunder
+  image: miscellaneous-variant-03
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-140
+  name: Alone in the Dark
+  image: miscellaneous-variant-04
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-141
+  name: Alone in the Dark II
+  image: miscellaneous-variant-05
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-142
+  name: Crowded House
+  image: miscellaneous-variant-06
+  tags:
+    - Crystal Caverns
+    - Variant
+- id: VAST-143
+  name: Footpad
+  image: thief-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+    - Difficulty
+- id: VAST-144
+  name: Burglar
+  image: thief-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+    - Difficulty
+- id: VAST-145
+  name: Thief
+  image: thief-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+    - Difficulty
+- id: VAST-146
+  name: Prowler
+  image: thief-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+    - Difficulty
+- id: VAST-147
+  name: Invader
+  image: thief-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+    - Difficulty
+- id: VAST-148
+  name: Charm
+  image: thief-upgrade-00
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+- id: VAST-149
+  name: Warlock's Wand
+  image: thief-upgrade-01
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+- id: VAST-150
+  name: Cloak of the Mountebank
+  image: thief-upgrade-02
+  tags:
+    - Crystal Caverns
+    - CC - Thief
+- id: VAST-151
+  name: Terror Pony
+  image: unicorn-difficulty-00
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+    - Difficulty
+- id: VAST-152
+  name: Night Mare
+  image: unicorn-difficulty-01
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+    - Difficulty
+- id: VAST-153
+  name: Nightmare Unicorn
+  image: unicorn-difficulty-02
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+    - Difficulty
+- id: VAST-154
+  name: Dire Unicorn
+  image: unicorn-difficulty-03
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+    - Difficulty
+- id: VAST-155
+  name: Phantasm Unicorn
+  image: unicorn-difficulty-04
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+    - Difficulty
+- id: VAST-156
+  name: Attacking the Unicorn
+  image: unicorn-reference-00
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+    - Reference
+- id: VAST-157
+  name: Turn Left (Angry) (1-1)
+  image: unicorn-unicorn-00
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-158
+  name: Move 2 -or- Turn Left (1-2)
+  image: unicorn-unicorn-01
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-159
+  name: Move 3 (Angry) (1-3)
+  image: unicorn-unicorn-02
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-160
+  name: Move 2 -or- Turn Right (1-4)
+  image: unicorn-unicorn-03
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-161
+  name: Turn Right (Angry) (1-5)
+  image: unicorn-unicorn-04
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-162
+  name: Move 2 -or- Turn Left (2-1)
+  image: unicorn-unicorn-05
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-163
+  name: Move 1 -or- Turn Left (2-2)
+  image: unicorn-unicorn-06
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-164
+  name: Move 1 -or- Turn Left (2-3)
+  image: unicorn-unicorn-07
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-165
+  name: Move 1 -or- Turn Right (2-4)
+  image: unicorn-unicorn-08
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-166
+  name: Move 2 -or- Turn Right (2-5)
+  image: unicorn-unicorn-09
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-167
+  name: Move 3 (Angry) (3-1)
+  image: unicorn-unicorn-10
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-168
+  name: Move 1 -or- Turn Left (3-2)
+  image: unicorn-unicorn-11
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-169
+  name: Move 1 -or- Turn Right (3-4)
+  image: unicorn-unicorn-12
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-170
+  name: Move 3 (Angry) (3-5)
+  image: unicorn-unicorn-13
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-171
+  name: Move 2 -or- Turn Left (4-1)
+  image: unicorn-unicorn-14
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-172
+  name: Move 1 -or- Turn Left (4-2)
+  image: unicorn-unicorn-15
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-173
+  name: Move 1 -or- Turn Right (4-3)
+  image: unicorn-unicorn-16
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-174
+  name: Move 1 -or- Turn Right (4-4)
+  image: unicorn-unicorn-17
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-175
+  name: Move 2 -or- Turn Right (4-5)
+  image: unicorn-unicorn-18
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-176
+  name: Turn Left (Angry) (5-1)
+  image: unicorn-unicorn-19
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-177
+  name: Move 2 -or- Turn Left (5-2)
+  image: unicorn-unicorn-20
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-178
+  name: Move 3 (Angry) (5-3)
+  image: unicorn-unicorn-21
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-179
+  name: Move 2 -or- Turn Right (5-4)
+  image: unicorn-unicorn-22
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-180
+  name: Turn Right (Angry) (5-5)
+  image: unicorn-unicorn-23
+  tags:
+    - Crystal Caverns
+    - CC - Unicorn
+- id: VAST-181
+  name: Anger
+  image: chains-0
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-182
+  name: Condemn
+  image: chains-1
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-183
+  name: Ice Coffin
+  image: chains-10
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-184
+  name: Creeping Cold
+  image: chains-11
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-185
+  name: Slithering Shroud
+  image: chains-2
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-186
+  name: Drift
+  image: chains-3
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-187
+  name: Dark Cloak
+  image: chains-4
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-188
+  name: Spiteful Swing
+  image: chains-5
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-189
+  name: Eternal Gaze
+  image: chains-6
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-190
+  name: Fearsome Maze
+  image: chains-7
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-191
+  name: Shadow Crawl
+  image: chains-8
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-192
+  name: Wrath
+  image: chains-9
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-193
+  name: Strong Spirits
+  image: enchanter-0
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-194
+  name: Teleport
+  image: enchanter-1
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-195
+  name: Leap
+  image: enchanter-2
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-196
+  name: Refuel
+  image: enchanter-3
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-197
+  name: Enclose
+  image: enchanter-4
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-198
+  name: Treasure Link
+  image: enchanter-5
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-199
+  name: Grow
+  image: enchanter-6
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-200
+  name: Glower
+  image: enchanter-7
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-201
+  name: Syphon Specialize
+  image: enchanter-8
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-202
+  name: Expand
+  image: enchanter-9
+  tags:
+    - Mysterious Manor
+    - MM - Enchanter
+- id: VAST-203
+  name: Slashy
+  image: skeleton-0
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-204
+  name: Casty
+  image: skeleton-1
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-205
+  name: Stabby
+  image: skeleton-2
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-206
+  name: Shooty
+  image: skeleton-3
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-207
+  name: Screamy
+  image: skeleton-4
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-208
+  name: Shiny
+  image: skeleton-5
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-209
+  name: Singy
+  image: skeleton-6
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-210
+  name: Sniffy
+  image: skeleton-7
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-211
+  name: Smashy
+  image: skeleton-8
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-212
+  name: Dark Lamp
+  image: items-0
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-213
+  name: Blood Mace
+  image: items-1
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-214
+  name: Pickax
+  image: items-10
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-215
+  name: Iron Spike
+  image: items-11
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-216
+  name: Shield
+  image: items-12
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-217
+  name: Great Axe
+  image: items-13
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-218
+  name: Helmet
+  image: items-14
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-219
+  name: Runestone
+  image: items-15
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-220
+  name: Ash Staff
+  image: items-16
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-221
+  name: Fetish
+  image: items-17
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-222
+  name: Poison
+  image: items-18
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-223
+  name: Leather Boots
+  image: items-19
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-224
+  name: Scrying Orb
+  image: items-2
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-225
+  name: Kukri
+  image: items-20
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-226
+  name: Bomb Bag
+  image: items-21
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-227
+  name: Blight Arrow
+  image: items-22
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-228
+  name: Longbow
+  image: items-23
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-229
+  name: Banner
+  image: items-24
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-230
+  name: Horn
+  image: items-25
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-231
+  name: Pauldrons
+  image: items-26
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-232
+  name: Lute
+  image: items-3
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-233
+  name: Pipe
+  image: items-4
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-234
+  name: Dance Shoes
+  image: items-5
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-235
+  name: Bell Collar
+  image: items-6
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-236
+  name: Leash
+  image: items-7
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-237
+  name: Bag of Treats
+  image: items-8
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-238
+  name: Sledgehammer
+  image: items-9
+  tags:
+    - Mysterious Manor
+    - MM - Skeletons
+- id: VAST-239
+  name: Crystal Shards
+  image: knighttreasure-0
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-240
+  name: Dragon's Teeth
+  image: knighttreasure-1
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-241
+  name: Ghost's Bird Book
+  image: knighttreasure-2
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-242
+  name: Goblin Squire
+  image: knighttreasure-3
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-243
+  name: Ghoul Eyes
+  image: knighttreasure-4
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-244
+  name: Vial of Unicorn Blood
+  image: knighttreasure-5
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-245
+  name: Thief's Bag
+  image: knighttreasure-6
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-246
+  name: 4-Square
+  image: manor-0
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-247
+  name: 4-L
+  image: manor-1
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-248
+  name: 4-Reverse-Turns
+  image: manor-10
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-249
+  name: 5-Big-L
+  image: manor-11
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-250
+  name: 6-Turns-2
+  image: manor-12
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-251
+  name: 4-L-Flip
+  image: manor-2
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-252
+  name: 4-Line
+  image: manor-3
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-253
+  name: 4-Turns
+  image: manor-4
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-254
+  name: 6-Turns
+  image: manor-5
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-255
+  name: 5-Line
+  image: manor-6
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-256
+  name: 6-Line
+  image: manor-7
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-257
+  name: 5-L-Turns
+  image: manor-8
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-258
+  name: 5-2-Turns
+  image: manor-9
+  tags:
+    - Mysterious Manor
+    - MM - Manor
+- id: VAST-259
+  name: Armor
+  image: manortreasure-0
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-260
+  name: Winged Boots
+  image: manortreasure-1
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-261
+  name: Magic Mace
+  image: manortreasure-2
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-262
+  name: Halo
+  image: manortreasure-3
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-263
+  name: Fire Brand
+  image: manortreasure-4
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-264
+  name: Holy Symbol
+  image: manortreasure-5
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-265
+  name: Prayer Beads
+  image: manortreasure-6
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-266
+  name: Float
+  image: shadowpaladin-0
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-267
+  name: Gaze
+  image: shadowpaladin-12
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-268
+  name: Shroud
+  image: shadowpaladin-4
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-269
+  name: Strike
+  image: shadowpaladin-8
+  tags:
+    - Mysterious Manor
+    - MM - Shadow Paladin
+- id: VAST-270
+  name: Vigor
+  image: abilities-0
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-271
+  name: Pathfinder
+  image: abilities-1
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-272
+  name: Illuminate
+  image: abilities-2
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-273
+  name: Conjure
+  image: abilities-3
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-274
+  name: Divination
+  image: abilities-4
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-275
+  name: Pillar of Light
+  image: abilities-5
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-276
+  name: Radiant Lamps
+  image: abilities-6
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-277
+  name: Dedication
+  image: abilities-7
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-278
+  name: Disdain
+  image: abilities-8
+  tags:
+    - Mysterious Manor
+    - MM - Paladin
+- id: VAST-279
+  name: Swift
+  image: sidequest-0
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-280
+  name: Stalwart
+  image: sidequest-1
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-281
+  name: Persistent
+  image: sidequest-2
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-282
+  name: Intrepid
+  image: sidequest-3
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-283
+  name: Fearless
+  image: sidequest-4
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-284
+  name: Eagle-Eyed
+  image: sidequest-5
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-285
+  name: Daring
+  image: sidequest-6
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-286
+  name: Cunning
+  image: sidequest-7
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-287
+  name: Bedecked
+  image: sidequest-8
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-288
+  name: Adventrous
+  image: sidequest-9
+  tags:
+    - Mysterious Manor
+    - MM - Armored Knight
+- id: VAST-289
+  name: Webs
+  image: spider-11
+  tags:
+    - Mysterious Manor
+    - MM - Spider
+- id: VAST-290
+  name: Fangs
+  image: spider-3
+  tags:
+    - Mysterious Manor
+    - MM - Spider
+- id: VAST-291
+  name: Eyes
+  image: spider-7
+  tags:
+    - Mysterious Manor
+    - MM - Spider

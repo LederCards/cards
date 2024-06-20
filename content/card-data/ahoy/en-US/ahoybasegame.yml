@@ -1,0 +1,287 @@
+- id: AHOY-1
+  name: Aeronauts
+  image: '1'
+  text: >-
+    Action: While your Flagship is at an Island, you may spend 1 gold to move it
+    directly to the other Island of that suit.
+  tags:
+    - Bird
+- id: AHOY-2
+  name: Middleman
+  image: '2'
+  text: >-
+    When you spend gold to change a die value, you may change it by up to 2 per
+    gold spent.
+  tags:
+    - Bird
+- id: AHOY-3
+  name: Documentarian
+  image: '3'
+  text: >-
+    At the end of your turn, gain 1 gold if your Flagship is in the same region
+    as an enemy Flagship.
+  tags:
+    - Bird
+- id: AHOY-4
+  name: Elder
+  image: '4'
+  text: >-
+    At the end of your turn, gain 1 gold if you have no damaged die slots (even
+    Crew).
+  tags:
+    - Bird
+- id: AHOY-5
+  name: Sea Witch
+  image: '5'
+  text: >-
+    When your Flagship moves off the map, you may move it directly to the space
+    on the nearest opposite edge for free.
+  tags:
+    - Bird
+- id: AHOY-6
+  name: Buccaneer
+  image: '6'
+  text: >-
+    When you win any battle, you may return Buccaneer to the box to return 2
+    Crew of theirs that you choose to the box.
+  tags:
+    - Skull
+- id: AHOY-7
+  name: Mystic
+  image: '7'
+  text: >-
+    Action: Once per turn, take 1 damage on your player board to deal 1 damage
+    to any figure in your Flagship’s region.
+  tags:
+    - Skull
+- id: AHOY-8
+  name: Gunner
+  image: '8'
+  text: When you win a battle with your Flagship, you deal an extra damage.
+  tags:
+    - Skull
+- id: AHOY-9
+  name: Gunner's Mate
+  image: '9'
+  text: >-
+    When you place a die on Cannons, your Flagship may battle against any space
+    in its region as if it moved there.
+  tags:
+    - Skull
+- id: AHOY-10
+  name: Powder Monkey
+  image: '10'
+  text: >-
+    When you repair any amount of damage, you may deal 1 damage to any figure in
+    your Flagship’s region.
+  tags:
+    - Skull
+- id: AHOY-11
+  name: Fighters
+  image: '11'
+  text: In any battle (not just with your Flagship), you add +1 to your roll.
+  tags:
+    - Swords
+- id: AHOY-12
+  name: Cutpurse
+  image: '12'
+  text: When you win any battle (not just with your Flagship), gain 2 gold.
+  tags:
+    - Swords
+- id: AHOY-13
+  name: Shipwright
+  image: '13'
+  text: Repair all of your damage.
+  tags:
+    - Swords
+- id: AHOY-14
+  name: Emissary
+  image: '14'
+  text: >-
+    On your turn, if you would battle an enemy, you may give them 1 gold to
+    ignore the battle.
+  tags:
+    - Swords
+- id: AHOY-15
+  name: Grogmaster
+  image: '15'
+  text: >-
+    In battle with your Flagship, you may take 1 damage to reroll your battle
+    die one time. If using Secret Weapon, reroll both dice.
+  tags:
+    - Swords
+- id: AHOY-16
+  name: Convincing Comrade
+  image: '17'
+  text: >-
+    Take up to 2 Comrades from any one Island and place them on another Island.
+    (There are two Convincing Comrades.)
+  tags:
+    - Tree
+- id: AHOY-17
+  name: Convincing Official
+  image: '16'
+  text: >-
+    Move up to 2 Patrols, each 1 or 2 spaces. They ignore battle. Take up to 2
+    Comrades from any one Island and place them on another Island. (There are
+    two Convincing Officials.)
+  tags:
+    - Tree
+- id: AHOY-18
+  name: Naive Noble
+  image: '18'
+  text: >-
+    Action: Return Naive Noble to box. Steal 1 Crew or Cargo from a Flagship in
+    your Flagship’s region. You may tuck it as Crew or Cargo.
+  tags:
+    - Tree
+- id: AHOY-19
+  name: Sailor
+  image: '19'
+  text: Move your Flagship 1 to 3 spaces.
+  tags:
+    - Compass
+- id: AHOY-20
+  name: Battering Beakhead
+  image: '20'
+  text: >-
+    When you damage an enemy figure, you may move it 1 space. It cannot move off
+    map. It ignores battle, Harbors, and Treasure.
+  tags:
+    - Compass
+- id: AHOY-21
+  name: Ghastly Gust
+  image: '21'
+  text: >-
+    Action: Return Ghastly Gust to the box. Move your Flagship directly to any
+    space.
+  tags:
+    - Compass
+- id: AHOY-22
+  name: Whispering Wind
+  image: '22'
+  text: >-
+    Action: Once per turn, spend 2 gold to move your Flagship directly to any
+    space with Tailwind terrain.
+  tags:
+    - Compass
+- id: AHOY-23
+  name: Trawler
+  image: '23'
+  text: >-
+    Move your Flagship 1 or 2 spaces. You may gain Treasure gold even if you
+    don’t anchor at it.
+  tags:
+    - Compass
+- id: AHOY-24
+  name: Barrelman
+  image: '24'
+  text: >-
+    When your Flagship moves into Fog, you may treat it as a Strong Current
+    going in any direction.
+  tags:
+    - Fish
+- id: AHOY-25
+  name: Pilot
+  image: '25'
+  text: When your Flagship moves into Wreckage, you may ignore its damage.
+  tags:
+    - Fish
+- id: AHOY-26
+  name: Sea Dog
+  image: '26'
+  text: >-
+    When your Flagship moves into a Strong Current, you may ignore its effect or
+    move in a different direction.
+  tags:
+    - Fish
+- id: AHOY-27
+  name: Diver
+  image: '27'
+  text: >-
+    When your Flagship anchors at Wreckage, gain an extra gold from its
+    Treasure.
+  tags:
+    - Fish
+- id: AHOY-28
+  name: Merchant
+  image: '28'
+  text: When your Flagship anchors at a Harbor (not Island), gain 1 gold.
+  tags:
+    - Fish
+- id: AHOY-29
+  name: Evacuation
+  image: '29'
+  text: >-
+    Play as an action, then discard. Remove all Comrades from 1 Island, and
+    place them on any other Island or Islands. (You may distribute them any way
+    you want.)
+  tags:
+    - Mollusk Plan
+- id: AHOY-30
+  name: Secret Weapon
+  image: '30'
+  text: >-
+    Play at the start of a battle with you, even outside your turn, then
+    discard. Instead of rolling 1 battle die, you roll 2 battle dice and add
+    them up. (Your enemy still rolls 1 battle die.) If you win, deal an extra
+    damage.
+  tags:
+    - Mollusk Plan
+- id: AHOY-31
+  name: Close Call
+  image: '31'
+  text: >-
+    Play at the start of a battle with you, even outside your turn, then
+    discard. Ignore this battle. (If it’s your turn, you can keep moving if you
+    have movement left.)
+  tags:
+    - Mollusk Plan
+- id: AHOY-32
+  name: Weapons Cache
+  image: '32'
+  text: >-
+    Play at the start of a battle with you, even outside your turn, then
+    discard. Increase your roll by the number of your Ready Comrades. (You may
+    play both Weapons Cache plans and the Secret Weapon plan.)
+  tags:
+    - Mollusk Plan
+- id: AHOY-33
+  name: Sneak Attack
+  image: '33'
+  text: >-
+    Play as an action, then discard. Remove up to 2 Patrols from any 1 region
+    whose Island has any Comrades. (Return the Patrols to the Squadron’s
+    supply.)
+  tags:
+    - Mollusk Plan
+- id: AHOY-34
+  name: Enlist
+  image: '34'
+  text: >-
+    Play as an action, then discard. Choose any one Island with any Comrades.
+    Recruit any number of Crew of its suit, ignoring cost. Refill the Market
+    only when done.
+  tags:
+    - Mollusk Plan
+- id: AHOY-35
+  name: Dynamic Entry
+  image: '35'
+  text: >-
+    Play as an action, then discard. Increase your die on Cannons by 2 (not
+    above 6). Then, you may move your Flagship directly to any space with
+    Tailwind terrain.
+  tags:
+    - Mollusk Plan
+- id: AHOY-36
+  name: Cutter
+  image: '36'
+  text: Effect is too long to list in text!
+  tags:
+    - Mollusk Plan
+- id: AHOY-37
+  name: Gunship
+  image: '37'
+  text: Effect is too long to list in text!
+  tags:
+    - Mollusk Plan

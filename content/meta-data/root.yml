@@ -7,7 +7,7 @@ subproducts:
   - name: Root Base Game
     id: rootbasegame
     desc: >
-      Root: A Game of Woodland Might and Right is a cool wargame.
+      Decide the fate of the forest as woodland factions fight for contrasting goals.
 
   - name: Clockwork 1
     id: clockwork1

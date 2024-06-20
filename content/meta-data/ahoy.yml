@@ -1,0 +1,15 @@
+id: ahoy
+name: Ahoy
+
+filters: []
+
+subproducts:
+  - name: Ahoy Base Game
+    id: ahoybasegame
+    desc: >
+      Different factions vie for fame on the high seas.
+
+external:
+  faq: {}
+
+cardTemplate: {}
