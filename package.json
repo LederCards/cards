@@ -18,6 +18,7 @@
     "validate": "concurrently \"npm run validate:*\"",
     "validate:card-data": "ts-node scripts/validate-cards",
     "finalize:version": "ts-node scripts/finalize-version",
+    "finalize:json": "ts-node scripts/finalize-json",
     "copy:headers": "ts-node scripts/copy-headers"
   },
   "repository": {
