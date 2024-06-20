@@ -17,7 +17,7 @@ const formatCard = (card) => {
   }
 
   const baseImageName = card.image;
-  card.image = `https://ledercards.netlify.app/cards/${card.game}/${
+  card.image = `https://ledercardcdn.seiyria.com/cards/${card.game}/${
     card.locale
   }/${encodeURIComponent(baseImageName)}.webp`;
 
