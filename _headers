@@ -1,2 +1,6 @@
 /*
   Access-Control-Allow-Origin: *
+
+/cards/*
+  Cache-Control: public
+  Cache-Control: max-age=86400
