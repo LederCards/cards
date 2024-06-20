@@ -164,9 +164,9 @@
       a: >-
         You declare an ambition and gain the resource before you can spend any resources.
     - q: >-
-        Does Callow restrict taxing rival cities with $link:Empath's Bond$?
+        If you are the $link:Upstart$, have $link:Empath's Bond$, and Empath is declared, can you tax a loyal city that you do not control?
       a: >-
-        This does not restrict taxing rival cities. Even if you tax them “like they are Loyal” with $link:Empath's Bond$. And even with $link:Empath's Bond$, you still can only tax Loyal cities if you control them.
+        The "any" in $link:Empath's Bond$ should be interpreted as "non-Loyal," and Callow should be rephrased to “You cannot tax cities that you do not control.” As a result, $link:Empath's Bond$ when active only gives the Upstart the ability to use Rival starports to build and Catapult move.
   card: Upstart
 - faq:
     - q: >-
