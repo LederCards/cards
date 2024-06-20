@@ -1,44 +1,44 @@
-- id: ROOT/164
+- id: ROOT-164
   image: adset-setup-corvids
   name: 'ADSET: Corvid Conspiracy'
   tags:
     - ADSET
-- id: ROOT/171
+- id: ROOT-171
   image: adset-setup-duchy
   name: 'ADSET: Underground Duchy'
   tags:
     - ADSET
-- id: ROOT/180
+- id: ROOT-180
   image: adset-hirelings-corvids-big
   imageClass: rotated
   name: Corvid Spies
   tags:
     - Hirelings
-- id: ROOT/181
+- id: ROOT-181
   image: adset-hirelings-corvids-small
   imageClass: rotated
   name: Raven Sentries
   tags:
     - Hirelings
-- id: ROOT/184
+- id: ROOT-184
   image: adset-hirelings-duchy-big
   imageClass: rotated
   name: Sunward Expedition
   tags:
     - Hirelings
-- id: ROOT/185
+- id: ROOT-185
   image: adset-hirelings-duchy-small
   imageClass: rotated
   name: Mole Artisans
   tags:
     - Hirelings
-- id: ROOT/190
+- id: ROOT-190
   image: adset-hirelings-protector-big
   imageClass: rotated
   name: Furious Protector
   tags:
     - Hirelings
-- id: ROOT/191
+- id: ROOT-191
   image: adset-hirelings-protector-small
   imageClass: rotated
   name: Stoic Protector

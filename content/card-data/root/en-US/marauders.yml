@@ -1,11 +1,11 @@
-- id: ROOT/13
+- id: ROOT-13
   text: 'When you discard this card, remove it permanently.'
   image: badgers-retainer
   name: Faithful Retainer
   tags:
     - Marauders
 
-- id: ROOT/14
+- id: ROOT-14
   text: >-
     `symbol:item-hammer` In battle with warlord, before the roll, place one
     warrior in the battle clearing per mob you choose to removve from the battle
@@ -15,7 +15,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/15
+- id: ROOT-15
   text: >-
     `symbol:item-tea` Swap your Advance the Warlord step and Command the Hundreds
     step.
@@ -24,7 +24,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/16
+- id: ROOT-16
   text: >-
     `symbol:item-boot` After you incite your warlord's clearing, you may roll the
     mob die to place a mob _(as described in your Rage step)_ up to four times.
@@ -33,7 +33,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/17
+- id: ROOT-17
   text: >-
     At the end of Birdsong, you may remove any items from your Hoard to place
     two warriors per item removed into your warlord's clearing.
@@ -42,7 +42,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/18
+- id: ROOT-18
   text: >-
     `symbol:item-sack` Whenever you advance your warlord and both move and
     battle, you may move or battle with your warlord _(like half of an
@@ -52,7 +52,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/19
+- id: ROOT-19
   text: >-
     `symbol:item-coin` In Evening, draw one more card. If your warlord's clearing
     has three or more enemy pieces, draw two more cards instead.
@@ -61,7 +61,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/20
+- id: ROOT-20
   text: >-
     `symbol:item-crossbow` In battle with your warlord, you ignore the first hit
     you take.
@@ -70,7 +70,7 @@
   tags:
     - Marauders
     - Rats
-- id: ROOT/21
+- id: ROOT-21
   text: >-
     `symbol:item-sword` As attacker in battle with your warlord, you deal an
     extra hit _(When looting, you do deal this hit)_.

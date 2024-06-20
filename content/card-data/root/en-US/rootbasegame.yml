@@ -1,32 +1,32 @@
-- id: ROOT/0
+- id: ROOT-0
   text: Ignore your Disain for Trade when you craft.
   image: bird-builder
   name: Builder
   tags:
     - Base Game
     - Eyrie
-- id: ROOT/1
+- id: ROOT-1
   text: 'You place two warriors, not one, each time you recruit.'
   image: bird-charismatic
   name: Charismatic
   tags:
     - Base Game
     - Eyrie
-- id: ROOT/2
+- id: ROOT-2
   text: 'As attacker in battle, you deal an extra hit.'
   image: bird-commander
   name: Commander
   tags:
     - Base Game
     - Eyrie
-- id: ROOT/3
+- id: ROOT-3
   text: Score a point if you remove at least one building or token in battle.
   image: bird-despot
   name: Despot
   tags:
     - Base Game
     - Eyrie
-- id: ROOT/22
+- id: ROOT-22
   text: >-
     Protector: Before rolling in battle, the defender may enlist the Arbiter if
     he is in the battle's clearing. The Arbiter scores one point and adds
@@ -36,14 +36,14 @@
   tags:
     - Riverfolk
     - Vagabond
-- id: ROOT/23
+- id: ROOT-23
   text: 'Hideout: Repair three items. Then, immediately end daylight.'
   image: vagabond-ranger
   name: Ranger
   tags:
     - Riverfolk
     - Vagabond
-- id: ROOT/24
+- id: ROOT-24
   text: >-
     Scorched Earth: Place this torch in your clearing. Remove all enemy pieces
     there. Pieces can no longer be placed in or moved into this clearing.
@@ -52,21 +52,21 @@
   tags:
     - Riverfolk
     - Vagabond
-- id: ROOT/25
+- id: ROOT-25
   text: 'Steal: Take a random card from a player in your clearing'
   image: vagabond-thief
   name: Thief
   tags:
     - Base Game
     - Vagabond
-- id: ROOT/26
+- id: ROOT-26
   text: 'Day Labor: Take a card from the discard pile matching your clearing.'
   image: vagabond-tinker
   name: Tinker
   tags:
     - Base Game
     - Vagabond
-- id: ROOT/27
+- id: ROOT-27
   text: >-
     Instigate: Initiate a battle in your clearing. You choose both attacker and
     defender, and you remove pieces for both.
@@ -75,112 +75,112 @@
   tags:
     - Base Game
     - Vagabond
-- id: ROOT/31
+- id: ROOT-31
   image: quest-errandbunny
   name: Errand in a rabbit clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/32
+- id: ROOT-32
   image: quest-errandfox
   name: Errand in a fox clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/33
+- id: ROOT-33
   image: quest-escort
   name: Escort in a mouse clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/34
+- id: ROOT-34
   image: quest-expelbanditsbunny
   name: Expel Bandits in a rabbit clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/35
+- id: ROOT-35
   image: quest-expelbanditsmouse
   name: Expel Bandits in a mouse clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/36
+- id: ROOT-36
   image: quest-fendoffabearbunny
   name: Fend off a Bear in a rabbit clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/37
+- id: ROOT-37
   image: quest-fendoffabearmouse
   name: Fend off a Bear in a mouse clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/38
+- id: ROOT-38
   image: quest-fundraising
   name: Fundraising in a fox clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/39
+- id: ROOT-39
   image: quest-giveaspeechbunny
   name: Give a Speech in a rabbit clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/40
+- id: ROOT-40
   image: quest-giveaspeechfox
   name: Give a Speech in a fox clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/41
+- id: ROOT-41
   image: quest-guarddutybunny
   name: Guard Duty in a rabbit clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/42
+- id: ROOT-42
   image: quest-guarddutymouse
   name: Guard Duty in a mouse clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/43
+- id: ROOT-43
   image: quest-logisticshelpfox
   name: Logistics Help in a fox clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/44
+- id: ROOT-44
   image: quest-logisticshelpmouse
   name: Logistics Help in a mouse clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/45
+- id: ROOT-45
   image: quest-repairashed
   name: Repair a Shed in a fox clearing
   tags:
     - Base Game
     - Vagabond
     - Quest
-- id: ROOT/46
+- id: ROOT-46
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
@@ -189,7 +189,7 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/47
+- id: ROOT-47
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
@@ -198,7 +198,7 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/48
+- id: ROOT-48
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
@@ -207,7 +207,7 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/49
+- id: ROOT-49
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
     discard. Cancel if attacker plays matching ambush.
@@ -216,14 +216,14 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/50
+- id: ROOT-50
   image: card-anvil
   name: Anvil
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/51
+- id: ROOT-51
   text: 'In battle, may discard this to ignore all rolled hits taken.'
   image: card-armorers
   name: Armorers
@@ -231,28 +231,28 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/52
+- id: ROOT-52
   image: card-armstrader
   name: Arms Trader
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/53
+- id: ROOT-53
   image: card-avisittofriends
   name: A Visit To Friends
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/54
+- id: ROOT-54
   image: card-bakesale
   name: Bake Sale
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/55
+- id: ROOT-55
   text: 'At start of Birdsong, you and another player draw a card.'
   image: card-betterburrowbank
   name: Better Burrow Bank
@@ -260,14 +260,14 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/56
+- id: ROOT-56
   image: card-birdybindle
   name: Birdy Bindle
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/58
+- id: ROOT-58
   text: 'In battle as attacker, may deal an extra hit, but defender scores one point.'
   image: card-brutaltactics
   name: Brutal Tactics
@@ -275,7 +275,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/60
+- id: ROOT-60
   text: 'At start of Evening, may take a move.'
   image: card-cobbler
   name: Cobbler
@@ -283,7 +283,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/61
+- id: ROOT-61
   text: "Once in Daylight, may look at another player's hand."
   image: card-codebreakers
   name: Codebreakers
@@ -291,7 +291,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/63
+- id: ROOT-63
   text: 'At start of Daylight, may initiate a battle.'
   image: card-commandwarren
   name: Command Warren
@@ -299,21 +299,21 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/65
+- id: ROOT-65
   image: card-crossbowbird
   name: Crossbow
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/66
+- id: ROOT-66
   image: card-crossbowmouse
   name: Crossbow
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/67
+- id: ROOT-67
   text: >-
     You win the game if you rule two opposite corners at the start of your
     Birdsong.
@@ -322,7 +322,7 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/68
+- id: ROOT-68
   text: >-
     You win the game if you rule three bunny clearings at the start of your
     Birdsong.
@@ -331,7 +331,7 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/69
+- id: ROOT-69
   text: >-
     You win the game if you rule three fox clearings at the start of your
     Birdsong.
@@ -340,7 +340,7 @@
   tags:
     - Base Game
     - Standard Deck
-- id: ROOT/70
+- id: ROOT-70
   text: >-
     You win the game if you rule three mouse clearings at the start of your
     Birdsong.
@@ -350,7 +350,7 @@
     - Base Game
     - Standard Deck
 
-- id: ROOT/73
+- id: ROOT-73
   text: 'Remove all enemy pieces in fox clearings, then discard.'
   image: card-favorofthefoxes
   name: Favor of the Foxes
@@ -358,7 +358,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/74
+- id: ROOT-74
   text: 'Remove all enemy pieces in mouse clearings, then discard.'
   image: card-favorofthemice
   name: Favor of the Mice
@@ -366,7 +366,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/75
+- id: ROOT-75
   text: 'Remove all enemy pieces in bunny clearings, then discard.'
   image: card-favoroftherabbits
   name: Favor of the Rabbits
@@ -374,63 +374,63 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/76
+- id: ROOT-76
   image: card-foxfolksteel
   name: Foxfolk Steel
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/78
+- id: ROOT-78
   image: card-gentlyusedknapsack
   name: Gently Used Knapsack
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/80
+- id: ROOT-80
   image: card-investments
   name: Investments
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/83
+- id: ROOT-83
   image: card-mouseinasack
   name: Mouse-in-a-sack
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/87
+- id: ROOT-87
   image: card-protectionracket
   name: Protection Racket
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/89
+- id: ROOT-89
   image: card-rootteabunny
   name: Root Tea
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/90
+- id: ROOT-90
   image: card-rootteafox
   name: Root Tea
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/91
+- id: ROOT-91
   image: card-rootteamouse
   name: Root Tea
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/92
+- id: ROOT-92
   text: 'In Birdsong, may discard this to score one point per clearing you rule.'
   image: card-royalclaim
   name: Royal Claim
@@ -438,7 +438,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/94
+- id: ROOT-94
   text: 'In battle as defender, may discard this to deal an extra hit.'
   image: card-sappers
   name: Sappers
@@ -446,7 +446,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/95
+- id: ROOT-95
   text: 'As attacker in battle, you are not affected by ambush cards.'
   image: card-scoutingparty
   name: Scouting Party
@@ -454,14 +454,14 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/96
+- id: ROOT-96
   image: card-smugglerstrail
   name: Smuggler's Trail
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/98
+- id: ROOT-98
   text: >-
     In Daylight, reveal an order. If the spy reveals a bird card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
@@ -470,7 +470,7 @@
   tags:
     - Riverfolk
     - Mechanical Marquise 1.0
-- id: ROOT/99
+- id: ROOT-99
   text: >-
     In Daylight, reveal an order. If the spy reveals a bunny card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
@@ -479,7 +479,7 @@
   tags:
     - Riverfolk
     - Mechanical Marquise 1.0
-- id: ROOT/100
+- id: ROOT-100
   text: >-
     In Daylight, reveal an order. If the spy reveals a fox card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
@@ -488,7 +488,7 @@
   tags:
     - Riverfolk
     - Mechanical Marquise 1.0
-- id: ROOT/101
+- id: ROOT-101
   text: >-
     In Daylight, reveal an order. If the spy reveals a mouse card, discard the
     spy. If the spy is not discarded, you may swap any two order cards.
@@ -497,7 +497,7 @@
   tags:
     - Riverfolk
     - Mechanical Marquise 1.0
-- id: ROOT/102
+- id: ROOT-102
   text: >-
     In Birdsong, may take a random card from another player. That player scores
     one point.
@@ -507,14 +507,14 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/104
+- id: ROOT-104
   image: card-sword
   name: Sword
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/105
+- id: ROOT-105
   text: 'Once in Daylight, may remove one of your warriors to draw a card.'
   image: card-taxcollector
   name: Tax Collector
@@ -522,21 +522,21 @@
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/106
+- id: ROOT-106
   image: card-travelgearfox
   name: Travel Gear
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/107
+- id: ROOT-107
   image: card-travelgearmouse
   name: Travel Gear
   tags:
     - Base Game
     - Standard Deck
     - Craftable
-- id: ROOT/109
+- id: ROOT-109
   image: card-woodlandrunners
   name: Woodland Runners
   tags:
@@ -544,62 +544,62 @@
     - Standard Deck
     - Craftable
 
-- id: ROOT/152
+- id: ROOT-152
   image: intro-corvid
   name: Corvid Intro
   tags:
     - Learn to Play
-- id: ROOT/153
+- id: ROOT-153
   image: intro-cult
   name: Cult Intro
   tags:
     - Learn to Play
-- id: ROOT/154
+- id: ROOT-154
   image: intro-cult-2
   name: Cult Intro (2)
   tags:
     - Learn to Play
-- id: ROOT/155
+- id: ROOT-155
   image: intro-duchy
   name: Duchy Intro
   tags:
     - Learn to Play
-- id: ROOT/156
+- id: ROOT-156
   image: intro-eyrie
   name: Eyrie Intro
   tags:
     - Learn to Play
-- id: ROOT/157
+- id: ROOT-157
   image: intro-badgers
   name: Keepers in Iron Intro
   tags:
     - Learn to Play
-- id: ROOT/158
+- id: ROOT-158
   image: intro-rats
   name: Lord of the Hundreds Intro
   tags:
     - Learn to Play
-- id: ROOT/159
+- id: ROOT-159
   image: intro-marquise
   name: Marquise Intro
   tags:
     - Learn to Play
-- id: ROOT/160
+- id: ROOT-160
   image: intro-riverfolk
   name: Riverfolk Intro
   tags:
     - Learn to Play
-- id: ROOT/161
+- id: ROOT-161
   image: intro-riverfolk
   name: Riverfolk Intro (2)
   tags:
     - Learn to Play
-- id: ROOT/162
+- id: ROOT-162
   image: intro-vagabond
   name: Vagabond Intro
   tags:
     - Learn to Play
-- id: ROOT/163
+- id: ROOT-163
   image: intro-woodland
   name: Woodland Intro
   tags:

@@ -1,11 +1,11 @@
-- id: OATH/1
+- id: OATH-1
   text: + `symbol:diceb` if you sacrifice one warband in your force.
   image: Wrestlers
   name: Wrestlers
   tags:
     - Standard Deck
     - Order
-- id: OATH/2
+- id: OATH-2
   text: >-
     If you're victorious, gain `symbol:favor` `symbol:favor` from the
     `symbol:suit-order` bank.
@@ -14,35 +14,35 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/3
+- id: OATH-3
   text: "- `symbol:dicer` Kill one warband on the attacker's board."
   image: Bear Traps
   name: Bear Traps
   tags:
     - Standard Deck
     - Order
-- id: OATH/4
+- id: OATH-4
   text: ± `symbol:dicer`
   image: Longbows
   name: Longbows
   tags:
     - Standard Deck
     - Order
-- id: OATH/5
+- id: OATH-5
   text: +2 `symbol:diceb` if this site is targeted.
   image: Keep
   name: Keep
   tags:
     - Standard Deck
     - Order
-- id: OATH/6
+- id: OATH-6
   text: You can muster on cards that have `symbol:favor` or `symbol:secret` on them.
   image: Pressgangs
   name: Pressgangs
   tags:
     - Standard Deck
     - Order
-- id: OATH/7
+- id: OATH-7
   text: >-
     **When Played**, gain one warband per site you rule, and put one warband
     from your board on each site you rule.
@@ -51,14 +51,14 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/8
+- id: OATH-8
   text: Gain 1 Supply.
   image: Scouts
   name: Scouts
   tags:
     - Standard Deck
     - Order
-- id: OATH/9
+- id: OATH-9
   text: >-
     **Action**: Gain `symbol:favor` `symbol:favor` `symbol:favor` `symbol:favor`
     from any favor bank or banks.
@@ -68,7 +68,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/10
+- id: OATH-10
   text: >-
     If you're an Exile and defeat another Exile, you may become a Citizen- take
     no relic, end your Act Phase, and refresh supply to full _(leftmost)_.
@@ -77,7 +77,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/11
+- id: OATH-11
   text: You may draw from a discard pile in a different region instead of yours.
   image: Errand Boy
   name: Errand Boy
@@ -85,7 +85,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/12
+- id: OATH-12
   text: >-
     ±3 `symbol:dicer` If you're defeated while using this power, discard
     Mercenaries.
@@ -95,7 +95,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/13
+- id: OATH-13
   text: >-
     **Action**: Negotiate a binding exchange of `symbol:favor`, `symbol:secret`,
     and relics with any player.
@@ -104,7 +104,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/14
+- id: OATH-14
   text: >-
     Ignore all your enemy's rolls of single shields `symbol:shield`. At end,
     discard Rain Boots.
@@ -113,14 +113,14 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/15
+- id: OATH-15
   text: '**When Played**, Gain four warbands.'
   image: A Small Favor
   name: A Small Favor
   tags:
     - Standard Deck
     - Discord
-- id: OATH/16
+- id: OATH-16
   text: >-
     After you're victorious, you may travel and then may campaign, spending no
     Supply for either.
@@ -130,7 +130,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/17
+- id: OATH-17
   text: >-
     **Action**: Take `symbol:secret` from a player whose pawn is at your site.
     You cannot take their last `symbol:secret`.
@@ -140,7 +140,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/18
+- id: OATH-18
   text: >-
     **When Played**, if the ruler's pawn is not at this site, kill any warbands
     at this site, then gain a warband and place it here.
@@ -149,7 +149,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/19
+- id: OATH-19
   text: '**Action**: Peek at any one discard pile.'
   image: Scryer
   name: Scryer
@@ -157,7 +157,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/20
+- id: OATH-20
   text: +4 `symbol:dicer` if targeting a site that has an `symbol:suit-order` card.
   image: Disgraced Captain
   name: Disgraced Captain
@@ -165,7 +165,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/21
+- id: OATH-21
   text: >-
     **Rest**: If any Exile is the Oathkeeper or Usurper, take `symbol:favor`
     from the Chancellor.
@@ -174,7 +174,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/22
+- id: OATH-22
   text: >-
     **Action**: If you're victorious and targeted the defender's pawn, they also
     burn all of the `symbol:secret` on their board except their last.
@@ -183,7 +183,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/23
+- id: OATH-23
   text: >-
     **Action**: Each player burns all their `symbol:secret` except their last.
     _(The only `symbol:secret` you keep is the one here.)_
@@ -193,14 +193,14 @@
     - Standard Deck
     - Nomad
     - Power
-- id: OATH/24
+- id: OATH-24
   text: ±3 `symbol:dicer` At end, discard Horse Archers.
   image: Horse Archers
   name: Horse Archers
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/25
+- id: OATH-25
   text: >-
     Move any warbands to and from your board and any sites you rule _(except the
     last warband from a site)_. At end, discard Warning Signals.
@@ -209,7 +209,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/26
+- id: OATH-26
   text: '**Action**: Gain `symbol:favor`.'
   image: Elders
   name: Elders
@@ -217,7 +217,7 @@
     - Standard Deck
     - Nomad
     - Power
-- id: OATH/27
+- id: OATH-27
   text: >-
     **When Played**, any players in turn order may put their pawn on this site.
     Then, players with pawns here may negotiate binding exchanges of
@@ -227,14 +227,14 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/28
+- id: OATH-28
   text: '**When Played**, gain 4 Supply.'
   image: Faithful Friend
   name: Faithful Friend
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/29
+- id: OATH-29
   text: Spend no Supply if you're traveling to a site in your region.
   image: Tents
   name: Tents
@@ -242,7 +242,7 @@
     - Standard Deck
     - Nomad
     - Power
-- id: OATH/30
+- id: OATH-30
   text: >-
     **When Played**, you may swap Great Herd with a `symbol:suit-nomad` card at
     any site.
@@ -251,7 +251,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/31
+- id: OATH-31
   text: ±3 `symbol:dicer` if you hold the Darkest Secret.
   image: Fire Talkers
   name: Fire Talkers
@@ -259,7 +259,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/32
+- id: OATH-32
   text: >-
     If recovering the Darkest Secret, gain `symbol:secret` `symbol:secret` and
     add them to any other `symbol:secret` you're paying to recover it _(even
@@ -270,7 +270,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/33
+- id: OATH-33
   text: '**Action**: Take `symbol:favor` from any one favor bank.'
   image: Spirit Snare
   name: Spirit Snare
@@ -278,7 +278,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/34
+- id: OATH-34
   text: '**Action**: Gain `symbol:secret`, then end your Act Phase.'
   image: Wizard School
   name: Wizard School
@@ -286,7 +286,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/35
+- id: OATH-35
   text: >-
     **When Played**, discard all `symbol:suit-hearth` and `symbol:suit-order`
     cards at sites in your region.
@@ -295,7 +295,7 @@
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/36
+- id: OATH-36
   text: >-
     Act as if the Acting Troupe is a `symbol:suit-beast` or `symbol:suit-order`
     card instead.
@@ -304,7 +304,7 @@
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/37
+- id: OATH-37
   text: >-
     **Action**: Discard a `symbol:suit-beast` or `symbol:suit-nomad` card at
     your site to gain `symbol:favor` `symbol:favor` from the matching favor
@@ -315,7 +315,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/38
+- id: OATH-38
   text: >-
     **Action**: Peek at an adviser of a player whose pawn is at your site. If it
     is the Conspiracy, you play it or discard it. If it is not, give them the
@@ -326,7 +326,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/39
+- id: OATH-39
   text: '**Action**: Kill one warband _(even yours)_ on any one board.'
   image: Wolves
   name: Wolves
@@ -334,14 +334,14 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/40
+- id: OATH-40
   text: Spend no Supply if you're mustering on a `symbol:suit-beast` card.
   image: Animal Playmates
   name: Animal Playmates
   tags:
     - Standard Deck
     - Beast
-- id: OATH/41
+- id: OATH-41
   text: >-
     Your enemy **cannot** use battle plans that match any of your advisers
     against you.
@@ -350,7 +350,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/42
+- id: OATH-42
   text: >-
     If trading with The Old Oak for `symbol:secret`, gain one more
     `symbol:secret` if you have any `symbol:suit-beast` advisers.
@@ -359,7 +359,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/43
+- id: OATH-43
   text: >-
     Spend no Supply and ignore the powers of sites if you're traveling to a site
     with a `symbol:suit-beast` card.
@@ -369,7 +369,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/44
+- id: OATH-44
   text: >-
     **When Played**, if you're an Exile, you may become a Citizen- take no
     relic, end your Act Phase, and refresh Supply to full _(leftmost)_.
@@ -378,7 +378,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/45
+- id: OATH-45
   text: >-
     Ignore all skulls `symbol:skull` you roll. +2 `symbol:dicer` if the defense
     pool has 4+ `symbol:diceb`.
@@ -388,7 +388,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/46
+- id: OATH-46
   text: >-
     **Action**: Discard a denizen card at any other site and move this card
     there.
@@ -398,7 +398,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/47
+- id: OATH-47
   text: '**Action**: Gain 2 Supply.'
   image: Wayside Inn
   name: Wayside Inn
@@ -406,7 +406,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/48
+- id: OATH-48
   text: +2 `symbol:diceb`
   image: Extra Provisions
   name: Extra Provisions
@@ -414,7 +414,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/49
+- id: OATH-49
   text: >-
     **Action**: Move all `symbol:favor` from any one favor bank to the
     `symbol:suit-hearth` bank.
@@ -424,7 +424,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/50
+- id: OATH-50
   text: >-
     If you play a denizen card that was not a facedown adviser, gain
     `symbol:favor` from the `symbol:suit-hearth` bank.
@@ -433,7 +433,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/51
+- id: OATH-51
   text: >-
     If you're defeated, kill no warbands in your force and discard Traveling
     Doctor. **Ignore** powers that kill all of your force.
@@ -442,7 +442,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/52
+- id: OATH-52
   text: >-
     **Action**: Place `symbol:secret` from the shared bank on the Darkest
     Secret.
@@ -452,7 +452,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/53
+- id: OATH-53
   text: >-
     **Action**: Discard a faceup adviser from a player who holds the Darkest
     Secret but not the People's Favor.
@@ -462,28 +462,28 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/54
+- id: OATH-54
   text: "**Action**: Peek at the top three cards of your region's discard pile."
   image: Tavern Songs
   name: Tavern Songs
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/55
+- id: OATH-55
   text: If you gain only one `symbol:favor`, gain one more `symbol:favor`.
   image: Secret Signal
   name: Secret Signal
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/56
+- id: OATH-56
   text: '**Action**: Draw one more card. _(Stop after a Vision as normal.)_'
   image: Augury
   name: Augury
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/57
+- id: OATH-57
   text: >-
     If you hold the Darkest Secret, **ignore** all your enemy's rolls of hollow
     swords `symbol:swordh`.
@@ -493,7 +493,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/58
+- id: OATH-58
   text: >-
     Spend no Supply and **ignore** the powers of sites if you're traveling to or
     from this site.
@@ -503,7 +503,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/59
+- id: OATH-59
   text: >-
     If you're defeated, kill no warbands in your force. **Ignore** powers that
     kill all of your force.
@@ -513,7 +513,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/60
+- id: OATH-60
   text: >-
     Ignore all skills `symbol:skull` you roll. ±X `symbol:dicer` up to the
     number of other suits you rule.
@@ -523,7 +523,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/61
+- id: OATH-61
   text: >-
     **Action**: Kill any two warbands in your region _(at sites or on boards,
     even yours)_ if you hold the Darkest Secret.
@@ -533,7 +533,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/62
+- id: OATH-62
   text: >-
     **Action**: Sacrifice an even number of warbands on your board. For every
     two you sacrifice, gain `symbol:secret`.
@@ -543,7 +543,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/63
+- id: OATH-63
   text: >-
     **When Played**, each player, following turn order, may burn any number of
     `symbol:favor` to gain an equal number of `symbol:secret`.
@@ -552,14 +552,14 @@
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/64
+- id: OATH-64
   text: While your pawn is here, you may draw from any one discard pile.
   image: Observatory
   name: Observatory
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/65
+- id: OATH-65
   text: >-
     **Action**: Each player _(even you)_ places one `symbol:favor` per site they
     rule into the `symbol:suit-arcane` bank.
@@ -569,14 +569,14 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/66
+- id: OATH-66
   text: Your enemy's battle plans have an added cost of `symbol:secret`.
   image: Gleaming Armor
   name: Gleaming Armor
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/67
+- id: OATH-67
   text: >-
     **When Played**, if you're an Exile and have more `symbol:secret` _(even on
     cards)_ than the Chancellor, you may become a Citizen- take no relic, end
@@ -586,7 +586,7 @@
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/68
+- id: OATH-68
   text: >-
     If you rule Jinx, after you roll `symbol:dicer` or `symbol:diceb` for any
     reason, you may use this power to reroll all those dice once. _(This is not
@@ -597,7 +597,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/69
+- id: OATH-69
   text: '**Action**: Gain `symbol:secret`'
   image: Tutor
   name: Tutor
@@ -605,7 +605,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/70
+- id: OATH-70
   text: '**Action**: Swap any two facedown advisers.'
   image: Dream Thief
   name: Dream Thief
@@ -613,7 +613,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/71
+- id: OATH-71
   text: ± `symbol:dicer` per site targeted.
   image: Cracking Ground
   name: Cracking Ground
@@ -621,21 +621,21 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/72
+- id: OATH-72
   text: Your relics add one more `symbol:diceb` when targeted.
   image: Sealing Ward
   name: Sealing Ward
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/73
+- id: OATH-73
   text: To muster, you **must** place `symbol:secret` instead of `symbol:favor`.
   image: Initiation Rite
   name: Initiation Rite
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/74
+- id: OATH-74
   text: >-
     You **cannot** recover the Darkest Secret or give anyone `symbol:secret`.
     Whenever a player recovers it, you gain X `symbol:secret` equal to the
@@ -645,7 +645,7 @@
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/75
+- id: OATH-75
   text: >-
     **Action**: Place `symbol:secret` from the shared bank on the Darkest
     Secret, or burn `symbol:secret` from the Darkest Secret _(not last
@@ -656,7 +656,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/76
+- id: OATH-76
   text: >-
     While your pawn is at this site, you may trade with a card at any site in
     your region.
@@ -665,7 +665,7 @@
   tags:
     - Standard Deck
     - Arcane
-- id: OATH/77
+- id: OATH-77
   text: >-
     **Action**: Give `symbol:secret` to a player whose pawn is at your site to
     take `symbol:favor` `symbol:favor` from them, or give `symbol:favor`
@@ -676,7 +676,7 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/78
+- id: OATH-78
   text: >-
     Act as if you had another player's advisers instead. _(You can't use your
     other advisers.)_
@@ -686,14 +686,14 @@
     - Standard Deck
     - Arcane
     - Power
-- id: OATH/79
+- id: OATH-79
   text: '**When Played**, burn all `symbol:secret` but one from the Darkest Secret.'
   image: Charlatan
   name: Charlatan
   tags:
     - Standard Deck
     - Discord
-- id: OATH/80
+- id: OATH-80
   text: >-
     You can only have two advisers. **Action**: Discard a faceup adviser of a
     player whose pawn is at your site.
@@ -703,7 +703,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/81
+- id: OATH-81
   text: >-
     Gain two more warbands if mustering on a card whose favor bank has the least
     `symbol:favor` _(not tied)_.
@@ -712,7 +712,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/82
+- id: OATH-82
   text: >-
     **When Played**, choose a relic held by a player whose pawn is at your site.
     You take the relic unless they give you `symbol:favor` `symbol:favor`
@@ -722,7 +722,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/83
+- id: OATH-83
   text: ±4 `symbol:dicer` if your enemy has an `symbol:suit-arcane` adviser.
   image: Cracked Sage
   name: Cracked Sage
@@ -730,7 +730,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/84
+- id: OATH-84
   text: >-
     **When Played**, each player, except the holder of the People's Favor,
     places one `symbol:favor` on this card for each suit of card they rule.
@@ -739,7 +739,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/85
+- id: OATH-85
   text: >-
     **When Played**, if you're an Exile, gain one warband and put it on any
     revealed Vision. You now also have it revealed. If it is ever discarded,
@@ -749,7 +749,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/86
+- id: OATH-86
   text: >-
     You **cannot** recover the People's Favor. Whenever any player burns
     `symbol:favor`, you take the `symbol:favor` instead.
@@ -758,7 +758,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/87
+- id: OATH-87
   text: >-
     If the defending force is larger than your force, each warband you sacrifice
     will add three _(not one)_ to your attack.
@@ -768,7 +768,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/88
+- id: OATH-88
   text: >-
     **When Played**, if you're an Exile and rule more sites than the Chancellor,
     you may become a Citizen- take any one Reliquary relic without peeking, end
@@ -778,7 +778,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/89
+- id: OATH-89
   text: >-
     You **cannot** play Salt the Earth to a site with any locked cards. **When
     Played**, ignore this site's capacity. Discard all other denizens at this
@@ -788,7 +788,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/90
+- id: OATH-90
   text: >-
     Enemies cannot use `symbol:suit-beast` or `symbol:suit-nomad` battle plans
     against you.
@@ -797,7 +797,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/91
+- id: OATH-91
   text: >-
     **When Played**, if the People's Favor is on the Mob side, discard all other
     cards of the most common suit on the map. If there is a tie, you choose
@@ -807,7 +807,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/92
+- id: OATH-92
   text: >-
     You can only have two advisers. **Rest**: Take `symbol:favor` from a favor
     bank matching a card at your site.
@@ -816,7 +816,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/93
+- id: OATH-93
   text: >-
     **Action**: Roll 4 `symbol:diceb` and take X `symbol:favor` equal to the
     total `symbol:shield` result from any one favor bank.
@@ -826,7 +826,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/94
+- id: OATH-94
   text: >-
     If you travel to this site and do not rule this card, you **must** kill two
     warbands on your board if able.
@@ -835,7 +835,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/95
+- id: OATH-95
   text: >-
     After a player takes any relics and their pawn is in your region, you may
     use this power to roll one `symbol:diceb` per relic taken. If you roll no
@@ -846,7 +846,7 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/96
+- id: OATH-96
   text: '**Action**: Swap this card with any faceup adviser.'
   image: Enchantress
   name: Enchantress
@@ -854,14 +854,14 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/97
+- id: OATH-97
   text: 'You can only have two advisers. **Rest**: Gain `symbol:secret`.'
   image: Insomnia
   name: Insomnia
   tags:
     - Standard Deck
     - Discord
-- id: OATH/98
+- id: OATH-98
   text: >-
     After another player's campaign, you may campaign, spending no Supply, if
     you declare them as the defender.
@@ -870,14 +870,14 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/99
+- id: OATH-99
   text: Enemies of Gossip's ruler **cannot** play cards as facedown advisers.
   image: Gossip
   name: Gossip
   tags:
     - Standard Deck
     - Discord
-- id: OATH/100
+- id: OATH-100
   text: >-
     **When Played**, kill one warband at each site. While Bandit Chief is
     faceup, each site has two more bandits.
@@ -886,7 +886,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/101
+- id: OATH-101
   text: >-
     After another player takes the Oathkeeper title, you take `symbol:favor`
     from them.
@@ -895,7 +895,7 @@
   tags:
     - Standard Deck
     - Discord
-- id: OATH/102
+- id: OATH-102
   text: >-
     If you're victorious and targeted the defender's pawn, they burn all of the
     `symbol:favor` on their board _(not half)_.
@@ -905,21 +905,21 @@
     - Standard Deck
     - Discord
     - Power
-- id: OATH/103
+- id: OATH-103
   text: ±2 `symbol:dicer` but you **cannot** use other battle plans.
   image: Code of Honor
   name: Code of Honor
   tags:
     - Standard Deck
     - Order
-- id: OATH/104
+- id: OATH-104
   text: Ignore all skulls `symbol:skull` you roll.
   image: Outriders
   name: Outriders
   tags:
     - Standard Deck
     - Order
-- id: OATH/105
+- id: OATH-105
   text: >-
     **Action**: Move any warbands to and from your board and any sites you rule
     _(except the last warband from a site)_.
@@ -929,7 +929,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/106
+- id: OATH-106
   text: If you're victorious, gain three warbands.
   image: Field Promotion
   name: Field Promotion
@@ -937,7 +937,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/107
+- id: OATH-107
   text: >-
     **Action**: Choose a player whose pawn is at your site. Put your pawn on a
     site that they can travel to. Make them travel to that site, spending no
@@ -948,7 +948,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/108
+- id: OATH-108
   text: +2 `symbol:diceb` If you're defeated, **kill** all of your force.
   image: Shield Wall
   name: Shield Wall
@@ -956,7 +956,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/109
+- id: OATH-109
   text: >-
     If you're victorious, gain `symbol:favor` from the favor banks matching each
     adviser of your enemy _(including Imperial Allies)_.
@@ -965,7 +965,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/110
+- id: OATH-110
   text: >-
     Enemies of Tome Guardians' ruler **cannot** target or take the Darkest
     Secret in any way.
@@ -974,7 +974,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/111
+- id: OATH-111
   text: >-
     You **must** kill a warband _(even your own)_ at the site you travel to, if
     able.
@@ -983,7 +983,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/112
+- id: OATH-112
   text: >-
     Enemies **cannot** search if their pawn is at any site ruled by Forced
     Labor's ruler unless they give `symbol:favor` to its ruler. _(Give it to
@@ -993,7 +993,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/113
+- id: OATH-113
   text: >-
     Enemies **cannot** play Visions faceup while their pawn is at any site ruled
     by Secret Police's ruler.
@@ -1002,7 +1002,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/114
+- id: OATH-114
   text: The defender **cannot** use battle plans.
   image: Specialist
   name: Specialist
@@ -1010,7 +1010,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/115
+- id: OATH-115
   text: >-
     **Action**: Campaign at any site you rule. Act as if your pawn is there.
     Spend no Supply and add your warbands there to your force.
@@ -1020,7 +1020,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/116
+- id: OATH-116
   text: '**Action**: Kill two warbands _(even yours)_ at any one site in your region.'
   image: Siege Engines
   name: Siege Engines
@@ -1028,7 +1028,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/117
+- id: OATH-117
   text: >-
     **When Played**: take `symbol:favor` `symbol:favor` from each player whose
     pawn is at a site you rule in your pawn's region.
@@ -1037,7 +1037,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/118
+- id: OATH-118
   text: >-
     Enemies **cannot** travel to sites ruled by Toll Roads' ruler unless they
     give `symbol:favor` to its ruler. _(Give it to Chancellor if Empire, burn it
@@ -1047,7 +1047,7 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/119
+- id: OATH-119
   text: >-
     Enemies **cannot** trade with cards ruled by Curfew's ruler unless they give
     `symbol:favor` to its ruler. _(Give it to Chancellor if Empire, burn it if
@@ -1057,14 +1057,14 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/120
+- id: OATH-120
   text: After mustering, you may campaign, spending no Supply.
   image: Knights Errant
   name: Knights Errant
   tags:
     - Standard Deck
     - Order
-- id: OATH/121
+- id: OATH-121
   text: >-
     You **cannot** play Visions faceup. **Rest**: Take `symbol:favor` from any
     one favor bank.
@@ -1073,21 +1073,21 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/122
+- id: OATH-122
   text: After searching the world deck, you may campaign, spending no Supply.
   image: Hunting Party
   name: Hunting Party
   tags:
     - Standard Deck
     - Order
-- id: OATH/123
+- id: OATH-123
   text: If you're a Citizen, you **cannot** be exiled, even by yourself.
   image: Council Seat
   name: Council Seat
   tags:
     - Standard Deck
     - Order
-- id: OATH/124
+- id: OATH-124
   text: ±2 `symbol:dicer` if your force is larger than your enemy's.
   image: Encirclement
   name: Encirclement
@@ -1095,7 +1095,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/125
+- id: OATH-125
   text: >-
     You **cannot** use other battle plans. If your enemy's pawn is at your site,
     give them one `symbol:favor` per `symbol:diceb` in the pool. You're
@@ -1106,7 +1106,7 @@
     - Standard Deck
     - Order
     - Power
-- id: OATH/126
+- id: OATH-126
   text: >-
     You may target facedown relics at targeted sites, adding 1 `symbol:diceb`
     per relic. You may put any relics you take on the bottom of the relic deck.
@@ -1115,21 +1115,21 @@
   tags:
     - Standard Deck
     - Order
-- id: OATH/127
+- id: OATH-127
   text: '**Action**: Move one of your faceup advisers to your site.'
   image: Homesteaders
   name: Homesteaders
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/128
+- id: OATH-128
   text: If playing to a site, you may discard a denizen there first.
   image: Crop Rotation
   name: Crop Rotation
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/129
+- id: OATH-129
   text: >-
     **Action**: Return all `symbol:favor` and `symbol:secret`, and flip your
     `symbol:secret`, as in the Rest Phase, except for the `symbol:favor` here.
@@ -1139,7 +1139,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/130
+- id: OATH-130
   text: >-
     You may play two cards you draw _(instead of one)_ if you play at least one
     card to a site.
@@ -1149,7 +1149,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/131
+- id: OATH-131
   text: '**Action**: Take `symbol:favor` from a player whose pawn is at your site.'
   image: Charming Friend
   name: Charming Friend
@@ -1157,14 +1157,14 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/132
+- id: OATH-132
   text: ±2 `symbol:dicer` unless your enemy has the People's Favor.
   image: Village Constable
   name: Village Constable
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/133
+- id: OATH-133
   text: >-
     **When Played**, draw a relic. Take it or put it on the bottom of the relic
     deck.
@@ -1173,7 +1173,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/134
+- id: OATH-134
   text: Spend no Supply.
   image: News from Afar
   name: News from Afar
@@ -1181,7 +1181,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/135
+- id: OATH-135
   text: >-
     **Action**: Move `symbol:favor` `symbol:favor` from the favor bank from the
     most `symbol:favor` to that with the least `symbol:favor`. You decide ties.
@@ -1191,7 +1191,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/136
+- id: OATH-136
   text: >-
     **When Played**, take X `symbol:favor` equal to the number of
     `symbol:suit-hearth` cards you rule _(including Fabled Feast)_ from any one
@@ -1201,7 +1201,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/137
+- id: OATH-137
   text: >-
     ±3 `symbol:dicer` and **ignore** all skulls `symbol:skull` you roll, unless
     your enemy has the People's Favor.
@@ -1211,7 +1211,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/138
+- id: OATH-138
   text: >-
     As defender, you're victorious now. At end, discard Hearts and Minds unless
     you hold the People's Favor.
@@ -1221,7 +1221,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/139
+- id: OATH-139
   text: >-
     **Action**: Put a facedown relic at your site on the bottom of the relic
     deck to gain three warbands.
@@ -1231,7 +1231,7 @@
     - Standard Deck
     - Hearth
     - Power
-- id: OATH/140
+- id: OATH-140
   text: >-
     After another player plays a Vision faceup, you gain `symbol:favor`
     `symbol:favor` from any one favor bank.
@@ -1240,7 +1240,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/141
+- id: OATH-141
   text: >-
     **Action**: If you're an Exile and have the People's Favor, become a
     Citizen- take no relic, end your Act Phase, and refresh Supply to full.
@@ -1249,7 +1249,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/142
+- id: OATH-142
   text: >-
     After another player plays a `symbol:suit-nomad` or `symbol:suit-order`
     card, you gain `symbol:favor` `symbol:favor` from the matching favor bank.
@@ -1258,7 +1258,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/143
+- id: OATH-143
   text: >-
     After another player campaigns against a player _(not bandits)_, you gain
     `symbol:favor` from any favor bank.
@@ -1267,14 +1267,14 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/144
+- id: OATH-144
   text: Gain one more warband if mustering from Rowdy Pub.
   image: Rowdy Pub
   name: Rowdy Pub
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/145
+- id: OATH-145
   text: >-
     You **cannot** campaign. Attackers **cannot** sacrifice warbands to increase
     their attack against you.
@@ -1283,7 +1283,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/146
+- id: OATH-146
   text: >-
     **Action**: Negotiate a binding exchange of `symbol:favor`, `symbol:secret`,
     and ruled sites with any player. Old ruler moves warbands to board, and new
@@ -1293,7 +1293,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/147
+- id: OATH-147
   text: >-
     **When Played**, gain `symbol:favor` `symbol:favor` `symbol:favor`- one each
     from three different favor banks.
@@ -1302,7 +1302,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/148
+- id: OATH-148
   text: >-
     Marriage counts as two `symbol:suit-hearth` advisers, but only counts as one
     toward your adviser limit.
@@ -1311,7 +1311,7 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/149
+- id: OATH-149
   text: >-
     If any of your warbands would be killed, place them on Hospital's site
     instead if you still rule it.
@@ -1320,14 +1320,14 @@
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/150
+- id: OATH-150
   text: Spend no Supply if you sacrifice one warband from your board.
   image: Awaited Return
   name: Awaited Return
   tags:
     - Standard Deck
     - Hearth
-- id: OATH/151
+- id: OATH-151
   text: >-
     **Action**: Take another region's discard pile and put it on top of your
     region's discard pile _(even if empty)_.
@@ -1336,7 +1336,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/152
+- id: OATH-152
   text: >-
     Move all of your `symbol:favor` to the `symbol:suit-nomad` bank. Any
     `symbol:favor` you gain or take is put in the `symbol:suit-nomad` bank. You
@@ -1347,7 +1347,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/153
+- id: OATH-153
   text: >-
     If you would discard any number of `symbol:suit-nomad` battle plans, you may
     instead discard any one `symbol:suit-beast` you rule.
@@ -1356,14 +1356,14 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/154
+- id: OATH-154
   text: Double your total attack roll. At end, discard Lancers.
   image: Lancers
   name: Lancers
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/155
+- id: OATH-155
   text: ±1 `symbol:dicer` or ±3. At end, discard.
   image: Mountain Giant
   name: Mountain Giant
@@ -1371,7 +1371,7 @@
     - Standard Deck
     - Nomad
     - Power
-- id: OATH/156
+- id: OATH-156
   text: >-
     ±4 `symbol:dicer` if your enemy has a `symbol:suit-nomad` adviser. At end,
     discard Rival Khan.
@@ -1380,7 +1380,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/157
+- id: OATH-157
   text: >-
     Other players **cannot** target or take your relics or banners in any way
     unless they rule a `symbol:suit-nomad` card.
@@ -1389,14 +1389,14 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/158
+- id: OATH-158
   text: Spend no Supply. After traveling, end your Act Phase.
   image: Special Envoy
   name: Special Envoy
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/159
+- id: OATH-159
   text: >-
     **Action**: Move a faceup `symbol:suit-nomad` card from any player's
     advisers to any site.
@@ -1405,7 +1405,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/160
+- id: OATH-160
   text: >-
     **Action**: Draw the Vision closest to the top of the world deck. Play or
     discard it as if you searched.
@@ -1415,7 +1415,7 @@
     - Standard Deck
     - Nomad
     - Power
-- id: OATH/161
+- id: OATH-161
   text: >-
     **When Played**, move all denizens at your site to the Dispossessed. Shuffle
     and draw denizens from the Dispossessed equal to the number you moved. Peek
@@ -1425,7 +1425,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/162
+- id: OATH-162
   text: >-
     Enemies of Spell Breaker's ruler **cannot** use powers that cost any
     `symbol:secret` or `symbol:secretb`.
@@ -1434,7 +1434,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/163
+- id: OATH-163
   text: >-
     The attacker rolls only half the `symbol:dicer` in their attack pool,
     rounded down. At end, discard Mounted Patrol.
@@ -1443,7 +1443,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/164
+- id: OATH-164
   text: >-
     ± `symbol:dicer` per `symbol:suit-nomad` card you rule. At end, discard
     Great Crusade.
@@ -1452,14 +1452,14 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/165
+- id: OATH-165
   text: Your enemies act as if denizens and relics at sites you rule are **locked**.
   image: Ancient Bloodline
   name: Ancient Bloodline
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/166
+- id: OATH-166
   text: >-
     **When Played**, you may give the Chancellor the Darkest Secret to become a
     Citizen- take any one Reliquary relic without peeking, end your Act Phase,
@@ -1469,14 +1469,14 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/167
+- id: OATH-167
   text: +2 `symbol:diceb` At end, discard Storm Caller.
   image: Storm Caller
   name: Storm Caller
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/168
+- id: OATH-168
   text: >-
     You can only have one adviser that is not a `symbol:suit-nomad`. You can
     have any number of `symbol:suit-nomad` advisers- they **ignore** your
@@ -1486,7 +1486,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/169
+- id: OATH-169
   text: >-
     Spend no Supply if you're traveling to this site and either rule Way Station
     or choose to give `symbol:favor` to its ruler. _(Give it to Chancellor if
@@ -1496,7 +1496,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/170
+- id: OATH-170
   text: >-
     **When Played**, you may swap this card with a faceup `symbol:suit-nomad`
     adviser of another player.
@@ -1505,7 +1505,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/171
+- id: OATH-171
   text: >-
     After traveling, gain `symbol:favor` from one favor bank that matches both a
     card at your site and one of your advisers.
@@ -1514,7 +1514,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/172
+- id: OATH-172
   text: Spend no Supply if you have three or fewer warbands on your board.
   image: A Fast Steed
   name: A Fast Steed
@@ -1522,14 +1522,14 @@
     - Standard Deck
     - Nomad
     - Power
-- id: OATH/173
+- id: OATH-173
   text: After you recover a relic, gain 3 Supply.
   image: Relic Worship
   name: Relic Worship
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/174
+- id: OATH-174
   text: >-
     Players **cannot** play Visions, except the Conspiracy, faceup, unless their
     pawn is at this site.
@@ -1538,7 +1538,7 @@
   tags:
     - Standard Deck
     - Nomad
-- id: OATH/175
+- id: OATH-175
   text: ± `symbol:dicer` per `symbol:suit-beast` adviser you have.
   image: Nature Worship
   name: Nature Worship
@@ -1546,7 +1546,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/176
+- id: OATH-176
   text: >-
     Spend no Supply if you're trading with a `symbol:suit-beast` or
     `symbol:suit-nomad` card.
@@ -1555,7 +1555,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/177
+- id: OATH-177
   text: >-
     Act as if your pawn is at any site with a `symbol:suit-beast` card. _(You
     may use Trade modifiers there.)_
@@ -1564,7 +1564,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/178
+- id: OATH-178
   text: >-
     Enemies traveling from any site ruled by Grasping Vines' ruler **must** kill
     one warband on their board if able.
@@ -1573,7 +1573,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/179
+- id: OATH-179
   text: >-
     **When Played**, discard all `symbol:suit-nomad` and `symbol:suit-beast`
     cards at sites in your region.
@@ -1582,7 +1582,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/180
+- id: OATH-180
   text: >-
     **Action**: Draw a relic and take it. Put any relic you hold except the
     Grand Scepter on the bottom of the relic deck.
@@ -1591,7 +1591,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/181
+- id: OATH-181
   text: >-
     **Action**: Kill one warband on the board of a player who has an
     `symbol:suit-order` or `symbol:suit-discord` adviser to gain one warband.
@@ -1601,7 +1601,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/182
+- id: OATH-182
   text: >-
     This card ignores the adviser limit. **Action**: Move this card to any other
     player's advisers. Take `symbol:favor` `symbol:favor` from them.
@@ -1611,7 +1611,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/183
+- id: OATH-183
   text: >-
     Spend no Supply, but draw only one card _(not three)_ from the bottom of
     your region's discard pile.
@@ -1621,14 +1621,14 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/184
+- id: OATH-184
   text: Your enemy's battle plans each have an added cost of `symbol:favorb`.
   image: Insect Swarm
   name: Insect Swarm
   tags:
     - Standard Deck
     - Beast
-- id: OATH/185
+- id: OATH-185
   text: >-
     In campaigns, warbands at sites you rule add to your attacking force. You
     **cannot** travel from a site you rule if any warbands are on your board.
@@ -1637,7 +1637,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/186
+- id: OATH-186
   text: >-
     Whenever a player attacks you, they **must** declare targets that add an
     even total _(2, 4, etc)_ of `symbol:diceb` to your defense pool.
@@ -1646,7 +1646,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/187
+- id: OATH-187
   text: >-
     **Ignore** all attack or defense added by your enemy's rolls of
     `symbol:sword` `symbol:sword` `symbol:skull` or `symbol:shield`
@@ -1656,7 +1656,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/188
+- id: OATH-188
   text: >-
     You may play `symbol:suit-beast` and `symbol:suit-hearth` cards to any site
     _(that has space)_.
@@ -1665,14 +1665,14 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/189
+- id: OATH-189
   text: If you play a `symbol:suit-beast` card, gain 1 Supply and 2 warbands.
   image: Wild Cry
   name: Wild Cry
   tags:
     - Standard Deck
     - Beast
-- id: OATH/190
+- id: OATH-190
   text: >-
     **When Played**, gain warbands equal to the total number of
     `symbol:suit-beast` cards _(including Animal Host)_ at any sites
@@ -1682,7 +1682,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/191
+- id: OATH-191
   text: >-
     **Action**: Move a total of X `symbol:favor` from any favor banks to the
     `symbol:suit-beast` bank. X is the number of `symbol:suit-beast` cards on
@@ -1693,14 +1693,14 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/192
+- id: OATH-192
   text: Players who target this site **cannot** use battle plans.
   image: Marsh Spirit
   name: Marsh Spirit
   tags:
     - Standard Deck
     - Beast
-- id: OATH/193
+- id: OATH-193
   text: >-
     You **cannot** gain `symbol:favor` from Trade. **Rest**: If you have no
     `symbol:favor`, take `symbol:favor` `symbol:favor` from any one favor bank.
@@ -1709,7 +1709,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/194
+- id: OATH-194
   text: >-
     Enemies of Forest Council's rule **cannot** trade with or must from
     `symbol:suit-beast` cards.
@@ -1718,7 +1718,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/195
+- id: OATH-195
   text: >-
     ± `symbol:diceb` per `symbol:suit-beast` at any sites if this site is
     targeted.
@@ -1727,7 +1727,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/196
+- id: OATH-196
   text: >-
     You **must** muster on a card that matching any of your advisers, but you
     gain one more warband.
@@ -1736,7 +1736,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/197
+- id: OATH-197
   text: >-
     You may put all the cards you discard on the top or bottom of any one
     discard pile _(even your region's)_.
@@ -1745,7 +1745,7 @@
   tags:
     - Standard Deck
     - Beast
-- id: OATH/198
+- id: OATH-198
   text: >-
     **Action**: Campaign at any site with a `symbol:suit-beast` card. Act as if
     your pawn is there. Spend no Supply and add your warbands there to your
@@ -1756,7 +1756,7 @@
     - Standard Deck
     - Beast
     - Power
-- id: OATH/199
+- id: OATH-199
   text: >-
     Each site ruled by Sprawling Rampart's ruler adds one more `symbol:diceb`
     when targeted.
@@ -1766,7 +1766,7 @@
     - Standard Deck
     - Edifice
     - Order
-- id: OATH/200
+- id: OATH-200
   text: '-2 `symbol:dicer` if this site is targeted.'
   image: Bandit Rampart
   name: Bandit Rampart
@@ -1774,7 +1774,7 @@
     - Standard Deck
     - Edifice
     - Order
-- id: OATH/201
+- id: OATH-201
   text: Players **cannot** target the People's Favor
   image: Hall of Debate
   name: Hall of Debate
@@ -1782,7 +1782,7 @@
     - Standard Deck
     - Edifice
     - Hearth
-- id: OATH/202
+- id: OATH-202
   text: Recovering the People's Favor always flips it to the Mob side.
   image: Hall of Mockery
   name: Hall of Mockery
@@ -1790,7 +1790,7 @@
     - Standard Deck
     - Edifice
     - Hearth
-- id: OATH/203
+- id: OATH-203
   text: In the Chronicle, do not discard sites with any `symbol:suit-beast` cards.
   image: Forest Temple
   name: Forest Temple
@@ -1798,7 +1798,7 @@
     - Standard Deck
     - Edifice
     - Beast
-- id: OATH/204
+- id: OATH-204
   text: >-
     Enemies of Ruined Temple's ruler **cannot** play `symbol:suit-beast` cards
     faceup.
@@ -1808,7 +1808,7 @@
     - Standard Deck
     - Edifice
     - Beast
-- id: OATH/205
+- id: OATH-205
   text: >-
     **Action**: Negotiate a binding exchange of `symbol:favor`, `symbol:secret`,
     and advisers with any player.
@@ -1818,7 +1818,7 @@
     - Standard Deck
     - Edifice
     - Discord
-- id: OATH/206
+- id: OATH-206
   text: >-
     Whenever the `symbol:dicer` is rolled to end the game, Squalid District's
     ruler may increase or decrease this roll by one. Citizens **cannot** use
@@ -1829,7 +1829,7 @@
     - Standard Deck
     - Edifice
     - Discord
-- id: OATH/207
+- id: OATH-207
   text: >-
     You may swap any number of denizens you draw with random cards from the
     Dispossessed.
@@ -1840,7 +1840,7 @@
     - Edifice
     - Arcane
     - Power
-- id: OATH/208
+- id: OATH-208
   text: >-
     **Action**: Swap up to five denizens from the top of your region's discard
     pile _(skipping Visions)_ with random cards from the Dispossessed.
@@ -1851,7 +1851,7 @@
     - Edifice
     - Arcane
     - Power
-- id: OATH/209
+- id: OATH-209
   text: '**Action**: Draw a relic. Take it or put it on the bottom of the relic deck.'
   image: Ancient Forge
   name: Ancient Forge
@@ -1860,7 +1860,7 @@
     - Edifice
     - Nomad
     - Power
-- id: OATH/210
+- id: OATH-210
   text: '**Action**: Flip this card over.'
   image: Broken Forge
   name: Broken Forge
@@ -1869,7 +1869,7 @@
     - Edifice
     - Nomad
     - Power
-- id: OATH/211
+- id: OATH-211
   meta:
     defense: 2
   name: Sticky Fire
@@ -1881,7 +1881,7 @@
     If you do, you **must** give them `symbol:favor` if able.
   image: Sticky Fire
   imageClass: square
-- id: OATH/212
+- id: OATH-212
   meta:
     defense: 3
   name: Cursed Cauldron
@@ -1893,7 +1893,7 @@
     campaign.
   image: Cursed Cauldron
   imageClass: square
-- id: OATH/213
+- id: OATH-213
   meta:
     defense: 2
   name: Brass Horse
@@ -1907,7 +1907,7 @@
     Supply.
   image: Brass Horse
   imageClass: square
-- id: OATH/214
+- id: OATH-214
   meta:
     defense: 2
   name: Truthful Harp
@@ -1919,7 +1919,7 @@
     card you draw and the card you keep.
   image: Truthful Harp
   imageClass: square
-- id: OATH/215
+- id: OATH-215
   meta:
     defense: 2
   name: Grand Mask
@@ -1931,7 +1931,7 @@
     Imperial sites, and Imperial players do not.
   image: Grand Mask
   imageClass: square
-- id: OATH/216
+- id: OATH-216
   meta:
     defense: 2
   name: Horned Mask
@@ -1942,7 +1942,7 @@
   text: '**Action**: Swap one of your faceup advisers with a card at your site.'
   image: Horned Mask
   imageClass: square
-- id: OATH/217
+- id: OATH-217
   meta:
     defense: 2
   name: Cup of Plenty
@@ -1954,7 +1954,7 @@
     advisers.
   image: Cup of Plenty
   imageClass: square
-- id: OATH/218
+- id: OATH-218
   meta:
     defense: 2
   name: Whistle
@@ -1967,7 +1967,7 @@
     if able, spending no Supply. If they do, give them the `symbol:secret` here.
   image: Whistle
   imageClass: square
-- id: OATH/219
+- id: OATH-219
   meta:
     defense: 3
   name: Dowsing Sticks
@@ -1978,7 +1978,7 @@
   text: '**Action**: Draw a relic. Take it or put it on the bottom of the relic deck.'
   image: Dowsing Sticks
   imageClass: square
-- id: OATH/220
+- id: OATH-220
   meta:
     defense: 2
   name: Cracked Horn
@@ -1988,7 +1988,7 @@
   text: You may put all the cards you discard on the bottom of the world deck.
   image: Cracked Horn
   imageClass: square
-- id: OATH/221
+- id: OATH-221
   meta:
     defense: 3
   name: Bandit Crown
@@ -2000,7 +2000,7 @@
     rule empty sites.)_ They **cannot** be killed, moved, or sacrificed.
   image: Bandit Crown
   imageClass: square
-- id: OATH/222
+- id: OATH-222
   meta:
     defense: 3
   name: Ring of Devotion
@@ -2012,7 +2012,7 @@
     warbands.
   image: Ring of Devotion
   imageClass: square
-- id: OATH/223
+- id: OATH-223
   meta:
     defense: 3
   name: Skeleton Key
@@ -2025,7 +2025,7 @@
     Imperial Reliquary, and you may take it.
   image: Skeleton Key
   imageClass: square
-- id: OATH/224
+- id: OATH-224
   meta:
     defense: 2
   name: Oracular Pig
@@ -2035,7 +2035,7 @@
   text: '**Action**: Peek at the top three cards of the world deck.'
   image: Oracular Pig
   imageClass: square
-- id: OATH/225
+- id: OATH-225
   meta:
     defense: 1
   name: Circlet of Command
@@ -2047,7 +2047,7 @@
     campaigns, banishing your pawn and favor adds one more `symbol:diceb`.
   image: Circlet of Command
   imageClass: square
-- id: OATH/226
+- id: OATH-226
   meta:
     defense: 2
   name: Ivory Eye
@@ -2058,7 +2058,7 @@
   text: '**Action**: Peek at any facedown site, adviser, or relic at any site.'
   image: Ivory Eye
   imageClass: square
-- id: OATH/227
+- id: OATH-227
   meta:
     defense: 3
   name: Map
@@ -2068,7 +2068,7 @@
   text: '**Action**: Put this relic on the bottom of the relic deck to gain 4 Supply.'
   image: Map
   imageClass: square
-- id: OATH/228
+- id: OATH-228
   meta:
     defense: 2
   name: Obsidian Cage
@@ -2081,7 +2081,7 @@
     Cage to any board of the same color.
   image: Obsidian Cage
   imageClass: square
-- id: OATH/229
+- id: OATH-229
   meta:
     defense: 2
   name: Book of Records
@@ -2093,7 +2093,7 @@
     a site.
   image: Book of Records
   imageClass: square
-- id: OATH/230
+- id: OATH-230
   meta:
     defense: 2
   name: Dragonskin Drum
@@ -2103,7 +2103,7 @@
   text: After traveling, gain one warband.
   image: Dragonskin Drum
   imageClass: square
-- id: OATH/231
+- id: OATH-231
   meta:
     defense: 5
   name: The Grand Scepter
@@ -2116,7 +2116,7 @@
     Citizen except yourself.
   image: The Grand Scepter
   imageClass: square
-- id: OATH/232
+- id: OATH-232
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Anyone** can play
     his face up._ **When Played**: You may burn `symbol:secret` to take one
@@ -2130,7 +2130,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH/233
+- id: OATH-233
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you hold
@@ -2141,7 +2141,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH/234
+- id: OATH-234
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you hold
@@ -2152,7 +2152,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH/235
+- id: OATH-235
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you hold
@@ -2164,7 +2164,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH/236
+- id: OATH-236
   text: >-
     _If drawn from the world deck, increase Visions Drawn. **Exiles** can play
     this face up on their Revealed Vision space._ **Wake**: You win if you rule
@@ -2175,7 +2175,7 @@
   tags:
     - Standard Deck
     - Vision
-- id: OATH/237
+- id: OATH-237
   meta:
     cardcapacity: 1
     defense: 2
@@ -2189,7 +2189,7 @@
     warbands.
   image: Ancient City
   imageClass: rotated
-- id: OATH/238
+- id: OATH-238
   meta:
     cardcapacity: 1
     defense: 1
@@ -2202,7 +2202,7 @@
     you **ignore** the Narrow Pass tower.
   image: Barren Coast
   imageClass: rotated
-- id: OATH/239
+- id: OATH-239
   meta:
     cardcapacity: 2
     defense: 1
@@ -2216,7 +2216,7 @@
     cannot be used to pay a cost.)_
   image: Buried Giant
   imageClass: rotated
-- id: OATH/240
+- id: OATH-240
   meta:
     cardcapacity: 3
     defense: 1
@@ -2229,7 +2229,7 @@
     example, traveling from the Provinces costs 3 Supply, not 2 Supply.)_
   image: Charming Valley
   imageClass: rotated
-- id: OATH/241
+- id: OATH-241
   meta:
     cardcapacity: 2
     defense: 1
@@ -2243,7 +2243,7 @@
     relic here, treating this as recovering it.
   image: Deep Woods
   imageClass: rotated
-- id: OATH/242
+- id: OATH-242
   meta:
     cardcapacity: 0
     defense: 0
@@ -2256,7 +2256,7 @@
     `symbol:secret` from this site.
   image: Drowned City
   imageClass: rotated
-- id: OATH/243
+- id: OATH-243
   meta:
     cardcapacity: 3
     defense: 1
@@ -2269,7 +2269,7 @@
     `symbol:suit-hearth` card here during this turn, you get `symbol:favor`.
   image: Fertile Valley
   imageClass: rotated
-- id: OATH/244
+- id: OATH-244
   meta:
     cardcapacity: 3
     defense: 1
@@ -2282,7 +2282,7 @@
     first.
   image: Great Slum
   imageClass: rotated
-- id: OATH/245
+- id: OATH-245
   meta:
     cardcapacity: 2
     defense: 1
@@ -2298,7 +2298,7 @@
     breaks it!)_
   image: The Tribunal
   imageClass: rotated
-- id: OATH/246
+- id: OATH-246
   meta:
     cardcapacity: 3
     defense: 1
@@ -2311,7 +2311,7 @@
     you **ignore** the Narrow Pass tower.
   image: Lush Coast
   imageClass: rotated
-- id: OATH/247
+- id: OATH-247
   meta:
     cardcapacity: 2
     defense: 1
@@ -2322,7 +2322,7 @@
   text: When searching, you **must** draw one fewer card if your pawn is here.
   image: Marshes
   imageClass: rotated
-- id: OATH/248
+- id: OATH-248
   meta:
     cardcapacity: 1
     defense: 1
@@ -2335,7 +2335,7 @@
     `symbol:favor` from this site.
   image: Mine
   imageClass: rotated
-- id: OATH/249
+- id: OATH-249
   meta:
     cardcapacity: 2
     defense: 1
@@ -2348,7 +2348,7 @@
     targets at this site _(even if you rule)_.
   image: Mountain
   imageClass: rotated
-- id: OATH/250
+- id: OATH-250
   meta:
     cardcapacity: 1
     defense: 1
@@ -2363,7 +2363,7 @@
     rule it.
   image: Narrow Pass
   imageClass: rotated
-- id: OATH/251
+- id: OATH-251
   meta:
     cardcapacity: 3
     defense: 1
@@ -2376,7 +2376,7 @@
     this site _(even if you rule)_.
   image: Plains
   imageClass: rotated
-- id: OATH/252
+- id: OATH-252
   meta:
     cardcapacity: 2
     defense: 1
@@ -2389,7 +2389,7 @@
     rule this site.
   image: River
   imageClass: rotated
-- id: OATH/253
+- id: OATH-253
   meta:
     cardcapacity: 2
     defense: 1
@@ -2402,7 +2402,7 @@
     you **ignore** the Narrow Pass tower.
   image: Rocky Coast
   imageClass: rotated
-- id: OATH/254
+- id: OATH-254
   meta:
     cardcapacity: 2
     defense: 1
@@ -2415,7 +2415,7 @@
     `symbol:favor` or `symbol:secret` from this site.
   image: Salt Flats
   imageClass: rotated
-- id: OATH/255
+- id: OATH-255
   meta:
     cardcapacity: 2
     defense: 1
@@ -2430,7 +2430,7 @@
     the Empire)_, even if another player is making you travel.
   image: Shrouded Wood
   imageClass: rotated
-- id: OATH/256
+- id: OATH-256
   meta:
     cardcapacity: 2
     defense: 1
@@ -2444,7 +2444,7 @@
     `symbol:secret`.
   image: Standing Stones
   imageClass: rotated
-- id: OATH/257
+- id: OATH-257
   meta:
     cardcapacity: 2
     defense: 1
@@ -2458,7 +2458,7 @@
     `symbol:secret`.
   image: Steppe
   imageClass: rotated
-- id: OATH/258
+- id: OATH-258
   meta:
     cardcapacity: 2
     defense: 1
@@ -2471,7 +2471,7 @@
     flip one secret on your board facedown.
   image: The Hidden Place
   imageClass: rotated
-- id: OATH/259
+- id: OATH-259
   meta:
     cardcapacity: 1
     defense: 1
@@ -2485,7 +2485,7 @@
     the relic here, treating this as recovering it.
   image: Wastes
   imageClass: rotated
-- id: OATH/260
+- id: OATH-260
   text: >-
     **Recovery**: Players can only recover this from you if there is a card at
     your site whose suit does not match any of your advisers. _(You can recover
@@ -2499,7 +2499,7 @@
   name: Banner of the Darkest Secret
   tags:
     - Reference
-- id: OATH/261
+- id: OATH-261
   text: >-
     **Recovery**: Put more `symbol:favor` here than old `symbol:favor`. Put old
     `symbol:favor` in the favor banks, one by one, starting with any suit. Then,
@@ -2513,7 +2513,7 @@
   name: Banner of the Mob's Favor
   tags:
     - Reference
-- id: OATH/262
+- id: OATH-262
   text: >-
     **Recovery**: Put more `symbol:favor` here than old `symbol:favor`. Put old
     `symbol:favor` in the favor banks, one by one, starting with any suit.
@@ -2527,7 +2527,7 @@
   name: Banner of the People's Favor
   tags:
     - Reference
-- id: OATH/263
+- id: OATH-263
   text: >-
     Oathkeeper of Devotion holds the Darkest Secret. Successor to the Chancellor
     holds the Grand Scepter.
@@ -2535,7 +2535,7 @@
   name: Oathkeeper of Devotion
   tags:
     - Reference
-- id: OATH/264
+- id: OATH-264
   text: >-
     Oathkeeper of Protection holds the most relics and banners. Successor to the
     Chancellor holds the People's Favor.
@@ -2543,7 +2543,7 @@
   name: Oathkeeper of Protection
   tags:
     - Reference
-- id: OATH/265
+- id: OATH-265
   text: >-
     Oathkeeper of Supremacy rules the most sites. Successor to the Chancellor
     holds more relics and banners.
@@ -2551,7 +2551,7 @@
   name: Oathkeeper of Supremacy
   tags:
     - Reference
-- id: OATH/266
+- id: OATH-266
   text: >-
     Oathkeeper of the People holds the People's Favor. Successor to the
     Chancellor holds the Darkest Secret.
@@ -2559,7 +2559,7 @@
   name: Oathkeeper of the People
   tags:
     - Reference
-- id: OATH/267
+- id: OATH-267
   text: >-
     If you're the attacker, the defeated player _(even you)_ **must** kill all
     warbands in their force.
@@ -2568,7 +2568,7 @@
   name: Brutal
   tags:
     - Reference
-- id: OATH/268
+- id: OATH-268
   text: >-
     You gain one more `symbol:favor` _(even when trading for `symbol:secret`)_.
     You **must** gain one less `symbol:secret` when trading for `symbol:secret`.
@@ -2577,7 +2577,7 @@
   name: Careless
   tags:
     - Reference
-- id: OATH/269
+- id: OATH-269
   text: >-
     Spend no Supply if you're traveling to a site in the Cradle from a site in
     the Provinces or Hinterland. If you're traveling to a site in the
@@ -2587,7 +2587,7 @@
   name: Decadent
   tags:
     - Reference
-- id: OATH/270
+- id: OATH-270
   text: >-
     Draw two more cards. _(Stop after a Vision as normal.)_ You **cannot**
     search if you would spend more than 2 Supply.

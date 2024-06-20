@@ -1,69 +1,69 @@
-- id: ROOT/138
+- id: ROOT-138
   image: landmark-setup
   name: Landmark Setup
   tags:
     - Landmarks
-- id: ROOT/139
+- id: ROOT-139
   image: landmark-rules
   name: Landmark Rules
   tags:
     - Landmarks
-- id: ROOT/140
+- id: ROOT-140
   image: landmark-blackmarket-setup
   name: Black Market (Setup)
   tags:
     - Landmarks
-- id: ROOT/141
+- id: ROOT-141
   image: landmark-blackmarket
   name: Black Market
   tags:
     - Landmarks
-- id: ROOT/142
+- id: ROOT-142
   image: landmark-treetop-setup
   name: Elder Treetop (Setup)
   tags:
     - Landmarks
-- id: ROOT/143
+- id: ROOT-143
   image: landmark-treetop
   name: Elder Treetop
   tags:
     - Landmarks
-- id: ROOT/144
+- id: ROOT-144
   image: landmark-ferry-setup
   name: The Ferry (Setup)
   tags:
     - Landmarks
-- id: ROOT/145
+- id: ROOT-145
   image: landmark-ferry
   name: The Ferry
   tags:
     - Landmarks
-- id: ROOT/146
+- id: ROOT-146
   image: landmark-legendaryforge-setup
   name: Legendary Forge (Setup)
   tags:
     - Landmarks
-- id: ROOT/147
+- id: ROOT-147
   image: landmark-legendaryforge
   name: Legendary Forge
   tags:
     - Landmarks
-- id: ROOT/148
+- id: ROOT-148
   image: landmark-lostcity-setup
   name: Lost City (Setup)
   tags:
     - Landmarks
-- id: ROOT/149
+- id: ROOT-149
   image: landmark-lostcity
   name: Lost City
   tags:
     - Landmarks
-- id: ROOT/150
+- id: ROOT-150
   image: landmark-tower-setup
   name: The Tower (Setup)
   tags:
     - Landmarks
-- id: ROOT/151
+- id: ROOT-151
   image: landmark-tower
   name: The Tower
   tags:
