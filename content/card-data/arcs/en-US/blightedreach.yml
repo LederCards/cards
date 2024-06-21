@@ -3912,6 +3912,87 @@
     - Believer
   meta:
     act: 1
+- id: ARCS/F804
+  image: F804
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F805
+  image: F805
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F806
+  image: F806
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F807
+  image: F807
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F808
+  image: F808
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F809
+  image: F809
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F810
+  image: F810
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F811
+  image: F811
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
+- id: ARCS/F812
+  image: F812
+  name: Faithful Action Card
+  tags:
+    - Blighted Reach
+    - Action Card
+    - Believer
+  meta:
+    act: 1
 - id: ARCS-F813
   text: >-
     Faithful cards are a new suit of action cards. When you **secure** one from the Court, draw it into your hand.
