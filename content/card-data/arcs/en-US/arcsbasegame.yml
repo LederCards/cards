@@ -91,6 +91,7 @@
   name: Loyal Engineers
   tags:
     - Base
+    - Base Court
     - Guild
     - Material
   meta:
@@ -104,6 +105,7 @@
   name: Mining Interest
   tags:
     - Base
+    - Base Court
     - Guild
     - Material
   meta:
@@ -118,6 +120,7 @@
   name: Material Cartel
   tags:
     - Base
+    - Base Court
     - Guild
     - Material
   meta:
@@ -129,6 +132,7 @@
   name: Admin Union
   tags:
     - Base
+    - Base Court
     - Guild
     - Material
   meta:
@@ -140,6 +144,7 @@
   name: Construction Union
   tags:
     - Base
+    - Base Court
     - Guild
     - Material
   meta:
@@ -155,6 +160,7 @@
   name: Fuel Cartel
   tags:
     - Base
+    - Base Court
     - Guild
     - Fuel
   meta:
@@ -168,6 +174,7 @@
   name: Loyal Pilots
   tags:
     - Base
+    - Base Court
     - Guild
     - Fuel
   meta:
@@ -181,6 +188,7 @@
   name: Gatekeepers
   tags:
     - Base
+    - Base Court
     - Guild
     - Fuel
   meta:
@@ -194,6 +202,7 @@
   name: Shipping Interest
   tags:
     - Base
+    - Base Court
     - Guild
     - Fuel
   meta:
@@ -205,6 +214,7 @@
   name: Spacing Union
   tags:
     - Base
+    - Base Court
     - Guild
     - Fuel
   meta:
@@ -216,6 +226,7 @@
   name: Arms Union
   tags:
     - Base
+    - Base Court
     - Guild
     - Weapon
   meta:
@@ -231,6 +242,7 @@
   name: Prison Wardens
   tags:
     - Base
+    - Base Court
     - Guild
     - Weapon
   meta:
@@ -244,6 +256,7 @@
   name: Skirmishers
   tags:
     - Base
+    - Base Court
     - Guild
     - Weapon
   meta:
@@ -257,6 +270,7 @@
   name: Court Enforcers
   tags:
     - Base
+    - Base Court
     - Guild
     - Weapon
   meta:
@@ -272,6 +286,7 @@
   name: Loyal Marines
   tags:
     - Base
+    - Base Court
     - Guild
     - Weapon
   meta:
@@ -285,6 +300,7 @@
   name: Lattice Spies
   tags:
     - Base
+    - Base Court
     - Guild
     - Psionic
   meta:
@@ -298,6 +314,7 @@
   name: Farseers
   tags:
     - Base
+    - Base Court
     - Guild
     - Psionic
   meta:
@@ -309,6 +326,7 @@
   name: Secret Order
   tags:
     - Base
+    - Base Court
     - Guild
     - Psionic
   meta:
@@ -322,6 +340,7 @@
   name: Loyal Empaths
   tags:
     - Base
+    - Base Court
     - Guild
     - Psionic
   meta:
@@ -333,6 +352,7 @@
   name: Silver-Tongues
   tags:
     - Base
+    - Base Court
     - Guild
     - Psionic
   meta:
@@ -346,6 +366,7 @@
   name: Loyal Keepers
   tags:
     - Base
+    - Base Court
     - Guild
     - Relic
   meta:
@@ -359,6 +380,7 @@
   name: Sworn Guardians
   tags:
     - Base
+    - Base Court
     - Guild
     - Relic
   meta:
@@ -372,6 +394,7 @@
   name: Elder Broker
   tags:
     - Base
+    - Base Court
     - Guild
     - Relic
   meta:
@@ -383,6 +406,7 @@
   name: Relic Fence
   tags:
     - Base
+    - Base Court
     - Guild
     - Relic
   meta:
@@ -394,6 +418,7 @@
   name: Galactic Bards
   tags:
     - Base
+    - Base Court
     - Guild
     - Relic
   meta:
@@ -405,6 +430,7 @@
   name: Mass Uprising
   tags:
     - Base
+    - Base Court
     - Vox
 - id: ARCS-BC27
   text: >-
@@ -413,6 +439,7 @@
   name: Populist Demands
   tags:
     - Base
+    - Base Court
     - Vox
 - id: ARCS-BC28
   text: >-
@@ -421,6 +448,7 @@
   name: Outrage Spreads
   tags:
     - Base
+    - Base Court
     - Vox
 - id: ARCS-BC29
   text: >-
@@ -431,6 +459,7 @@
   name: Song of Freedom
   tags:
     - Base
+    - Base Court
     - Vox
 - id: ARCS-BC30
   text: >-
@@ -439,6 +468,7 @@
   name: Guild Struggle
   tags:
     - Base
+    - Base Court
     - Vox
 - id: ARCS-BC31
   text: >-
@@ -447,6 +477,7 @@
   name: Call to Action
   tags:
     - Base
+    - Base Court
     - Vox
 - id: ARCS-L01
   text: >-

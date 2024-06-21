@@ -163,6 +163,7 @@
   name: Mining Interest
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Material
   meta:
@@ -174,6 +175,7 @@
   name: Construction Union
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Material
   meta:
@@ -187,6 +189,7 @@
   name: Gatekeepers
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Fuel
   meta:
@@ -200,6 +203,7 @@
   name: Shipping Interest
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Fuel
   meta:
@@ -213,6 +217,7 @@
   name: Skirmishers
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Weapon
   meta:
@@ -224,6 +229,7 @@
   name: Arms Union
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Weapon
   meta:
@@ -237,6 +243,7 @@
   name: Lattice Spies
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Psionic
   meta:
@@ -248,6 +255,7 @@
   name: Silver Tongues
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Psionic
   meta:
@@ -261,6 +269,7 @@
   name: Sworn Guardians
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Relic
   meta:
@@ -274,6 +283,7 @@
   name: Elder Broker
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Guild
     - Relic
   meta:
@@ -287,6 +297,7 @@
   name: Populist Demands
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Vox
 - id: ARCS-CC12
   text: >-
@@ -297,6 +308,7 @@
   name: Council Intrigue
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Vox
 - id: ARCS-CC13
   text: >-
@@ -307,6 +319,7 @@
   name: Diplomatic Fiasco
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Vox
 - id: ARCS-CC14
   text: >-
@@ -317,6 +330,7 @@
   name: Song of Freedom
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Vox
 - id: ARCS-CC15
   text: >-
@@ -327,6 +341,7 @@
   name: Blight Looms
   tags:
     - Blighted Reach
+    - Blighted Reach Court
     - Vox
 - id: ARCS-FATE01
   text: >-
