@@ -1175,7 +1175,7 @@
     **1. Collect Demand:** Take 1 Trophy or Captive, but not Imperial or Regent pieces, from each Rival Regent ***and from each Outlaw with a Loyal city or Flagship controlled by the Empire.*** If they have none, take 1 agent from their supply as a Favor. If a Regent has no agents, you may make them an Outlaw.
      
     **2. Imperial Action:** Give 1 Weapon ***and any 1 resource*** to each Regent from the supply. If the supply is empty, give it from the Imperial Trust.
-  image: B124
+  image: F124
   name: Govern with Authority
   tags:
     - Blighted Reach
@@ -1192,7 +1192,7 @@
     If they have none, take 1 agent from their supply as a Favor. If a Regent has no agents, you may make them an Outlaw.
      
     **2. Imperial Action:** Place ***4 fresh Imperial ships*** in an Empire-controlled system. If there are none, place them at a Loyal starport.
-  image: F124
+  image: F125
   name: Govern with Authority
   tags:
     - Blighted Reach
