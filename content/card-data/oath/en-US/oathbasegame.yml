@@ -2177,8 +2177,8 @@
     - Vision
 - id: OATH-237
   meta:
-    cardcapacity: 1
-    defense: 2
+    cardcapacity: 2
+    defense: 1
   name: Ancient City
   tags:
     - Standard Deck
@@ -2246,7 +2246,7 @@
 - id: OATH-242
   meta:
     cardcapacity: 0
-    defense: 0
+    defense: 1
   name: Drowned City
   tags:
     - Standard Deck
