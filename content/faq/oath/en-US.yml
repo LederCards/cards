@@ -925,7 +925,7 @@
         be rerolled multiple times.
     - q: Do I pay for this card before or after rolling?
       a: After.
-    - q: 'Can I use this to reroll dice for $link:Relic Thief$ or $Gambling Hall$?'
+    - q: 'Can I use this to reroll dice for $link:Relic Thief$ or $link:Gambling Hall$?'
       a: >-
         Yup! Jinx is templated super weirdly, as a persistent power rather than
         a battle plan, so you can do this.
