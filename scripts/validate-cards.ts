@@ -4,11 +4,27 @@ const { omit } = require('lodash');
 
 const allCards = fs.readJsonSync('./dist/cards.json');
 
+const allIdsByLocale = {};
+
 allCards.forEach((card, index) => {
   if (!card.id) {
     console.error(`Card ${index} does not have an id.`);
     process.exit(1);
   }
+
+  if (!card.locale) {
+    console.error(`Card ${card.id} does not have a locale.`);
+    process.exit(1);
+  }
+
+  allIdsByLocale[card.locale] = allIdsByLocale[card.locale] || {};
+
+  if (allIdsByLocale[card.locale][card.id]) {
+    console.error(`Card ${card.id} has a duplicate id.`);
+    process.exit(1);
+  }
+
+  allIdsByLocale[card.locale][card.id] = true;
 
   if (!card.name) {
     console.error(`Card ${card.id} does not have a name.`);
@@ -33,11 +49,6 @@ allCards.forEach((card, index) => {
 
   if (!card.game) {
     console.error(`Card ${card.id} does not have a game.`);
-    process.exit(1);
-  }
-
-  if (!card.locale) {
-    console.error(`Card ${card.id} does not have a locale.`);
     process.exit(1);
   }
 
