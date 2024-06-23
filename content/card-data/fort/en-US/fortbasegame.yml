@@ -67,7 +67,7 @@
     - Crown
 - id: FORT-12
   name: Bitsy
-  image: glue-Bitsy
+  image: glue-bitsy
   tags:
     - Base Game
     - Glue
