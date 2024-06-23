@@ -1160,7 +1160,7 @@
     Then, they may add 1 resource they have to the Imperial Trust.
      
     When a player **declares** the Sponsored ambition, they must take 1 resource from the Imperial Trust, gain the Power for second place on the placed ambition marker, and return the Sponsored token to the First Regent tile. If they are an Outlaw, they become a Regent.
-  image: B123
+  image: F123
   name: Imperial Sponsor
   tags:
     - Blighted Reach

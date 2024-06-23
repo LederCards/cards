@@ -1,3 +1,4 @@
+const path = require('node:path');
 const fs = require('fs-extra');
 const { omit } = require('lodash');
 
@@ -16,6 +17,17 @@ allCards.forEach((card, index) => {
 
   if (!card.image) {
     console.error(`Card ${card.id} does not have an image.`);
+    process.exit(1);
+  }
+
+  const fixedImage = decodeURIComponent(path.basename(card.image, '.webp'));
+  const imagePath = `${process.cwd()}/content/card-images/${card.game}/${
+    card.locale
+  }/${fixedImage}.png`;
+  if (!fs.existsSync(imagePath)) {
+    console.error(
+      `Card ${card.id} references an invalid image "${imagePath}".`,
+    );
     process.exit(1);
   }
 
