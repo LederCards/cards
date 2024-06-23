@@ -50,7 +50,7 @@ jobs:
           script: |
             await github.rest.actions.createWorkflowDispatch({
               owner: 'LederCards',
-              repo: Library',
+              repo: 'Library',
               workflow_id: 'netlify.yml',
               ref: 'master'
             })
