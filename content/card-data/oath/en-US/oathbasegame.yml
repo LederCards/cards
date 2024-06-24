@@ -1336,6 +1336,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Power
 - id: OATH-152
   text: >-
     Move all of your `symbol:favor` to the `symbol:suit-nomad` bank. Any
@@ -1591,6 +1592,7 @@
   tags:
     - Standard Deck
     - Beast
+    - Power
 - id: OATH-181
   text: >-
     **Action**: Kill one warband on the board of a player who has an
@@ -1656,6 +1658,7 @@
   tags:
     - Standard Deck
     - Beast
+    - Power
 - id: OATH-188
   text: >-
     You may play `symbol:suit-beast` and `symbol:suit-hearth` cards to any site
