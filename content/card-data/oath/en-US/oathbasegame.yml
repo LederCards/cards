@@ -5,6 +5,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-002
   text: >-
     If you're victorious, gain `symbol:favor` `symbol:favor` from the
@@ -14,6 +15,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-003
   text: "- `symbol:dicer` Kill one warband on the attacker's board."
   image: Bear Traps
@@ -21,6 +23,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-004
   text: ± `symbol:dicer`
   image: Longbows
@@ -28,6 +31,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-005
   text: +2 `symbol:diceb` if this site is targeted.
   image: Keep
@@ -35,6 +39,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-006
   text: You can muster on cards that have `symbol:favor` or `symbol:secret` on them.
   image: Pressgangs
@@ -58,6 +63,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-009
   text: >-
     **Action**: Gain `symbol:favor` `symbol:favor` `symbol:favor` `symbol:favor`
@@ -77,6 +83,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-011
   text: You may draw from a discard pile in a different region instead of yours.
   image: Errand Boy
@@ -95,6 +102,7 @@
     - Standard Deck
     - Discord
     - Power
+    - Battle Plan
 - id: OATH-013
   text: >-
     **Action**: Negotiate a binding exchange of `symbol:favor`, `symbol:secret`,
@@ -113,6 +121,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-015
   text: '**When Played**, Gain four warbands.'
   image: A Small Favor
@@ -130,6 +139,7 @@
     - Standard Deck
     - Discord
     - Power
+    - Battle Plan
 - id: OATH-017
   text: >-
     **Action**: Take `symbol:secret` from a player whose pawn is at your site.
@@ -165,6 +175,7 @@
     - Standard Deck
     - Discord
     - Power
+    - Battle Plan
 - id: OATH-021
   text: >-
     **Rest**: If any Exile is the Oathkeeper or Usurper, take `symbol:favor`
@@ -183,6 +194,7 @@
   tags:
     - Standard Deck
     - Discord
+    - Battle Plan
 - id: OATH-023
   text: >-
     **Action**: Each player burns all their `symbol:secret` except their last.
@@ -200,6 +212,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-025
   text: >-
     Move any warbands to and from your board and any sites you rule _(except the
@@ -209,6 +222,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-026
   text: '**Action**: Gain `symbol:favor`.'
   image: Elders
@@ -259,6 +273,7 @@
     - Standard Deck
     - Arcane
     - Power
+    - Battle Plan
 - id: OATH-032
   text: >-
     If recovering the Darkest Secret, gain `symbol:secret` `symbol:secret` and
@@ -388,6 +403,7 @@
     - Standard Deck
     - Beast
     - Power
+    - Battle Plan
 - id: OATH-046
   text: >-
     **Action**: Discard a denizen card at any other site and move this card
@@ -414,6 +430,7 @@
     - Standard Deck
     - Hearth
     - Power
+    - Battle Plan
 - id: OATH-049
   text: >-
     **Action**: Move all `symbol:favor` from any one favor bank to the
@@ -442,6 +459,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Battle Plan
 - id: OATH-052
   text: >-
     **Action**: Place `symbol:secret` from the shared bank on the Darkest
@@ -493,6 +511,7 @@
     - Standard Deck
     - Arcane
     - Power
+    - Battle Plan
 - id: OATH-058
   text: >-
     Spend no Supply and **ignore** the powers of sites if you're traveling to or
@@ -513,6 +532,7 @@
     - Standard Deck
     - Arcane
     - Power
+    - Battle Plan
 - id: OATH-060
   text: >-
     Ignore all skills `symbol:skull` you roll. ±X `symbol:dicer` up to the
@@ -523,6 +543,7 @@
     - Standard Deck
     - Arcane
     - Power
+    - Battle Plan
 - id: OATH-061
   text: >-
     **Action**: Kill any two warbands in your region _(at sites or on boards,
@@ -621,6 +642,7 @@
     - Standard Deck
     - Arcane
     - Power
+    - Battle Plan
 - id: OATH-072
   text: Your relics add one more `symbol:diceb` when targeted.
   image: Sealing Ward
@@ -730,6 +752,7 @@
     - Standard Deck
     - Discord
     - Power
+    - Battle Plan
 - id: OATH-084
   text: >-
     **When Played**, each player, except the holder of the People's Favor,
@@ -768,6 +791,7 @@
     - Standard Deck
     - Discord
     - Power
+    - Battle Plan
 - id: OATH-088
   text: >-
     **When Played**, if you're an Exile and rule more sites than the Chancellor,
@@ -905,6 +929,7 @@
     - Standard Deck
     - Discord
     - Power
+    - Battle Plan
 - id: OATH-103
   text: ±2 `symbol:dicer` but you **cannot** use other battle plans.
   image: Code of Honor
@@ -912,6 +937,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-104
   text: Ignore all skulls `symbol:skull` you roll.
   image: Outriders
@@ -919,6 +945,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-105
   text: >-
     **Action**: Move any warbands to and from your board and any sites you rule
@@ -937,6 +964,7 @@
     - Standard Deck
     - Order
     - Power
+    - Battle Plan
 - id: OATH-107
   text: >-
     **Action**: Choose a player whose pawn is at your site. Put your pawn on a
@@ -956,6 +984,7 @@
     - Standard Deck
     - Order
     - Power
+    - Battle Plan
 - id: OATH-109
   text: >-
     If you're victorious, gain `symbol:favor` from the favor banks matching each
@@ -965,6 +994,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-110
   text: >-
     Enemies of Tome Guardians' ruler **cannot** target or take the Darkest
@@ -1010,6 +1040,7 @@
     - Standard Deck
     - Order
     - Power
+    - Battle Plan
 - id: OATH-115
   text: >-
     **Action**: Campaign at any site you rule. Act as if your pawn is there.
@@ -1095,6 +1126,7 @@
     - Standard Deck
     - Order
     - Power
+    - Battle Plan
 - id: OATH-125
   text: >-
     You **cannot** use other battle plans. If your enemy's pawn is at your site,
@@ -1106,6 +1138,7 @@
     - Standard Deck
     - Order
     - Power
+    - Battle Plan
 - id: OATH-126
   text: >-
     You may target facedown relics at targeted sites, adding 1 `symbol:diceb`
@@ -1115,6 +1148,7 @@
   tags:
     - Standard Deck
     - Order
+    - Battle Plan
 - id: OATH-127
   text: '**Action**: Move one of your faceup advisers to your site.'
   image: Homesteaders
@@ -1164,6 +1198,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Battle Plan
 - id: OATH-133
   text: >-
     **When Played**, draw a relic. Take it or put it on the bottom of the relic
@@ -1211,6 +1246,7 @@
     - Standard Deck
     - Hearth
     - Power
+    - Battle Plan
 - id: OATH-138
   text: >-
     As defender, you're victorious now. At end, discard Hearts and Minds unless
@@ -1221,6 +1257,7 @@
     - Standard Deck
     - Hearth
     - Power
+    - Battle Plan
 - id: OATH-139
   text: >-
     **Action**: Put a facedown relic at your site on the bottom of the relic
@@ -1320,6 +1357,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Battle Plan
 - id: OATH-150
   text: Spend no Supply if you sacrifice one warband from your board.
   image: Awaited Return
@@ -1357,6 +1395,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-154
   text: Double your total attack roll. At end, discard Lancers.
   image: Lancers
@@ -1364,6 +1403,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-155
   text: ±1 `symbol:dicer` or ±3. At end, discard.
   image: Mountain Giant
@@ -1372,6 +1412,7 @@
     - Standard Deck
     - Nomad
     - Power
+    - Battle Plan
 - id: OATH-156
   text: >-
     ±4 `symbol:dicer` if your enemy has a `symbol:suit-nomad` adviser. At end,
@@ -1381,6 +1422,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-157
   text: >-
     Other players **cannot** target or take your relics or banners in any way
@@ -1444,6 +1486,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-164
   text: >-
     ± `symbol:dicer` per `symbol:suit-nomad` card you rule. At end, discard
@@ -1453,6 +1496,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-165
   text: Your enemies act as if denizens and relics at sites you rule are **locked**.
   image: Ancient Bloodline
@@ -1477,6 +1521,7 @@
   tags:
     - Standard Deck
     - Nomad
+    - Battle Plan
 - id: OATH-168
   text: >-
     You can only have one adviser that is not a `symbol:suit-nomad`. You can
@@ -1547,6 +1592,7 @@
     - Standard Deck
     - Beast
     - Power
+    - Battle Plan
 - id: OATH-176
   text: >-
     Spend no Supply if you're trading with a `symbol:suit-beast` or
@@ -1659,6 +1705,7 @@
     - Standard Deck
     - Beast
     - Power
+    - Battle Plan
 - id: OATH-188
   text: >-
     You may play `symbol:suit-beast` and `symbol:suit-hearth` cards to any site
@@ -1730,6 +1777,7 @@
   tags:
     - Standard Deck
     - Beast
+    - Battle Plan
 - id: OATH-196
   text: >-
     You **must** muster on a card that matching any of your advisers, but you
@@ -1777,6 +1825,7 @@
     - Standard Deck
     - Edifice
     - Order
+    - Battle Plan
 - id: OATH-201
   text: Players **cannot** target the People's Favor
   image: Hall of Debate
@@ -1879,6 +1928,7 @@
   tags:
     - Standard Deck
     - Relic
+    - Battle Plan
   text: >-
     If you're victorious, you may kill all the warbands in your enemy's force.
     If you do, you **must** give them `symbol:favor` if able.
@@ -1891,6 +1941,7 @@
   tags:
     - Standard Deck
     - Relic
+    - Battle Plan
   text: >-
     If you're victorious, gain one warband per enemy warband killed in this
     campaign.
@@ -2078,6 +2129,7 @@
   tags:
     - Standard Deck
     - Relic
+    - Battle Plan
   text: >-
     If you're victorious, move all unkilled warbands in your enemy's force to
     the Obsidian Cage. **Action**: Move any number of warbands from Obsidian
