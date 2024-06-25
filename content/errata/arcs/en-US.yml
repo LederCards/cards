@@ -13,3 +13,6 @@
 - errata:
     - text: "The Conspirator cannot guess their own Conspiracies. Instead of 'When you **secure**...' this card should read 'When a Rival of the Conspirator **secures**...'"
   card: Foiling Conspiracies
+- errata:
+    - text: "The reference to 'Fuel Interest' should read 'Shipping Interest'."
+  card: Magnate Act II Resolution
