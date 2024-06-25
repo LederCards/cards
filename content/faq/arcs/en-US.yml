@@ -1,32 +1,32 @@
 - faq:
     - q: >-
-        When do you collect the Action Card?
+        When do you collect the action card?
       a: >-
-        At the end of the round, after all players finish their turns
+        At the end of the round, after all players have finished their turns.
     - q: >-
-        Can this been stolen while it being played?
+        Can this be stolen once it has been played but not resolved?
       a: >-
-        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
   card: Admin Union
 - faq:
     - q: >-
-        When do you collect the Action Card?
+        When do you collect the action card?
       a: >-
-        At the end of the round, after all players finish their turns
+        At the end of the round, after all players have finished their turns.
     - q: >-
-        Can this been stolen while it being played?
+        Can this be stolen once it has been played but not resolved?
       a: >-
-        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
   card: Arms Union
 - faq:
     - q: >-
-        When do you collect the Action Card?
+        When do you collect the action card?
       a: >-
-        At the end of the round, after all players finish their turns
+        At the end of the round, after all players have finished their turns.
     - q: >-
-        Can this been stolen while it being played?
+        Can this be stolen once it has been played but not resolved?
       a: >-
-        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
   card: Construction Union
 - faq:
     - q: >-
@@ -36,9 +36,9 @@
   card: Elder Broker
 - faq:
     - q: >-
-        What happens if you use Farseer's prelude ability and discard e.g.  2 cards + Farseers
+        Can you give me an example of this Prelude action if I discarded 2 cards plus Farseers?
       a: >-
-        Draw 3 cards from the bottom of the action card discard pile.
+        You would draw 3 cards from the bottom of the action card discard pile.
   card: Farseers
 - faq:
     - q: >-
@@ -52,9 +52,9 @@
   card: Fuel Cartel
 - faq:
     - q: >-
-        In what order do you choose to Seize Initiative and Declare an Ambition
+        In what order do you choose to seize the initiative and declare an ambition?
       a: >-
-        You may choose eithier to Seize and Declare in any order
+        Either order.
   card: Galactic Bards
 - faq:
     - q: >-
@@ -68,17 +68,17 @@
   card: Material Cartel
 - faq:
     - q: >-
-        When do you collect the Action Card?
+        When do you collect the action card?
       a: >-
-        At the end of the round, after all players finish their turns
+        At the end of the round, after all players have finished their turns.
     - q: >-
-        Can this been stolen while it being played?
+        Can this be stolen once it has been played but not resolved?
       a: >-
-        Only cards in the holder's play area can be stolen, so once played this card can not be stolen.
+        Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.
   card: Spacing Union
 - faq:
     - q: >-
-        Can you secure this card if you are leading or if Initiative has already been seized?
+        Can you secure this card if you are leading or if initiative has already been seized?
       a: >-
         Yes. In this case, you may return a city you control, but you don't seize the initiative.
   card: Song of Freedom
@@ -94,49 +94,49 @@
       a: >-
         You can influence and secure different cards.
     - q: >-
-        Do I have to secure after Influencing?
+        Do I have to secure after I influence?
       a: >-
-        You must perform a legal secure action after influencing (must have a legal target to secure). Otherwise the influence must be undone.
+        You must perform a legal secure after you influence. (You must have a legal target to secure.) Otherwise the influence must be undone.
   card: Feastbringer
 - faq:
     - q: >-
-        If a resource stack is empty, can I still tax it to then gain a Fuel from Insatiable?
+        If a resource stack is empty, can I still tax it to then gain a Fuel from *Insatiable*?
       a: >-
         You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.
   card: Fuel-Drinker
 - faq:
     - q: >-
-        If a resource stack is empty, can I still tax it to then gain a Psionic from Attuned?
+        If a resource stack is empty, can I still tax it to then gain a Psionic from *Attuned*?
       a: >-
         You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.
   card: Mystic
 - faq:
     - q: >-
-        If the top card of the Court deck is $link:Populist Demand$, do you trigger Connected again?
+        If the top card of the Court deck is $link:Populist Demand$, do you trigger *Connected* again?
       a: >-
         Yes, if you declare an undeclared ambition with a drawn $link:Populist Demand$, this ability triggers again.
     - q: >-
-        If I secure $link:Farseers$, does Connected trigger?
+        If I secure $link:Farseers$, does *Connected* trigger?
       a: >-
-        No. $link:Farseers$ being drawn as a result of Connected does not see the timing window to then trigger it's ability to look at a rival's hand and swap a card with them.
+        No. $link:Farseers$ being drawn as a result of Connected does not see the timing window to then trigger its ability to look at a Rival's hand and swap a card with them.
   card: Noble
 - faq:
     - q: >-
-        Can I tax a city once per turn and build a ship in the same turn to use Ruthless twice?
+        Can I tax a city once per turn and build a ship in the same turn to use *Ruthless* twice?
       a: >-
-        Each turn, you can only tax or build a ship with Ruthless, not both.
+        Each turn, you can only tax or build a ship with *Ruthless*, not both.
     - q: >-
-        If a city is destroyed with Ruthless, when do I provoke outrage?
+        If a city is destroyed with *Ruthless*, when do I provoke Outrage?
       a: >-
         When you destroy a city to tax, you first provoke outrage, then gain the resource from taxing.
     - q: >-
-        Is Ruthless granting me additional actions, or do the bonus activations of a city or startport counting against my total Action pips?
+        Does *Ruthless* give me an extra actions, or do the bonus activations of a city or startport counting against my total action pips?
       a: >-
-        Hitting the building provides the extra action. You don't have to spend a second action pip.
+        Hitting the building is an extra action. You don't have to spend an action pip.
     - q: >-
-        Can I use Ruthless to hit a building even if I do not gain a resource or cannot build a ship?
+        Can I use *Ruthless* to hit a building even if I do not gain a resource or cannot build a ship?
       a: >-
-        It is possible to hit a building to Tax or Build even if the action yields nothing.
+        Yes, you may hit a building to tax or build even if the action yields nothing.
   card: Overseer
 - faq:
     - q: >-
@@ -146,13 +146,13 @@
   card: Quartermaster
 - faq:
     - q: >-
-        Can I choose not to use the two extra dice from Committed?
+        Can I choose not to use the two extra dice from *Committed*?
       a: >-
-        These 2 dice are mandatory.
+        No, collecting these two dice is mandatory.
     - q: >-
-        How does Disorganized interact with $link:Predictive Sensors$?
+        How does *Disorganized* interact with $link:Predictive Sensors$?
       a: >-
-        $link:Predictive Sensors$ is subject to this restriction. When the Rebel uses $link:Predictive Sensors$, they can move in up to 2 ships from each adjacent system. This is because a move is defined as “number of Loyal ships from one system to an adjacent system”
+        $link:Predictive Sensors$ is subject to this restriction. When the Rebel uses $link:Predictive Sensors$, they can move in up to 2 ships from each adjacent system. This is because a move is defined as “number of Loyal ships from one system to an adjacent system.”
     - q: >-
         How does Disorganized interact with $link:Force Beams$?
       a: >-
@@ -166,21 +166,21 @@
   card: Upstart
 - faq:
     - q: >-
-        Do I have to move and battle with the same ships with Tactical?
+        Do I have to move and battle with the same ships with *Tactical*?
       a: >-
         You can move and battle with different ships.
     - q: >-
-        Can the Tactical Move be a catapult move?
+        Can the *Tactical* move be a Catapult move?
       a: >-
         Yes.
     - q: >-
-        Can I do the Tactical move if I end up moving to a space with no ships to battle?
+        Can I do the *Tactical* move if I end up moving to a space with no ships to battle?
       a: >-
-        You must perform a legal battle action after moving (must have a legal target to attack). Otherwise the move must be undone.
+        You must perform a legal Battle action after moving (must have a legal target to attack). Otherwise the move must be undone.
   card: Warrior
 - faq:
     - q: >-
-        Can Ancient Holdings hold a $link:Golems$?
+        Can Ancient Holdings hold $link:Golems$?
       a: >-
         Yes, Ancient Holdings provides a resource slot that holds one Golem.
   card: Ancient Holdings
@@ -188,9 +188,9 @@
     - q: >-
         Can I spend a resource to build a city while outraged in that resource?
       a: >-
-        Yes, outrage does not stop you from spending the resource
+        Yes, Outrage does not stop you from spending the resource at all. It only stops you from spending it for its standard Prelude action.
     - q: >-
-        Do I have to have the resource to build the city?
+        Do I need to have the resource to build the city?
       a: >-
         Building a Cloud City requires spending a resource of the planet type.
   card: Cloud Cities
@@ -202,33 +202,33 @@
   card: Empath's Bond
 - faq:
     - q: >-
-        Is Fire Rifles modified by abilities that modify Battle?
+        Is *Fire Rifles* modified by abilities that modify Battle?
       a: >-
-        Abilities that modify Battle do not apply to Fire Rifles action. (e.g., you cannot use $link:Skirmishers$ to reroll the dice; you cannot use $link:Gatekeepers$ to collect more dice)
+        Abilities that modify Battle do not apply to *Fire Rifles*. For example, you cannot use $link:Skirmishers$ to reroll the dice, and you cannot use $link:Gatekeepers$ to collect more dice.
   card: Galactic Rifles
 - faq:
     - q: >-
         What happens if the cluster has no cities?
       a: >-
-        If a Gate Station is in a cluster with no other city, it has no types. Destroying it provokes no outrage. Taxing it yields no resource, but it can still be taxed.
+        If a Gate Station is in a cluster with no other city, it has no type. Destroying it provokes no Outrage. Taxing it yields no resource, but it can still be taxed.
   card: Gate Stations
 - faq:
     - q: >-
         How does Keeper's Solidarity interact with Cartel cards??
       a: >-
-        A player has the resources on Cartel cards. This means Keeper's Solidarity applies to those resources
+        A player has the resources on Cartel cards. This means Keeper's Solidarity applies to those resources.
   card: Keeper's Solidarity
 - faq:
     - q: >-
         Does Keeper's Trust interact with Cartel cards?
       a: >-
-        A player has the resources on Cartel cards. This means Keeper's Trust applies to those resources
+        A player has the resources on Cartel cards. This means Keeper's Trust applies to those resources.
   card: Keeper's Trust
 - faq:
     - q: >-
         When the defender has no buildings on the map and I could collect more than 1 raid die, am I restricted by Raider Exosuits?
       a: >-
-        If the defender doesn't have any building on the map, you are not subject to raid dice limit and can collect more than one raid die.
+        If the defender doesn't have any building on the map, you are not subject to the raid dice limit and can collect more than one raid die.
   card: Raider Exosuits
 - faq:
     - q: >-
@@ -248,11 +248,11 @@
     - q: >-
         Can Sprinter Drives activate more uses of Sprinter Drives?
       a: >-
-        It is not recursive. The more verbose but correct text is: When you move fresh Loyal ships but not with Sprinter Drives, you may move any of them one more time.
+        No, it is not recursive. The more verbose but correct text is: When you move fresh Loyal ships but not with Sprinter Drives, you may move any of them one more time.
     - q: >-
-        Can the bonus move be a catapult move?
+        Can the bonus move be a Catapult move?
       a: >-
-        You can catapult move with the bonus move.
+        You can Catapult move with the bonus move.
     - q: >-
         If I catapult move and drop off ships in gates along my path, can each ship move again?
       a: >-
@@ -262,11 +262,11 @@
     - q: >-
         If I have no Material or Fuel, can I use Tycoon's Ambition?
       a: >-
-        You can use its ability even if you have zero material & fuel.
+        You can use its ability even if you have zero Material and Fuel.
   card: Tycoon's Ambition
 - faq:
     - q: >-
         What if I have none of the matching building in my supply?
       a: >-
-        You cannot annex a building if the corresponding Loyal building supply is empty. 
+        You cannot *Annex* a building if the corresponding Loyal building supply is empty. 
   card: Tyrant's Authority
