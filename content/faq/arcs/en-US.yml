@@ -270,3 +270,9 @@
       a: >-
         You cannot *Annex* a building if the corresponding Loyal building supply is empty. 
   card: Tyrant's Authority
+- faq:
+    - q: >-
+        What happens to the Commonwealth ambition marker after scoring?
+      a: >-
+        It returns to the Fate card of the $link:Founder of the Commonwealth$. 
+  card: Commonwealth Ambition
