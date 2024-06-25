@@ -160,10 +160,6 @@
   card: Rebel
 - faq:
     - q: >-
-        When during my turn to I use Ambitious?
-      a: >-
-        You declare an ambition and gain the resource before you can spend any resources.
-    - q: >-
         If you are the $link:Upstart$, have $link:Empath's Bond$, and Empath is declared, can you tax a loyal city that you do not control?
       a: >-
         The "any" in $link:Empath's Bond$ should be interpreted as "non-Loyal," and Callow should be rephrased to “You cannot tax cities that you do not control.” As a result, $link:Empath's Bond$ when active only gives the Upstart the ability to use Rival starports to build and Catapult move.
