@@ -4,6 +4,7 @@ features:
   askaquestion: true
   faq: true
   changelog: true
+  errata: true
 
 links:
   github: https://github.com/LederCards
