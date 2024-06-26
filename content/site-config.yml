@@ -38,10 +38,10 @@ icons:
 colors:
   syntax:
     ID: '#8360c3'
-    CardName: '#6370ff'
+    Name: '#6370ff'
     CardText: '#06aa3c'
     Errata: '#aa3c06'
     FAQ: '#aa063c'
     Game: '#d0312d'
     Product: '#a16800'
-    Tags: '#608b7d'
+    Tag: '#608b7d'
