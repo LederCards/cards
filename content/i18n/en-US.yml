@@ -120,11 +120,11 @@ Pages:
           This operator is special, you may also search without using the operator.
 
         Examples:
-          - Example: '`OATH-1`'
-            Text: Find specifically the card matching the id OATH-1.
+          - Example: '`OATH-001`'
+            Text: Find specifically the card matching the id OATH-001.
 
-          - Example: '`id:=OATH-1`'
-            Text: Find specifically the card matching the id OATH-1.
+          - Example: '`id:=OATH-001`'
+            Text: Find specifically the card matching the id OATH-001.
 
           - Example: '`-id:OATH`'
             Text: Exclude all cards with the id OATH.
