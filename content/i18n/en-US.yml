@@ -77,10 +77,10 @@ Pages:
     CardCapacityLabel: Card Capacity
     CardCapacityPlaceholder: Card Capacity
 
-    FAQLabel: FAQ \#
+    FAQLabel: FAQ Entry Count
     FAQPlaceholder: Number of FAQ entries
 
-    ErrataLabel: Errata \#
+    ErrataLabel: Errata Entry Count
     ErrataPlaceholder: Number of errata entries
 
     KeysLabel: Keys
