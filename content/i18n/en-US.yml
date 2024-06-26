@@ -167,9 +167,9 @@ Pages:
       Errata:
         Name: Errata
         Text: >
-          You can find cards that have errata entries with the \`errata:\` or \`e:\` operator.
+          You can find cards that have errata entries with the `errata:` or `e:` operator.
 
-          This operator is a numeric operator, meaning you'll by default want to search for \`errata:>0\` to find entries with any errata entries.
+          This operator is a numeric operator, meaning you'll by default want to search for `errata:>0` to find entries with any errata entries.
 
         Examples:
           - Example: '`errata:>0`'
@@ -181,9 +181,9 @@ Pages:
       FAQ:
         Name: FAQ
         Text: >
-          You can find cards that have FAQ entries with the \`faq:\` or \`f:\` operator.
+          You can find cards that have FAQ entries with the `faq:` or `f:` operator.
 
-          This operator is a numeric operator, meaning you'll by default want to search for \`faq:>0\` to find entries with any FAQs.
+          This operator is a numeric operator, meaning you'll by default want to search for `faq:>0` to find entries with any FAQs.
 
         Examples:
           - Example: '`faq:>0`'
