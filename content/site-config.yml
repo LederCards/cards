@@ -22,6 +22,8 @@ icons:
   advanced:
     CardName: person-outline
     CardText: document-text-outline
+    FAQ: chatbubbles-outline
+    Errata: flask-outline
     Product: game-controller-outline
     Subproducts: hardware-chip-outline
     Tags: pricetags-outline

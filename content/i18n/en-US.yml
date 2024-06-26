@@ -77,6 +77,12 @@ Pages:
     CardCapacityLabel: Card Capacity
     CardCapacityPlaceholder: Card Capacity
 
+    FAQLabel: FAQ \#
+    FAQPlaceholder: Number of FAQ entries
+
+    ErrataLabel: Errata \#
+    ErrataPlaceholder: Number of errata entries
+
     KeysLabel: Keys
     KeysPlaceholder: Keys
 
@@ -157,6 +163,34 @@ Pages:
 
           - Example: '`-t:"secure"`'
             Text: Cards without "secure" in their text.
+
+      Errata:
+        Name: Errata
+        Text: >
+          You can find cards that have errata entries with the \`errata:\` or \`e:\` operator.
+
+          This operator is a numeric operator, meaning you'll by default want to search for \`errata:>0\` to find entries with any errata entries.
+
+        Examples:
+          - Example: '`errata:>0`'
+            Text: Cards that have any number of errata entries.
+
+          - Example: '`errata:=0`'
+            Text: Cards with no errata entries.
+
+      FAQ:
+        Name: FAQ
+        Text: >
+          You can find cards that have FAQ entries with the \`faq:\` or \`f:\` operator.
+
+          This operator is a numeric operator, meaning you'll by default want to search for \`faq:>0\` to find entries with any FAQs.
+
+        Examples:
+          - Example: '`faq:>0`'
+            Text: Cards that have any number of FAQ entries.
+
+          - Example: '`faq:=0`'
+            Text: Cards with no FAQ entries.
 
       Game:
         Name: Game
