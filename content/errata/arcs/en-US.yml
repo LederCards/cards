@@ -34,3 +34,6 @@
 - errata:
     - text: "'Explain it and to everyone' should read 'Explain it to everyone.'"
   card: Gate Wraith Act III Setup
+- errata:
+    - text: "The card reference for 'Founder's next Resolution card' should be '23.'"
+  card: Founder Act I Resolution
