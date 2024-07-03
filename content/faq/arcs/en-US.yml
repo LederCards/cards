@@ -282,3 +282,80 @@
       a: >-
         It returns to the Golem Hearth. The Golem Hearth can hold, or in other words "has slots for," any number of Golems. 
   card: Golem Hearth
+- faq:
+    - q: >-
+        Do resource slots limit the number of Captives or Trophies I can give?
+      a: >-
+        No, the limit of resource slots refers only to giving resources. 
+  card: The Arbiter
+- faq:
+    - q: >-
+        If I guess a Conspiracy token incorrectly, is it revealed?
+      a: >-
+        No, it stays face down. 
+  card: Foiling Conspiracies
+- faq:
+    - q: >-
+        Can I use $link:Galactic Rifles$ to shoot in our out of the Twisted Passage?
+      a: >-
+        No, since the systems are not technically adjacent. 
+  card: Passages & The Twisted Passage
+  # I wonder whether the ampersand will break YAML.
+- faq:
+    - q: >-
+        What happens to the Material and Fuel on Green Vault when Tyrant is scored?
+      a: >-
+        They are returned to the general supply. 
+  card: Green Vault
+- faq:
+    - q: >-
+        How does this card interact with $link:Relic Cartel$?
+      a: >-
+        This is a simultaneous resolution, so the player with initiative chooses which effect happens first. As a result, the Redeemer might lose the Relics before getting to scrap them!
+    - q: >-
+        Can I scrap Relics that I have on $link:Relic Monopoly$?
+      a: >-
+        Yes, you are considered to "have" these Relics. 
+  card: Redeemer Act III Objective
+- faq:
+    - q: >-
+        If I win the $link:Commonwealth Ambition$, how much Power do I gain?
+      a: >-
+        You gain Power for second place alone.
+  card: Vow of Survival
+- faq:
+    - q: >-
+        How does Rule by Fear Alone interact with Monopolies?
+      a: >-
+        You are considered to "have" these resources, so you do advance for them.
+  card: Overlord Act II Objective
+- faq:
+    - q: >-
+        Can I trade Golems in the Summit?
+      a: >-
+        Not in Act I. If the Caretaker continues to Act II, $link:Knowledge Set Free$ allows for Golem trading.
+  card: Golems
+- faq:
+    - q: >-
+        Does securing Librarians trigger its Secure power?
+      a: >-
+        No. Broadly, to trigger a card effect it needs to be in your play area at the start of the trigger.
+  card: Librarians
+- faq:
+    - q: >-
+        Does this ever override the power of $link:Imperial Authority$?
+      a: >-
+        No.
+  card: Martial Law
+- faq:
+    - q: >-
+        Do my agents on Rumor tokens count as Loyal pieces for things like building in the system?
+      a: >-
+        Yes!
+  card: Rumors of the Haven
+- faq:
+    - q: >-
+        If someone has an agent on my True Rumor, can I fulfill my second grand ambition?
+      a: >-
+        No. They have a Loyal piece in the Pirate Haven's system.
+  card: Pirate Act III Objective
