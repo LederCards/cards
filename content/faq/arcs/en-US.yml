@@ -276,3 +276,9 @@
       a: >-
         It returns to the Fate card of the $link:Founder of the Commonwealth$. 
   card: Commonwealth Ambition
+- faq:
+    - q: >-
+        If a Rival of the Caretaker spends a Golem and no one has resource slots on their player boards, do they keep the Golem or put it on Golem Hearth?
+      a: >-
+        It returns to the Golem Hearth. The Golem Hearth can hold, or in other words "has slots for," any number of Golems. 
+  card: Golem Hearth
