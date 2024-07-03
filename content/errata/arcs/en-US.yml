@@ -19,3 +19,18 @@
 - errata:
     - text: "The phrase 'in play areas' is added to this card in the second printing to improve some campaign game interactions."
   card: Force Beams
+- errata:
+    - text: "The $link:Lesser Regent$ card references should say '20-21'."
+  card: Steward Act II Resolution
+- errata:
+    - text: "The $link:Govern the Imperial Reach$ card references should say '03-05'."
+  card: Steward Act III Setup
+- errata:
+    - text: "The $link:Partisan Seizing$ card reference should say '03'."
+  card: Partisan Act II Setup
+- errata:
+    - text: "The card references should read '09' through '12' in the order listed."
+  card: Pacifist Act II Setup
+- errata:
+    - text: "'Explain it and to everyone' should read 'Explain it to everyone.'"
+  card: Gate Wraith Act III Setup
