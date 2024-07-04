@@ -300,7 +300,6 @@
       a: >-
         No, since the systems are not technically adjacent. 
   card: Passages & The Twisted Passage
-  # I wonder whether the ampersand will break YAML.
 - faq:
     - q: >-
         What happens to the Material and Fuel on Green Vault when Tyrant is scored?
