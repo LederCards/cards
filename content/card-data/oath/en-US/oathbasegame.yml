@@ -2650,7 +2650,7 @@
     flip this banner. **Wake**: You **must** put `symbol:favor` here or move
     `symbol:favor` here to the favor bank with the least `symbol:favor`. Do this
     twice. **Search**: When playing to site, you may first discard a denizen
-    card at any card in your region, and you may play to any site in your
+    card at any site in your region, and you may play to any site in your
     region.
   image: Banner of the Mob's Favor
   imageClass: rotated
@@ -2666,7 +2666,7 @@
     **Wake**: You **must** put `symbol:favor` here or move `symbol:favor` here
     to the favor bank with the least `symbol:favor`. Then, if this banner has 6+
     `symbol:favor`, flip it. **Search**: When playing to site, you may first
-    discard a denizen card at any card in your region, and you may play to any
+    discard a denizen card at any site in your region, and you may play to any
     site in your region.
   image: Banner of the People's Favor
   imageClass: rotated
