@@ -37,3 +37,6 @@
 - errata:
     - text: "The card reference for 'Founder's next Resolution card' should be '23.'"
   card: Founder Act I Resolution
+- errata:
+    - text: "The Teach action should have the attach and scrap sentences swapped. You cannot scrap unless you attach."
+  card: Spreading the Faith

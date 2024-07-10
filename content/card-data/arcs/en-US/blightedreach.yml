@@ -2443,7 +2443,7 @@
      
     *This is not stealing, so cards like Sworn Guardians don't prevent it. The Advocate can even demand protected Guild cards!*
   image: F413
-  name: Advocate's Deman
+  name: Advocate's Demand
   tags:
     - Blighted Reach
     - Edict
