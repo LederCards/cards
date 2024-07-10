@@ -14,7 +14,7 @@ const compressImages = async () => {
           destination: `./dist/cards/${dir}/${loc}/`,
           plugins: [
             webp({
-              lossless: true,
+              quality: 90
             }),
           ],
         }),
