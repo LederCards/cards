@@ -211,7 +211,17 @@
         What happens if the cluster has no cities?
       a: >-
         If a Gate Station is in a cluster with no other city, it has no type. Destroying it provokes no Outrage. Taxing it yields no resource, but it can still be taxed.
+    - q: >-
+        What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
+      a: >-
+        If transferred, your cities in gates still operate in the same way. If scrapped, your cities in gates no longer have a type, so they no longer produce resources when taxed and no longer Provoke Outrage when destroyed.
   card: Gate Stations
+- faq:
+    - q: >-
+        What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
+      a: >-
+        Your starports in gates can still build ships and enable Catapult moves, but you can no longer take Captives with them.
+  card: Gate Ports
 - faq:
     - q: >-
         How does Keeper's Solidarity interact with Cartel cards??
@@ -312,7 +322,11 @@
     - q: >-
         What happens to the Material and Fuel on Green Vault when Tyrant is scored?
       a: >-
-        They are returned to the general supply. 
+        They are returned to the general supply.
+    - q: >-
+        What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
+      a: >-
+        Your resources in your Captives box are still Captives, but they are no longer frozen. 
   card: Green Vault
 - faq:
     - q: >-
@@ -516,3 +530,15 @@
       a: >-
         The facedown pile. If there is none, shuffle the face-up pile to form a facedown pile first.
   card: Spreading the Faith
+- faq:
+    - q: >-
+        In the Call to Order, if I want to force a Monopoly holder to give me a resource they have the Monopoly for, how many Favors do I need to return to them?
+      a: >-
+        Only the Favors needed for the Transfer Asset action; so if the resource in question has one key, then one Favor. You do not need to give them another Favor to get Monopoly consent.
+  card: Monopoly Consent
+- faq:
+    - q: >-
+        In the Call to Order, if I want to force the Advocate to give me a Guild card, how many Favors do I need to return to them?
+      a: >-
+        Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.
+  card: Monopoly Consent
