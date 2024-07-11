@@ -211,7 +211,17 @@
         What happens if the cluster has no cities?
       a: >-
         If a Gate Station is in a cluster with no other city, it has no type. Destroying it provokes no Outrage. Taxing it yields no resource, but it can still be taxed.
+    - q: >-
+        What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
+      a: >-
+        If transferred, your cities in gates still operate in the same way. If scrapped, your cities in gates no longer have a type, so they no longer produce resources when taxed and no longer Provoke Outrage when destroyed.
   card: Gate Stations
+- faq:
+    - q: >-
+        What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
+      a: >-
+        Your starports in gates can still build ships and enable Catapult moves, but you can no longer take Captives with them.
+  card: Gate Ports
 - faq:
     - q: >-
         How does Keeper's Solidarity interact with Cartel cards??
@@ -263,6 +273,14 @@
         If I have no Material or Fuel, can I use Tycoon's Ambition?
       a: >-
         You can use its ability even if you have zero Material and Fuel.
+    - q: >-
+        How does this interact with $link:Material Cartel$ or $link:Fuel Cartel$?
+      a: >-
+        Nothing happens to the Material and Fuel on those cards. You can still use Tycoon's Ambition.
+    - q: >-
+        In the campaign, how does this interact with frozen resources?
+      a: >-
+        They are not discarded. You can still use Tycoon's Ambition.
   card: Tycoon's Ambition
 - faq:
     - q: >-
@@ -276,3 +294,251 @@
       a: >-
         It returns to the Fate card of the $link:Founder of the Commonwealth$. 
   card: Commonwealth Ambition
+- faq:
+    - q: >-
+        If a Rival of the Caretaker spends a Golem and no one has resource slots on their player boards, do they keep the Golem or put it on Golem Hearth?
+      a: >-
+        It returns to the Golem Hearth. The Golem Hearth can hold, or in other words "has slots for," any number of Golems. 
+  card: Golem Hearth
+- faq:
+    - q: >-
+        Do resource slots limit the number of Captives or Trophies I can give?
+      a: >-
+        No, the limit of resource slots refers only to giving resources. 
+  card: The Arbiter
+- faq:
+    - q: >-
+        If I guess a Conspiracy token incorrectly, is it revealed?
+      a: >-
+        No, it stays face down. 
+  card: Foiling Conspiracies
+- faq:
+    - q: >-
+        Can I use $link:Galactic Rifles$ to shoot in our out of the Twisted Passage?
+      a: >-
+        No, since the systems are not technically adjacent. 
+  card: Passages & The Twisted Passage
+- faq:
+    - q: >-
+        What happens to the Material and Fuel on Green Vault when Tyrant is scored?
+      a: >-
+        They are returned to the general supply.
+    - q: >-
+        What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
+      a: >-
+        Your resources in your Captives box are still Captives, but they are no longer frozen. 
+  card: Green Vault
+- faq:
+    - q: >-
+        How does this card interact with $link:Relic Cartel$?
+      a: >-
+        This is a simultaneous resolution, so the player with initiative chooses which effect happens first. As a result, the Redeemer might lose the Relics before getting to scrap them!
+    - q: >-
+        Can I scrap Relics that I have on $link:Relic Monopoly$?
+      a: >-
+        Yes, you are considered to "have" these Relics. 
+  card: Redeemer Act III Objective
+- faq:
+    - q: >-
+        If I win the $link:Commonwealth Ambition$, how much Power do I gain?
+      a: >-
+        You gain Power for second place alone.
+  card: Vow of Survival
+- faq:
+    - q: >-
+        How does Rule by Fear Alone interact with Monopolies?
+      a: >-
+        You are considered to "have" these resources, so you do advance for them.
+  card: Overlord Act II Objective
+- faq:
+    - q: >-
+        Can I trade Golems in the Summit?
+      a: >-
+        Not in Act I. If the Caretaker continues to Act II, $link:Knowledge Set Free$ allows for Golem trading.
+    - q: >-
+        When exactly does someone keep a Golem after using it?
+      a: >-
+        If the player with the $link:Golem Hearth$ uses a Golem and nobody else has slots. As long as the Golem Hearth is in the game, its holder will always have slots for Golems.
+    - q: >-
+        Can I override the Imperial Truce Law with the Warrior Golem?
+      a: >-
+        Nope!
+  card: Golems
+- faq:
+    - q: >-
+        Does securing Librarians trigger its Secure power?
+      a: >-
+        No. Broadly, to trigger a card effect it needs to be in your play area at the start of the trigger.
+  card: Librarians
+- faq:
+    - q: >-
+        Does this ever override the power of $link:Imperial Authority$?
+      a: >-
+        No.
+    - q: >-
+        Does this mean that Regents can battle each other in Imperial systems now?
+      a: >-
+        No. Even though it prevents some Regents from Commanding the Imperial Fleet, you still have to follow the Truce Law.
+  card: Martial Law
+- faq:
+    - q: >-
+        Do my agents on Rumor tokens count as Loyal pieces for things like building in the system?
+      a: >-
+        Yes!
+  card: Rumors of the Haven
+- faq:
+    - q: >-
+        If someone has an agent on my True Rumor, can I fulfill my second grand ambition?
+      a: >-
+        No. They have a Loyal piece in the Pirate Haven's system.
+  card: Pirate Act III Objective
+- faq:
+    - q: >-
+        Does the Sponsored token return somewhere when the Sponsored ambition is declared?
+      a: >-
+        No. It remains on its current ambition.
+    - q: >-
+        Can I still place a resource on the Imperial Trust if the Sponsored token did not move?
+      a: >-
+        Yes!
+  card: Imperial Sponsor
+- faq:
+    - q: >-
+        Does this card ability trigger when I secure it from the Court?
+      a: >-
+        No. Securing Council Insiders does not trigger its own Secure modifier.
+  card: Council Insiders
+- faq:
+    - q: >-
+        Can I advance my Close Deals with Rivals objectives by returning Favors in the Call to Order?
+      a: >-
+        No. You can only advance in Summit Negotiations.
+  card: Magnate Act I Objective
+- faq:
+    - q: >-
+        Do I advance with Corner the Market if I take a Monopoly from another player?
+      a: >-
+        No. You have to take it from the supply.
+  card: Magnate Act II Objective
+- faq:
+    - q: >-
+        In the campaign, do I have to control a Loyal city in order to free it?
+      a: >-
+        Yes!
+    - q: >-
+        In the campaign, can I free cities on Flagships?
+      a: >-
+        No.
+    - q: >-
+        In the campaign Crisis, what happens if players are tied for most Power?
+      a: >-
+        The player closest in turn order to the player with initiative is affected.
+  card: Song of Freedom
+- faq:
+    - q: >-
+        Can I flip the Council while it is not in the Court?
+      a: >-
+        No.
+  card: Council Intrigue
+- faq:
+    - q: >-
+        Does this limit how I can declare ambitions in nonstandard ways, like with $link:Galactic Bards$?
+      a: >-
+        Yes.
+  card: Dominant Faith
+- faq:
+    - q: >-
+        Can someone force me to give them a resource off this card by returning my Favor during the Summit's Call to Order?
+      a: >-
+        Yes.
+  card: Merchant League
+- faq:
+    - q: >-
+        Do I fulfill the requirement if I am in second place for the lowest ambition, which gives 0 Power?
+      a: >-
+        Yes. The clarification text in italics is generally true but misleading in this specific case.
+    - q: >-
+        Does this block card abilities like $link:Galactic Bards$?
+      a: >-
+        No, just Prelude actions and New actions.
+  card: Guild Overseers
+- faq:
+    - q: >-
+        Do I advance for Sow Division in the Reach if I already have the initiative and hold it at the end of the round?
+      a: >-
+        No. You need to get it from somewhere else.
+  card: Partisan Act I Objective
+- faq:
+    - q: >-
+        If I pivot to a new Fate in Act III, do I clear my Outrage?
+      a: >-
+        No. At this point, the relevant card is tucked outside your play area, and this part of the ability is no longer relevant.
+  card: Partisan Seizing
+- faq:
+    - q: >-
+        What happens if I demand a protected Guild card?
+      a: >-
+        The holder simply gives you a Favor, since they cannot actually give you the card. Sucks for them.
+  card: Advocate's Demand
+- faq:
+    - q: >-
+        Does this trigger Ransack the Court?
+      a: >-
+        No. There is nothing left to Ransack. The world is pretty blown up.
+    - q: >-
+        How does this interact with $link:Bunkers$ and $link:Banners of Hegemony$?
+      a: >-
+        They are removed and added to this card.
+    - q: >-
+        Can I rebuild $link:Banners$ or $link:Banners of Hegemony$ or $link:Cloud Cities$ on a broken world?
+      a: >-
+        Yes! There are enough scraps to build a small bunker, plant a flag, or build in the ashen clouds.
+  card: Breaking Worlds
+- faq:
+    - q: >-
+        For the Imperial Action on the War Policy, am I exempt from giving a resource if the Trust has no Weapons?
+      a: >-
+        No. You have to try to give the maximum amount prompted. So if it has a Weapon but no other resource, give a Weapon. If it has no Weapon but it does have another resource, give the resource.
+  card: Govern with Authority
+- faq:
+    - q: >-
+        When I transfer Lore with resources on it, what happens to the resources?
+      a: >-
+        They remain on the transferred Lore card.
+  card: Knowledge Set Free
+- faq:
+    - q: >-
+        When I scrap Lore with resources on it, what happens to the resources?
+      a: >-
+        They return to the general supply.
+  card: Caretaker Act III Objective
+- faq:
+    - q: >-
+        How does this interact with $link:Psionic Monopoly$?
+      a: >-
+        The consent of the Monopoly holder is still required to give Psionic. As noted on $link:Monopoly Consent$, consent can be forced by returning their Favor in the Call to Order.
+  card: Reconcile with the Outraged
+- faq:
+    - q: >-
+        Where does the Court token go when I secure a card with it?
+      a: >-
+        If you're a Lord, return it to the general supply. If you're a Vassal, keep it on the refilled card.
+  card: Feudal Courts
+- faq:
+    - q: >-
+        If we are playing with split discard piles, where do I scrap from?
+      a: >-
+        The facedown pile. If there is none, shuffle the face-up pile to form a facedown pile first.
+  card: Spreading the Faith
+- faq:
+    - q: >-
+        In the Call to Order, if I want to force a Monopoly holder to give me a resource they have the Monopoly for, how many Favors do I need to return to them?
+      a: >-
+        Only the Favors needed for the Transfer Asset action; so if the resource in question has one key, then one Favor. You do not need to give them another Favor to get Monopoly consent.
+  card: Monopoly Consent
+- faq:
+    - q: >-
+        In the Call to Order, if I want to force the Advocate to give me a Guild card, how many Favors do I need to return to them?
+      a: >-
+        Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.
+  card: Monopoly Consent

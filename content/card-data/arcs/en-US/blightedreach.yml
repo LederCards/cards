@@ -2443,7 +2443,7 @@
      
     *This is not stealing, so cards like Sworn Guardians don't prevent it. The Advocate can even demand protected Guild cards!*
   image: F413
-  name: Advocate's Deman
+  name: Advocate's Demand
   tags:
     - Blighted Reach
     - Edict
@@ -5058,7 +5058,7 @@
      
     4. Scrap your Planet Hammer (04).
   image: F1110
-  name: Hegemon Act III Resolution
+  name: Planet Breaker Act III Resolution
   tags:
     - Blighted Reach
     - Resolution
@@ -5645,7 +5645,7 @@
      
     3. Scrap all Witness tokens on the map.
   image: F1404
-  name: Wait to resolve this until the Intermission
+  name: Pacifist Act II Resolution
   tags:
     - Blighted Reach
     - Resolution
@@ -5866,7 +5866,7 @@
      
     2. Add your Arsenal Keepers (03), if you have it, to the Court deck.
   image: F1504
-  name: Wait to resolve this until the Intermission
+  name: Peacekeeper Act II Resolution
   tags:
     - Blighted Reach
     - Resolution
@@ -7086,7 +7086,7 @@
   text: >-
     At the start of **scoring**, you may give any number of your Trophies, Captives, and resources to Rivals, up to their number of empty resource slots. Pieces Loyal to that Rival return to their supply.
   image: F2403
-  name: Arbiter
+  name: The Arbiter
   tags:
     - Blighted Reach
     - Guild
