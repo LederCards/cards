@@ -548,7 +548,7 @@
     - Battle Plan
 - id: OATH-060
   text: >-
-    Ignore all skills `symbol:skull` you roll. ±X `symbol:dicer` up to the
+    Ignore all skulls `symbol:skull` you roll. ±X `symbol:dicer` up to the
     number of other suits you rule.
   image: Kindred Warriors
   name: Kindred Warriors
