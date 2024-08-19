@@ -5069,7 +5069,7 @@
   text: >-
     **Crisis:** Roll the event die again. If you roll the same symbol, place a Broken World token on the rolled planet. Resolve the Breaking Worlds card.
      
-    **When Secured:** Roll 1 skirmish die per agent here. If you roll at least 3hit, gain 3 Power, draw the bottom card from the action discard pile, and bury this card. If not, this card and agents on it remain.
+    **When Secured:** Roll 1 skirmish die per agent here. If you roll at least 3`symbol:hit`, gain 3 Power, draw the bottom card from the action discard pile, and bury this card. If not, this card and agents on it remain.
   image: F1111
   name: Planet-Eater Loose
   tags:
@@ -5136,13 +5136,13 @@
   text: >-
     ***Grow Your Hoard of Resources*
      
-    At the end of a chapter, **advance `symbol:1`** for each resource in your Pirate Hoard.
+    At the end of a chapter, **advance `symbol:clock`1** for each resource in your Pirate Hoard.
      
     *Basically, you get resources on your Hoard by stealing them.*
      
     ***Embarrass Your Rivals with Riches***
      
-    At the end of a chapter, **advance `symbol:2`** for each type of resource that your Pirate Hoard has more of than each Rival.
+    At the end of a chapter, **advance `symbol:clock``** for each type of resource that your Pirate Hoard has more of than each Rival.
      
     *Don't count Guild cards.*
      
