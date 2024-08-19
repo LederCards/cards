@@ -48,6 +48,7 @@
     - Standard Deck
     - Order
     - Muster
+    - Power
 - id: OATH-007
   text: >-
     **When Played**, gain one warband per site you rule, and put one warband
@@ -103,7 +104,6 @@
   tags:
     - Standard Deck
     - Discord
-    - Power
     - Battle Plan
 - id: OATH-013
   text: >-
@@ -114,6 +114,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Power
 - id: OATH-014
   text: >-
     Ignore all your enemy's rolls of single shields `symbol:shield`. At end,
@@ -140,7 +141,6 @@
   tags:
     - Standard Deck
     - Discord
-    - Power
     - Battle Plan
 - id: OATH-017
   text: >-
@@ -176,7 +176,6 @@
   tags:
     - Standard Deck
     - Discord
-    - Power
     - Battle Plan
 - id: OATH-021
   text: >-
@@ -187,9 +186,10 @@
   tags:
     - Standard Deck
     - Discord
+    - Power
 - id: OATH-022
   text: >-
-    **Action**: If you're victorious and targeted the defender's pawn, they also
+    If you're victorious and targeted the defender's pawn, they also
     burn all of the `symbol:secret` on their board except their last.
   image: Book Burning
   name: Book Burning
@@ -275,7 +275,6 @@
   tags:
     - Standard Deck
     - Arcane
-    - Power
     - Battle Plan
 - id: OATH-032
   text: >-
@@ -324,6 +323,7 @@
     - Standard Deck
     - Arcane
     - Trade
+    - Power
 - id: OATH-037
   text: >-
     **Action**: Discard a `symbol:suit-beast` or `symbol:suit-nomad` card at
@@ -362,6 +362,7 @@
     - Standard Deck
     - Beast
     - Muster
+    - Power
 - id: OATH-041
   text: >-
     Your enemy **cannot** use battle plans that match any of your advisers
@@ -382,6 +383,7 @@
     - Standard Deck
     - Beast
     - Trade
+    - Power
 - id: OATH-043
   text: >-
     Spend no Supply and ignore the powers of sites if you're traveling to a site
@@ -411,7 +413,6 @@
   tags:
     - Standard Deck
     - Beast
-    - Power
     - Battle Plan
 - id: OATH-046
   text: >-
@@ -438,7 +439,6 @@
   tags:
     - Standard Deck
     - Hearth
-    - Power
     - Battle Plan
 - id: OATH-049
   text: >-
@@ -460,6 +460,7 @@
     - Standard Deck
     - Hearth
     - Search
+    - Power
 - id: OATH-051
   text: >-
     If you're defeated, kill no warbands in your force and discard Traveling
@@ -497,6 +498,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Power
 - id: OATH-055
   text: If you gain only one `symbol:favor`, gain one more `symbol:favor`.
   image: Secret Signal
@@ -505,14 +507,17 @@
     - Standard Deck
     - Arcane
     - Trade
+    - Power
 - id: OATH-056
-  text: '**Action**: Draw one more card. _(Stop after a Vision as normal.)_'
+  text: >-
+    Draw one more card. _(Stop after a Vision as normal.)_
   image: Augury
   name: Augury
   tags:
     - Standard Deck
     - Arcane
     - Search
+    - Power
 - id: OATH-057
   text: >-
     If you hold the Darkest Secret, **ignore** all your enemy's rolls of hollow
@@ -522,7 +527,6 @@
   tags:
     - Standard Deck
     - Arcane
-    - Power
     - Battle Plan
 - id: OATH-058
   text: >-
@@ -544,7 +548,6 @@
   tags:
     - Standard Deck
     - Arcane
-    - Power
     - Battle Plan
 - id: OATH-060
   text: >-
@@ -555,7 +558,6 @@
   tags:
     - Standard Deck
     - Arcane
-    - Power
     - Battle Plan
 - id: OATH-061
   text: >-
@@ -594,6 +596,7 @@
     - Standard Deck
     - Arcane
     - Search
+    - Power
 - id: OATH-065
   text: >-
     **Action**: Each player _(even you)_ places one `symbol:favor` per site they
@@ -656,7 +659,6 @@
   tags:
     - Standard Deck
     - Arcane
-    - Power
     - Battle Plan
 - id: OATH-072
   text: Your relics add one more `symbol:diceb` when targeted.
@@ -706,6 +708,7 @@
     - Standard Deck
     - Arcane
     - Trade
+    - Power
 - id: OATH-077
   text: >-
     **Action**: Give `symbol:secret` to a player whose pawn is at your site to
@@ -755,6 +758,7 @@
     - Standard Deck
     - Discord
     - Muster
+    - Power
 - id: OATH-082
   text: >-
     **When Played**, choose a relic held by a player whose pawn is at your site.
@@ -772,7 +776,6 @@
   tags:
     - Standard Deck
     - Discord
-    - Power
     - Battle Plan
 - id: OATH-084
   text: >-
@@ -811,7 +814,6 @@
   tags:
     - Standard Deck
     - Discord
-    - Power
     - Battle Plan
 - id: OATH-088
   text: >-
@@ -862,6 +864,7 @@
   tags:
     - Standard Deck
     - Discord
+    - Power
 - id: OATH-093
   text: >-
     **Action**: Roll 4 `symbol:diceb` and take X `symbol:favor` equal to the
@@ -908,6 +911,7 @@
   tags:
     - Standard Deck
     - Discord
+    - Power
 - id: OATH-098
   text: >-
     After another player's campaign, you may campaign, spending no Supply, if
@@ -918,6 +922,7 @@
     - Standard Deck
     - Discord
     - Campaign
+    - Power
 - id: OATH-099
   text: Enemies of Gossip's ruler **cannot** play cards as facedown advisers.
   image: Gossip
@@ -952,7 +957,6 @@
   tags:
     - Standard Deck
     - Discord
-    - Power
     - Battle Plan
 - id: OATH-103
   text: ±2 `symbol:dicer` but you **cannot** use other battle plans.
@@ -987,7 +991,6 @@
   tags:
     - Standard Deck
     - Order
-    - Power
     - Battle Plan
 - id: OATH-107
   text: >-
@@ -1007,7 +1010,6 @@
   tags:
     - Standard Deck
     - Order
-    - Power
     - Battle Plan
 - id: OATH-109
   text: >-
@@ -1065,7 +1067,6 @@
   tags:
     - Standard Deck
     - Order
-    - Power
     - Battle Plan
 - id: OATH-115
   text: >-
@@ -1124,6 +1125,7 @@
     - Standard Deck
     - Order
     - Muster
+    - Power
 - id: OATH-121
   text: >-
     You **cannot** play Visions faceup. **Rest**: Take `symbol:favor` from any
@@ -1133,6 +1135,7 @@
   tags:
     - Standard Deck
     - Order
+    - Power
 - id: OATH-122
   text: After searching the world deck, you may campaign, spending no Supply.
   image: Hunting Party
@@ -1141,6 +1144,7 @@
     - Standard Deck
     - Order
     - Search
+    - Power
 - id: OATH-123
   text: If you're a Citizen, you **cannot** be exiled, even by yourself.
   image: Council Seat
@@ -1155,7 +1159,6 @@
   tags:
     - Standard Deck
     - Order
-    - Power
     - Battle Plan
 - id: OATH-125
   text: >-
@@ -1167,7 +1170,6 @@
   tags:
     - Standard Deck
     - Order
-    - Power
     - Battle Plan
 - id: OATH-126
   text: >-
@@ -1186,6 +1188,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Power
 - id: OATH-128
   text: If playing to a site, you may discard a denizen there first.
   image: Crop Rotation
@@ -1194,6 +1197,7 @@
     - Standard Deck
     - Hearth
     - Search
+    - Power
 - id: OATH-129
   text: >-
     **Action**: Return all `symbol:favor` and `symbol:secret`, and flip your
@@ -1278,7 +1282,6 @@
   tags:
     - Standard Deck
     - Hearth
-    - Power
     - Battle Plan
 - id: OATH-138
   text: >-
@@ -1289,7 +1292,6 @@
   tags:
     - Standard Deck
     - Hearth
-    - Power
     - Battle Plan
 - id: OATH-139
   text: >-
@@ -1320,6 +1322,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Power
 - id: OATH-142
   text: >-
     After another player plays a `symbol:suit-nomad` or `symbol:suit-order`
@@ -1348,6 +1351,7 @@
     - Standard Deck
     - Hearth
     - Muster
+    - Power
 - id: OATH-145
   text: >-
     You **cannot** campaign. Attackers **cannot** sacrifice warbands to increase
@@ -1368,6 +1372,7 @@
   tags:
     - Standard Deck
     - Hearth
+    - Power
 - id: OATH-147
   text: >-
     **When Played**, gain `symbol:favor` `symbol:favor` `symbol:favor`- one each
@@ -1404,6 +1409,7 @@
     - Standard Deck
     - Hearth
     - Trade
+    - Power
 - id: OATH-151
   text: >-
     **Action**: Take another region's discard pile and put it on top of your
@@ -1450,7 +1456,6 @@
   tags:
     - Standard Deck
     - Nomad
-    - Power
     - Battle Plan
 - id: OATH-156
   text: >-
@@ -1479,6 +1484,7 @@
     - Standard Deck
     - Nomad
     - Travel
+    - Power
 - id: OATH-159
   text: >-
     **Action**: Move a faceup `symbol:suit-nomad` card from any player's
@@ -1603,6 +1609,7 @@
     - Standard Deck
     - Nomad
     - Travel
+    - Power
 - id: OATH-172
   text: Spend no Supply if you have three or fewer warbands on your board.
   image: A Fast Steed
@@ -1620,6 +1627,7 @@
     - Standard Deck
     - Nomad
     - Recover
+    - Power
 - id: OATH-174
   text: >-
     Players **cannot** play Visions, except the Conspiracy, faceup, unless their
@@ -1637,7 +1645,6 @@
   tags:
     - Standard Deck
     - Beast
-    - Power
     - Battle Plan
 - id: OATH-176
   text: >-
@@ -1649,6 +1656,7 @@
     - Standard Deck
     - Beast
     - Trade
+    - Power
 - id: OATH-177
   text: >-
     Act as if your pawn is at any site with a `symbol:suit-beast` card. _(You
@@ -1659,6 +1667,7 @@
     - Standard Deck
     - Beast
     - Trade
+    - Power
 - id: OATH-178
   text: >-
     Enemies traveling from any site ruled by Grasping Vines' ruler **must** kill
@@ -1756,7 +1765,6 @@
   tags:
     - Standard Deck
     - Beast
-    - Power
     - Battle Plan
 - id: OATH-188
   text: >-
@@ -1768,6 +1776,7 @@
     - Standard Deck
     - Beast
     - Search
+    - Power
 - id: OATH-189
   text: If you play a `symbol:suit-beast` card, gain 1 Supply and 2 warbands.
   image: Wild Cry
@@ -1776,6 +1785,7 @@
     - Standard Deck
     - Beast
     - Search
+    - Power
 - id: OATH-190
   text: >-
     **When Played**, gain warbands equal to the total number of
@@ -1814,6 +1824,7 @@
   tags:
     - Standard Deck
     - Beast
+    - Power
 - id: OATH-194
   text: >-
     Enemies of Forest Council's rule **cannot** trade with or must from
@@ -1853,6 +1864,7 @@
     - Standard Deck
     - Beast
     - Search
+    - Power
 - id: OATH-198
   text: >-
     **Action**: Campaign at any site with a `symbol:suit-beast` card. Act as if
@@ -1931,6 +1943,7 @@
     - Standard Deck
     - Edifice
     - Discord
+    - Power
 - id: OATH-206
   text: >-
     Whenever the `symbol:dicer` is rolled to end the game, Squalid District's
@@ -1942,6 +1955,7 @@
     - Standard Deck
     - Edifice
     - Discord
+    - Power
 - id: OATH-207
   text: >-
     You may swap any number of denizens you draw with random cards from the
@@ -2031,6 +2045,7 @@
     - Standard Deck
     - Relic
     - Search
+    - Power
   text: >-
     You may choose to draw two more cards. If you do, you **must** reveal every
     card you draw and the card you keep.
@@ -2151,6 +2166,7 @@
   tags:
     - Standard Deck
     - Relic
+    - Power
   text: '**Action**: Peek at the top three cards of the world deck.'
   image: Oracular Pig
   imageClass: square
@@ -2184,6 +2200,7 @@
   tags:
     - Standard Deck
     - Relic
+    - Power
   text: '**Action**: Put this relic on the bottom of the relic deck to gain 4 Supply.'
   image: Map
   imageClass: square
@@ -2195,6 +2212,7 @@
     - Standard Deck
     - Relic
     - Battle Plan
+    - Power
   text: >-
     If you're victorious, move all unkilled warbands in your enemy's force to
     the Obsidian Cage. **Action**: Move any number of warbands from Obsidian
@@ -2222,6 +2240,7 @@
     - Standard Deck
     - Relic
     - Travel
+    - Power
   text: After traveling, gain one warband.
   image: Dragonskin Drum
   imageClass: square
@@ -2232,6 +2251,7 @@
   tags:
     - Standard Deck
     - Relic
+    - Power
   text: >-
     You cannot use this if you took it on this turn. **Action**: Peek in the
     Imperial Reliquary. **Action**: Offer Citizenship to any Exile, or exile a
@@ -2419,6 +2439,7 @@
   tags:
     - Standard Deck
     - Site
+    - Power
   text: >-
     **Action**: If you rule this site or your pawn is here, negotiate a binding
     exchange of `symbol:favor` and `symbol:secret` as well as binding actions at
