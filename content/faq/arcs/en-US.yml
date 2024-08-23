@@ -576,3 +576,33 @@
       a: >-
         Yes. You must do the first part to declare Empath.
   card: Witnesses
+- faq:
+    - q: >-
+        Which hits to the ships on the card take?
+      a: >-
+        The ships are on the card take hits for self-hit damage (flame icons and intercept)
+  card: Warden's Levy
+- faq:
+    - q: >-
+        Does using Force Beams' New Action cause the rival to "take a move" such that $link:Gate Ports$ would permit a capture?
+      a: >-
+        Gate Ports is a move modifier, meaning it does not apply to Force Beams
+  card: Force Beams
+- faq:
+    - q: >-
+        If a player triggers Psionic outrage once and then Weapon outrage twice on the same turn, how many ships would Sycophant place?
+      a: >-
+        2 ships total. The 2 ships is once per turn. Not once per turn per outrage
+  card: Sycophants
+- faq:
+    - q: >-
+        Can the Guardian, with $link:Ire of the Tycoons$ still declare the Edenguard ambition?
+      a: >-
+        Edenguard is an alternative to Tycoon and Guardian would be able to declare it
+  card: Edenguard Ambition
+- faq:
+    - q: >-
+        How do Passage tokens affect Gatekeepers?
+      a: >-
+        You place 7 ships, with all ships that would be placed on passages going to the passage (which is itself a gate)
+  card: Passages & The Twisted Passage
