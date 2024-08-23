@@ -542,3 +542,27 @@
       a: >-
         Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.
   card: Monopoly Consent
+- faq:
+    - q: >-
+        If $link:Blight Hunger$ is in play, where do destroyed pieces go?
+      a: >-
+        The Dead Live specifies that pieces that would return to supply are instead placed on the card. Blight Hunger places the pieces on its card before they would return to supply, so Blight Hunger takes precedence. 
+  card: The Dead Live
+- faq:
+    - q: >-
+        How does the Spread Empathy objective interact with Loyal guild cards?
+      a: >-
+        Only Psionic resources count.
+  card: Pacifist Act II Objective
+- faq:
+    - q: >-
+        Can you use Plot to Kidnap to take from the face up discard if playing with Split Discards?
+      a: >-
+        Yes. Resolve the card by searching through both the face-up and facedown discard piles, then shuffle the facedown discard pile.
+  card: Plot to Kidnap
+- faq:
+    - q: >-
+        What do you do if there is already a card attached to the Council?
+      a: >-
+        Attach it to the Council, keeping the other attached card attached as well.
+  card: Guilds Decry Terror
