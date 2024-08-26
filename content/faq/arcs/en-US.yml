@@ -606,3 +606,39 @@
       a: >-
         You place 7 ships, with all ships that would be placed on passages going to the passage (which is itself a gate)
   card: Passages & The Twisted Passage
+- faq:
+    - q: >-
+        Can conspirator refill the court with the same guild they just secured to place a conspiracy?
+      a: >-
+        Yes! Refill is the last step of secure, after you've taken the card.
+  card: Conspiracies
+- faq:
+    - q: >-
+        Is the Chosen allowed to perform all the actions granted by upgrades on the Judge's Flagship?
+      a: >-
+        The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.
+  card: Judge's Chosen
+  - faq:
+    - q: >-
+        If a player plays a non-Aggression card to battle in a cluster at Peace, do they need to spend 1 or 2 Weapons? Is it one weapon per flip if a player wants to flip more than 1 Ceasefire token?
+      a: >-
+        It would cost 2 weapons: One to apply Battle to the Action Card via the standard Prelude ability of a Weapon, and one to flip the Ceasefire token. It is also one Weapon per flip.
+  card: Ceasefires
+- faq:
+    - q: >-
+        Can a Regent with Rogue Admiral attack the Empire alone?
+      a: >-
+        Yes, and they can add any number of Imperial ships in the system to their attacking ships. Basically, they can pick and choose how many are attacking and how many are defending. (This is modeling the Empire breaking up into rival admiralties who each have a claim on the Empire's military, who's loyal, and who's a traitor.)
+  card: Rogue Admirals
+- faq:
+    - q: >-
+        Force Beams does not trigger $link:Gate Ports$. But does $link:Unstable Seeker$ or $link:Judge's Chosen$?
+      a: >-
+        They do, since they don't state that they ignore move modifiers. It's a little goofy, sorry!
+  card: Force Beams
+- faq:
+    - q: >-
+        Do trophies taken as part of ransacking the court count towards Admiral's objective?
+      a: >-
+        Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.
+  card: Admiral Act I Objective
