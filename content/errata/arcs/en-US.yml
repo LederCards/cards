@@ -40,3 +40,12 @@
 - errata:
     - text: "The Teach action should have the attach and scrap sentences swapped. You cannot scrap unless you attach."
   card: Spreading the Faith
+- errata:
+    - text: "This card should say 'if a city with a Seat is removed' rather than 'if a city with a Seat is destroyed' to cover cases where the city is removed from the map in other ways."
+  card: Seats & Fiefs
+- errata:
+    - text: "This setup should remind you to place the Ideal markers in the same ambitions as they were in at the end of the previous Act."
+  card: Believer Act III Setup
+- errata:
+    - text: "The Agitator's *Irregular* ability should say 'is intercepted' rather than 'rolls `symbol:intercept`' so it interacts properly with cards such as $link:Mirror Plating$."
+  card: Agitator

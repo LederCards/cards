@@ -618,7 +618,7 @@
       a: >-
         The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.
   card: Judge's Chosen
-  - faq:
+- faq:
     - q: >-
         If a player plays a non-Aggression card to battle in a cluster at Peace, do they need to spend 1 or 2 Weapons? Is it one weapon per flip if a player wants to flip more than 1 Ceasefire token?
       a: >-
@@ -642,3 +642,33 @@
       a: >-
         Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.
   card: Admiral Act I Objective
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Forgeworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Blazeworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Deadworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Lostworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Heartworld Refugees
