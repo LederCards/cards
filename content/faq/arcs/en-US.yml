@@ -672,3 +672,9 @@
       a: >-
         Yes!
   card: Heartworld Refugees
+- faq:
+    - q: >-
+        When I secure this card, what happens to the agents on it?
+      a: >-
+        They are returned and taken as Captives, as normal. Only the card remains in the Court.
+  card: Passage Storms

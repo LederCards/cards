@@ -49,3 +49,30 @@
 - errata:
     - text: "The Agitator's *Irregular* ability should say 'is intercepted' rather than 'rolls `symbol:intercept`' so it interacts properly with cards such as $link:Mirror Plating$."
   card: Agitator
+- errata:
+    - text: "For clarity, this card should say 'from the attached card' rather than 'from here'."
+  card: Armistice
+- errata:
+    - text: "To clarify the intended effect, we have added 'If a Vassal **secures** a card with a Court token, the Court token remains on the refilled card.'."
+  card: Feudal Courts
+- errata:
+    - text: "To clarify various interactions, we have rewritten step 3 of this card to the following: 'Destroy all buildings on the planet, placing them here, not in Trophies. Nobody Ransacks the Court.' and swapped it with step 2."
+  card: Breaking Worlds
+- errata:
+    - text: "The second sentence should read 'You cannot **tax** cities on Relic planets that you do not control.'"
+  card: Ire of the Keepers
+- errata:
+    - text: "The second sentence should read 'You cannot **tax** cities on Material and Fuel planets that you do not control.'"
+  card: Ire of the Tycoons
+- errata:
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Harvester is not in play.''"
+  card: Unstable Harvester
+- errata:
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Warrior is not in play.''"
+  card: Unstable Warrior
+- errata:
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Seeker is not in play.''"
+  card: Unstable Seeker
+- errata:
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.''"
+  card: Unstable Protector
