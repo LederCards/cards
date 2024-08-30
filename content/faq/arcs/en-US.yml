@@ -438,7 +438,7 @@
     - q: >-
         Can I flip the Council while it is not in the Court?
       a: >-
-        No.
+        Yes! In this case, return it to the Court. It won't resolve this round.
   card: Council Intrigue
 - faq:
     - q: >-
@@ -626,7 +626,7 @@
       a: >-
         The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.
   card: Judge's Chosen
-  - faq:
+- faq:
     - q: >-
         If a player plays a non-Aggression card to battle in a cluster at Peace, do they need to spend 1 or 2 Weapons? Is it one weapon per flip if a player wants to flip more than 1 Ceasefire token?
       a: >-
@@ -704,3 +704,43 @@
       a: >-
         No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
   card: Closed Economy
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Forgeworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Blazeworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Deadworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Lostworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Heartworld Refugees
+- faq:
+    - q: >-
+        When I secure this card, what happens to the agents on it?
+      a: >-
+        They are returned and taken as Captives, as normal. Only the card remains in the Court.
+  card: Passage Storms
+- faq:
+    - q: >-
+        Can I flip the Council while it is not in the Court?
+      a: >-
+        Yes! In this case, return it to the Court. It won't resolve this round.
+  card: Council Insiders
