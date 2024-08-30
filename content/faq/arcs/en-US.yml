@@ -438,7 +438,7 @@
     - q: >-
         Can I flip the Council while it is not in the Court?
       a: >-
-        No.
+        Yes! In this case, return it to the Court. It won't resolve this round.
   card: Council Intrigue
 - faq:
     - q: >-
@@ -678,3 +678,9 @@
       a: >-
         They are returned and taken as Captives, as normal. Only the card remains in the Court.
   card: Passage Storms
+- faq:
+    - q: >-
+        Can I flip the Council while it is not in the Court?
+      a: >-
+        Yes! In this case, return it to the Court. It won't resolve this round.
+  card: Council Insiders
