@@ -438,7 +438,7 @@
     - q: >-
         Can I flip the Council while it is not in the Court?
       a: >-
-        No.
+        Yes! In this case, return it to the Court. It won't resolve this round.
   card: Council Intrigue
 - faq:
     - q: >-
@@ -542,3 +542,207 @@
       a: >-
         Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.
   card: Monopoly Consent
+- faq:
+    - q: >-
+        If $link:Blight Hunger$ is in play, where do destroyed pieces go?
+      a: >-
+        The Dead Live specifies that pieces that would return to supply are instead placed on the card. Blight Hunger places the pieces on its card before they would return to supply, so Blight Hunger takes precedence. 
+  card: The Dead Live
+- faq:
+    - q: >-
+        How does the Spread Empathy objective interact with Loyal guild cards?
+      a: >-
+        Only Psionic resources count.
+  card: Pacifist Act II Objective
+- faq:
+    - q: >-
+        Can you use Plot to Kidnap to take from the face up discard if playing with Split Discards?
+      a: >-
+        Yes. Resolve the card by searching through both the face-up and facedown discard piles, then shuffle the facedown discard pile.
+  card: Plot to Kidnap
+- faq:
+    - q: >-
+        What do you do if there is already a card attached to the Council?
+      a: >-
+        Attach it to the Council, keeping the other attached card attached as well.
+  card: Guilds Decry Terror
+- faq:
+    - q: >-
+        Do you have to control Witnesses to Catapult move them?
+      a: >-
+        Yes. The control requisite still applies to Catapult Moves.
+    - q: >-
+        Do you have to flip a Witness token in Prelude to declare Empath?
+      a: >-
+        Yes. You must do the first part to declare Empath.
+  card: Witnesses
+- faq:
+    - q: >-
+        Which hits to the ships on the card take?
+      a: >-
+        The ships are on the card take hits for self-hit damage (flame icons and intercept)
+  card: Warden's Levy
+- faq:
+    - q: >-
+        Does using Force Beams' New Action cause the rival to "take a move" such that $link:Gate Ports$ would permit a capture?
+      a: >-
+        Gate Ports is a move modifier, meaning it does not apply to Force Beams
+    - q: >-
+        Force Beams does not trigger $link:Gate Ports$. But does $link:Unstable Seeker$ or $link:Judge's Chosen$?
+      a: >-
+        They do, since they don't state that they ignore move modifiers. It's a little goofy, sorry!
+    - q: >-
+        Can you use Force Beams to do a Catapult Move?
+      a: >-
+        No, Force Beams is strictly to an adjacent system and cannot have a Catapult Move applied to it.
+  card: Force Beams
+- faq:
+    - q: >-
+        If a player triggers Psionic outrage once and then Weapon outrage twice on the same turn, how many ships would Sycophant place?
+      a: >-
+        2 ships total. The 2 ships is once per turn. Not once per turn per outrage
+  card: Sycophants
+- faq:
+    - q: >-
+        Can the Guardian, with $link:Ire of the Tycoons$ still declare the Edenguard ambition?
+      a: >-
+        Edenguard is an alternative to Tycoon and Guardian would be able to declare it
+  card: Edenguard Ambition
+- faq:
+    - q: >-
+        How do Passage tokens affect Gatekeepers?
+      a: >-
+        You place 7 ships, with all ships that would be placed on passages going to the passage (which is itself a gate)
+  card: Passages & The Twisted Passage
+- faq:
+    - q: >-
+        Can conspirator refill the court with the same guild they just secured to place a conspiracy?
+      a: >-
+        Yes! Refill is the last step of secure, after you've taken the card.
+  card: Conspiracies
+- faq:
+    - q: >-
+        Is the Chosen allowed to perform all the actions granted by upgrades on the Judge's Flagship?
+      a: >-
+        The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.
+  card: Judge's Chosen
+- faq:
+    - q: >-
+        If a player plays a non-Aggression card to battle in a cluster at Peace, do they need to spend 1 or 2 Weapons? Is it one weapon per flip if a player wants to flip more than 1 Ceasefire token?
+      a: >-
+        It would cost 2 weapons: One to apply Battle to the Action Card via the standard Prelude ability of a Weapon, and one to flip the Ceasefire token. It is also one Weapon per flip.
+  card: Ceasefires
+- faq:
+    - q: >-
+        Can a Regent with Rogue Admiral attack the Empire alone?
+      a: >-
+        Yes, and they can add any number of Imperial ships in the system to their attacking ships. Basically, they can pick and choose how many are attacking and how many are defending. (This is modeling the Empire breaking up into rival admiralties who each have a claim on the Empire's military, who's loyal, and who's a traitor.)
+  card: Rogue Admirals
+- faq:
+    - q: >-
+        Do trophies taken as part of ransacking the court count towards Admiral's objective?
+      a: >-
+        Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.
+  card: Admiral Act I Objective
+- faq:
+    - q: >-
+        Do you count agents before or after returning the agents that were on this card?
+      a: >-
+        In this instance, the agents should be returned first, then the supply counted.
+  card: Diplomatic Fiasco
+- faq:
+    - q: >-
+        Do resources "you have" apply to resources on a Cartel card?
+      a: >-
+        Yes, you can use resources from a Cartel card for Mythic.
+  card: Shaper
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1603
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1604
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1605
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1605
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1606
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1607
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1608
+- faq:
+    - q: >-
+        In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: Closed Economy
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Forgeworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Blazeworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Deadworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Lostworld Refugees
+- faq:
+    - q: >-
+        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
+      a: >-
+        Yes!
+  card: Heartworld Refugees
+- faq:
+    - q: >-
+        When I secure this card, what happens to the agents on it?
+      a: >-
+        They are returned and taken as Captives, as normal. Only the card remains in the Court.
+  card: Passage Storms
+- faq:
+    - q: >-
+        Can I flip the Council while it is not in the Court?
+      a: >-
+        Yes! In this case, return it to the Court. It won't resolve this round.
+  card: Council Insiders
