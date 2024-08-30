@@ -587,6 +587,14 @@
         Does using Force Beams' New Action cause the rival to "take a move" such that $link:Gate Ports$ would permit a capture?
       a: >-
         Gate Ports is a move modifier, meaning it does not apply to Force Beams
+    - q: >-
+        Force Beams does not trigger $link:Gate Ports$. But does $link:Unstable Seeker$ or $link:Judge's Chosen$?
+      a: >-
+        They do, since they don't state that they ignore move modifiers. It's a little goofy, sorry!
+    - q: >-
+        Can you use Force Beams to do a Catapult Move?
+      a: >-
+        No, Force Beams is strictly to an adjacent system and cannot have a Catapult Move applied to it.
   card: Force Beams
 - faq:
     - q: >-
@@ -632,13 +640,67 @@
   card: Rogue Admirals
 - faq:
     - q: >-
-        Force Beams does not trigger $link:Gate Ports$. But does $link:Unstable Seeker$ or $link:Judge's Chosen$?
-      a: >-
-        They do, since they don't state that they ignore move modifiers. It's a little goofy, sorry!
-  card: Force Beams
-- faq:
-    - q: >-
         Do trophies taken as part of ransacking the court count towards Admiral's objective?
       a: >-
         Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.
   card: Admiral Act I Objective
+- faq:
+    - q: >-
+        Do you count agents before or after returning the agents that were on this card?
+      a: >-
+        In this instance, the agents should be returned first, then the supply counted.
+  card: Diplomatic Fiasco
+- faq:
+    - q: >-
+        Do resources "you have" apply to resources on a Cartel card?
+      a: >-
+        Yes, you can use resources from a Cartel card for Mythic.
+  card: Shaper
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1603
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1604
+  - faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1605
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1605
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1606
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1607
+- faq:
+    - q: >-
+        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: F1608
+- faq:
+    - q: >-
+        In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
+      a: >-
+        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+  card: Closed Economy
