@@ -438,7 +438,7 @@
     - q: >-
         Can I flip the Council while it is not in the Court?
       a: >-
-        Yes! In this case, return it to the Court. It won't resolve this round.
+        No.
   card: Council Intrigue
 - faq:
     - q: >-
@@ -704,6 +704,8 @@
       a: >-
         No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
   card: Closed Economy
+- faq:
+    - q: >-
         Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
       a: >-
         Yes!
