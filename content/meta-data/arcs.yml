@@ -31,7 +31,7 @@ subproducts:
       The Blighted Reach expansion adds an innovative campaign to Arcs.
 
 external:
-  rules: ''
+  rules: https://arcs.seiyria.com
 
 # https://handlebarsjs.com/guide/
 cardTemplate:
