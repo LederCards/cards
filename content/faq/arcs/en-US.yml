@@ -334,6 +334,10 @@
         Do resource slots limit the number of Captives or Trophies I can give?
       a: >-
         No, the limit of resource slots refers only to giving resources. 
+    - q: >-
+        How does this interact with cards like $link:Well of Empathy$ that give unlimited resource slots?
+      a: >-
+        Feel free! Cards that hold resources are considered to have unlimited resource slots for that resource.
   card: The Arbiter
 - faq:
     - q: >-
