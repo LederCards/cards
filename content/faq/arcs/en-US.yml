@@ -751,6 +751,10 @@
         Can I repair my bunkers once they are damaged?
       a: >-
         Yes!
+    - q: >-
+        Do bunkers protect my other buildings on the planet from being raided?
+      a: >-
+        Nope. Bunkers by themselves do not enable raiding.
   card: Bunkers
 - faq:
     - q: >-
