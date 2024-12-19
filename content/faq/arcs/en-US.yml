@@ -766,3 +766,9 @@
       a: >-
         Yes!
   card: Spirit of Freedom
+- faq:
+    - q: >-
+        Can I use this to simply destroy one of my own ships, even if it does not destroy a non-Loyal one?
+      a: >-
+        Sure, if you want. Bash it into a planet or asteroid.
+  card: Survival Overrides
