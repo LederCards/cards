@@ -112,3 +112,6 @@
 - errata:
     - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
   card: Spacing Union
+- errata:
+    - text: "Add the text 'Shuffle the Court deck.'"
+  card: Guilds Decry Terror
