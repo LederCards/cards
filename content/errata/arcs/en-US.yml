@@ -100,3 +100,15 @@
 - errata:
     - text: "This action should include the text 'Don't place the zero marker.'"
   card: Psionic Liaisons
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Admin Union
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Arms Union
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Construction Union
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Spacing Union
