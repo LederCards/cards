@@ -54,6 +54,7 @@
   card: Armistice
 - errata:
     - text: "To clarify the intended effect, we have added 'If a Vassal **secures** a card with a Court token, the Court token remains on the refilled card.'."
+    - text: "Add the following text 'If a Seat is returned, return its Court token.'" 
   card: Feudal Courts
 - errata:
     - text: "To clarify various interactions, we have rewritten step 3 of this card to the following: 'Destroy all buildings on the planet, placing them here, not in Trophies. Nobody Ransacks the Court.' and swapped it with step 2."
