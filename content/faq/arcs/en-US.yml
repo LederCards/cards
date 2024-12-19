@@ -782,3 +782,9 @@
       a: >-
         Yes. You can still score this one even if your Fate does not give you more that you can fulfill.
   card: Portal Seekers
+- faq:
+    - q: >-
+        Do cities and starports on Flagships count toward this effect?
+      a: >-
+        No, they must be on the planet in question.
+  card: Uncovering Clues
