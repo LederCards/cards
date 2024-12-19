@@ -874,3 +874,27 @@
       a: >-
         Yes. Any card that says you can discard it to do something else can simply be discarded.
   card: Lesser Regent
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Corsair
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Seeker Torpedoes
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Skirmishers
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Hunter Squads
