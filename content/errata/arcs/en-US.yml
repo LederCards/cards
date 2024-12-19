@@ -121,3 +121,6 @@
 - errata:
     - text: "The text 'harms a Free city' should read 'harms a Free building.'"
   card: Commonwealth Membership
+- errata:
+    - text: "The first sentence should end with ', keeping its Seat.' to clarify that replacing the city does not remove it."
+  card: Feast Day
