@@ -81,7 +81,7 @@
         Can you secure this card if you are leading or if initiative has already been seized?
       a: >-
         Yes. In this case, you may return a city you control, but you don't seize the initiative.
-  card: Song of Freedom
+  card: ARCS-BC29
 - faq:
     - q: >-
         How many cards can I influence with **Bold**?
@@ -433,7 +433,7 @@
         In the campaign Crisis, what happens if players are tied for most Power?
       a: >-
         The player closest in turn order to the player with initiative is affected.
-  card: Song of Freedom
+  card: ARCS-CC14
 - faq:
     - q: >-
         Can I flip the Council while it is not in the Court?
