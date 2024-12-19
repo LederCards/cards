@@ -124,3 +124,6 @@
 - errata:
     - text: "The first sentence should end with ', keeping its Seat.' to clarify that replacing the city does not remove it."
   card: Feast Day
+- errata:
+    - text: "Add the text 'The ships end their Catapult move.' before the final sentence."
+  card: Breaking Gates & Placing Passages
