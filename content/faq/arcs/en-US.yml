@@ -908,7 +908,7 @@
   card: Hunter Squads
 - faq:
     - q: >-
-        If there are multiple starports on the planet I am Catapult moving from, which do I destroy?
+        If there are multiple ways to Catapult move to break a gate, what happens?
       a: >-
-        You may choose any one Rival or Loyal starport there.
+        Choose any one legal starport or Slipstream Drive. Only that one is destroyed.
   card: Breaking Gates & Placing Passages
