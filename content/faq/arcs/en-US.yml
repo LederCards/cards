@@ -906,3 +906,9 @@
       a: >-
         No, only once.
   card: Hunter Squads
+- faq:
+    - q: >-
+        If there are multiple starports on the planet I am Catapult moving from, which do I destroy?
+      a: >-
+        You may choose any one Rival or Loyal starport there.
+  card: Breaking Gates & Placing Passages
