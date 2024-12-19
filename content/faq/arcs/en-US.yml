@@ -39,6 +39,10 @@
         Can you give me an example of this Prelude action if I discarded 2 cards plus Farseers?
       a: >-
         You would draw 3 cards from the bottom of the action card discard pile.
+    - q: >-
+        Can I discard zero cards beyond this one?
+      a: >-
+        Yes! In this case, just draw 1 card.
   card: Farseers
 - faq:
     - q: >-
