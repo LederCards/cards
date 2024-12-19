@@ -683,6 +683,10 @@
         Do resources "you have" apply to resources on a Cartel card?
       a: >-
         Yes, you can use resources from a Cartel card for Mythic.
+    - q: >-
+        Can I Catapult move from a gate that has a starport from $link:Gate Ports$?
+      a: >-
+        Yes. The ability just indicates that you cannot Catapult move by *using* the starport.
   card: Shaper
 - faq:
     - q: >-
