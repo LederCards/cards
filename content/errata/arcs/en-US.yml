@@ -128,3 +128,6 @@
 - errata:
     - text: "Change 'buildings' to 'building' in point 2. Add the text 'The ships end their Catapult move.' before the final sentence."
   card: Breaking Gates & Placing Passages
+- errata:
+    - text: "The text 'They can't Catapult' should be in body text, not in italics and parentheses."
+  card: Blight Fury

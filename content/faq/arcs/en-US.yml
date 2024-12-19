@@ -946,3 +946,9 @@
       a: >-
         The Crisis does *not* work while the card is discarded or in the Court deck. It *does* work if the card is in the card play area. 
   card: Command Chaos
+- faq:
+    - q: >-
+        Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?
+      a: >-
+        No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
+  card: Blight Fury
