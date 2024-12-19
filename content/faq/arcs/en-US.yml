@@ -46,13 +46,17 @@
   card: Farseers
 - faq:
     - q: >-
-        How does the Card Supply interact with other cards and abilities?
+        How does the supply on this card interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
         Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
   card: Fuel Cartel
 - faq:
     - q: >-
@@ -62,13 +66,17 @@
   card: Galactic Bards
 - faq:
     - q: >-
-        How does the Card Supply interact with other cards and abilities?
+        How does the supply on this card interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
-        Yes
+        Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
   card: Material Cartel
 - faq:
     - q: >-
@@ -228,13 +236,13 @@
   card: Gate Ports
 - faq:
     - q: >-
-        How does Keeper's Solidarity interact with Cartel cards??
+        How does this interact with Cartel cards?
       a: >-
         A player has the resources on Cartel cards. This means Keeper's Solidarity applies to those resources.
   card: Keeper's Solidarity
 - faq:
     - q: >-
-        Does Keeper's Trust interact with Cartel cards?
+        Does this interact with Cartel cards?
       a: >-
         A player has the resources on Cartel cards. This means Keeper's Trust applies to those resources.
   card: Keeper's Trust
@@ -792,3 +800,71 @@
       a: >-
         No, they must be on the planet in question.
   card: Uncovering Clues
+- faq:
+    - q: >-
+        Can I discard this even if I cannot seize?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Lattice Spies
+- faq:
+    - q: >-
+        Can I discard this even if I cannot steal anything?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Silver-Tongues
+- faq:
+    - q: >-
+        Can I discard this even if I cannot steal anything?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Silver-Tongues
+- faq:
+    - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    - q: >-
+        Do rivals discard even if Empath wasn't scored?
+      a: >-
+        Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Psionic Cartel
+- faq:
+    - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Weapon Cartel
+- faq:
+    - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    - q: >-
+        Do rivals discard even if Empath wasn't scored?
+      a: >-
+        Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Relic Cartel
+- faq:
+    - q: >-
+        Can I discard this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Lesser Regent
+- faq:
+    - q: >-
+        Can I discard this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Lesser Regent
