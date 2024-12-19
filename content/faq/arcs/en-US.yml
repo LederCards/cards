@@ -475,6 +475,10 @@
         Does this limit how I can declare ambitions in nonstandard ways, like with $link:Galactic Bards$?
       a: >-
         Yes.
+    - q: >-
+        What happens if I declare an ambition without an Ideal but there are no Ideal markers left in the supply?
+      a: >-
+        Do not place an Ideal marker on it. You can still declare it.
   card: Dominant Faith
 - faq:
     - q: >-
@@ -918,3 +922,9 @@
       a: >-
         Choose any one legal starport or Slipstream Drive. Only that one is destroyed.
   card: Breaking Gates & Placing Passages
+- faq:
+    - q: >-
+        What happens if I declare an ambition without an Ideal but there are no Ideal markers left in the supply?
+      a: >-
+        Do not place an Ideal marker on it. You can still declare it.
+  card: Doctrinal Faith
