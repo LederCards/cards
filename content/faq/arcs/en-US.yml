@@ -618,7 +618,11 @@
     - q: >-
         Can you use Force Beams to do a Catapult Move?
       a: >-
-        No, Force Beams is strictly to an adjacent system and cannot have a Catapult Move applied to it.
+        No, Force Beams is strictly to an adjacent system. It cannot start a Catapult move.
+    - q: >-
+        How does this interact with $link:Passages & The Twisted Passage$?
+      a: >-
+        You can use Force Beams to Guide ships into the Twisted Passage, but not out of it.
   card: Force Beams
 - faq:
     - q: >-
