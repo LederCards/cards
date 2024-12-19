@@ -746,3 +746,9 @@
       a: >-
         Yes! In this case, return it to the Court. It won't resolve this round.
   card: Council Insiders
+- faq:
+    - q: >-
+        Can I repair my bunkers once they are damaged?
+      a: >-
+        Yes!
+  card: Bunkers
