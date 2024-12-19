@@ -205,6 +205,10 @@
         Do I need to have the resource to build the city?
       a: >-
         Building a Cloud City requires spending a resource of the planet type.
+    - q: >-
+        If this card has changed hands, can multiple players have an extra city on the same planet?
+      a: >-
+        No, it is a maximum of one total.
   card: Cloud Cities
 - faq:
     - q: >-
@@ -227,12 +231,20 @@
         What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
       a: >-
         If transferred, your cities in gates still operate in the same way. If scrapped, your cities in gates no longer have a type, so they no longer produce resources when taxed and no longer Provoke Outrage when destroyed.
+    - q: >-
+        If this card has changed hands, can multiple players have a city in the same gate?
+      a: >-
+        No, it is a maximum of one total.
   card: Gate Stations
 - faq:
     - q: >-
         What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
       a: >-
         Your starports in gates can still build ships and enable Catapult moves, but you can no longer take Captives with them.
+    - q: >-
+        If this card has changed hands, can multiple players have a starport in the same gate?
+      a: >-
+        No, it is a maximum of one total.
   card: Gate Ports
 - faq:
     - q: >-
