@@ -77,5 +77,5 @@
     - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.''"
   card: Unstable Protector
 - errata:
-    - text: "The prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath.'"
+    - text: "The Prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath.'"
   card: Witnesses
