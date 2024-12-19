@@ -584,13 +584,9 @@
   card: Warden's Levy
 - faq:
     - q: >-
-        Does using Force Beams' New Action cause the rival to "take a move" such that $link:Gate Ports$ would permit a capture?
+        Does this trigger $link:Gate Ports$?
       a: >-
-        Gate Ports is a move modifier, meaning it does not apply to Force Beams
-    - q: >-
-        Force Beams does not trigger $link:Gate Ports$. But does $link:Unstable Seeker$ or $link:Judge's Chosen$?
-      a: >-
-        They do, since they don't state that they ignore move modifiers. It's a little goofy, sorry!
+        No, since this ignores move modifiers.
     - q: >-
         Can you use Force Beams to do a Catapult Move?
       a: >-
@@ -752,3 +748,15 @@
       a: >-
         Yes!
   card: Bunkers
+- faq:
+    - q: >-
+        Does this trigger $link:Gate Ports$?
+      a: >-
+        Yes!
+  card: Unstable Seeker
+- faq:
+    - q: >-
+        Does this trigger $link:Gate Ports$?
+      a: >-
+        Yes!
+  card: Judge's Chosen
