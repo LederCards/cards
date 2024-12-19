@@ -63,6 +63,10 @@
         In what order do you choose to seize the initiative and declare an ambition?
       a: >-
         Either order.
+    - q: >-
+        How does this interact with '7' action cards and $link:Faithful Cards$?
+      a: >-
+        For '7' action cards, you may declare any ambition. For Faithful cards, you may declare an ambition based on the current Faith, such as $link:Pluralistic Faith$.
   card: Galactic Bards
 - faq:
     - q: >-
