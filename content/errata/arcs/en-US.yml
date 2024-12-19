@@ -77,5 +77,8 @@
     - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.''"
   card: Unstable Protector
 - errata:
-    - text: "The Prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath.'"
+    - text: "The Prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath **without placing the zero marker**.'"
   card: Witnesses
+- errata:
+    - text: "This action should include the text 'Do not place the zero marker.'"
+  card: Populist Demands
