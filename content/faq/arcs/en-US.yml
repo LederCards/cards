@@ -343,7 +343,7 @@
     - q: >-
         If I guess a Conspiracy token incorrectly, is it revealed?
       a: >-
-        No, it stays face down. 
+        No, it stays face down.
   card: Foiling Conspiracies
 - faq:
     - q: >-
@@ -661,6 +661,10 @@
         Can conspirator refill the court with the same guild they just secured to place a conspiracy?
       a: >-
         Yes! Refill is the last step of secure, after you've taken the card.
+    - q: >-
+        When I declare an ambition to place a conspiracy, does this still count as declaring an ambition for cards like $link:Farseers$, $link:Parade Fleets$, $link:Doctrinal Faith$, and so on?
+      a: >-
+        Yes! You are still declaring an ambition. 
   card: Conspiracies
 - faq:
     - q: >-
