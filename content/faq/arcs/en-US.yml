@@ -1012,4 +1012,10 @@
       a: >-
         The Commonwealth Ambition marker remains in the box. After scoring, it is removed even if its marked ambition did not score.
   card: ARCS-CC11
-  cardDisplay: Populist Demands (Blighted Read)
+  cardDisplay: Populist Demands (Blighted Reach)
+- faq:
+    - q: >-
+        What happens if I am a $link:Member of the Commonwealth$ and the Commonwealth scores Warlord with the $link:Commonwealth Ambition$ on it?
+      a: >-
+        You do not score any Power for it. Your unscored Power is *not* scored by other Members.
+  card: Oath of Peace
