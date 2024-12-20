@@ -679,6 +679,10 @@
         Is the Chosen allowed to perform all the actions granted by upgrades on the Judge's Flagship?
       a: >-
         The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.
+    - q: >-
+        Can I start a battle using only the Judge's ships as attacking ships?
+      a: >-
+        Yes.
   card: Judge's Chosen
 - faq:
     - q: >-
