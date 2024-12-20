@@ -535,6 +535,10 @@
         Can I rebuild $link:Banners$ or $link:Banners of Hegemony$ or $link:Cloud Cities$ on a broken world?
       a: >-
         Yes! There are enough scraps to build a small bunker, plant a flag, or build in the ashen clouds.
+    - q: >-
+        Does taking this action at all trigger $link:Empathy for All$?
+      a: >-
+        Yes! Even if you do not end up controlling the planet and thus breaking it.
   card: Breaking Worlds
 - faq:
     - q: >-
