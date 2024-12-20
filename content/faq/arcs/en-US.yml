@@ -956,3 +956,9 @@
       a: >-
         No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
   card: Blight Fury
+- faq:
+    - q: >-
+        When exactly do I refill the Court after my Rival secures the card?
+      a: >-
+        Refill it before you influence and secure.
+  card: Dealmakers
