@@ -687,6 +687,10 @@
         Can I start a battle using only the Judge's ships as attacking ships?
       a: >-
         Yes.
+    - q: >-
+        If I move ships of the Judge into a gate starport from $link:Gate Ports$, whose agent is captured?
+      a: >-
+        The Judge's agent is captured, since it is their ship.
   card: Judge's Chosen
 - faq:
     - q: >-
