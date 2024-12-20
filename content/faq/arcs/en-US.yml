@@ -648,9 +648,13 @@
   card: Force Beams
 - faq:
     - q: >-
-        If a player triggers Psionic outrage once and then Weapon outrage twice on the same turn, how many ships would Sycophant place?
+        If a player provokes Psionic Outrage once and then Weapon Outrage twice on the same turn, how many ships would Sycophant place?
       a: >-
-        2 ships total. The 2 ships is once per turn. Not once per turn per outrage
+        2 ships total. The 2 ships is once per turn, not once per turn per Outrage.
+    - q: >-
+        If this triggers during battle, do the ships I place in the battle system count as attacking ships?
+      a: >-
+        No.
   card: Sycophants
 - faq:
     - q: >-
@@ -976,3 +980,9 @@
       a: >-
         Securing this card triggers the Crisis itself, which means you are not harming anyone, you take no Trophies, you do not cause Outrage, and so on. You have plausible deniability.
   card: Terror Strike
+- faq:
+    - q: >-
+        If I Ransack the Court to secure this during a battle, do ships I place in the battle system count as attacking ships?
+      a: >-
+        No.
+  card: Mass Uprising
