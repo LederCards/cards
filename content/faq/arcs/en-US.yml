@@ -43,6 +43,10 @@
         Can I discard zero cards beyond this one?
       a: >-
         Yes! In this case, just draw 1 card.
+    - q: >-
+        What happens if the discard pile is very small when I use this?
+      a: >-
+        Shuffle all of the cards you are discarding before placing them on the discard pile. This is one of the few situations where discard order matters in the game. 
   card: Farseers
 - faq:
     - q: >-
