@@ -962,3 +962,9 @@
       a: >-
         Refill it before you influence and secure.
   card: Dealmakers
+- faq:
+    - q: >-
+        If I secure the card, does this count as harming others? Do I take Trophies? What happens exactly?
+      a: >-
+        Securing this card triggers the Crisis itself, which means you are not harming anyone, you take no Trophies, you do not cause Outrage, and so on. You have plausible deniability.
+  card: Terror Strike
