@@ -133,9 +133,9 @@
   card: Mystic
 - faq:
     - q: >-
-        If the top card of the Court deck is $link:Populist Demand$, do you trigger *Connected* again?
+        If the top card of the Court deck is $link:Populist Demands$, do you trigger *Connected* again?
       a: >-
-        Yes, if you declare an undeclared ambition with a drawn $link:Populist Demand$, this ability triggers again.
+        Yes, if you declare an undeclared ambition with a drawn $link:Populist Demands$, this ability triggers again.
     - q: >-
         If I secure $link:Farseers$, does *Connected* trigger?
       a: >-
@@ -325,7 +325,15 @@
     - q: >-
         What happens to the Commonwealth ambition marker after scoring?
       a: >-
-        It returns to the Fate card of the $link:Founder of the Commonwealth$. 
+        It returns to the Fate card of the $link:Founder of the Commonwealth$.
+    - q: >-
+        If I place a Conspiracy marker with $link:Conspiracies$, can I still place a Commonwealth ambition marker on it?
+      a: >-
+        Yes, as you still declared an ambition, even though you placed something different.
+    - q: >-
+        What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if ?
+      a: >-
+        It returns during scoring even if the ambition did not score any points.
   card: Commonwealth Ambition
 - faq:
     - q: >-
@@ -998,3 +1006,10 @@
       a: >-
         No.
   card: Mass Uprising
+- faq:
+    - q: >-
+        If I remove an ambition marker from a box with a $link:Commonwealth Ambition$ marker, what happens?
+      a: >-
+        The Commonwealth Ambition marker remains in the box. After scoring, it is removed even if its marked ambition did not score.
+  card: ARCS-CC11
+  cardDisplay: Populist Demands (Blighted Read)
