@@ -699,6 +699,10 @@
         Can a Regent with Rogue Admiral attack the Empire alone?
       a: >-
         Yes, and they can add any number of Imperial ships in the system to their attacking ships. Basically, they can pick and choose how many are attacking and how many are defending. (This is modeling the Empire breaking up into rival admiralties who each have a claim on the Empire's military, who's loyal, and who's a traitor.)
+    - q: >-
+        What happens with a Regent with Rogue Admirals attacks another Regent?
+      a: >-
+        As in the situation above, they can choose to add any of the Imperial ships in the system to their attacking ships. The other Imperial ships are defending ships.
   card: Rogue Admirals
 - faq:
     - q: >-
