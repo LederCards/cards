@@ -599,7 +599,7 @@
         In the Call to Order, if I want to force the Advocate to give me a Guild card, how many Favors do I need to return to them?
       a: >-
         Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.
-  card: Monopoly Consent
+  card: Guild Negotiations
 - faq:
     - q: >-
         If $link:Blight Hunger$ is in play, where do destroyed pieces go?
