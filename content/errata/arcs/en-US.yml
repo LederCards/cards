@@ -5,7 +5,7 @@
     - text: "This card is misprinted as an event card in the first printing of Arcs: The Blighted Reach Expansion. We will be issuing a professionally printed correction. As of June 2024, our plan right now is to wait a month or two in case any other errors of this nature crop up. At that point, we'll be offering an errata pack on our store with free shipping (it may have a nominal cost of 1 dollar or so). We'll also include a corrected copy in the next Arcs product. You can find a print-quality version of the file [here](https://www.dropbox.com/scl/fi/yfvmyj5dx74e1ebzn9pav/Navy-Reprisal.pdf?rlkey=aasfbpazvczni9zfr5nv6cnbv&dl=0)."
   card: Navy Reprisal
 - errata:
-    - text: "The term 'blockaded' in the clarification is an old term for 'controlled by anything other than you.' In the base game, all that matters is Rival control. In the campaign, this can include control by the Empire, Free cities, etc."
+    - text: "The term 'blockaded' present in the first-printing clarification is an old term for 'controlled by anything other than you.' In the base game, all that matters is Rival control. In the campaign, this can include control by the Empire, etc."
   card: Empath's Bond
 - errata:
     - text: "This card's ability should read '...you do not **discard** Guild cards.'"
@@ -30,7 +30,7 @@
   card: Partisan Act II Setup
 - errata:
     - text: "The card references should read '09' through '12' in the order listed."
-  card: Pacifist Act II Setup
+  card: Pacifist Act III Setup
 - errata:
     - text: "'Explain it and to everyone' should read 'Explain it to everyone.'"
   card: Gate Wraith Act III Setup
@@ -54,6 +54,7 @@
   card: Armistice
 - errata:
     - text: "To clarify the intended effect, we have added 'If a Vassal **secures** a card with a Court token, the Court token remains on the refilled card.'."
+    - text: "Add the following text 'If a Seat is returned, return its Court token.'" 
   card: Feudal Courts
 - errata:
     - text: "To clarify various interactions, we have rewritten step 3 of this card to the following: 'Destroy all buildings on the planet, placing them here, not in Trophies. Nobody Ransacks the Court.' and swapped it with step 2."
@@ -76,3 +77,60 @@
 - errata:
     - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.''"
   card: Unstable Protector
+- errata:
+    - text: "The Prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath **without placing the zero marker**.'"
+  card: Witnesses
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Populist Demands
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Lesser Regent
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Material Liaisons
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Fuel Liaisons
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Weapons Liaisons
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Relic Liaisons
+- errata:
+    - text: "This action should include the text 'Don't place the zero marker.'"
+  card: Psionic Liaisons
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Admin Union
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Arms Union
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Construction Union
+- errata:
+    - text: "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it."
+  card: Spacing Union
+- errata:
+    - text: "Add the text 'Shuffle the Court deck.'"
+  card: Guilds Decry Terror
+- errata:
+    - text: "The text 'harms a Free city' should read 'harms a Free building.'"
+  card: Member of the Commonwealth
+- errata:
+    - text: "The text 'harms a Free city' should read 'harms a Free building.'"
+  card: Commonwealth Membership
+- errata:
+    - text: "The first sentence should end with ', keeping its Seat.' to clarify that replacing the city does not remove it."
+  card: Feast Day
+- errata:
+    - text: "Change points 2 and 3 to the following: 2. Place all ships and tokens from the gate onto the Twisted Passage, the central map area. The ships end their Catapult move. // 3. Return the building you used to Catapult--the starport on the map, or your Flagship's Slipstream Drive Upgrade and its Armor--as well as all buildings on the gate. *(Don't take any of these as Trophies. This does not count as harm.)*"
+  card: Breaking Gates & Placing Passages
+- errata:
+    - text: "The text 'They can't Catapult' should be in body text, not in italics and parentheses."
+  card: Blight Fury
+- errata:
+    - text: "The text 'They can't Catapult' should be in body text, not in italics and parentheses."
+  card: Blight Society

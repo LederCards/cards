@@ -39,32 +39,52 @@
         Can you give me an example of this Prelude action if I discarded 2 cards plus Farseers?
       a: >-
         You would draw 3 cards from the bottom of the action card discard pile.
+    - q: >-
+        Can I discard zero cards beyond this one?
+      a: >-
+        Yes! In this case, just draw 1 card.
+    - q: >-
+        What happens if the discard pile is very small when I use this?
+      a: >-
+        Shuffle all of the cards you are discarding before placing them on the discard pile. This is one of the few situations where discard order matters in the game. 
   card: Farseers
 - faq:
     - q: >-
-        How does the Card Supply interact with other cards and abilities?
+        How does the supply on this card interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
         Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
   card: Fuel Cartel
 - faq:
     - q: >-
         In what order do you choose to seize the initiative and declare an ambition?
       a: >-
         Either order.
+    - q: >-
+        How does this interact with '7' action cards and $link:Faithful Cards$?
+      a: >-
+        For '7' action cards, you may declare any ambition. For Faithful cards, you may declare an ambition based on the current Faith, such as $link:Pluralistic Faith$.
   card: Galactic Bards
 - faq:
     - q: >-
-        How does the Card Supply interact with other cards and abilities?
+        How does the supply on this card interact with other cards and abilities?
       a: >-
-        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$, or be stolen.
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
     - q: >-
         Do rivals discard even if Tycoon wasn't scored?
       a: >-
-        Yes
+        Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
   card: Material Cartel
 - faq:
     - q: >-
@@ -113,9 +133,9 @@
   card: Mystic
 - faq:
     - q: >-
-        If the top card of the Court deck is $link:Populist Demand$, do you trigger *Connected* again?
+        If the top card of the Court deck is $link:Populist Demands$, do you trigger *Connected* again?
       a: >-
-        Yes, if you declare an undeclared ambition with a drawn $link:Populist Demand$, this ability triggers again.
+        Yes, if you declare an undeclared ambition with a drawn $link:Populist Demands$, this ability triggers again.
     - q: >-
         If I secure $link:Farseers$, does *Connected* trigger?
       a: >-
@@ -194,6 +214,10 @@
         Do I need to have the resource to build the city?
       a: >-
         Building a Cloud City requires spending a resource of the planet type.
+    - q: >-
+        If this card has changed hands, can multiple players have an extra city on the same planet?
+      a: >-
+        No, it is a maximum of one total.
   card: Cloud Cities
 - faq:
     - q: >-
@@ -216,22 +240,30 @@
         What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
       a: >-
         If transferred, your cities in gates still operate in the same way. If scrapped, your cities in gates no longer have a type, so they no longer produce resources when taxed and no longer Provoke Outrage when destroyed.
+    - q: >-
+        If this card has changed hands, can multiple players have a city in the same gate?
+      a: >-
+        No, it is a maximum of one total.
   card: Gate Stations
 - faq:
     - q: >-
         What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
       a: >-
         Your starports in gates can still build ships and enable Catapult moves, but you can no longer take Captives with them.
+    - q: >-
+        If this card has changed hands, can multiple players have a starport in the same gate?
+      a: >-
+        No, it is a maximum of one total.
   card: Gate Ports
 - faq:
     - q: >-
-        How does Keeper's Solidarity interact with Cartel cards??
+        How does this interact with Cartel cards?
       a: >-
         A player has the resources on Cartel cards. This means Keeper's Solidarity applies to those resources.
   card: Keeper's Solidarity
 - faq:
     - q: >-
-        Does Keeper's Trust interact with Cartel cards?
+        Does this interact with Cartel cards?
       a: >-
         A player has the resources on Cartel cards. This means Keeper's Trust applies to those resources.
   card: Keeper's Trust
@@ -293,7 +325,15 @@
     - q: >-
         What happens to the Commonwealth ambition marker after scoring?
       a: >-
-        It returns to the Fate card of the $link:Founder of the Commonwealth$. 
+        It returns to the Fate card of the $link:Founder of the Commonwealth$.
+    - q: >-
+        If I place a Conspiracy marker with $link:Conspiracies$, can I still place a Commonwealth ambition marker on it?
+      a: >-
+        Yes, as you still declared an ambition, even though you placed something different.
+    - q: >-
+        What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if ?
+      a: >-
+        It returns during scoring even if the ambition did not score any points.
   card: Commonwealth Ambition
 - faq:
     - q: >-
@@ -306,12 +346,16 @@
         Do resource slots limit the number of Captives or Trophies I can give?
       a: >-
         No, the limit of resource slots refers only to giving resources. 
+    - q: >-
+        How does this interact with cards like $link:Well of Empathy$ that give unlimited resource slots?
+      a: >-
+        Feel free! Cards that hold resources are considered to have unlimited resource slots for that resource.
   card: The Arbiter
 - faq:
     - q: >-
         If I guess a Conspiracy token incorrectly, is it revealed?
       a: >-
-        No, it stays face down. 
+        No, it stays face down.
   card: Foiling Conspiracies
 - faq:
     - q: >-
@@ -364,6 +408,10 @@
         Can I override the Imperial Truce Law with the Warrior Golem?
       a: >-
         Nope!
+    - q: >-
+        Are Golems resources? 
+      a: >-
+        Nope! The text 'can be spent for actions like resources' just means that you spend them in your Prelude to take their listed actions like you do with resources. You can't spend them to take New Actions or, for example, or as inputs for Loyal cards like $link:Loyal Engineers$.
   card: Golems
 - faq:
     - q: >-
@@ -447,6 +495,10 @@
         Does this limit how I can declare ambitions in nonstandard ways, like with $link:Galactic Bards$?
       a: >-
         Yes.
+    - q: >-
+        What happens if I declare an ambition without an Ideal but there are no Ideal markers left in the supply?
+      a: >-
+        Do not place an Ideal marker on it. You can still declare it.
   card: Dominant Faith
 - faq:
     - q: >-
@@ -495,6 +547,10 @@
         Can I rebuild $link:Banners$ or $link:Banners of Hegemony$ or $link:Cloud Cities$ on a broken world?
       a: >-
         Yes! There are enough scraps to build a small bunker, plant a flag, or build in the ashen clouds.
+    - q: >-
+        Does taking this action at all trigger $link:Empathy for All$?
+      a: >-
+        Yes! Even if you do not end up controlling the planet and thus breaking it.
   card: Breaking Worlds
 - faq:
     - q: >-
@@ -543,7 +599,7 @@
         In the Call to Order, if I want to force the Advocate to give me a Guild card, how many Favors do I need to return to them?
       a: >-
         Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.
-  card: Monopoly Consent
+  card: Guild Negotiations
 - faq:
     - q: >-
         If $link:Blight Hunger$ is in play, where do destroyed pieces go?
@@ -558,9 +614,13 @@
   card: Pacifist Act II Objective
 - faq:
     - q: >-
-        Can you use Plot to Kidnap to take from the face up discard if playing with Split Discards?
+        Can you use Plot to Kidnap to take an action card from the face up discard if playing with Split Discards?
       a: >-
         Yes. Resolve the card by searching through both the face-up and facedown discard piles, then shuffle the facedown discard pile.
+    - q: >-
+        How does the Crisis work if $link:The Young Light$ or $link:The Prophet$ is discarded, in the Court deck, or in the card play area?
+      a: >-
+        The Crisis does *not* work while the card is discarded or in the Court deck. It *does* work if the card is in the card play area. 
   card: Plot to Kidnap
 - faq:
     - q: >-
@@ -586,23 +646,27 @@
   card: Warden's Levy
 - faq:
     - q: >-
-        Does using Force Beams' New Action cause the rival to "take a move" such that $link:Gate Ports$ would permit a capture?
+        Does this trigger $link:Gate Ports$?
       a: >-
-        Gate Ports is a move modifier, meaning it does not apply to Force Beams
-    - q: >-
-        Force Beams does not trigger $link:Gate Ports$. But does $link:Unstable Seeker$ or $link:Judge's Chosen$?
-      a: >-
-        They do, since they don't state that they ignore move modifiers. It's a little goofy, sorry!
+        No, since this ignores move modifiers.
     - q: >-
         Can you use Force Beams to do a Catapult Move?
       a: >-
-        No, Force Beams is strictly to an adjacent system and cannot have a Catapult Move applied to it.
+        No, Force Beams is strictly to an adjacent system. It cannot start a Catapult move.
+    - q: >-
+        How does this interact with $link:Passages & The Twisted Passage$?
+      a: >-
+        You can use Force Beams to Guide ships into the Twisted Passage, but not out of it.
   card: Force Beams
 - faq:
     - q: >-
-        If a player triggers Psionic outrage once and then Weapon outrage twice on the same turn, how many ships would Sycophant place?
+        If a player provokes Psionic Outrage once and then Weapon Outrage twice on the same turn, how many ships would Sycophant place?
       a: >-
-        2 ships total. The 2 ships is once per turn. Not once per turn per outrage
+        2 ships total. The 2 ships is once per turn, not once per turn per Outrage.
+    - q: >-
+        If this triggers during battle, do the ships I place in the battle system count as attacking ships?
+      a: >-
+        No.
   card: Sycophants
 - faq:
     - q: >-
@@ -621,12 +685,24 @@
         Can conspirator refill the court with the same guild they just secured to place a conspiracy?
       a: >-
         Yes! Refill is the last step of secure, after you've taken the card.
+    - q: >-
+        When I declare an ambition to place a conspiracy, does this still count as declaring an ambition for cards like $link:Farseers$, $link:Parade Fleets$, $link:Doctrinal Faith$, and so on?
+      a: >-
+        Yes! You are still declaring an ambition. 
   card: Conspiracies
 - faq:
     - q: >-
         Is the Chosen allowed to perform all the actions granted by upgrades on the Judge's Flagship?
       a: >-
         The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.
+    - q: >-
+        Can I start a battle using only the Judge's ships as attacking ships?
+      a: >-
+        Yes.
+    - q: >-
+        If I move ships of the Judge into a gate starport from $link:Gate Ports$, whose agent is captured?
+      a: >-
+        The Judge's agent is captured, since it is their ship.
   card: Judge's Chosen
 - faq:
     - q: >-
@@ -638,7 +714,11 @@
     - q: >-
         Can a Regent with Rogue Admiral attack the Empire alone?
       a: >-
-        Yes, and they can add any number of Imperial ships in the system to their attacking ships. Basically, they can pick and choose how many are attacking and how many are defending. (This is modeling the Empire breaking up into rival admiralties who each have a claim on the Empire's military, who's loyal, and who's a traitor.)
+        Yes. In this case, the Empire defends with all Imperial ships in the battle system.
+    - q: >-
+        What happens with a Regent with Rogue Admirals attacks another Regent?
+      a: >-
+        The attacker can add any number of Imperial ships in the system to their attacking ships. Remaining Imperial ships are defending ships. (This is modeling the Empire breaking up into rival admiralties who each have a claim on the Empire's military, who's loyal, and who's a traitor.)
   card: Rogue Admirals
 - faq:
     - q: >-
@@ -657,54 +737,52 @@
         Do resources "you have" apply to resources on a Cartel card?
       a: >-
         Yes, you can use resources from a Cartel card for Mythic.
+    - q: >-
+        Can I Catapult move from a gate that has a starport from $link:Gate Ports$?
+      a: >-
+        Yes. The ability just indicates that you cannot Catapult move by *using* the starport.
   card: Shaper
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 1st Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 2nd Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 3rd Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 4th Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 5th Cluster
 - faq:
     - q: >-
         In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Lord of the 6th Cluster
-- faq:
-    - q: >-
-        In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?
-      a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
-  card: F1608
 - faq:
     - q: >-
         In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?
       a: >-
-        No. A Regent Lord is bound by Truce law when taxing a Regent Vassal. An Outlaw Lord can always tax Vassal cities regardless of Empire presence.
+        No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.
   card: Closed Economy
 - faq:
     - q: >-
@@ -748,3 +826,196 @@
       a: >-
         Yes! In this case, return it to the Court. It won't resolve this round.
   card: Council Insiders
+- faq:
+    - q: >-
+        Can I repair my bunkers once they are damaged?
+      a: >-
+        Yes!
+    - q: >-
+        Do bunkers protect my other buildings on the planet from being raided?
+      a: >-
+        Nope. Bunkers by themselves do not enable raiding.
+  card: Bunkers
+- faq:
+    - q: >-
+        Does this trigger $link:Gate Ports$?
+      a: >-
+        Yes!
+  card: Unstable Seeker
+- faq:
+    - q: >-
+        Does this trigger $link:Gate Ports$?
+      a: >-
+        Yes!
+  card: Judge's Chosen
+- faq:
+    - q: >-
+        Can I secure the card if I am in a three-way tie with a Commonwealth Member and a non-Member?
+      a: >-
+        Yes!
+  card: Spirit of Freedom
+- faq:
+    - q: >-
+        Can I use this to simply destroy one of my own ships, even if it does not destroy a non-Loyal one?
+      a: >-
+        Sure, if you want. Bash it into a planet or asteroid.
+  card: Survival Overrides
+- faq:
+    - q: >-
+        Can I score from fulfilling this grand ambition even if I have a C Fate?
+      a: >-
+        Yes. You can still score this one even if your Fate does not give you more that you can fulfill.
+  card: Portal Seekers
+- faq:
+    - q: >-
+        Do cities and starports on Flagships count toward this effect?
+      a: >-
+        No, they must be on the planet in question.
+  card: Uncovering Clues
+- faq:
+    - q: >-
+        Can I discard this even if I cannot seize?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Lattice Spies
+- faq:
+    - q: >-
+        Can I discard this even if I cannot steal anything?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Silver-Tongues
+- faq:
+    - q: >-
+        Can I discard this even if I cannot steal anything?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Silver-Tongues
+- faq:
+    - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    - q: >-
+        Do rivals discard even if Empath wasn't scored?
+      a: >-
+        Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Psionic Cartel
+- faq:
+    - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Weapon Cartel
+- faq:
+    - q: >-
+        How does the supply on this card interact with other cards and abilities?
+      a: >-
+        The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.
+    - q: >-
+        Do rivals discard even if Empath wasn't scored?
+      a: >-
+        Yes.
+    - q: >-
+        Can I discard this even if there is nothing to steal?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Relic Cartel
+- faq:
+    - q: >-
+        Can I discard this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Lesser Regent
+- faq:
+    - q: >-
+        Can I discard this even if there are no Available ambition markers?
+      a: >-
+        Yes. Any card that says you can discard it to do something else can simply be discarded.
+  card: Lesser Regent
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Corsair
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Seeker Torpedoes
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Skirmishers
+- faq:
+    - q: >-
+        Can I reroll this multiple times?
+      a: >-
+        No, only once.
+  card: Hunter Squads
+- faq:
+    - q: >-
+        If there are multiple ways to Catapult move to break a gate, what happens?
+      a: >-
+        Choose any one legal starport or Slipstream Drive. Only that one is destroyed.
+  card: Breaking Gates & Placing Passages
+- faq:
+    - q: >-
+        What happens if I declare an ambition without an Ideal but there are no Ideal markers left in the supply?
+      a: >-
+        Do not place an Ideal marker on it. You can still declare it.
+  card: Doctrinal Faith
+- faq:
+    - q: >-
+        How does the Crisis work if the $link:Imperial Officers$ is discarded or in the Court deck?
+      a: >-
+        The Crisis does *not* work while the card is discarded or in the Court deck.
+  card: Command Chaos
+- faq:
+    - q: >-
+        Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?
+      a: >-
+        No. Blight cannot Catapult move, period. This includes with the Seeker Golem.
+  card: Blight Fury
+- faq:
+    - q: >-
+        When exactly do I refill the Court after my Rival secures the card?
+      a: >-
+        Refill it before you influence and secure.
+  card: Dealmakers
+- faq:
+    - q: >-
+        If I secure the card, does this count as harming others? Do I take Trophies? What happens exactly?
+      a: >-
+        Securing this card triggers the Crisis itself, which means you are not harming anyone, you take no Trophies, you do not cause Outrage, and so on. You have plausible deniability.
+  card: Terror Strike
+- faq:
+    - q: >-
+        If I Ransack the Court to secure this during a battle, do ships I place in the battle system count as attacking ships?
+      a: >-
+        No.
+  card: Mass Uprising
+- faq:
+    - q: >-
+        If I remove an ambition marker from a box with a $link:Commonwealth Ambition$ marker, what happens?
+      a: >-
+        The Commonwealth Ambition marker remains in the box. After scoring, it is removed even if its marked ambition did not score.
+  card: ARCS-CC11
+  cardDisplay: Populist Demands (Blighted Reach)
+- faq:
+    - q: >-
+        What happens if I am a $link:Member of the Commonwealth$ and the Commonwealth scores Warlord with the $link:Commonwealth Ambition$ on it?
+      a: >-
+        You do not score any Power for it. Your unscored Power is *not* scored by other Members.
+  card: Oath of Peace
