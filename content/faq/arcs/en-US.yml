@@ -331,7 +331,7 @@
       a: >-
         Yes, as you still declared an ambition, even though you placed something different.
     - q: >-
-        What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if ?
+        What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if a crisis undeclared it?
       a: >-
         It returns during scoring even if the ambition did not score any points.
   card: Commonwealth Ambition
