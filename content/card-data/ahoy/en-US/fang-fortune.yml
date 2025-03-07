@@ -1,0 +1,90 @@
+- id: AHOYFF-1
+  name: Caustic Spray
+  image: 'FF1'
+  text: >-
+    When you Strike, you may battle all figures in the target space in any order.
+  tags:
+    - Leviathan Upgrade
+- id: AHOYFF-2
+  name: Developed Brain
+  image: 'FF2'
+  text: >-
+    Take any one action on your player board, ignoring its die restrictions.
+    (*This lets you Strike at longer distances and Dive to more spaces.*)
+  tags:
+    - Leviathan Upgrade
+- id: AHOYFF-3
+  name: Massive
+  image: 'FF3'
+  text: >-
+    Enemies cannot move directly to spaces with your Head or Body. (*This mostly stops the Tailwind action.*)
+  tags:
+    - Leviathan Upgrade
+- id: AHOYFF-4
+  name: Nimble
+  image: 'FF4'
+  text: >-
+    Move a Head directly to a space that is a number of spaces away up to this die value. (*You still can't move it into another Head or Body.*)
+  tags:
+    - Leviathan Upgrade
+- id: AHOYFF-5
+  name: Spiked
+  image: 'FF5'
+  text: >-
+    When a Flagship moves into a space with your Head or Body, it must take 1 damage.
+  tags:
+    - Leviathan Upgrade
+- id: AHOYFF-6
+  name: Symbiotic
+  image: 'FF6'
+  text: >-
+    Gain the card you just discarded with your Feast action as Crew. (*This is the only way you can gain Crew.*)
+  tags:
+    - Leviathan Upgrade
+- id: AHOYFF-7
+  name: The Arbiter
+  image: 'FF7'
+  text: >-
+    **End of Round:** After scoring, if the Arbiter's region is controlled by the player with the most Fame, even if tied, gain 2 Fame + 1 Fame for each filled Arbiter Job.
+  tags:
+    - Coral Cap Frigate
+- id: AHOYFF-8
+  name: The Banquet
+  image: 'FF8'
+  text: >-
+    **After Moving:** The Banquet may repair 1 dammage from all other pieces (*including enemies*) in its region. If it repairs any amount of damage, you gain 1 Fame + 1 Fame for each filled Banquet Job.
+  tags:
+    - Coral Cap Frigate
+- id: AHOYFF-9
+  name: The Luxury
+  image: 'FF9'
+  text: >-
+    **End of Round:** If the Luxury is in a region with an enemy Flagship, you gain 1 Fame for each gold you have, up to a maximum of 2 Fame + 1 Fame for each filled Luxury Job.
+  tags:
+    - Coral Cap Frigate
+- id: AHOYFF-10
+  name: The Mercenary
+  image: 'FF10'
+  text: >-
+    **After Moving:** If the player with the most Fame controls the Mercenary's region, you may do the following effect.
+    If it's the Blue faction, remove 1 Patrol from its region to gain 1 Fame.
+    If it's the Yellow faction, remove 1 Comrade from its region's Island to gain 1 Fame.
+    If the Blue and Yellow factions are tied for Fame, you may do either effect.
+  tags:
+    - Coral Cap Frigate
+- id: AHOYFF-11
+  name: The Specter
+  image: 'FF11'
+  text: >-
+    **In Battle:** When you turn your Cannons die to lower its value, add ***double*** the change to your battle roll.
+    When the Specter wins any battle, you also gain 1 Fame + 1 Fame for each filled Specter Job.
+  tags:
+    - Coral Cap Frigate
+- id: AHOYFF-12
+  name: The Wayfinder
+  image: 'FF12'
+  text: >-
+    **Start of your Turn:** You may move your Flagship or another Frigate directly to the Wayfinder's space.
+    (*Moving the Mercenary or Banquet Frigate does trigger its ability.*)
+  tags:
+    - Coral Cap Frigate

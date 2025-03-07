@@ -1,0 +1,63 @@
+- id: AHOYRR-1
+  name: Homecoming
+  image: 'RR1'
+  text: >-
+    Play as an action, then discard. Return 1 Launcher and tis Comrades to your supply to gain 3 Ready Comrades or place 3 Comrades from your supply under a Launcher.
+  tags:
+    - Shellfire Plan
+- id: AHOYRR-2
+  name: Immediate Launch
+  image: 'RR2'
+  text: >
+    Play as an action, then discard. You may Launch Comrades now from your Flagship and any of your Launchers. (*You may also Launch at the end of your turn.)
+  tags:
+    - Shellfire Plan
+- id: AHOYRR-3
+  name: Sharpshooters
+  image: 'RR3'
+  text: >
+    Play as an action, then discard. Remove 1 or 2 Patrols, each in a straight line from your Flagship or a Launcher,  a number of spaces away exactly equal to your Range die.
+  tags:
+    - Shellfire Plan
+    - id: AHOYRR-4
+  name: Build
+  image: 'RR4'
+  text: >
+    Play as an action, then discard. Place a Launcher in a space surrounding your Flagship or another Launcher. Place up to 4 Ready Comrades under it.
+  tags:
+    - Shellfire Plan
+    - id: AHOYRR-5
+  name: Enlist
+  image: 'RR5'
+  text: >
+    Play as an action, then discard. Choose any one Island with any Comrades. Recruit any number of Crew of its suit, ignoring cost. Refill the Market only when done.
+  tags:
+    - Shellfire Plan
+    - id: AHOYRR-6
+  name: Hide
+  image: 'RR6'
+  text: >
+    Play as an action, then discard. Move your Flagship to any space with Fog. If you do, gain 3 Ready Comrades. (*If you're already in Fog, you can stay in that space.*)
+  tags:
+    - Shellfire Plan
+    - id: AHOYRR-7
+  name: Rally
+  image: 'RR7'
+  text: >
+    Play as an action, then discard. Choose up to 2 Launchers on Islands. Place up to 2 Comrades from your supply under each. (*Not from your Ready Comrades!*)
+  tags:
+    - Shellfire Plan
+    - id: AHOYRR-8
+  name: Scramble!!!
+  image: 'RR8'
+  text: >
+    Play as an action, then discard. Move any Launchers, each up to 2 spaces. (*They may explore and battle.*) In battles with them, add +2 to your battle die roll.
+  tags:
+    - Shellfire Plan
+    - id: AHOYRR-9
+  name: United We Stand
+  image: 'RR9'
+  text: >
+    This round, Comrades under Launchers count toward control. Discard this card after scoring at the end of the round.
+  tags:
+    - Shellfire Plan

@@ -6,6 +6,7 @@
     directly to the other Island of that suit.
   tags:
     - Bird
+    - Market
 - id: AHOY-2
   name: Middleman
   image: '2'
@@ -14,6 +15,7 @@
     gold spent.
   tags:
     - Bird
+    - Market
 - id: AHOY-3
   name: Documentarian
   image: '3'
@@ -22,6 +24,7 @@
     as an enemy Flagship.
   tags:
     - Bird
+    - Market
 - id: AHOY-4
   name: Elder
   image: '4'
@@ -30,6 +33,7 @@
     Crew).
   tags:
     - Bird
+    - Market
 - id: AHOY-5
   name: Sea Witch
   image: '5'
@@ -38,6 +42,7 @@
     on the nearest opposite edge for free.
   tags:
     - Bird
+    - Market
 - id: AHOY-6
   name: Buccaneer
   image: '6'
@@ -46,6 +51,7 @@
     Crew of theirs that you choose to the box.
   tags:
     - Skull
+    - Market
 - id: AHOY-7
   name: Mystic
   image: '7'
@@ -54,12 +60,14 @@
     to any figure in your Flagship’s region.
   tags:
     - Skull
+    - Market
 - id: AHOY-8
   name: Gunner
   image: '8'
   text: When you win a battle with your Flagship, you deal an extra damage.
   tags:
     - Skull
+    - Market
 - id: AHOY-9
   name: Gunner's Mate
   image: '9'
@@ -68,6 +76,7 @@
     in its region as if it moved there.
   tags:
     - Skull
+    - Market
 - id: AHOY-10
   name: Powder Monkey
   image: '10'
@@ -76,24 +85,28 @@
     your Flagship’s region.
   tags:
     - Skull
+    - Market
 - id: AHOY-11
   name: Fighters
   image: '11'
   text: In any battle (not just with your Flagship), you add +1 to your roll.
   tags:
     - Swords
+    - Market
 - id: AHOY-12
   name: Cutpurse
   image: '12'
   text: When you win any battle (not just with your Flagship), gain 2 gold.
   tags:
     - Swords
+    - Market
 - id: AHOY-13
   name: Shipwright
   image: '13'
   text: Repair all of your damage.
   tags:
     - Swords
+    - Market
 - id: AHOY-14
   name: Emissary
   image: '14'
@@ -102,6 +115,7 @@
     ignore the battle.
   tags:
     - Swords
+    - Market
 - id: AHOY-15
   name: Grogmaster
   image: '15'
@@ -110,6 +124,7 @@
     die one time. If using Secret Weapon, reroll both dice.
   tags:
     - Swords
+    - Market
 - id: AHOY-16
   name: Convincing Comrade
   image: '17'
@@ -118,6 +133,7 @@
     (There are two Convincing Comrades.)
   tags:
     - Tree
+    - Market
 - id: AHOY-17
   name: Convincing Official
   image: '16'
@@ -127,6 +143,7 @@
     two Convincing Officials.)
   tags:
     - Tree
+    - Market
 - id: AHOY-18
   name: Naive Noble
   image: '18'
@@ -135,12 +152,14 @@
     your Flagship’s region. You may tuck it as Crew or Cargo.
   tags:
     - Tree
+    - Market
 - id: AHOY-19
   name: Sailor
   image: '19'
   text: Move your Flagship 1 to 3 spaces.
   tags:
     - Compass
+    - Market
 - id: AHOY-20
   name: Battering Beakhead
   image: '20'
@@ -149,6 +168,7 @@
     map. It ignores battle, Harbors, and Treasure.
   tags:
     - Compass
+    - Market
 - id: AHOY-21
   name: Ghastly Gust
   image: '21'
@@ -157,6 +177,7 @@
     space.
   tags:
     - Compass
+    - Market
 - id: AHOY-22
   name: Whispering Wind
   image: '22'
@@ -165,6 +186,7 @@
     space with Tailwind terrain.
   tags:
     - Compass
+    - Market
 - id: AHOY-23
   name: Trawler
   image: '23'
@@ -173,6 +195,7 @@
     don’t anchor at it.
   tags:
     - Compass
+    - Market
 - id: AHOY-24
   name: Barrelman
   image: '24'
@@ -181,12 +204,14 @@
     going in any direction.
   tags:
     - Fish
+    - Market
 - id: AHOY-25
   name: Pilot
   image: '25'
   text: When your Flagship moves into Wreckage, you may ignore its damage.
   tags:
     - Fish
+    - Market
 - id: AHOY-26
   name: Sea Dog
   image: '26'
@@ -195,6 +220,7 @@
     move in a different direction.
   tags:
     - Fish
+    - Market
 - id: AHOY-27
   name: Diver
   image: '27'
@@ -203,12 +229,14 @@
     Treasure.
   tags:
     - Fish
+    - Market
 - id: AHOY-28
   name: Merchant
   image: '28'
   text: When your Flagship anchors at a Harbor (not Island), gain 1 gold.
   tags:
     - Fish
+    - Market
 - id: AHOY-29
   name: Evacuation
   image: '29'

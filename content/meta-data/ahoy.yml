@@ -9,6 +9,21 @@ subproducts:
     desc: >
       Different factions vie for fame on the high seas.
 
+  - name: Rivals & Renegades
+    id: rivals-renegades
+    desc: >
+      Swap out the Bluefins or the Mollusks for the Blackfish Brigade or the Shellfire Rebellion, respectively, or team up in a 2v2 team mode
+
+  - name: Fang & Fortune
+    id: fang-fortune
+    desc: >
+      This expansion adds two exciting new factions to Ahoy.
+
+  - name: Treasure Pack
+    id: treasure
+    desc: >
+      Shake things up with draftable cursed treasures to add new abilities.
+
 external:
   faq: {}
 
