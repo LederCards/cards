@@ -361,7 +361,11 @@
     - q: >-
         Can I use $link:Galactic Rifles$ to shoot in our out of the Twisted Passage?
       a: >-
-        No, since the systems are not technically adjacent. 
+        No, since the systems are not technically adjacent.
+    - q: >-
+        How do Passage tokens affect Gatekeepers?
+      a: >-
+        You place 7 ships, with all ships that would be placed on passages going to the passage (which is itself a gate)
   card: Passages & The Twisted Passage
 - faq:
     - q: >-
@@ -674,12 +678,6 @@
       a: >-
         Edenguard is an alternative to Tycoon and Guardian would be able to declare it
   card: Edenguard Ambition
-- faq:
-    - q: >-
-        How do Passage tokens affect Gatekeepers?
-      a: >-
-        You place 7 ships, with all ships that would be placed on passages going to the passage (which is itself a gate)
-  card: Passages & The Twisted Passage
 - faq:
     - q: >-
         Can conspirator refill the court with the same guild they just secured to place a conspiracy?
