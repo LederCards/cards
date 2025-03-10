@@ -1,0 +1,101 @@
+- id: AHOYT-1
+  name: Ancient Malediction
+  image: 'T1'
+  text: >-
+    Gain 4 Corruption tokens now.
+    When you win a battle, you may ***also*** place 1 Corruption token on the defeated player's board.
+    Repairing a Corruption token flips it over. Repairing a flipped Corruption token returns it to you.
+  tags:
+    - Treasure
+- id: AHOYT-2
+  name: Bountiful Booty
+  image: 'T2'
+  text: >-
+    When an enemy would steal your gold, they gain gold from the supply instead.
+  tags:
+    - Treasure
+- id: AHOYT-3
+  name: Cap'n Clay's Cannon
+  image: 'T3'
+  text: >-
+    As an action, you may damage a die slot on your player board to increase your cannons die value by 3.
+  tags:
+    - Treasure
+- id: AHOYT-4
+  name: Cursed Map
+  image: 'T4'
+  text: >-
+    At the start of your turn, you may damage you Tailwind or Dive slot to move a figure of yours to any space with a Tailwind terrain.
+  tags:
+    - Treasure
+- id: AHOYT-5
+  name: Deal with Davy Jones
+  image: 'T5'
+  text: >-
+    Once per turn, you may discard 1 Crew of yours to gain gold equal to its recruit cost.
+    If it cost a die to recruit, gain 3 gold instead
+  tags:
+    - Treasure
+- id: AHOYT-6
+  name: Deck of Fate
+  image: 'T6'
+  text: >-
+    You may reroll any of your action dice now. Whenever you roll your action dice, you may reroll any of them once.
+  tags:
+    - Treasure
+- id: AHOYT-7
+  name: The Either Oars
+  image: 'T7'
+  text: >-
+    Collect the region tile from the box and set it aside facedown. You may look at it.
+    When you explore, after drawing a tile, you may choose to place your set-aside tile instead.
+    If you do, set aside the drawn tile without revealing it
+  tags:
+    - Treasure
+- id: AHOYT-8
+  name: Gamber's Dice
+  image: 'T8'
+  text: >-
+    When you roll Action dice, their values can trigger these effects, even multiple times.
+    **Pair of 1s (Snake Eyes):** Lose 1 Fame
+    **2-of-a-Kind Except 1s:** Gain 1 Fame
+    **3-of-a-Kind Except 1s:** Gain 2 Fame
+    ***4-of-a-Kind Except 1s:** Gain 4 Fame
+  tags:
+    - Treasure
+- id: AHOYT-9
+  name: Ghostly Gang
+  image: 'T9'
+  text: >-
+    Roll the Ghost die now and whenever you roll your action dice. 
+    On your first turn each round, you may place the Ghost die as your third die, except in undamageable die slots (*such as Repair*). 
+    When removing the Ghost die from a die sot, damage that slot.
+  tags:
+    - Treasure
+- id: AHOYT-10
+  name: Jar of Land & Sea
+  image: 'T10'
+  text: >-
+    Gain 2 Sandbar and 2 Water tokens now. 
+    Once per turn, you may place or remove a Sandbar or Water token on a space edge of a region with your pieces (*even Comrades*). 
+    Sandbars are Sandbar terrain, and water removes Sandbar terrain it covers.
+  tags:
+    - Treasure
+- id: AHOYT-11
+  name: Mystic Hourglass
+  image: 'T11'
+  text: Once per turn you may spend 1 gold to flip ***any*** unplaced die (*even an enemy's die*).
+  tags:
+    - Treasure
+- id: AHOYT-12
+  name: Spectral Sail
+  image: 'T12'
+  text: When you move your Flagship, you may choose to ignore all terrain (*even Gold*) for that action. At the end of the game, lose 3 Fame.
+  tags:
+    - Treasure
+- id: AHOYT-13
+  name: Stolen Chest
+  image: 'T13'
+  text: Gain 2 extra gold now. At the end of the game, lost 5 Fame - 1 Fame for each gold you have. (*So if you have 3 gold, lose 2 Fame.*)
+  tags:
+    - Treasure
