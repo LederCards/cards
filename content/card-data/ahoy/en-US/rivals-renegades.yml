@@ -26,35 +26,35 @@
     Play as an action, then discard. Place a Launcher in a space surrounding your Flagship or another Launcher. Place up to 4 Ready Comrades under it.
   tags:
     - Shellfire Plan
-    - id: AHOYRR-5
+- id: AHOYRR-5
   name: Enlist
   image: 'RR5'
   text: >
     Play as an action, then discard. Choose any one Island with any Comrades. Recruit any number of Crew of its suit, ignoring cost. Refill the Market only when done.
   tags:
     - Shellfire Plan
-    - id: AHOYRR-6
+- id: AHOYRR-6
   name: Hide
   image: 'RR6'
   text: >
     Play as an action, then discard. Move your Flagship to any space with Fog. If you do, gain 3 Ready Comrades. (*If you're already in Fog, you can stay in that space.*)
   tags:
     - Shellfire Plan
-    - id: AHOYRR-7
+- id: AHOYRR-7
   name: Rally
   image: 'RR7'
   text: >
     Play as an action, then discard. Choose up to 2 Launchers on Islands. Place up to 2 Comrades from your supply under each. (*Not from your Ready Comrades!*)
   tags:
     - Shellfire Plan
-    - id: AHOYRR-8
+- id: AHOYRR-8
   name: Scramble!!!
   image: 'RR8'
   text: >
     Play as an action, then discard. Move any Launchers, each up to 2 spaces. (*They may explore and battle.*) In battles with them, add +2 to your battle die roll.
   tags:
     - Shellfire Plan
-    - id: AHOYRR-9
+- id: AHOYRR-9
   name: United We Stand
   image: 'RR9'
   text: >
