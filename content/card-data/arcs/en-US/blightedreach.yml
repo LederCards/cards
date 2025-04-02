@@ -1011,13 +1011,13 @@
      
     1. Add Navy Reprisal (15), Council Insiders (16), and Galactic Bards (17) to the Court deck.
      
-    2. Scrap the 2 Imperial Defectors (18–19) and 2 Lesser Regents (20–22).
+    2. Scrap the 2 Imperial Defectors (18–19) and 2 Lesser Regents (20–21).
      
     **If you failed your objective:**
      
     1. Scrap Navy Reprisal (15), Council Insiders (16), and Galactic Bards (17).
      
-    2. Add the 2 Imperial Defectors (18–19) and 2 Lesser Regents (20–22) to the Court deck.
+    2. Add the 2 Imperial Defectors (18–19) and 2 Lesser Regents (20–21) to the Court deck.
   image: F114
   name: Steward Act II Resolution
   tags:
@@ -1123,7 +1123,7 @@
      
     2. Place the Sponsored token on the First Regent tile.
      
-    3. Scrap the 3 Govern the Imperial Reach cards (♦01–03) from the rules booklet and add the 3 Govern with Authority cards (24–26) to it.
+    3. Scrap the 3 Govern the Imperial Reach cards (♦03–05) from the rules booklet and add the 3 Govern with Authority cards (24–26) to it.
      
     4.  The First Regent chooses which Govern with Authority card to place on top of the stack. ***Explain that Outlaws are now subject to the Imperial Demand if the Empire controls a city or Flagship of theirs.***
      
@@ -1272,7 +1272,7 @@
      
     2. Add the 3 Political Intrigue cards (05–07) to the Court deck.
      
-    3. Place the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) behind the Founder's next Resolution card (22).
+    3. Place the 2 Construction Union (08–09) and 2 Admin Union cards (10–11) behind the Founder's next Resolution card (23).
      
     **If you failed your objective:**
      
@@ -1498,7 +1498,7 @@
   text: >-
     ***While this is in the Court,*** Members of the Commonwealth cannot **harm** each other or Free buildings. *(This card has no Crisis.)*
      
-    **When Secured:** You must place ***all*** agents from here onto other Court cards of your choice. Tuck this card behind Edict 25.
+    **When Secured:** You must place ***all*** agents from here and the card to which it's attached onto any other Court cards. Tuck this card behind Edict 25.
   image: F216
   name: Armistice
   tags:
@@ -1511,7 +1511,7 @@
   text: >-
     ***While this is in the Court,*** Members of the Commonwealth cannot **harm** each other or Free buildings. *(This card has no Crisis.)*
      
-    **When Secured:** You must place ***all*** agents from here onto other Court cards of your choice. Tuck this card behind Edict 25.
+    **When Secured:** You must place ***all*** agents from here and the card to which it's attached onto any other Court cards. Tuck this card behind Edict 25.
   image: F217
   name: Armistice
   tags:
@@ -2068,7 +2068,7 @@
      
     2. Scrap the 5 Cartel cards (07–11) and the 2 Extortion cards (23–24).
      
-    3. If Mining Interest (CC01) or Fuel Interest (CC04) are in the Court discard pile, add them to the Court deck.
+    3. If Mining Interest (CC01) or Shipping Interest (CC04) are in the Court discard pile, add them to the Court deck.
      
     **If you failed your objective:**
      
@@ -2621,7 +2621,7 @@
     act: 3
 - id: ARCS-F424
   text: >-
-    When you **Provoke Outrage,** you do not bury Guild cards.
+    When you **Provoke Outrage,** you do not discard Guild cards.
   image: F424
   name: Guild Loyalty
   tags:
@@ -2800,6 +2800,8 @@
     act: 1
 - id: ARCS-F508
   text: >-
+    ***Scrap this if the Harvester is not in play.***
+    
     **Crisis:** The player with the Harvester discards all of their resources.
      
     **When Secured:** Flip the Harvester to Awake and take it. Discard this card.
@@ -2813,6 +2815,8 @@
     act: 2
 - id: ARCS-F509
   text: >-
+    ***Scrap this if the Seeker is not in play.***
+    
     **Crisis:** The player with the Seeker moves their Loyal ships from planets of the rolled symbol to the gate in the rolled cluster.
      
     **When Secured:** Flip the Seeker to Awake and take it. Discard this card.
@@ -2826,6 +2830,8 @@
     act: 2
 - id: ARCS-F510
   text: >-
+    ***Scrap this if the Protector is not in play.***
+    
     **Crisis:** Repair all ships except those of the player with the Protector.
      
     **When Secured:** Flip the Protector to Awake and take it. Discard this card.
@@ -2839,6 +2845,8 @@
     act: 2
 - id: ARCS-F511
   text: >-
+    ***Scrap this if the Warrior is not in play.***
+    
     **Crisis:** Destroy all damaged Loyal ships of the player with the Warrior.
      
     **When Secured:** Flip the Warrior to Awake and take it. Discard this card.
@@ -3287,7 +3295,7 @@
   text: >-
     1. Add Partisan Seizing (16) to the rules booklet. ***Explain it to everyone.***
      
-    2. As a reminder, tuck your copy of Partisan Seizing (04) under the map near the card play area, so only its title shows.
+    2. As a reminder, tuck your copy of Partisan Seizing (03) under the map near the card play area, so only its title shows.
      
     3. Gain People's Hero (17).
      
@@ -3916,7 +3924,7 @@
     act: 1
 - id: ARCS-F803
   text: >-
-    **Teach (Influence):** Scrap the bottom non-Event action card from the discard pile. *(Continue past Events.)* If you do, attach the top Faithful action card from its stack to a Guild card in the Court whose suit matches a planet with a Loyal city.
+    **Teach (Influence):** Attach the top Faithful action card from its stack to a Guild card in the Court whose suit matches a planet with a Loyal city. If you do, scrap the bottom non-Event action card from the discard pile. *(Continue past Events.)* 
      
     *Once you're familiar with this, you can tuck this card partially under your Faithful action card stack to save space.*
   image: F803
@@ -4325,6 +4333,8 @@
     2. Add Breaking the Faith (31) to the rules booklet. ***Explain it to everyone.***
      
     3. Flip the Doctrine card (22) to match the Ideal with more markers on ambition boxes. On a tie, flip it to its Wisdom side.
+
+    4. Place the Ideal markers back on the ambition boxes as recorded at the end of Act II.
      
     *Flip this card over.*
   image: F829A
@@ -4934,15 +4944,15 @@
      
     After these battles, if you control the planet, flip the Hammer token to its Broken World side and resolve this.
      
-    1. ***All players*** Provoke Outrage of this planet type.
+    1. ***All*** players Provoke Outrage of this planet type.
+
+    2. Destroy ***all*** buildings on the planet, placing them here, not in Trophies. ***Nobody*** Ransacks the Court.
      
-    2. Untuck the Refugee card (05–09) of this planet type from here. Place it on top of the Court deck.
-     
-    3. Place ***all*** buildings from the planet on here.
+    3. Untuck the Refugee card (05–09) of this planet type from here. Place it on top of the Court deck.
      
     4. Scrap ***all*** Guild cards in the Court of the planet type. Return all agents from them.
      
-    ***Planets that are Broken Worlds have no building slots.***
+    ***Broken World planets have no building slots.***
   image: F1103B
   name: Breaking Worlds
   flipSide: ARCS-F1103A
@@ -5695,9 +5705,9 @@
     act: 3
 - id: ARCS-F1408A
   text: >-
-    1. Add Empathy for All to the rules booklet (13). ***Explain it to everyone.***
-    2. As a reminder, tuck the second copy of Empathy for All (14) into the card play area of the map.
-    3. Add Reconcile with the Outraged (14) and Rebuke of the Empaths (15) to the rules booklet. ***Explain them to everyone.***
+    1. Add Empathy for All to the rules booklet (09). ***Explain it to everyone.***
+    2. As a reminder, tuck the second copy of Empathy for All (10) into the card play area of the map.
+    3. Add Reconcile with the Outraged (11) and Rebuke of the Empaths (12) to the rules booklet. ***Explain them to everyone.***
     *Flip this card over.*
   image: F1408A
   name: Pacifist Act III Setup
@@ -6342,6 +6352,8 @@
     To **influence** or **secure** a card that has a Court token, you must be a Lord or Vassal in the respective Fief.
      
     If a Lord **secures** a card with a Court token, they return the Court token and all Vassal agents from the card.
+
+    If a Vassal ***secures*** a card with a Court token, the Court token remains on the refilled card.
      
     When a player **Ransacks the Court**, they can secure a card that has a Court token only if they destroyed a city in the respective Fief.
   image: F1618
@@ -6593,7 +6605,7 @@
   text: >-
     You cannot **declare** the Keeper ambition.
      
-    You can only **tax** Loyal cities on Relic planets if you control them.
+    You cannot **tax** Loyal cities on Relic planets that you do not control.
   image: F1902
   name: Ire of the Keepers
   tags:
@@ -6689,7 +6701,7 @@
   text: >-
     You cannot **declare** Tycoon or gain Power from **scoring** it.
      
-    You can only **tax** Loyal cities on Material and Fuel planets if you control them.
+    You cannot **tax** Loyal cities on Material and Fuel planets that you do not control.
   image: F2003
   name: Ire of the Tycoons
   tags:
@@ -6796,7 +6808,7 @@
   text: >-
     1. **If you have a Flagship, you may Resettle**—as described on the back of the Flagship board.
      
-    2. Gain Catapult Overdrive (02)and Breaking Gates & Placing Passages (03).
+    2. Gain Catapult Overdrive (02) and Breaking Gates & Placing Passages (03).
      
     3. Collect the 6 Passage tokens. Place one on any gate. Resolve step 3 of Breaking Gates & Placing Passages (03).
      
@@ -6804,7 +6816,7 @@
      
     5. Place The Dead Live (04) near the map by the chapter track.
      
-    6. Add Passages & The Twisted Passage (05) to the rules booklet. ***Explain it and to everyone.***
+    6. Add Passages & The Twisted Passage (05) to the rules booklet. ***Explain it to everyone.***
      
     7. Place Passage Storms (06) on top of the Court deck.
      
@@ -6914,7 +6926,7 @@
      
     **Crisis:** Hit each piece in the Twisted Passage. Place this under the top card of the Court deck.
      
-    **When Secured:** Move any number of times from the Twisted Passage to any planets. *(Don't remove this card!)*
+    **When Secured:** Move any number of times from the Twisted Passage to ***any*** planets. This card remains in the Court.
   image: F2206
   name: Passage Storms
   tags:
@@ -7020,9 +7032,9 @@
   text: >-
     *The Conspirator has 2 Conspiracy Tokens for each player color.*
      
-    When you **secure any*** Vox card or a card with Conspirator agents, you may guess a facedown Conspiracy token on an ambition box.
+    When a Rival of the Conspirator **secures any*** Vox card or a card with Conspirator agents, you may guess a facedown Conspiracy token on an ambition box.
      
-    If you are correct, return it to the Conspirator. If you are incorrect, the Conspirator advances `symbol:clock`**1**.
+    If they are correct, return it to the Conspirator. If you are incorrect, the Conspirator advances `symbol:clock`**1**.
   image: F2305
   name: Foiling Conspiracies
   tags:

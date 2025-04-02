@@ -2,80 +2,80 @@
     - text: 'To clarify how it interacts with other card abilities, the *Callow* ability should read: “You cannot **tax** cities that you do not control.”'
   card: Upstart
 - errata:
-    - text: "This card is misprinted as an event card in the first printing of Arcs: The Blighted Reach Expansion. We will be issuing a professionally printed correction. As of June 2024, our plan right now is to wait a month or two in case any other errors of this nature crop up. At that point, we'll be offering an errata pack on our store with free shipping (it may have a nominal cost of 1 dollar or so). We'll also include a corrected copy in the next Arcs product. You can find a print-quality version of the file [here](https://www.dropbox.com/scl/fi/yfvmyj5dx74e1ebzn9pav/Navy-Reprisal.pdf?rlkey=aasfbpazvczni9zfr5nv6cnbv&dl=0)."
+    - text: "This card is misprinted as an event card in the first printing of Arcs: The Blighted Reach Expansion.  (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack. The Errata Pack is available [here](https://ledergames.com/products/blighted-reach-campaign-expansion-errata-card-pack?_pos=6&_sid=45a094aeb&_ss=r))"
   card: Navy Reprisal
 - errata:
     - text: "The term 'blockaded' present in the first-printing clarification is an old term for 'controlled by anything other than you.' In the base game, all that matters is Rival control. In the campaign, this can include control by the Empire, etc."
   card: Empath's Bond
 - errata:
-    - text: "This card's ability should read '...you do not **discard** Guild cards.'"
+    - text: "This card's ability should read '...you do not **discard** Guild cards.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Guild Loyalty
 - errata:
-    - text: "The Conspirator cannot guess their own Conspiracies. Instead of 'When you **secure**...' this card should read 'When a Rival of the Conspirator **secures**...'"
+    - text: "The Conspirator cannot guess their own Conspiracies. Instead of 'When you **secure**...' this card should read 'When a Rival of the Conspirator **secures**...' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Foiling Conspiracies
 - errata:
-    - text: "The reference to 'Fuel Interest' should read 'Shipping Interest'."
+    - text: "The reference to 'Fuel Interest' should read 'Shipping Interest'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Magnate Act II Resolution
 - errata:
     - text: "The phrase 'in play areas' is added to this card in the second printing to improve some campaign game interactions."
   card: Force Beams
 - errata:
-    - text: "The $link:Lesser Regent$ card references should say '20-21'."
+    - text: "The $link:Lesser Regent$ card references should say '20-21'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Steward Act II Resolution
 - errata:
-    - text: "The $link:Govern the Imperial Reach$ card references should say '03-05'."
+    - text: "The $link:Govern the Imperial Reach$ card references should say '03-05'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Steward Act III Setup
 - errata:
-    - text: "The $link:Partisan Seizing$ card reference should say '03'."
+    - text: "The $link:Partisan Seizing$ card reference should say '03'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Partisan Act II Setup
 - errata:
-    - text: "The card references should read '09' through '12' in the order listed."
+    - text: "The card references should read '09' through '12' in the order listed. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Pacifist Act III Setup
 - errata:
-    - text: "'Explain it and to everyone' should read 'Explain it to everyone.'"
+    - text: "'Explain it and to everyone' should read 'Explain it to everyone.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Gate Wraith Act III Setup
 - errata:
-    - text: "The card reference for 'Founder's next Resolution card' should be '23.'"
+    - text: "The card reference for 'Founder's next Resolution card' should be '23.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Founder Act I Resolution
 - errata:
-    - text: "The Teach action should have the attach and scrap sentences swapped. You cannot scrap unless you attach."
+    - text: "The Teach action should have the attach and scrap sentences swapped. You cannot scrap unless you attach. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Spreading the Faith
 - errata:
     - text: "This card should say 'if a city with a Seat is removed' rather than 'if a city with a Seat is destroyed' to cover cases where the city is removed from the map in other ways."
   card: Seats & Fiefs
 - errata:
-    - text: "This setup should remind you to place the Ideal markers in the same ambitions as they were in at the end of the previous Act."
+    - text: "This setup should remind you to place the Ideal markers in the same ambitions as they were in at the end of the previous Act. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Believer Act III Setup
 - errata:
     - text: "The Agitator's *Irregular* ability should say 'is intercepted' rather than 'rolls `symbol:intercept`' so it interacts properly with cards such as $link:Mirror Plating$."
   card: Agitator
 - errata:
-    - text: "For clarity, this card should say 'from the attached card' rather than 'from here'."
+    - text: "For clarity, this card should say 'from the attached card' rather than 'from here'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Armistice
 - errata:
     - text: "To clarify the intended effect, we have added 'If a Vassal **secures** a card with a Court token, the Court token remains on the refilled card.'."
-    - text: "Add the following text 'If a Seat is returned, return its Court token.'" 
+    - text: "Add the following text 'If a Seat is returned, return its Court token.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)" 
   card: Feudal Courts
 - errata:
-    - text: "To clarify various interactions, we have rewritten step 3 of this card to the following: 'Destroy all buildings on the planet, placing them here, not in Trophies. Nobody Ransacks the Court.' and swapped it with step 2."
+    - text: "To clarify various interactions, we have rewritten step 3 of this card to the following: 'Destroy all buildings on the planet, placing them here, not in Trophies. Nobody Ransacks the Court.' and swapped it with step 2. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Breaking Worlds
 - errata:
-    - text: "The second sentence should read 'You cannot **tax** cities on Relic planets that you do not control.'"
+    - text: "The second sentence should read 'You cannot **tax** cities on Relic planets that you do not control.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Ire of the Keepers
 - errata:
-    - text: "The second sentence should read 'You cannot **tax** cities on Material and Fuel planets that you do not control.'"
+    - text: "The second sentence should read 'You cannot **tax** cities on Material and Fuel planets that you do not control.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Ire of the Tycoons
 - errata:
-    - text: "To improve game flow, add this sentence: 'Scrap this if the Harvester is not in play.''"
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Harvester is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Unstable Harvester
 - errata:
-    - text: "To improve game flow, add this sentence: 'Scrap this if the Warrior is not in play.''"
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Warrior is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Unstable Warrior
 - errata:
-    - text: "To improve game flow, add this sentence: 'Scrap this if the Seeker is not in play.''"
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Seeker is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Unstable Seeker
 - errata:
-    - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.''"
+    - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Unstable Protector
 - errata:
     - text: "The Prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath **without placing the zero marker**.'"
@@ -134,3 +134,6 @@
 - errata:
     - text: "The text 'They can't Catapult' should be in body text, not in italics and parentheses."
   card: Blight Society
+- errata:
+    - text: "Replaced (*Don't remove this card!*) with 'This card remains in the Court.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
+  card: Passage Storms
