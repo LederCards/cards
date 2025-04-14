@@ -2459,7 +2459,7 @@
     - Travel
   text: >-
     When traveling from here to a Coast site, the Travel cost is 1 Supply and
-    you **ignore** the Narrow Pass tower.
+    you **ignore** the Narrow Pass power.
   image: Lush Coast
   imageClass: rotated
 - id: OATH-247
