@@ -252,7 +252,7 @@
   text: >-
     **Prelude:** You may discard this to steal a Guild card or resource.
   image: CC08
-  name: Silver Tongues
+  name: Silver-Tongues
   tags:
     - Blighted Reach
     - Blighted Reach Court
@@ -1982,7 +1982,7 @@
     act: 2
 - id: ARCS-F315
   text: >-
-    You hold theRelic supply here. (Add Relics on here to Keeper. You cannot spend them.)
+    You hold the Relic supply here. (Add Relics on here to Keeper. You cannot spend them.)
      
     In **Summits,** your consent is required to give Relics.
   image: F315
@@ -2700,7 +2700,7 @@
   text: >-
     **Awaken (Influence): **Take any Golems you control from the map and place them on your Golem Hearth card. Flip these Golems to Awake if you are winning a declared ambition.
   image: F502
-  name: Golm Beacon
+  name: Golem Beacon
   tags:
     - Blighted Reach
     - Lore
@@ -5445,7 +5445,7 @@
   tags:
     - Blighted Reach
     - Guild
-    - Fuel
+    - Weapon
     - Blight Speaker
   meta:
     keys: 2
@@ -5859,7 +5859,7 @@
   tags:
     - Blighted Reach
     - Guild
-    - Fuel
+    - Weapon
     - Peacekeeper
   meta:
     keys: 0
