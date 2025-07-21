@@ -1,0 +1,84 @@
+- id: ROOT-22
+  text: >-
+    Protector: Before rolling in battle, the defender may enlist the Arbiter if
+    he is in the battle's clearing. The Arbiter scores one point and adds
+    undamaged swords to the defender's maximum rolled hits.
+  image: vagabond-arbiter
+  name: Arbiter
+  tags:
+    - Riverfolk
+    - Vagabond
+- id: ROOT-24
+  text: >-
+    Scorched Earth: Place this torch in your clearing. Remove all enemy pieces
+    there. Pieces can no longer be placed in or moved into this clearing.
+  image: vagabond-scoundrel
+  name: Scoundrel
+  tags:
+    - Riverfolk
+    - Vagabond
+- id: ROOT-27
+  text: >-
+    Instigate: Initiate a battle in your clearing. You choose both attacker and
+    defender, and you remove pieces for both.
+  image: vagabond-vagrant
+  name: Vagrant
+  tags:
+    - Riverfolk
+    - Vagabond
+- id: ROOT-98
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a bird card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spybird
+  name: Spy
+  tags:
+    - Riverfolk
+    - Mechanical Marquise 1.0
+- id: ROOT-99
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a bunny card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spybunny
+  name: Spy
+  tags:
+    - Riverfolk
+    - Mechanical Marquise 1.0
+- id: ROOT-100
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a fox card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spyfox
+  name: Spy
+  tags:
+    - Riverfolk
+    - Mechanical Marquise 1.0
+- id: ROOT-101
+  text: >-
+    In Daylight, reveal an order. If the spy reveals a mouse card, discard the
+    spy. If the spy is not discarded, you may swap any two order cards.
+  image: card-spymouse
+  name: Spy
+  tags:
+    - Riverfolk
+    - Mechanical Marquise 1.0
+- id: ROOT-153
+  image: intro-cult
+  name: Cult Intro
+  tags:
+    - Learn to Play
+- id: ROOT-154
+  image: intro-cult-2
+  name: Cult Intro (2)
+  tags:
+    - Learn to Play
+- id: ROOT-160
+  image: intro-riverfolk
+  name: Riverfolk Intro
+  tags:
+    - Learn to Play
+- id: ROOT-161
+  image: intro-riverfolk
+  name: Riverfolk Intro (2)
+  tags:
+    - Learn to Play
