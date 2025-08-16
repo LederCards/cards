@@ -540,7 +540,7 @@
         No. You need to get it from somewhere else.
     - q: >-
         Does any outrage stops me from advancing by winning Tyrant?
-      q: >-
+      a: >-
         No.
   card: Partisan Act I Objective
 - faq:
