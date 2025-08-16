@@ -123,6 +123,10 @@
         Do I have to secure after I influence?
       a: >-
         You must perform a legal secure after you influence. (You must have a legal target to secure.) Otherwise the influence must be undone.
+    - q: >-
+        Can I declare without giving away a Guild card if I have none, or if I'm using Populist Demands?
+      a: >-
+        No. Giving away a Guild is a mandatory cost for all declares.
   card: Feastbringer
 - faq:
     - q: >-
