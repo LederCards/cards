@@ -3,8 +3,7 @@
   image: badgers-retainer
   name: Faithful Retainer
   tags:
-    - Marauders
-
+    - Marauder
 - id: ROOT-14
   text: >-
     `symbol:item-hammer` In battle with warlord, before the roll, place one
@@ -13,7 +12,7 @@
   image: rats-mood-bitter
   name: 'Mood: Bitter'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-15
   text: >-
@@ -22,7 +21,7 @@
   image: rats-mood-grandiose
   name: 'Mood: Grandiose'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-16
   text: >-
@@ -31,7 +30,7 @@
   image: rats-mood-jubilant
   name: 'Mood: Jubilant'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-17
   text: >-
@@ -40,7 +39,7 @@
   image: rats-mood-lavish
   name: 'Mood: Lavish'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-18
   text: >-
@@ -50,7 +49,7 @@
   image: rats-mood-relentless
   name: 'Mood: Relentless'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-19
   text: >-
@@ -59,7 +58,7 @@
   image: rats-mood-rowdy
   name: 'Mood: Rowdy'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-20
   text: >-
@@ -68,7 +67,7 @@
   image: rats-mood-stubborn
   name: 'Mood: Stubborn'
   tags:
-    - Marauders
+    - Marauder
     - Rats
 - id: ROOT-21
   text: >-
@@ -77,5 +76,146 @@
   image: rats-mood-wrathful
   name: 'Mood: Wrathful'
   tags:
-    - Marauders
+    - Marauder
     - Rats
+- id: ROOT-268
+  text: >-
+    **1st:** Choose 3 homeland clearings, each adjacent to one other.
+
+    **2nd:** Put 2 **warriors** in each of your homelands. Put 1 **warrior** in each other clearing.
+
+    **3rd:** Put the **keep token** in one of your homelands, not adjacent to an enemy homeland if able.
+    Put 1 **sawmill, workshop,** and **recruiter** on the map, each in a different homeland of yours.
+
+    **4th:** Fill your Buildings track with you **buildings**, except the leftmost spaces.
+  image: adv-setup-marquise
+  name: Marquise de Cat (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-269
+  text: >-
+    **1st:** Choose a homeland clearing on the map edge that has 2+ clearings between it and enemy homelands.
+
+    **2nd:** Put 6 **warriors** and 1 **roost** in your homeland.
+
+    **3rd:** Put any **leader card** on your Leader Card slot.
+    Keep the other 3 leaders face up nearby.
+
+    **4th:** Tuck you 2 **Loyal Viziers** under the Decree column slots as listed on your current leader.
+
+    **5th:** Fill your Roosts spaces with **rosts**, except the leftmost.
+  image: adv-setup-eyrie
+  name: Eyrie Dynasties (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-270
+  text: >-
+    **1st:** Draw 3 **cards** and add them face down to your Supporters stack.
+
+    **2nd:** Fill your Sypathy track with **sympathy tokens.**
+
+    **3rd:** Put your 3 **bases** on your matching Bases spaces.
+  image: adv-setup-alliance
+  name: Woodland Alliance (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-271
+  text: >-
+    **1st:** Put your **pawn** in any forest.
+
+    **2nd:** Shuffle the quest deck. Draw 3 **quests* to deal out nearby
+
+    **3rd:** put the 4 **"R" items** under the ruins randomly, unless a non-vagabond has done so.
+
+    **4th:** Put your assigned **character card** in your Character Card slot. Put the listed **"S" items** in your Satchel and on their matching tracks, as needed.
+
+    **5th:** put **relationship markers* for non-Vagabond factions in play on the Indifferent space of Relationships (*after setup*).
+  image: adv-setup-vagabond
+  name: Vagabond (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-272
+  text: >-
+    **1st:** Choose a homeland clearing that is not adjacent to enemy homelands.
+
+    **2nd:** put 4 **warriors** and 1 matching **garden** in your h omeland. Put 3 **warriors** in clearings adjacent to it as evenly as possible
+
+    **3rd:** put 2 **warriors** in your Acolytes box.
+
+    **4th:** Fill your Gardens tracks with **gardens**, except the leftmost space of the garden on the map.
+
+    **5th:** Put your **outcast marker** on its Outcast side on any space of the Outcast box.
+  image: adv-setup-lizards
+  name: Lizards Cult (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-273
+  text: >-
+    **1st:** Put 4 **warriors** among any clearings along the river.
+
+    **2nd:** Put 3 **warriors** in your Payments box.
+
+    **3rd:** Fill your Trade Posts tracks with matching **trade posts**.
+
+    **4th:** Put your 3 **service markers** on your Services track, setting a price for each service.
+  image: adv-setup-riverfolk
+  name: Riverfolk Company (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-274
+  text: >-
+    **1st:** Choose a homeland clearing that is not adjacent to enemy homelands.
+
+    **2nd:** Put 2 **warriors** and 1 **tunnel** in your  homeland. put 5 **warriors** among clearings adjacent to it as evenly as possible
+
+    **3rd:** Put your **burrow board** near the map. Fill your Buildings tracks with your **citadels** and **markets**.
+    Put your 9 **minister cards** face up on your Unswayed Ministers pile. Put your 9 **crowns** on the square spaces showing victory points.
+  image: adv-setup-duchy
+  name: Underground Duchy (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-275
+  text: >-
+    **1st:** Choose a homeland clearing. Put 1 **warrior** and 1 **plot token** of yoru choice face down there.
+
+    **2nd:** Put 1 **warrior** in a clearing of each suit. (*Counting the previous step, place 4 warriors in total.)
+  image: adv-setup-corvid
+  name: Corvid Conspiracy (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-276
+  text: >-
+    **1st:** Choose a homeland clearing on the map edge that has 2+ clearings between it and enemy homelands.
+
+    **2nd:** Put your **warlord**, 4 **warriors**, and 1 **stronghold** in your homeland.
+
+    **3rd:** Put your **Stubborn mood card** in your Mood Card slot.
+
+    **4th:** TPut the 4 **"R" items** under the ruins randomly, unless this has already been done.
+  image: adv-setup-hundreds
+  name: Lord of the Hundreds (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup
+- id: ROOT-277
+  text: >-
+    **1st:** Shuffle all 12 **relic tokens* face down. Put on face down randomly in each forest.
+
+    **2nd:** Choose 2 adjacent homeland clearings on the map edge that have 2+ clearings between them and enemy homelands. Put 4 **warriors* in each homeland.
+
+    **3rd:** Put any remaning **relics**, as evenly as possible, among any forests that are not adjacent to your homelands.
+
+    **4th:** Tuck a **Fathful Retainer card** into each of your Retinue column slots.
+  image: adv-setup-keepers
+  name: Keepers in Iron (Advanced Setup)
+  tags:
+    - Marauder
+    - Advanced Setup

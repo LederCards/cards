@@ -1,0 +1,328 @@
+- id: ROOT-228
+  text: 'Whenever you **Recruit**, instead recruit only one warrior, plus one per Mole showing, into the Burrow.'
+  image: difficulty-duchy-easy
+  name: Duchy Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-229
+  text: 'Whenever you **Recruit**, instead recruit three warriors, plus one per mole showing, into the Burrow'
+  image: difficulty-duchy-challenging
+  name: Duchy Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-230
+  text: 'Whenever you **Recruit**, instead recruit three warriors plus one per mole showing, into the Burrow. At the end of Evening, score 1 VP.'
+  image: difficulty-duchy-nightmare
+  name: Duchy Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-231
+  text: >-
+    Whenever **Cost of Errors** triggers, it now removes the crown from the bottommost
+    swayed minister whose suit **matches** a clearing from which a building was removed.
+  image: trait-duchy-foundations
+  name: Foundations (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-232
+  text: >-
+    Whenever a human triggers **Cost of Errors**, they must discard a card that matches a clearing from which a Duchy building was removed.
+
+    If they Discard a matching card, the Duchy loses one victory point.
+
+    If they cannot, the Duchy sways a minister, as in the Sway action, but the minister must also match a clearing of removal.
+  image: trait-duchy-investors
+  name: Investors (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-233
+  text: >-
+    You now **Dig** twice per turn, and it now requires and moves only three warriors (*not four*).
+  image: trait-duchy-overwhelm
+  name: Overwhelm (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-234
+  text: >-
+    The clearing tie for the Dig action is now "such a clearing that has the most enemy buildings, then the fewest enemy warriors."
+
+    If you cannot build because no building slots are open, battle in each clearing instead.
+  image: trait-duchy-invaders
+  name: Invaders (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-235
+  text: 'Whenever you **Recruit**, instead place only one warrior in each of two ordered clearings.'
+  image: difficulty-corvids-easy
+  name: Corvid Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-236
+  text: 'Whenever you **Recruit**, instead place three warriors in each of two ordered clearings.'
+  image: difficulty-corvids-challenging
+  name: Corvid Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-237
+  text: 'Whenever you **Recruit**, instead place three warriors in each of two ordered clearings. At the end of Evening, score 1VP'
+  image: difficulty-corvids-nightmare
+  name: Corvid Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-238
+  text: >-
+    Whenever a plot would be flipped, the human with the most faction pieces in the clearing must first guess the plot type.
+    If they're correct the plot flips and scores but does not resolve its When Fipped effect. Then they remove the plot (*scoring a point*). If they're incorrect, you score 1VP.
+  image: trait-corvids-gamble
+  name: Gamble (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-239
+  text: >-
+    Whenever a plot token is removed, place a warrior in the clearing from which the plot was removed.
+  image: trait-corvids-backup-plans
+  name: Backup Plans (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-240
+  text: >-
+    You now **Plot** twice per turn.
+  image: trait-corvids-mastermind
+  name: Mastermind (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-241
+  text: >-
+    Whenever any pot token is flipped, it has the When Flipped effect of a Bomb plot.
+  image: trait-corvids-vendetta
+  name: Vendetta (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-242
+  text: >-
+    When playing with the Corvid human or bot against any bots, use these rules for bombs and snares:
+
+    **Bomb**: When flipped, removed two pieces of each bot in its clearing, warriors first, instead of all their pieces.
+
+    **Snare**: Bots ignore snare tokens for the purpose of targeting clearing to place or move pieces.
+
+    If a bot would place in a clearing with a snare of move out of a clearing with a snare, remove the snare but do not preform this part of the action.
+
+    (*The Vagabot will continue to move after this happens, exhausting extra items.)
+  image: interaction-corvid
+  name: Corvid Bot Interactions
+  tags:
+    - Clockwork
+- id: ROOT-243
+  text: 'When you perform **Rituals**, reveal only three cards from your Lost Souls.'
+  image: difficulty-lizards-easy
+  name: Lizards Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-244
+  text: 'When you perform **Rituals**, instead reveal five cards from your Lost Souls.'
+  image: difficulty-lizards-challenging
+  name: Lizards Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-245
+  text: 'When you perform **Rituals**, instead reveal five cards from your Lost Souls. At the end of Evening, score 1VP'
+  image: difficulty-lizards-nightmare
+  name: Lizards Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-246
+  text: >-
+    Whenever you **Crusade**, score one extra victory point if you remove any tokens.
+  image: trait-lizards-spiteful
+  name: Spiteful (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-247
+  text: >-
+    At the end of your turn, draw a card and add it to your Lost Souls.
+  image: trait-lizards-erratic
+  name: Erratic (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-248
+  text: >-
+    Whenever you **Convert**, battle in that clearing after converting the warrior.
+    In this battle, deal an extra hit.
+
+    (***Player Tie:** Target player with most defenseless buildings, then most points.*)
+  image: trait-lizards-fanatics
+  name: Fanatics (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-249
+  text: >-
+    Whenever you perform a bird ritual, also place a warrior from your supply into your Acolytes box.
+  image: trait-lizards-martyrs
+  name: Martyrs (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-250
+  text: 'Whenever you **Build and Garrison**, place no warrior at the trade post.'
+  image: difficulty-riverfolk-easy
+  name: Riverfolk Easy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-251
+  text: 'Whenever you **Build and Garrison**, instead place two warriors at the trade post.'
+  image: difficulty-riverfolk-challenging
+  name: Riverfolk Challenging (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-252
+  text: 'Whenever you **Build and Garrison**, instead place two warriors at the trade post. At the end of Evening, score 1VP'
+  image: difficulty-riverfolk-nightmare
+  name: Riverfolk Nightmare (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-253
+  text: >-
+    Score 1VP whenever the player with the most points buys any number of your services.
+  image: trait-riverfolk-greedy
+  name: Greedy (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-254
+  text: >-
+    If a human does not buy your Mercenaries service on their turn, treat your warriors as if all of that player's enemies bought Mercenaries.
+    The Vagabond can buy Mercenaries to avoid this penalty but does not benefit from the service.
+  image: trait-riverfolk-involved
+  name: Involved (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-255
+  text: >-
+    As defender in battle, you are never defenseless, and your trade posts each add one to your maximum rolled hits.
+  image: trait-riverfolk-garrison
+  name: Garrison (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-256
+  text: >-
+    As attack in battle, your maximum rolled hits is always three.
+  image: trait-riverfolk-ferocious
+  name: Ferocious (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-257
+  text: >-
+    Bots may buy services at any time on their turn. When buying from the Riverfolks bot, they may buy any number of services.
+    (*Follow the normal limit for a Riverfolk human.*)
+
+    Bots must be able to afford the services, and they will not buy services if they have fewer points than the Riverfolks huan or bot.
+
+    The service cost depends on the bot's score:
+    0-9VP=2 / 10-19VP=3 / 20+VP=4
+  image: riverfolk-basic-services-01
+  name: Riverfolk Basic Services (1 of 3)
+  tags:
+    - Clockwork
+- id: ROOT-258
+  text: >-
+    **Hand Card:** When a bot tries to craft but its card has no available item, it buys a Market card that has an available item.
+    This card replaces the card that the bot tried to craft, which is discarded. (*This can change the order card.)
+
+    If there are multiple Market cards with an available item, the bot buys the one that has the highest listed points.
+    If there are multiple such cards, choose one at random.
+
+    **Riverboats:** Bots do no buy the Riverboats service.
+  image: riverfolk-basic-services-02
+  name: Riverfolk Basic Services (2 of 3)
+  tags:
+    - Clockwork
+- id: ROOT-259
+  text: >-
+    **Mercenaries:** If you battle in a clearing with two or fewer of your warriors, buy Mercenaries if any Riverfolk warriors are there.
+
+    If you want to place a building but you cannot place it anywhere, buy Mercenaries if it will let you place a building somewhere.
+
+    **Vagabot:** Exhaust one item for each service bought.
+
+    Pay with Riverfolk warriors.
+
+    You cannot buy mercenaries.
+
+    **Automated Alliance:** Pay with Riverfolk warriors
+
+    **Logical Lizards:** Never buy bird cards.
+  image: riverfolk-basic-services-03
+  name: Riverfolk Basic Services (3 of 3)
+  tags:
+    - Clockwork
+- id: ROOT-260
+  text: >-
+    You may use any Advanced Services cards to improve the interactions of specific bots with the Riverfolk human or bot.
+
+    If there is a rules conflict, the Advanced Services cards take precedence over the Basic Services cards.
+  image: riverfolk-advanced-services-intro
+  name: Riverfolk Introduction to Advanced Services
+  tags:
+    - Clockwork
+- id: ROOT-261
+  text: >-
+    **Hand Card:**  If the Market has multiple cards with available items, buy a bird card if there is one.
+
+    If no Market cards have an available item and your order card is not a bird, buy a bird card. If there are multiple, choose one at random.
+  image: riverfolk-advanced-services-marquise
+  name: Riverfolk Advanced Services for Mechanical Marquise 2.0
+  tags:
+    - Clockwork
+- id: ROOT-262
+  text: >-
+    **Hand Card:**  If your order card's suit is already in the Decree and there is a Market card whose suit is not in the Decree, buy it to replace your order card, discarding it.
+
+    If there are multiple such cards, choose one at random. Otherwise, follow the Basic Services rules.
+
+    **Riverboats:** When targeting clearings for your Move action, treat rivers as paths. If you do move along a river, buy Riverboats.
+  image: riverfolk-advanced-services-eyrie
+  name: Riverfolk Advanced Services for Electric Eyrie
+  tags:
+    - Clockwork
+- id: ROOT-263
+  text: >-
+    **Hand Card:** If the Market has mulitple cards with available items, buy a bird card if there is one.
+
+    If no Market cards have an available item and our order card is not a bird, buy a bird card if there is one. If there are multiple, choose one at random.
+  image: riverfolk-advanced-services-alliance
+  name: Riverfolk Advanced Services for Automated Alliance
+  tags:
+    - Clockwork
+- id: ROOT-264
+  text: >-
+    **Riverboats:** When targeting clearings for any action, treat rivers as paths. If you do move along a river, buy Riverboats and do not exhaust the item for the move.
+  image: riverfolk-advanced-services-vagabot
+  name: Riverfolk Advanced Services for Vagabot
+  tags:
+    - Clockwork
+- id: ROOT-261
+  text: >-
+    **Hand Card:**  If ther eare fewer than five cards in your Lost Souls, buy non-bird cards until this is not true.
+
+    Do this even if the Riverfolk h uman or bot has more points than you.
+  image: riverfolk-advanced-services-lizards
+  name: Riverfolk Advanced Services for Logical Lizards
+  tags:
+    - Clockwork
+- id: ROOT-261
+  text: >-
+    **Hand Card:**  At the start of your turn, if the Market has a "Favor of the..." card, buy it and resolve its effect.
+  image: riverfolk-advanced-services-corvids
+  name: Riverfolk Advanced Services for Cogwheel Corvids
+  tags:
+    - Clockwork
+- id: ROOT-261
+  text: >-
+    **Hand Card:**  At the start of your turn, if the Market has an ambush card, buy it and place it in front of you.
+
+    As defender in battle, play an ambush card is you have one in front of you. If you have both a matching non-bird ambush and a bird ambush, play the non-bird ambush.
+
+    (*The attacker may play an ambush to cancel this.*)
+  image: riverfolk-advanced-services-duchy
+  name: Riverfolk Advanced Services for Drillbit Duchy
+  tags:
+    - Clockwork
