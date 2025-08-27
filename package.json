@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "prebuild": "rimraf dist",
-    "build": "concurrently \"npm run build:*\" && concurrently \"npm run compress:*\" && concurrently \"npm run validate:*\" && concurrently \"npm run finalize:*\" && npm run copy:headers",
+    "build": "concurrently --prefix=none \"npm run build:*\" && concurrently \"npm run compress:*\" && concurrently \"npm run validate:*\" && concurrently \"npm run finalize:*\" && npm run copy:headers",
     "build:card-data": "ts-node scripts/build-card-data",
     "build:card-symbols": "ts-node scripts/build-card-symbols",
     "build:card-images": "ts-node scripts/build-card-images",
