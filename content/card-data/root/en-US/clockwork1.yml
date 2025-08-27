@@ -201,3 +201,32 @@
   name: Wildfire (Trait)
   tags:
     - Clockwork
+- id: ROOT-282
+  text: >-
+    **Hideout**
+
+    If you have three or more damaged items, slip into a random adjacent forest.
+  image: vagabot-character-ranger
+  name: Ranger (Vagabot)
+  tags:
+    - Clockwork
+- id: ROOT-283
+  text: >-
+    **Day Labor**
+
+    Search the discard pile for the top card with an available item and craft it, scoring 1VP
+
+    (*Start the game with one fewer item.*)
+  image: vagabot-character-tinker
+  name: Tinker (Vagabot)
+  tags:
+    - Clockwork
+- id: ROOT-284
+  text: >-
+    **Steal**
+
+    Take a random card from the enemy in your clearing with the most points there, then most pieces there.
+  image: vagabot-character-thief
+  name: Theif (Vagabot)
+  tags:
+    - Clockwork

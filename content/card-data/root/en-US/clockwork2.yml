@@ -288,7 +288,7 @@
     **Hand Card:** If the Market has mulitple cards with available items, buy a bird card if there is one.
 
     If no Market cards have an available item and our order card is not a bird, buy a bird card if there is one. If there are multiple, choose one at random.
-  image: riverfolk-advanced-services-alliance
+  image: riverfolk-advanced-services-woodland
   name: Riverfolk Advanced Services for Automated Alliance
   tags:
     - Clockwork
@@ -299,23 +299,23 @@
   name: Riverfolk Advanced Services for Vagabot
   tags:
     - Clockwork
-- id: ROOT-261
+- id: ROOT-265
   text: >-
     **Hand Card:**  If ther eare fewer than five cards in your Lost Souls, buy non-bird cards until this is not true.
 
-    Do this even if the Riverfolk h uman or bot has more points than you.
+    Do this even if the Riverfolk human or bot has more points than you.
   image: riverfolk-advanced-services-lizards
   name: Riverfolk Advanced Services for Logical Lizards
   tags:
     - Clockwork
-- id: ROOT-261
+- id: ROOT-266
   text: >-
     **Hand Card:**  At the start of your turn, if the Market has a "Favor of the..." card, buy it and resolve its effect.
   image: riverfolk-advanced-services-corvids
   name: Riverfolk Advanced Services for Cogwheel Corvids
   tags:
     - Clockwork
-- id: ROOT-261
+- id: ROOT-267
   text: >-
     **Hand Card:**  At the start of your turn, if the Market has an ambush card, buy it and place it in front of you.
 
@@ -324,5 +324,67 @@
     (*The attacker may play an ambush to cancel this.*)
   image: riverfolk-advanced-services-duchy
   name: Riverfolk Advanced Services for Drillbit Duchy
+  tags:
+    - Clockwork
+- id: ROOT-278
+  text: >-
+    Whenever you **Recruit**, score one point for every two warriors you cannot place because your supply is empty or beacause there are no legal clearings to place them in.
+
+    **Expand** can only trigger once per turn.
+  image: trait-marquise-overwhelming
+  name: Overwhelming (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-279
+  text: >-
+    In battle, deal the extra hit even if the Battle colums is tied for most cards.
+  image: trait-eyrie-focused
+  name: Focused (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-280
+  text: >-
+    Skip **Public Pity** if Surprise Revolt will happen this turn. (*Take only one of these actions each turn.*)
+
+    Ignore **Martial Law**.
+  image: trait-woodland-steadfast
+  name: Steadfast (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-281
+  text: >-
+    Count damaged items toward the 6/9/12 items needed to place items on your Battle Track. Items cannot be removed from the Battle Track.
+
+    Quests score an extra victory point.
+
+    Whenever you **Aid**, move to the nearest clearing that has a player with any items in their Crafted Items box, but only aid them once.
+
+    Use these updated Daylight Actions:
+  image: trait-vagabot-questing
+  name: Questing (Trait)
+  tags:
+    - Clockwork
+- id: ROOT-285
+  text: >-
+    Before rolling in battle, the defender may inlist you if you're in the battle claering. If so, you score a point and add the number of items on your Battle Track to their maximum rolled hits.
+
+    Bots will enlist you if their maximum rolled hits is less than three, their maximum hits is less than the attacker's pieces there, and you have fewer point than the defender.
+  image: vagabot-character-arbiter
+  name: Arbiter (Vagabot)
+  tags:
+    - Clockwork
+- id: ROOT-286
+  text: >-
+    Initiate a battle in your clearing. You choose both attacker and defender, and you remove pieces for each.
+  image: vagabot-character-vagrant
+  name: Vagrant (Vagabot)
+  tags:
+    - Clockwork
+- id: ROOT-287
+  text: >-
+    If your clearing has three or more enemy pieces and a building or token, remove all enemy pieces there, place any item from your board on a building slot there, and score one point.
+    Buildings cannot be placed in the covered slot.
+  image: vagabot-character-scoundrel
+  name: Scoundrel (Vagabot)
   tags:
     - Clockwork

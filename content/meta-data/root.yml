@@ -29,15 +29,15 @@ subproducts:
     desc: >
       The Landmarks expansion adds features that can be added to any map, and can change gameplay dramatically.
 
-  - name: Marauders Hirelings & Hirelings Box
+  - name: Marauder Hirelings & Hirelings Box
     id: marauders-hirelings
     desc: >
       The Marauders Hirelings expansion adds both a default set of hirelings as well as specific hirelings for the Marauders expansion.
 
-  - name: Marauders
+  - name: Marauder
     id: marauders
     desc: >
-      The Marauders expansion adds two new factions: Keepers in Iron and Lord of the Hundreds.
+      The Marauder expansion adds two new factions: Keepers in Iron and Lord of the Hundreds.
 
   - name: Riverfolk Hirelings
     id: riverfolk-hirelings
