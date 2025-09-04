@@ -633,6 +633,12 @@
   card: Feudal Courts
 - faq:
     - q: >-
+        When exactly does Provoke Outrage happen from this card in battle?
+      a: >-
+        After dealing hits but before resolving raids.
+  card: Feudal Law
+- faq:
+    - q: >-
         If we are playing with split discard piles, where do I scrap from?
       a: >-
         The facedown pile. If there is none, shuffle the face-up pile to form a facedown pile first.
