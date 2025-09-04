@@ -1155,3 +1155,9 @@
       a: >-
         You can use one or the other. If you use Pirate Fleet, you must follow its restriction.
   card: Pirate Fleet
+- faq:
+    - q: >-
+        If I'm in the Commonwealth, does $link:Armistice$ block using this against Commonwealth Members and Free cities?
+      a: >-
+        Yes!
+  card: Freedom Fighters
