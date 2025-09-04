@@ -1112,6 +1112,10 @@
         If I control two systems in a cluster, do I need the consent of other players to Broker Peace?
       a: >-
         Nope!
+    - q: >-
+        If I control one system, a second player controls one, and a third player controls two, can I Broker Peace?
+      a: >-
+        Yes! You just need the consent of either of those players.
   card: Peace Accords
 - faq:
     - q: >-
