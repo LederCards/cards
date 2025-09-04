@@ -1030,6 +1030,11 @@
         If I secure the card, does this count as harming others? Do I take Trophies? What happens exactly?
       a: >-
         Securing this card triggers the Crisis itself, which means you are not harming anyone, you take no Trophies, you do not cause Outrage, and so on. You have plausible deniability.
+    - q: >-
+        Does Terror Strike destroy Flagship Upgrades and Armor at planets of matching Outrage?
+      a: >-
+        Yes!
+  
   card: Terror Strike
 - faq:
     - q: >-
