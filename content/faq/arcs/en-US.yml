@@ -309,6 +309,10 @@
         If I catapult move and drop off ships in gates along my path, can each ship move again?
       a: >-
         Each fresh Loyal ship that moved can move one more time, independently and to a different destination.
+    - q: >-
+        Can I move Imperial ships with the second move?
+      a: >-
+        No, only ships that are both fresh and Loyal, and that just moved, may take the second move.
   card: Sprinter Drives
 - faq:
     - q: >-
