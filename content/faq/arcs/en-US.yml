@@ -1131,3 +1131,21 @@
       a: >-
         The previous holder resolves it. The round ends when everyone finishes their turn, so the card should return to their play area before Set Doctrine is resolved.
   card: Set Doctrine
+- faq:
+    - q: >-
+        Can I use $link:Sprinter Drives$ or other sources of extra movement to gain more Fuel?
+      a: >-
+        No. This card can only be triggered once, for spending the action pip from Copy to move.
+  card: Fuel Liaisons
+- faq:
+    - q: >-
+        Can I use $link:Dealmakers$ or other sources of extra influence to gain more Psionic?
+      a: >-
+        No. This card can only be triggered once, for spending the action pip from Copy to influence.
+  card: Psionic Liaisons
+- faq:
+    - q: >-
+        Can I use the secure from Ransacking the Court or other sources of extra secures to gain more Relics?
+      a: >-
+        No. This card can only be triggered once, for spending the action pip from Copy to secure.
+  card: Relic Liaisons
