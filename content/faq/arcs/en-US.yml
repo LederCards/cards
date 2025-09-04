@@ -1177,3 +1177,9 @@
       a: >-
         The player with initiative chooses who gains Psionic.
   card: Rebuke of the Empaths
+- faq:
+    - q: >-
+        Can I take the resource from the player's board if I use an effect like $link:Empath's Bond$ or the Flagship's Control Array to tax a Rival like they are Loyal?
+      a: >-
+        Yes!
+  card: Tax Collectors
