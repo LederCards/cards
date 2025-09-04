@@ -858,6 +858,10 @@
         When I secure this card, what happens to the agents on it?
       a: >-
         They are returned and taken as Captives, as normal. Only the card remains in the Court.
+    - q: >-
+        When you secure Passage Storms and take moves, do you reroll the event die?
+      a: >-
+        No, you only reroll the die when you use the normal movement rule defined on $link:Passages & The Twisted Passage$. 
   card: Passage Storms
 - faq:
     - q: >-
