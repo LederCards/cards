@@ -1161,3 +1161,9 @@
       a: >-
         Yes!
   card: Freedom Fighters
+- faq:
+    - q: >-
+        What happens when there are not enough Psionic in the supply?
+      a: >-
+        The player with initiative chooses who gains Psionic.
+  card: Rebuke of the Empaths
