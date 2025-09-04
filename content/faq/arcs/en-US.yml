@@ -1073,3 +1073,9 @@
       a: >-
         No. You can only trigger such effects from the action gained from the Copy itself.
   card: Faithful Disciples
+- faq:
+    - q: >-
+        If returning a city means a Golem is transferred to a player without one, are they affected by the Crisis?
+      a: >-
+        No. Check which players have Golems at the start of the Crisis, then resolve its effects.
+  card: Golem Worship
