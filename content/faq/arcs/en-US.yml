@@ -239,6 +239,10 @@
         Is *Fire Rifles* modified by abilities that modify Battle?
       a: >-
         Abilities that modify Battle do not apply to *Fire Rifles*. For example, you cannot use $link:Skirmishers$ to reroll the dice, and you cannot use $link:Gatekeepers$ to collect more dice.
+    - q: >-
+        How does this interact with the Imperial Truce Law?
+      a: >-
+        It causes harm in the target system, so you cannot target a Regent in a system with Imperial ships, but you can use Galactic Rifles from a system with Imperial ships.
   card: Galactic Rifles
 - faq:
     - q: >-
