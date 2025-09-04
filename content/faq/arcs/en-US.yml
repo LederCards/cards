@@ -1103,3 +1103,9 @@
       a: >-
         Yes!
   card: Hegemon Act II Setup
+- faq:
+    - q: >-
+        If I control two systems in a cluster, do I need the consent of other players to Broker Peace?
+      a: >-
+        Nope!
+  card: Peace Accords
