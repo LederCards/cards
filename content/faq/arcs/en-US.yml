@@ -745,9 +745,13 @@
   card: Rogue Admirals
 - faq:
     - q: >-
-        Do trophies taken as part of ransacking the court count towards Admiral's objective?
+        Do Trophies taken as part of ransacking the court count towards the Admiral's objective?
       a: >-
         Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.
+    - q: >-
+        Does the Admiral advance for Prove Yourself as a New Admiral if someone places Imperial ships while it has the highest value for an undeclared ambition?
+      a: >-
+        No, because no one can be 'winning' an undeclared ambition.
   card: Admiral Act I Objective
 - faq:
     - q: >-
