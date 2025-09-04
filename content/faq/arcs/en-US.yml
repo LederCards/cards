@@ -445,6 +445,10 @@
         Are Golems resources? 
       a: >-
         Nope! The text 'can be spent for actions like resources' just means that you spend them in your Prelude to take their listed actions like you do with resources. You can't spend them to take New Actions or, for example, or as inputs for Loyal cards like $link:Loyal Engineers$.
+    - q: >-
+        Can Golems be taken through raiding? 
+      a: >-
+        Yes!
   card: Golems
 - faq:
     - q: >-
