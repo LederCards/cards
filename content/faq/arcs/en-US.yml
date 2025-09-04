@@ -596,6 +596,10 @@
         Does taking this action at all trigger $link:Empathy for All$?
       a: >-
         Yes! Even if you do not end up controlling the planet and thus breaking it.
+    - q: >-
+        Do the Imperial Truce Law and $link:Armistice$ block this?
+      a: >-
+        Yes. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities.
   card: Breaking Worlds
 - faq:
     - q: >-
