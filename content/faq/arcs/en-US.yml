@@ -20,6 +20,11 @@
   card: Arms Union
 - faq:
     - q: >-
+        What happens if this is still in the court at the end of an Act?
+      a: >-
+        At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25. 
+- faq:
+    - q: >-
         When do you collect the action card?
       a: >-
         At the end of the round, after all players have finished their turns.
@@ -118,6 +123,10 @@
         Do I have to secure after I influence?
       a: >-
         You must perform a legal secure after you influence. (You must have a legal target to secure.) Otherwise the influence must be undone.
+    - q: >-
+        Can I declare without giving away a Guild card if I have none, or if I'm using Populist Demands?
+      a: >-
+        No. Giving away a Guild is a mandatory cost for all declares.
   card: Feastbringer
 - faq:
     - q: >-
@@ -334,6 +343,10 @@
         What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if a crisis undeclared it?
       a: >-
         It returns during scoring even if the ambition did not score any points.
+    - q: >-
+        Does a non-Member gain city bonus when they win the ambition? 
+      a: >-
+        Yes.
   card: Commonwealth Ambition
 - faq:
     - q: >-
@@ -389,9 +402,13 @@
   card: Redeemer Act III Objective
 - faq:
     - q: >-
-        If I win the $link:Commonwealth Ambition$, how much Power do I gain?
+        If I win the $link:Commonwealth Ambition$ as a non-Member, how much Power do I gain?
       a: >-
         You gain Power for second place alone.
+    - q: >-
+        If the Commonwealth wins the $link:Commonwealth Ambition$ and I am a Member, how much Power do I gain?
+      a: >-
+        For scoring purpose, you did not win the ambition, so you gain the same power as the other Commonwealth members.
   card: Vow of Survival
 - faq:
     - q: >-
@@ -525,6 +542,10 @@
         Do I advance for Sow Division in the Reach if I already have the initiative and hold it at the end of the round?
       a: >-
         No. You need to get it from somewhere else.
+    - q: >-
+        Does any outrage stops me from advancing by winning Tyrant?
+      a: >-
+        No.
   card: Partisan Act I Objective
 - faq:
     - q: >-
@@ -647,6 +668,10 @@
         Which hits to the ships on the card take?
       a: >-
         The ships are on the card take hits for self-hit damage (flame icons and intercept)
+    - q: >-
+        If I lose a fief after levying to maximum, do I have to return a ship?
+      a: >-
+        Yes, at any time this card can only hold ships up to the limit.
   card: Warden's Levy
 - faq:
     - q: >-
@@ -1017,3 +1042,20 @@
       a: >-
         You do not score any Power for it. Your unscored Power is *not* scored by other Members.
   card: Oath of Peace
+- faq:
+    - q: >-
+        How does this action resolve if a player has more than one cards tied for the highest number in their hand?
+      a: >-
+        In a tie, the player may choose which card to hand over.
+    - q: >-
+        What happens if you only have Event cards in hand.
+      a: >-
+        Nothing happens because you cannot fulfill the first part of the action.
+  card: ARCS-F602
+  cardDisplay: Informants
+- faq:
+    - q: >-
+        What happens when a city is replaced with Cede Control or other effect?
+      a: >-
+        It is removed, therefore the Seat is returned.
+  card: Seats & Fiefs
