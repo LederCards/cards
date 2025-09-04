@@ -1113,3 +1113,9 @@
       a: >-
         Nope!
   card: Peace Accords
+- faq:
+    - q: >-
+        How do I resolve this if someone used the Prelude action of $link:The Young Light$ or $link:The Prophet$ this round?
+      a: >-
+        The previous holder resolves it. The round ends when everyone finishes their turn, so the card should return to their play area before Set Doctrine is resolved.
+  card: Set Doctrine
