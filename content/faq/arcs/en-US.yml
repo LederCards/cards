@@ -389,6 +389,10 @@
         What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
       a: >-
         Your resources in your Captives box are still Captives, but they are no longer frozen. 
+    - q: >-
+        Can I place resources I gain from the supply, such as through taxing, on Green Vault?
+      a: >-
+        Yes! 
   card: Green Vault
 - faq:
     - q: >-
@@ -1083,3 +1087,9 @@
       a: >-
         No. Check which players have Golems at the start of the Crisis, then resolve its effects.
   card: Golem Worship
+- faq:
+    - q: >-
+        Can I place resources I gain from the supply, such as through taxing, on Arsenal Keepers?
+      a: >-
+        Yes!
+  card: Arsenal Keepers
