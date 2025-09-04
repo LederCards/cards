@@ -1149,3 +1149,9 @@
       a: >-
         No. This card can only be triggered once, for spending the action pip from Copy to secure.
   card: Relic Liaisons
+- faq:
+    - q: >-
+        How does this interact with $link:Raider Exosuits$?
+      a: >-
+        You can use one or the other. If you use Pirate Fleet, you must follow its restriction.
+  card: Pirate Fleet
