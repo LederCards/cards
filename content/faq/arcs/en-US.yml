@@ -643,9 +643,9 @@
       a: >-
         Yes. Resolve the card by searching through both the face-up and facedown discard piles, then shuffle the facedown discard pile.
     - q: >-
-        How does the Crisis work if $link:The Young Light$ or $link:The Prophet$ is discarded, in the court, in the Court deck, or in the card play area?
+        How does the Crisis work if $link:The Young Light$ or $link:The Prophet$ is discarded, in the Court deck, or in the card play area?
       a: >-
-        The Crisis does *not* work while the card is discarded, in the court, or in the Court deck. It *does* work if the card is in the card play area. 
+        The Crisis does *not* work while the card is discarded or in the Court deck. It *does* work if the card is in the card play area. 
   card: Plot to Kidnap
 - faq:
     - q: >-
@@ -1001,9 +1001,9 @@
   card: Doctrinal Faith
 - faq:
     - q: >-
-        How does the Crisis work if the $link:Imperial Officers$ is discarded, in the court, or in the Court deck?
+        How does the Crisis work if the $link:Imperial Officers$ is discarded or in the Court deck?
       a: >-
-        The Crisis does *not* work while the card is discarded, in the court, or in the Court deck.
+        The Crisis does *not* work while the card is discarded or in the Court deck.
   card: Command Chaos
 - faq:
     - q: >-
