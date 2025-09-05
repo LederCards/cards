@@ -1189,3 +1189,9 @@
       a: >-
         Nope, as they are not ships. (Look at those ancient star-sails on their masts!)
   card: Pilgrims
+- faq:
+    - q: >-
+        During the Crisis, can I use $link:Empath's Bond$ to reroll the die?
+      a: >-
+        No, since the Crisis does not define which player rolls the die.
+  card: Planet-Eater Loose
