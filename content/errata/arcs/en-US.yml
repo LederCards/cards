@@ -161,3 +161,9 @@
 - errata:
     - text: "Edited second paragraph for clarity to 'You can build Bunkers on planets, max 1 per planet, in systems with Loyal pieces if you also scrap 1 agent from your supply.' (Updated in Blighted Reach, 3rd printing.)"
   card: Building Bunkers
+- errata:
+    - text: "Added this text to the first line: 'You're a Regent and the Empire controls all Outlaw cities **on the map** or there are no Outlaws.' This is the same logic as previous printings, but is updated for clarity because Flagship Upgrades and Armor are now considered to be in its system for more purposes.  (Updated in Blighted Reach, 3rd printing.)"
+  card: Steward Act III Objective
+- errata:
+    - text: "Added this text to Lord Over the Fiefs '...for each city **on the map**.' This is the same logic as previous printings, but is updated for clarity because Flagship Upgrades and Armor are now considered to be in its system for more purposes.  (Updated in Blighted Reach, 3rd printing.)"
+  card: Warden Act II Objective
