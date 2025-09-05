@@ -146,3 +146,6 @@
 - errata:
     - text: "Edited When Secured action for consistency to 'You may resolve the Crisis in a cluster of your choice. Bury or discard this card.' (Updated in Blighted Reach, 3rd printing.)"
   card: Imperial Defectors
+- errata:
+    - text: "Edited the Claim Fief action to 'Attach this to a Court card. If you do, place a Seat token above a Loyal city you control in a cluster with no Seat.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Claims of Nobility
