@@ -137,3 +137,6 @@
 - errata:
     - text: "Replaced (*Don't remove this card!*) with 'This card remains in the Court.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Passage Storms
+- errata:
+    - text: "Added the following text to the Prune action: 'Replace a Loyal starport **in a slot** with a Loyal city or vice versa.' (Updated in base game, 4th printing)"
+  card: Living Structures
