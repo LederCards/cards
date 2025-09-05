@@ -1183,3 +1183,9 @@
       a: >-
         Yes!
   card: Tax Collectors
+- faq:
+    - q: >-
+        Can a Pilgrim take a Catapult move?
+      a: >-
+        Nope, as they are not ships. (Look at those ancient star-sails on their masts!)
+  card: Pilgrims
