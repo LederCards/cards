@@ -308,11 +308,11 @@
     - q: >-
         Can the bonus move be a Catapult move?
       a: >-
-        You can Catapult move with the bonus move.
+        You can Catapult move with the bonus move if you're moving from a starport.
     - q: >-
-        If I catapult move and drop off ships in gates along my path, can each ship move again?
+        If I Catapult move and drop off ships in gates along my path, which ships can move again?
       a: >-
-        Each fresh Loyal ship that moved can move one more time, independently and to a different destination.
+        Choose a group of any number of fresh Loyal ships that just moved, and move them one more time. So if you dropped off two ships in the same gate, you could move those two ships again.
     - q: >-
         Can I move Imperial ships with the second move?
       a: >-
