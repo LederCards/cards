@@ -155,3 +155,6 @@
 - errata:
     - text: "Rearranged ability text to 'At the start of scoring, you may give resources to Rivals up to their number of empty resource slots, and give them any of your Trophies and Captives. Pieces Loyal to that Rival return to their supply.' (Updated in Blighted Reach, 3rd printing.)"
   card: The Arbiter
+- errata:
+    - text: "Edited final line to 'Add **your** Dealmakers (03) to the Court deck.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Steward Act I Resolution 
