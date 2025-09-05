@@ -138,13 +138,13 @@
     - text: "Replaced (*Don't remove this card!*) with 'This card remains in the Court.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Passage Storms
 - errata:
-    - text: "Added the following text to the Prune action: 'Replace a Loyal starport **in a slot** with a Loyal city or vice versa.' (Updated in base game, 4th printing)"
+    - text: "Added this text to the Prune action: 'Replace a Loyal starport **in a slot** with a Loyal city or vice versa.' This means you cannot, for example, replace Cloud Cities. (Updated in base game, 4th printing)"
   card: Living Structures
 - errata:
     - text: "Edited step 3 to 'Tuck the other 2 Seek the Portal cards (10-11) under the **Pilgrims card** (08).' (Updated in Blighted Reach, 3rd printing.)"
   card: Pathfinder Act III Setup
 - errata:
-    - text: "Edited When Secured action for consistency to 'You may resolve the Crisis in a cluster of your choice. Bury or discard this card.' (Updated in Blighted Reach, 3rd printing.)"
+    - text: "Edited When Secured action across copies of this card to the same text: 'You may resolve the Crisis in a cluster of your choice. Bury or discard this card.' (Updated in Blighted Reach, 3rd printing.)"
   card: Imperial Defectors
 - errata:
     - text: "Edited the Claim Fief action to 'Attach this to a Court card. If you do, place a Seat token above a Loyal city you control in a cluster with no Seat.' (Updated in Blighted Reach, 3rd printing.)"
@@ -153,8 +153,11 @@
     - text: "Removed the prompt in step 4 to scrap Pluralistic Faith, to clarify that by default you can declare any ambition with Faithful cards, but restricted by the Doctrine.' (Updated in Blighted Reach, 3rd printing.)"
   card: Believer Act II Setup
 - errata:
-    - text: "Rearranged ability text to 'At the start of scoring, you may give resources to Rivals up to their number of empty resource slots, and give them any of your Trophies and Captives. Pieces Loyal to that Rival return to their supply.' (Updated in Blighted Reach, 3rd printing.)"
+    - text: "Rearranged text for clarity to 'At the start of scoring, you may give resources to Rivals up to their number of empty resource slots, and give them any of your Trophies and Captives. Pieces Loyal to that Rival return to their supply.' (Updated in Blighted Reach, 3rd printing.)"
   card: The Arbiter
 - errata:
     - text: "Edited final line to 'Add **your** Dealmakers (03) to the Court deck.' (Updated in Blighted Reach, 3rd printing.)"
-  card: Steward Act I Resolution 
+  card: Steward Act I Resolution
+- errata:
+    - text: "Edited second paragraph for clarity to 'You can build Bunkers on planets, max 1 per planet, in systems with Loyal pieces if you also scrap 1 agent from your supply.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Building Bunkers
