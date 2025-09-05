@@ -1177,3 +1177,9 @@
       a: >-
         Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
   card: Member of the Commonwealth
+- faq:
+    - q: >-
+        Can I use the move from this card to initiate a Catapult move? 
+      a: >-
+        No, this card lets you move into the battle system to participate in the battle.
+  card: Predictive Sensors
