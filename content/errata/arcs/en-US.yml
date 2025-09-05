@@ -149,3 +149,6 @@
 - errata:
     - text: "Edited the Claim Fief action to 'Attach this to a Court card. If you do, place a Seat token above a Loyal city you control in a cluster with no Seat.' (Updated in Blighted Reach, 3rd printing.)"
   card: Claims of Nobility
+- errata:
+    - text: "Removed the prompt in step 4 to scrap Pluralistic Faith, to clarify that by default you can declare any ambition with Faithful cards, but restricted by the Doctrine.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Believer Act II Setup
