@@ -633,9 +633,9 @@
   card: Feudal Courts
 - faq:
     - q: >-
-        When exactly does Provoke Outrage happen from this card in battle?
+        How does the harm rule work with battle?
       a: >-
-        After dealing hits but before resolving raids.
+        Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
   card: Feudal Law
 - faq:
     - q: >-
@@ -1195,3 +1195,15 @@
       a: >-
         No, since the Crisis does not define which player rolls the die.
   card: Planet-Eater Loose
+- faq:
+    - q: >-
+        How does the harm rule work with battle?
+      a: >-
+        Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+  card: Empathy for All
+- faq:
+    - q: >-
+        How does the Disgrace rule work with battle?
+      a: >-
+        Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+  card: Member of the Commonwealth
