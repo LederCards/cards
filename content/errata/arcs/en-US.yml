@@ -173,3 +173,18 @@
 - errata:
     - text: "Added italics and parentheses to rule saying that you take it as a Trophy, to clarify that this is the normal rule. (Updated in Blighted Reach, 3rd printing.)"
   card: Blight Panic
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Material planet you control. If you do, clear your Material Outrage, gain Material up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Forgeworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Fuel planet you control. If you do, clear your Fuel Outrage, gain Fuel up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Blazeworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Weapon planet you control. If you do, clear your Weapon Outrage, gain Weapons up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Deadworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Psionic planet you control. If you do, clear your Psionic Outrage, gain Psionic up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Heartworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Relic planet you control. If you do, clear your Relic Outrage, gain Relic up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.' (Updated in Blighted Reach, 3rd printing.)"
+  card: Lostworld Refugees
