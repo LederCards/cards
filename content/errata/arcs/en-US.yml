@@ -152,3 +152,6 @@
 - errata:
     - text: "Removed the prompt in step 4 to scrap Pluralistic Faith, to clarify that by default you can declare any ambition with Faithful cards, but restricted by the Doctrine.' (Updated in Blighted Reach, 3rd printing.)"
   card: Believer Act II Setup
+- errata:
+    - text: "Rearranged ability text to 'At the start of scoring, you may give resources to Rivals up to their number of empty resource slots, and give them any of your Trophies and Captives. Pieces Loyal to that Rival return to their supply.' (Updated in Blighted Reach, 3rd printing.)"
+  card: The Arbiter
