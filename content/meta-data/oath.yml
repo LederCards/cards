@@ -17,7 +17,7 @@ subproducts:
       Oath: Exiles & Empires is a game about being the coolest.
 
 external:
-  rules: https://oath.seiyria.com
+  rules: https://rules.ledergames.com
 
 # https://handlebarsjs.com/guide/
 cardTemplate:

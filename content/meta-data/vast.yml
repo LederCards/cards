@@ -10,7 +10,7 @@ subproducts:
       Where a knight, dragon, cave, goblins, or thief, prepare for an asymmetric battle.
 
 external:
-  rules: https://vast.seiyria.com
+  rules: https://rules.ledergames.com
   faq: {}
 
 cardTemplate: {}

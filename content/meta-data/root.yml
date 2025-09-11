@@ -65,7 +65,7 @@ subproducts:
       The Vagabond Pack adds 3 new Vagabonds (Harrier, Ronin, Adventurer) as well as meeples for each Vagabond.
 
 external:
-  rules: https://root.seiyria.com
+  rules: https://rules.ledergames.com/
   faq: {}
 
 cardTemplate: {}
