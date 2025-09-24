@@ -636,11 +636,11 @@
     - q: >-
         Do you have to control Witnesses to Catapult move them?
       a: >-
-        Yes. The control requisite still applies to Catapult Moves.
+        Yes!
     - q: >-
-        Do you have to flip a Witness token in Prelude to declare Empath?
+        When I move Loyal ships, can I move a Witness along with them even if I am not taking a Catapult move?
       a: >-
-        Yes. You must do the first part to declare Empath.
+        Yes.
   card: Witnesses
 - faq:
     - q: >-
