@@ -127,7 +127,7 @@
 - faq:
     - q: >-
         If I am a Citizen, do I need the Chancellor’s permission to move
-        warbands ($rule::6.5$)?
+        warbands ($rule:6.5$)?
       a: Nope. This card is a way around that rule!
   card: Warning Signals
 - faq:
@@ -160,7 +160,7 @@
         this bonus?
       a: >-
         Yes! Note that this is an errata, since the definition of ‘you’
-        ($rule::10$) has changed.
+        ($rule:10$) has changed.
   card: Fire Talkers
 - faq:
     - q: Why would I kill one of my own warbands?
@@ -301,9 +301,9 @@
 - faq:
     - q: When exactly do I gain the favor?
       a: >-
-        Immediately after resolving the text in the relevant $rule::5.1.4$
+        Immediately after resolving the text in the relevant $rule:5.1.4$
         subsection. So they gain favor for playing to site first, for example,
-        but resolve When Played powers ($rule::7.3.3$) after Saddle Makers.
+        but resolve When Played powers ($rule:7.3.3$) after Saddle Makers.
   card: Saddle Makers
 - faq:
     - q: Does this include itself in the number of nomad cards ruled?
@@ -329,7 +329,7 @@
 - faq:
     - q: >-
         If I am a Citizen, do I have to ask the Chancellor for permission
-        ($rule::6.5$)
+        ($rule:6.5$)
       a: Nope. This is a way to get around it.
   card: Messenger
 - faq:
@@ -446,7 +446,7 @@
       a: 'Yes. Resolve Sneak Attack first, then Second Wind.'
   card: Sneak Attack
 - faq:
-    - q: 'Does this card power apply if I am playing a facedown card ($rule::6.1$)?'
+    - q: 'Does this card power apply if I am playing a facedown card ($rule:6.1$)?'
       a: 'Yes! As it says in the rules, modifiers do apply.'
     - q: >-
         If I paid for Forced Labor once when playing facedown, would I have to
@@ -622,7 +622,7 @@
         warband on my board?
       a: Nope. It’s one at the site.
     - q: Can I still travel to a site if there are no warbands there?
-      a: 'Yup. That’s what the “if able” signifies ($rule::10$).'
+      a: 'Yup. That’s what the “if able” signifies ($rule:10$).'
     - q: >-
         If I travel to a site that has only one of my warbands on it, do I have
         to kill it? Pretty please no?
@@ -804,7 +804,7 @@
     - q: What cases does this cover?
       a: >-
         All of them! You can campaign against sites but you can’t place warbands
-        at them. You can’t drop off warbands using a minor action ($rule::6.5$).
+        at them. You can’t drop off warbands using a minor action ($rule:6.5$).
         You can’t use $link:Warning Signals$ to move warbands around. And so on.
   card: Ring of Devotion
 - faq:
@@ -813,7 +813,7 @@
         site?
       a: >-
         Yes you can. This gets around the restriction in the relevant minor
-        action ($rule::6.5$).
+        action ($rule:6.5$).
     - q: Can I not add warbands at my sites to my attacking force?
       a: 'Nope, as with the other vows, you gotta do it.'
     - q: >-
@@ -968,7 +968,7 @@
         you count bandits as warbands.
     - q: >-
         If I have the Bandit Crown, can I take the last warband off my site as a
-        minor action ($rule::6.5$)? Likewise, can I simply put a warband on a
+        minor action ($rule:6.5$)? Likewise, can I simply put a warband on a
         site with no warbands on it?
       a: >-
         Yes to both! The bandit there counts as your warband, so you’re not

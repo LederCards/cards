@@ -232,7 +232,7 @@
     - q: >-
         Que se passe-t-il si je ne tire que la Conspiration mais que je ne peux
         pas la jouer ?
-      a: 'Défaussez-la normalement ($rule::5.1.4$).'
+      a: 'Défaussez-la normalement ($rule:5.1.4$).'
     - q: 'Le coût inclut-il le coût secret ajouté par $link:Gleaming Armor$ ?'
       a: Oui.
     - q: >-
@@ -244,7 +244,7 @@
     - q: Quand est-ce que je gagne la faveur exactement?
       a: >-
         Immédiatement après avoir résolu le texte de la sous-section
-        $rule::5.1.4$ concernée. Ainsi, ils gagnent des faveurs en jouant en
+        $rule:5.1.4$ concernée. Ainsi, ils gagnent des faveurs en jouant en
         premier sur le site, par exemple, mais résolvent les pouvoirs QUAND
         JOUEE ($règle:7.3.3$) après Fabricants de Selles.
   card: Saddle Makers
@@ -270,7 +270,7 @@
 - faq:
     - q: >-
         Si je suis un citoyen, dois-je demander la permission au chancelier
-        ($rule::6.5$)
+        ($rule:6.5$)
       a: Neni. C'est un moyen de le contourner.
   card: Messenger
 - faq:
