@@ -800,7 +800,7 @@
      
     *Count bonus Power from city slots uncovered on your player board. For example, if you gain 5 Power from winning an ambition and gain 5 bonus city Power, advance your objective marker 10 spaces.*
   image: F101B
-  name: Imperial Authority
+  name: Steward Act I Objective
   flipSide: ARCS-F101A
   tags:
     - Blighted Reach
