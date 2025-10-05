@@ -2144,7 +2144,7 @@
     act: 3
 - id: ARCS-F325B
   text: >-
-    Escape the Reach, Content with Your Riches
+    ***Escape the Reach, Content with Your Riches***
      
     Have any Monopolies
      
@@ -2888,7 +2888,7 @@
      
     *The Knowledge Set Free card lets players give away lore in Summits.*
      
-    **Build the Largest Collection**
+    ***Build the Largest Collection***
      
     At the end of a chapter, **advance `symbol:clock`1** for each Rival that you have more lore cards than.
   image: F512B
@@ -3029,7 +3029,7 @@
     act: 3
 - id: ARCS-F520B
   text: >-
-    Consume Dangerous Lore with the Golems, but Silence Them Before They Eat Everything
+    ***Consume Dangerous Lore with the Golems, but Silence Them Before They Eat Everything***
      
     At the end of a chapter, you have a Golem and choose to scrap 1 lore card you have except the Golem Hearth.
      
@@ -3311,7 +3311,7 @@
     act: 2
 - id: ARCS-F615B
   text: >-
-    **Show Your Leadership**
+    ***Show Your Leadership***
      
     **Advance `symbol:clock`1** each time you play an action card while you have the initiative.
      
@@ -3455,8 +3455,10 @@
     act: 3
 - id: ARCS-F624B
   text: >-
-    **Form a Dominant Power Bloc***
+    ***Form a Dominant Power Bloc***
+
     Have more Guild cards than each Rival.
+
     Have the initiative marker.
   image: F624B
   name: Partisan Act III Objective
