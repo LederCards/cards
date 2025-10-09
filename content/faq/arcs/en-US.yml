@@ -1187,3 +1187,9 @@
       a: >-
         No, this card lets you move into the battle system to participate in the battle.
   card: Predictive Sensors
+- faq:
+    - q: >-
+        Can this discard protected Guild cards? 
+      a: >-
+        No.
+  card: Call to Pilgrimage
