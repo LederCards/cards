@@ -20,11 +20,6 @@
   card: Arms Union
 - faq:
     - q: >-
-        What happens if this is still in the court at the end of an Act?
-      a: >-
-        At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25. 
-- faq:
-    - q: >-
         When do you collect the action card?
       a: >-
         At the end of the round, after all players have finished their turns.
@@ -1193,3 +1188,10 @@
       a: >-
         No.
   card: Call to Pilgrimage
+
+- faq:
+    - q: >-
+        What happens if this is still in the court at the end of an Act?
+      a: >-
+        At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25. 
+  card: Armistice
