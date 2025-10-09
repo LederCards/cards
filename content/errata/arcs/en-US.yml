@@ -192,3 +192,6 @@
 - errata:
     - text: "Replace '(You add it to Warlord but can’t spend it.)' with '(You can’t spend it.)' This is usually true but not always, if $link:War Profiteering$ is not in play."
   card: Weapon Cartel
+- errata:
+    - text: "Remove the clarification 'The Rival must be able to hold the Psionic.' There are basically no situations where this wouldn't apply, since rearranging resources is always possible."
+  card: Reconcile with the Outraged
