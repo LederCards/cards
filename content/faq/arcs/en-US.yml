@@ -270,9 +270,9 @@
   card: Gate Ports
 - faq:
     - q: >-
-        How does this interact with Cartel cards?
+        What counts as resources I have?
       a: >-
-        A player has the resources on Cartel cards. This means Keeper's Solidarity applies to those resources.
+        Everything in your play area, including resources on cards, even if frozen.
   card: Keeper's Solidarity
 - faq:
     - q: >-
@@ -988,6 +988,10 @@
         Can I reroll this multiple times?
       a: >-
         No, only once.
+    - q: >-
+        What counts as resources I have?
+      a: >-
+        Everything in your play area, including resources on cards, even if frozen.
   card: Skirmishers
 - faq:
     - q: >-
