@@ -73,6 +73,7 @@
   card: Unstable Warrior
 - errata:
     - text: "To improve game flow, add this sentence: 'Scrap this if the Seeker is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
+    - text: "The Crisis effect should read 'The player with the Seeker places their Loyal ships from planets of the rolled symbol onto the gate in the rolled cluster.' This means powers like $link:Gate Ports$ would not trigger."
   card: Unstable Seeker
 - errata:
     - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
