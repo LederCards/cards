@@ -118,6 +118,10 @@
         Do I have to secure after I influence?
       a: >-
         You must perform a legal secure after you influence. (You must have a legal target to secure.) Otherwise the influence must be undone.
+    - q: >-
+        Can I declare without giving away a Guild card if I have none, or if I'm using Populist Demands?
+      a: >-
+        No. Giving away a Guild is a mandatory cost for all declares.
   card: Feastbringer
 - faq:
     - q: >-
@@ -230,6 +234,10 @@
         Is *Fire Rifles* modified by abilities that modify Battle?
       a: >-
         Abilities that modify Battle do not apply to *Fire Rifles*. For example, you cannot use $link:Skirmishers$ to reroll the dice, and you cannot use $link:Gatekeepers$ to collect more dice.
+    - q: >-
+        How does this interact with the Imperial Truce Law?
+      a: >-
+        It causes harm in the target system, so you cannot target a Regent in a system with Imperial ships, but you can use Galactic Rifles from a system with Imperial ships.
   card: Galactic Rifles
 - faq:
     - q: >-
@@ -257,9 +265,9 @@
   card: Gate Ports
 - faq:
     - q: >-
-        How does this interact with Cartel cards?
+        What counts as resources I have?
       a: >-
-        A player has the resources on Cartel cards. This means Keeper's Solidarity applies to those resources.
+        Everything in your play area, including resources on cards, even if frozen.
   card: Keeper's Solidarity
 - faq:
     - q: >-
@@ -295,11 +303,15 @@
     - q: >-
         Can the bonus move be a Catapult move?
       a: >-
-        You can Catapult move with the bonus move.
+        You can Catapult move with the bonus move if you're moving from a starport.
     - q: >-
-        If I catapult move and drop off ships in gates along my path, can each ship move again?
+        If I Catapult move and drop off ships in gates along my path, which ships can move again?
       a: >-
-        Each fresh Loyal ship that moved can move one more time, independently and to a different destination.
+        Choose a group of any number of fresh Loyal ships that just moved, and move them one more time. So if you dropped off two ships in the same gate, you could move those two ships again.
+    - q: >-
+        Can I move Imperial ships with the second move?
+      a: >-
+        No, only ships that are both fresh and Loyal, and that just moved, may take the second move.
   card: Sprinter Drives
 - faq:
     - q: >-
@@ -334,6 +346,10 @@
         What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if a crisis undeclared it?
       a: >-
         It returns during scoring even if the ambition did not score any points.
+    - q: >-
+        Does a non-Member gain city bonus when they win the ambition? 
+      a: >-
+        Yes.
   card: Commonwealth Ambition
 - faq:
     - q: >-
@@ -376,6 +392,10 @@
         What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?
       a: >-
         Your resources in your Captives box are still Captives, but they are no longer frozen. 
+    - q: >-
+        Can I place resources I gain from the supply, such as through taxing, on Green Vault?
+      a: >-
+        Yes! 
   card: Green Vault
 - faq:
     - q: >-
@@ -389,9 +409,17 @@
   card: Redeemer Act III Objective
 - faq:
     - q: >-
-        If I win the $link:Commonwealth Ambition$, how much Power do I gain?
+        Can I ever gain the city Power bonus with this card?
+      a: >-
+        No.
+    - q: >-
+        If I win the $link:Commonwealth Ambition$ as a non-Member, how much Power do I gain?
       a: >-
         You gain Power for second place alone.
+    - q: >-
+        If the Commonwealth wins the $link:Commonwealth Ambition$ and I am a Member, how much Power do I gain?
+      a: >-
+        For scoring purpose, you did not win the ambition, so you gain the same power as the other Commonwealth members.
   card: Vow of Survival
 - faq:
     - q: >-
@@ -416,6 +444,10 @@
         Are Golems resources? 
       a: >-
         Nope! The text 'can be spent for actions like resources' just means that you spend them in your Prelude to take their listed actions like you do with resources. You can't spend them to take New Actions or, for example, or as inputs for Loyal cards like $link:Loyal Engineers$.
+    - q: >-
+        Can Golems be taken through raiding? 
+      a: >-
+        Yes!
   card: Golems
 - faq:
     - q: >-
@@ -525,6 +557,10 @@
         Do I advance for Sow Division in the Reach if I already have the initiative and hold it at the end of the round?
       a: >-
         No. You need to get it from somewhere else.
+    - q: >-
+        Does any outrage stops me from advancing by winning Tyrant?
+      a: >-
+        No.
   card: Partisan Act I Objective
 - faq:
     - q: >-
@@ -555,6 +591,10 @@
         Does taking this action at all trigger $link:Empathy for All$?
       a: >-
         Yes! Even if you do not end up controlling the planet and thus breaking it.
+    - q: >-
+        Do the Imperial Truce Law and $link:Armistice$ block this?
+      a: >-
+        Yes. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities.
   card: Breaking Worlds
 - faq:
     - q: >-
@@ -588,6 +628,12 @@
   card: Feudal Courts
 - faq:
     - q: >-
+        How does the harm rule work with battle?
+      a: >-
+        Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+  card: Feudal Law
+- faq:
+    - q: >-
         If we are playing with split discard piles, where do I scrap from?
       a: >-
         The facedown pile. If there is none, shuffle the face-up pile to form a facedown pile first.
@@ -612,9 +658,9 @@
   card: The Dead Live
 - faq:
     - q: >-
-        How does the Spread Empathy objective interact with Loyal guild cards?
+        Can I use $link:Loyal Empaths$ to spend other resources as Psionic for the Spread Empathy objective?
       a: >-
-        Only Psionic resources count.
+        Yes!
   card: Pacifist Act II Objective
 - faq:
     - q: >-
@@ -647,6 +693,10 @@
         Which hits to the ships on the card take?
       a: >-
         The ships are on the card take hits for self-hit damage (flame icons and intercept)
+    - q: >-
+        If I lose a fief after levying to maximum, do I have to return a ship?
+      a: >-
+        Yes, at any time this card can only hold ships up to the limit.
   card: Warden's Levy
 - faq:
     - q: >-
@@ -720,9 +770,13 @@
   card: Rogue Admirals
 - faq:
     - q: >-
-        Do trophies taken as part of ransacking the court count towards Admiral's objective?
+        Do Trophies taken as part of ransacking the court count towards the Admiral's objective?
       a: >-
         Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.
+    - q: >-
+        Does the Admiral advance for Prove Yourself as a New Admiral if someone places Imperial ships while it has the highest value for an undeclared ambition?
+      a: >-
+        No, because no one can be 'winning' an undeclared ambition.
   card: Admiral Act I Objective
 - faq:
     - q: >-
@@ -784,39 +838,13 @@
   card: Closed Economy
 - faq:
     - q: >-
-        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
-      a: >-
-        Yes!
-  card: Forgeworld Refugees
-- faq:
-    - q: >-
-        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
-      a: >-
-        Yes!
-  card: Blazeworld Refugees
-- faq:
-    - q: >-
-        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
-      a: >-
-        Yes!
-  card: Deadworld Refugees
-- faq:
-    - q: >-
-        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
-      a: >-
-        Yes!
-  card: Lostworld Refugees
-- faq:
-    - q: >-
-        Do I have to build the Free city in order to gain the other benefits of the **Resettle** action?
-      a: >-
-        Yes!
-  card: Heartworld Refugees
-- faq:
-    - q: >-
         When I secure this card, what happens to the agents on it?
       a: >-
         They are returned and taken as Captives, as normal. Only the card remains in the Court.
+    - q: >-
+        When you secure Passage Storms and take moves, do you reroll the event die?
+      a: >-
+        No, you only reroll the die when you use the normal movement rule defined on $link:Passages & The Twisted Passage$. 
   card: Passage Storms
 - faq:
     - q: >-
@@ -834,12 +862,6 @@
       a: >-
         Nope. Bunkers by themselves do not enable raiding.
   card: Bunkers
-- faq:
-    - q: >-
-        Does this trigger $link:Gate Ports$?
-      a: >-
-        Yes!
-  card: Unstable Seeker
 - faq:
     - q: >-
         Does this trigger $link:Gate Ports$?
@@ -955,6 +977,10 @@
         Can I reroll this multiple times?
       a: >-
         No, only once.
+    - q: >-
+        What counts as resources I have?
+      a: >-
+        Everything in your play area, including resources on cards, even if frozen.
   card: Skirmishers
 - faq:
     - q: >-
@@ -997,6 +1023,10 @@
         If I secure the card, does this count as harming others? Do I take Trophies? What happens exactly?
       a: >-
         Securing this card triggers the Crisis itself, which means you are not harming anyone, you take no Trophies, you do not cause Outrage, and so on. You have plausible deniability.
+    - q: >-
+        Does Terror Strike destroy Flagship Upgrades and Armor at planets of matching Outrage?
+      a: >-
+        Yes!
   card: Terror Strike
 - faq:
     - q: >-
@@ -1017,3 +1047,145 @@
       a: >-
         You do not score any Power for it. Your unscored Power is *not* scored by other Members.
   card: Oath of Peace
+- faq:
+    - q: >-
+        How does this action resolve if a player has more than one cards tied for the highest number in their hand?
+      a: >-
+        In a tie, the player may choose which card to hand over.
+    - q: >-
+        What happens if you only have Event cards in hand.
+      a: >-
+        Nothing happens because you cannot fulfill the first part of the action.
+  card: ARCS-F602
+  cardDisplay: Informants
+- faq:
+    - q: >-
+        What happens when a city is replaced with Cede Control or other effect?
+      a: >-
+        It is removed, therefore the Seat is returned.
+  card: Seats & Fiefs
+- faq:
+    - q: >-
+        Can I use the extra action from this card to trigger effects like $link:Material Liaisons$ a second time?
+      a: >-
+        No. You can only trigger such effects from the action gained from the Copy itself.
+  card: Faithful Disciples
+- faq:
+    - q: >-
+        If returning a city means a Golem is transferred to a player without one, are they affected by the Crisis?
+      a: >-
+        No. Check which players have Golems at the start of the Crisis, then resolve its effects.
+  card: Golem Worship
+- faq:
+    - q: >-
+        Can I place resources I gain from the supply, such as through taxing, on Arsenal Keepers?
+      a: >-
+        Yes!
+  card: Arsenal Keepers
+- faq:
+    - q: >-
+        When scrapping Loyal ships, can I scrap them from my supply?
+      a: >-
+        Yes!
+  card: Hegemon Act II Setup
+- faq:
+    - q: >-
+        If I control two systems in a cluster, do I need the consent of other players to Broker Peace?
+      a: >-
+        Nope!
+    - q: >-
+        If I control one system, a second player controls one, and a third player controls two, can I Broker Peace?
+      a: >-
+        Yes! You just need the consent of either of those players.
+  card: Peace Accords
+- faq:
+    - q: >-
+        How do I resolve this if someone used the Prelude action of $link:The Young Light$ or $link:The Prophet$ this round?
+      a: >-
+        The previous holder resolves it. The round ends when everyone finishes their turn, so the card should return to their play area before Set Doctrine is resolved.
+  card: Set Doctrine
+- faq:
+    - q: >-
+        Can I use $link:Sprinter Drives$ or other sources of extra movement to gain more Fuel?
+      a: >-
+        No. This card can only be triggered once, for spending the action pip from Copy to move.
+  card: Fuel Liaisons
+- faq:
+    - q: >-
+        Can I use $link:Dealmakers$ or other sources of extra influence to gain more Psionic?
+      a: >-
+        No. This card can only be triggered once, for spending the action pip from Copy to influence.
+  card: Psionic Liaisons
+- faq:
+    - q: >-
+        Can I use the secure from Ransacking the Court or other sources of extra secures to gain more Relics?
+      a: >-
+        No. This card can only be triggered once, for spending the action pip from Copy to secure.
+  card: Relic Liaisons
+- faq:
+    - q: >-
+        How does this interact with $link:Raider Exosuits$?
+      a: >-
+        You can use one or the other. If you use Pirate Fleet, you must follow its restriction.
+  card: Pirate Fleet
+- faq:
+    - q: >-
+        If I'm in the Commonwealth, does $link:Armistice$ block using this against Commonwealth Members and Free cities?
+      a: >-
+        Yes!
+  card: Freedom Fighters
+- faq:
+    - q: >-
+        What happens when there are not enough Psionic in the supply?
+      a: >-
+        The player with initiative chooses who gains Psionic.
+  card: Rebuke of the Empaths
+- faq:
+    - q: >-
+        Can I take the resource from the player's board if I use an effect like $link:Empath's Bond$ or the Flagship's Control Array to tax a Rival like they are Loyal?
+      a: >-
+        Yes!
+  card: Tax Collectors
+- faq:
+    - q: >-
+        Can a Pilgrim take a Catapult move?
+      a: >-
+        Nope, as they are not ships. (Look at those ancient star-sails on their masts!)
+  card: Pilgrims
+- faq:
+    - q: >-
+        During the Crisis, can I use $link:Empath's Bond$ to reroll the die?
+      a: >-
+        No, since the Crisis does not define which player rolls the die.
+  card: Planet-Eater Loose
+- faq:
+    - q: >-
+        How does the harm rule work with battle?
+      a: >-
+        Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+  card: Empathy for All
+- faq:
+    - q: >-
+        How does the Disgrace rule work with battle?
+      a: >-
+        Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!
+  card: Member of the Commonwealth
+- faq:
+    - q: >-
+        Can I use the move from this card to initiate a Catapult move? 
+      a: >-
+        No, this card lets you move into the battle system to participate in the battle.
+  card: Predictive Sensors
+- faq:
+    - q: >-
+        Can this discard protected Guild cards? 
+      a: >-
+        No.
+  card: Call to Pilgrimage
+
+- faq:
+    - q: >-
+        What happens if this is still in the court at the end of an Act?
+      a: >-
+        At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25. 
+  card: Armistice

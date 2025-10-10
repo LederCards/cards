@@ -73,6 +73,7 @@
   card: Unstable Warrior
 - errata:
     - text: "To improve game flow, add this sentence: 'Scrap this if the Seeker is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
+    - text: "The Crisis effect should read 'The player with the Seeker places their Loyal ships from planets of the rolled symbol onto the gate in the rolled cluster.' This means powers like $link:Gate Ports$ would not trigger."
   card: Unstable Seeker
 - errata:
     - text: "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
@@ -137,3 +138,60 @@
 - errata:
     - text: "Replaced (*Don't remove this card!*) with 'This card remains in the Court.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
   card: Passage Storms
+- errata:
+    - text: "Added this text to the Prune action: 'Replace a Loyal starport **in a slot** with a Loyal city or vice versa.' This means you cannot, for example, replace Cloud Cities. (Updated in base game, 4th printing)"
+  card: Living Structures
+- errata:
+    - text: "Edited step 3 to 'Tuck the other 2 Seek the Portal cards (10-11) under the **Pilgrims card** (08).'"
+  card: Pathfinder Act III Setup
+- errata:
+    - text: "Edited When Secured action across copies of this card to the same text: 'You may resolve the Crisis in a cluster of your choice. Bury or discard this card.'"
+  card: Imperial Defectors
+- errata:
+    - text: "Edited the Claim Fief action to 'Attach this to a Court card. If you do, place a Seat token above a Loyal city you control in a cluster with no Seat.'"
+  card: Claims of Nobility
+- errata:
+    - text: "Removed the prompt in step 4 to scrap Pluralistic Faith, to clarify that by default you can declare any ambition with Faithful cards, but restricted by the Doctrine.'"
+  card: Believer Act II Setup
+- errata:
+    - text: "Rearranged text for clarity to 'At the start of scoring, you may give resources to Rivals up to their number of empty resource slots, and give them any of your Trophies and Captives. Pieces Loyal to that Rival return to their supply.'"
+  card: The Arbiter
+- errata:
+    - text: "Edited final line to 'Add **your** Dealmakers (03) to the Court deck.'"
+  card: Steward Act I Resolution
+- errata:
+    - text: "Edited second paragraph for clarity to 'You can build Bunkers on planets, max 1 per planet, in systems with Loyal pieces if you also scrap 1 agent from your supply.'"
+  card: Building Bunkers
+- errata:
+    - text: "Added this text to the first line: 'You're a Regent and the Empire controls all Outlaw cities **on the map** or there are no Outlaws.' This is the same logic as previous printings, but is updated for clarity because Flagship Upgrades and Armor are now considered to be in its system for more purposes."
+  card: Steward Act III Objective
+- errata:
+    - text: "Added this text to Lord Over the Fiefs '...for each city **on the map**.' This is the same logic as previous printings, but is updated for clarity because Flagship Upgrades and Armor are now considered to be in its system for more purposes."
+  card: Warden Act II Objective
+- errata:
+    - text: "Removed italics and parentheses from rule saying that you do not take it as a Trophy, to clarify that this is different from the normal rule."
+  card: Blight Reapers
+- errata:
+    - text: "Added italics and parentheses to rule saying that you take it as a Trophy, to clarify that this is the normal rule."
+  card: Blight Panic
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Material planet you control. If you do, clear your Material Outrage, gain Material up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'"
+  card: Forgeworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Fuel planet you control. If you do, clear your Fuel Outrage, gain Fuel up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'"
+  card: Blazeworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Weapon planet you control. If you do, clear your Weapon Outrage, gain Weapons up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'"
+  card: Deadworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Psionic planet you control. If you do, clear your Psionic Outrage, gain Psionic up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'"
+  card: Heartworld Refugees
+- errata:
+    - text: "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Relic planet you control. If you do, clear your Relic Outrage, gain Relic up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'"
+  card: Lostworld Refugees
+- errata:
+    - text: "Replace '(You add it to Warlord but can’t spend it.)' with '(You can’t spend it.)' This is usually true but not always, if $link:War Profiteering$ is not in play."
+  card: Weapon Cartel
+- errata:
+    - text: "Remove the clarification 'The Rival must be able to hold the Psionic.' There are basically no situations where this wouldn't apply, since rearranging resources is always possible."
+  card: Reconcile with the Outraged
