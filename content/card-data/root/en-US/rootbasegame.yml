@@ -504,6 +504,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-107
   image: card-travelgearmouse
   name: Travel Gear
@@ -511,7 +512,7 @@
     - Base Game
     - Standard Deck
     - Craftable
-    - Fox
+    - Mouse
 - id: ROOT-109
   image: card-woodlandrunners
   name: Woodland Runners
