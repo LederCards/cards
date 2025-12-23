@@ -161,6 +161,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Bird
 - id: ROOT-47
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
@@ -170,6 +171,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Bunny
 - id: ROOT-48
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
@@ -179,6 +181,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Fox
 - id: ROOT-49
   text: >-
     At start of battle, defender may play to deal two immediate hits, then
@@ -188,6 +191,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Mouse
 - id: ROOT-50
   image: card-anvil
   name: Anvil
@@ -195,6 +199,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-51
   text: 'In battle, may discard this to ignore all rolled hits taken.'
   image: card-armorers
@@ -203,6 +208,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-52
   image: card-armstrader
   name: Arms Trader
@@ -210,6 +216,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-53
   image: card-avisittofriends
   name: A Visit To Friends
@@ -217,6 +224,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-54
   image: card-bakesale
   name: Bake Sale
@@ -224,6 +232,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-55
   text: 'At start of Birdsong, you and another player draw a card.'
   image: card-betterburrowbank
@@ -232,6 +241,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-56
   image: card-birdybindle
   name: Birdy Bindle
@@ -239,6 +249,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-58
   text: 'In battle as attacker, may deal an extra hit, but defender scores one point.'
   image: card-brutaltactics
@@ -247,6 +258,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-60
   text: 'At start of Evening, may take a move.'
   image: card-cobbler
@@ -255,6 +267,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-61
   text: "Once in Daylight, may look at another player's hand."
   image: card-codebreakers
@@ -263,6 +276,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-63
   text: 'At start of Daylight, may initiate a battle.'
   image: card-commandwarren
@@ -271,6 +285,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-65
   image: card-crossbowbird
   name: Crossbow
@@ -278,6 +293,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-66
   image: card-crossbowmouse
   name: Crossbow
@@ -285,6 +301,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-67
   text: >-
     You win the game if you rule two opposite corners at the start of your
@@ -294,6 +311,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Bird
 - id: ROOT-68
   text: >-
     You win the game if you rule three bunny clearings at the start of your
@@ -303,6 +321,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Bunny
 - id: ROOT-69
   text: >-
     You win the game if you rule three fox clearings at the start of your
@@ -312,6 +331,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Fox
 - id: ROOT-70
   text: >-
     You win the game if you rule three mouse clearings at the start of your
@@ -321,6 +341,7 @@
   tags:
     - Base Game
     - Standard Deck
+    - Mouse
 
 - id: ROOT-73
   text: 'Remove all enemy pieces in fox clearings, then discard.'
@@ -330,6 +351,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-74
   text: 'Remove all enemy pieces in mouse clearings, then discard.'
   image: card-favorofthemice
@@ -338,6 +360,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-75
   text: 'Remove all enemy pieces in bunny clearings, then discard.'
   image: card-favoroftherabbits
@@ -346,6 +369,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-76
   image: card-foxfolksteel
   name: Foxfolk Steel
@@ -353,6 +377,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-78
   image: card-gentlyusedknapsack
   name: Gently Used Knapsack
@@ -360,6 +385,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-80
   image: card-investments
   name: Investments
@@ -367,6 +393,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-83
   image: card-mouseinasack
   name: Mouse-in-a-sack
@@ -374,6 +401,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-87
   image: card-protectionracket
   name: Protection Racket
@@ -381,6 +409,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-89
   image: card-rootteabunny
   name: Root Tea
@@ -388,6 +417,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-90
   image: card-rootteafox
   name: Root Tea
@@ -395,6 +425,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-91
   image: card-rootteamouse
   name: Root Tea
@@ -402,6 +433,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-92
   text: 'In Birdsong, may discard this to score one point per clearing you rule.'
   image: card-royalclaim
@@ -410,6 +442,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-94
   text: 'In battle as defender, may discard this to deal an extra hit.'
   image: card-sappers
@@ -418,6 +451,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 - id: ROOT-95
   text: 'As attacker in battle, you are not affected by ambush cards.'
   image: card-scoutingparty
@@ -426,6 +460,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-96
   image: card-smugglerstrail
   name: Smuggler's Trail
@@ -433,6 +468,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bunny
 - id: ROOT-102
   text: >-
     In Birdsong, may take a random card from another player. That player scores
@@ -443,6 +479,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-104
   image: card-sword
   name: Sword
@@ -450,6 +487,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-105
   text: 'Once in Daylight, may remove one of your warriors to draw a card.'
   image: card-taxcollector
@@ -458,6 +496,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-106
   image: card-travelgearfox
   name: Travel Gear
@@ -465,6 +504,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Fox
 - id: ROOT-107
   image: card-travelgearmouse
   name: Travel Gear
@@ -472,6 +512,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Mouse
 - id: ROOT-109
   image: card-woodlandrunners
   name: Woodland Runners
@@ -479,6 +520,7 @@
     - Base Game
     - Standard Deck
     - Craftable
+    - Bird
 
 - id: ROOT-152
   image: intro-corvid
