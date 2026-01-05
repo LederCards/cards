@@ -46,3 +46,129 @@
   tags:
     - Cats and Dogs
     - Cat
+- id: CATDOG-9
+  name: Drover
+  image: dog-1
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Book
+- id: CATDOG-10
+  name: Hershey
+  image: dog-2
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Book
+- id: CATDOG-10
+  name: Echo
+  image: dog-3
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Book
+- id: CATDOG-11
+  name: Floofer
+  image: dog-4
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Glue
+- id: CATDOG-12
+  name: Squeaker
+  image: dog-5
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Glue
+- id: CATDOG-13
+  name: Pumpkin
+  image: dog-6
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Glue
+- id: CATDOG-14
+  name: Ranger
+  image: dog-7
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Skateboard
+- id: CATDOG-15
+  name: Rowdy
+  image: dog-8
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Skateboard
+- id: CATDOG-15
+  name: Porkchop
+  image: dog-9
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Skateboard
+- id: CATDOG-16
+  name: Barkley
+  image: dog-10
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Crown
+- id: CATDOG-17
+  name: Eclair
+  image: dog-11
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Crown
+- id: CATDOG-18
+  name: Loki
+  image: dog-12
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Crown
+- id: CATDOG-19
+  name: Pudge
+  image: dog-13
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Squirtgun
+- id: CATDOG-20
+  name: Pesto
+  image: dog-14
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Squirtgun
+- id: CATDOG-21
+  name: Violet
+  image: dog-15
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Squirtgun
+- id: CATDOG-22
+  name: Duke
+  image: dog-16
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Shovel
+- id: CATDOG-23
+  name: Spud
+  image: dog-17
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Shovel
+- id: CATDOG-24
+  name: Watson
+  image: dog-18
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Shovel
