@@ -1,1 +1,48 @@
-
+- id: CATDOG-1
+  name: Scavenger
+  image: cat-scavenger
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-2
+  name: Sprightly
+  image: cat-sprightly
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-3
+  name: Bandit
+  image: cat-bandit
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-4
+  name: Scratch
+  image: cat-scratch
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-5
+  name: Kingsly
+  image: cat-kingsly
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-6
+  name: Cilantro
+  image: cat-cilantro
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-7
+  name: Dumpling
+  image: cat-dumpling
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-8
+  name: Jitters
+  image: cat-jitters
+  tags:
+    - Cats and Dogs
+    - Cat
