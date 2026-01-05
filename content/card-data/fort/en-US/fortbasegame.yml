@@ -307,120 +307,154 @@
     - Wild
 - id: FORT-51
   name: Big Plans
+  text: >-
+    At the end of the game, score 1 point per Advance Fort action you have. This includes when it is only part of an action, like on Lefty and Dot. It does not include the DIY perk card.
   image: rule-0
   tags:
     - Base Game
     - Rule
 - id: FORT-52
   name: Loner
+  text: >-
+    At the end of the game, score 5 points if you have no Best Friends cards.
   image: rule-1
   tags:
     - Base Game
     - Rule
 - id: FORT-53
   name: Friendship Bracelet
+  text: >-
+    At the end of the game, score 1 point for each different suit you have, except the coin suit. If you have all six suits, score an extra 1 point.
   image: rule-2
   tags:
     - Base Game
     - Rule
 - id: FORT-54
   name: Sleepover
+  text: >-
+    At the end of the game, score 8 points if you have more cards than each other rival player has. If you are tied for the most cards, score 4 points.
   image: rule-3
   tags:
     - Base Game
     - Rule
 - id: FORT-55
   name: Minimalism
+  text: >-
+    At the end of the game, score 8 points if your Fort Level is exactly 2.
   image: rule-4
   tags:
     - Base Game
     - Rule
 - id: FORT-56
   name: Slime Lab
+  text: >-
+    At the end of the game, score 1 point per book suit you have, not counting coins.
   image: rule-5
   tags:
     - Base Game
     - Rule
 - id: FORT-57
   name: Play Palace
+  text: >-
+    At the end of the game, score 1 point per crown suit you have, not counting coins.
   image: rule-6
   tags:
     - Base Game
     - Rule
 - id: FORT-58
   name: Popularity
+  text: >-
+    At the end of the game, score 1 point per card in your Lookout.
   image: rule-7
   tags:
     - Base Game
     - Rule
 - id: FORT-59
   name: Secret Stash
+  text: >-
+    At the end of the game, score 1 point per resource in your Pack.
   image: rule-8
   tags:
     - Base Game
     - Rule
 - id: FORT-60
   name: Pizza Party
+  text: >-
+    At the end of the game, score 1 point per pizza token on your player board.
   image: rule-9
   tags:
     - Base Game
     - Rule
 - id: FORT-61
   name: Piggy Bank
+  text: >-
+    At the end of the game, score 1 point per toys token on your player board.
   image: rule-10
   tags:
     - Base Game
     - Rule
 - id: FORT-62
   name: DIY
+  text: >-
+    On your turn, after you finish playing a card and every rival player has followed or chosen not to, you may trash the Do-Over card to play a second card. *(You may improve it by adding suits, and rival players may follow its public action, as normal.)*
   image: perk-0
   tags:
     - Base Game
     - Perk
 - id: FORT-63
   name: Sticky Fingers
+  text: >-
+    On your turn, whenever you use the Pack Resource action, you may take the resource from the shared supply *(instead of your Stuff)*, in any combination if you use the action multiple times.
   image: perk-1
   tags:
     - Base Game
     - Perk
 - id: FORT-64
   name: Recycling
+  text: >-
+    Anytime on your turn, you may trash the Recycling card to take a card from your discard pile and add it to your hand.
   image: perk-2
   tags:
     - Base Game
     - Perk
 - id: FORT-65
   name: XXL Backpack
+  text: Your Pack can hold 2 extra resources.
   image: perk-3
   tags:
     - Base Game
     - Perk
 - id: FORT-66
   name: Do-Over
+  text: On your turn, after you finish playing a card and every rival player has followed or chosen not to, you may trash the Do-Over card to play a second card. *(You may improve it by adding suits, and rival players may follow its public action, as normal.)*
   image: perk-4
   tags:
     - Base Game
     - Perk
 - id: FORT-67
   name: Birthday Party
+  text: At the end of your Recruit phase, you may recruit another card from the Park or Park deck, but not a rival player's Yard.
   image: perk-5
   tags:
     - Base Game
     - Perk
 - id: FORT-68
   name: Rough Housing
+  text: Instead of following a rival player's public action, and after each other rival player has followed or chosen not to, you may trash the Rough Housing card to trash the leader's played card.
   image: perk-6
   tags:
     - Base Game
     - Perk
 - id: FORT-69
   name: Bribe
+  text: On your turn, whenever you use the Add Card to Lookout action, you may add a card from the Park, the Park deck, or any Yard *(instead of your hand)*. You may still choose to add from your hand.
   image: perk-7
   tags:
     - Base Game
     - Perk
 - id: FORT-70
-  name: Copycat
+  name: Copy Cat
+  text: Whenever you follow, you may discard up to 2 cards *(instead of 1 card)*, using the matching suits of both cards.
   image: perk-8
   tags:
     - Base Game
