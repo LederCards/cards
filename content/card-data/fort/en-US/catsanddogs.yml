@@ -1,14 +1,17 @@
 - id: CATDOG-1
   text: >-
-    dssdf
+    **Attracted to 2+ `symbol:fort-glue` in yard at end of turn**
+    Before you play a card, you may convert 2 resources (pizza to toys, or reverse) on your board.
   name: Scavenger
   image: cat-scavenger
   tags:
     - Cats and Dogs
+    - Glue
     - Cat
 - id: CATDOG-2
   text: >-
-    dssdf
+    **Attracted to 2+ `symbol:fort-shovel` in yard at end of turn** 
+    Before you play a card, you may discard a card from your hand to draw a card from your deck.
   name: Sprightly
   image: cat-sprightly
   tags:
