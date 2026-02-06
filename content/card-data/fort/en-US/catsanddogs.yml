@@ -1,0 +1,181 @@
+- id: CATDOG-1
+  text: >-
+    **Attracted to 2+ `symbol:fort-glue` in yard at end of turn**
+    Before you play a card, you may convert 2 resources (pizza to toys, or reverse) on your board.
+  name: Scavenger
+  image: cat-scavenger
+  tags:
+    - Cats and Dogs
+    - Glue
+    - Cat
+- id: CATDOG-2
+  text: >-
+    **Attracted to 2+ `symbol:fort-shovel` in yard at end of turn** 
+    Before you play a card, you may discard a card from your hand to draw a card from your deck.
+  name: Sprightly
+  image: cat-sprightly
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-3
+  name: Bandit
+  image: cat-bandit
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-4
+  name: Scratch
+  image: cat-scratch
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-5
+  name: Kingsly
+  image: cat-kingsly
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-6
+  name: Cilantro
+  image: cat-cilantro
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-7
+  name: Dumpling
+  image: cat-dumpling
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-8
+  name: Jitters
+  image: cat-jitters
+  tags:
+    - Cats and Dogs
+    - Cat
+- id: CATDOG-9
+  name: Drover
+  image: dog-1
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Book
+- id: CATDOG-10
+  name: Hershey
+  image: dog-2
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Book
+- id: CATDOG-11
+  name: Echo
+  image: dog-3
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Book
+- id: CATDOG-12
+  name: Floofer
+  image: dog-4
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Glue
+- id: CATDOG-13
+  name: Squeaker
+  image: dog-5
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Glue
+- id: CATDOG-14
+  name: Pumpkin
+  image: dog-6
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Glue
+- id: CATDOG-15
+  name: Ranger
+  image: dog-7
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Skateboard
+- id: CATDOG-16
+  name: Rowdy
+  image: dog-8
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Skateboard
+- id: CATDOG-17
+  name: Porkchop
+  image: dog-9
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Skateboard
+- id: CATDOG-18
+  name: Barkley
+  image: dog-10
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Crown
+- id: CATDOG-19
+  name: Eclair
+  image: dog-11
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Crown
+- id: CATDOG-20
+  name: Loki
+  image: dog-12
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Crown
+- id: CATDOG-21
+  name: Pudge
+  image: dog-13
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Squirtgun
+- id: CATDOG-22
+  name: Pesto
+  image: dog-14
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Squirtgun
+- id: CATDOG-23
+  name: Violet
+  image: dog-15
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Squirtgun
+- id: CATDOG-24
+  name: Duke
+  image: dog-16
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Shovel
+- id: CATDOG-25
+  name: Spud
+  image: dog-17
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Shovel
+- id: CATDOG-26
+  name: Watson
+  image: dog-18
+  tags:
+    - Cats and Dogs
+    - Dog
+    - Shovel
