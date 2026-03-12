@@ -8,9 +8,9 @@ fs.ensureDirSync('./dist');
 const readAllFAQ = async () => {
   const allFAQFiles = await readdir('./content/faq');
 
-  const allFAQData = {};
+  const allFAQData: any = {};
 
-  allFAQFiles.forEach((f) => {
+  allFAQFiles.forEach((f: any) => {
     const [, , game] = f.split(path.sep);
     const locale = path.basename(f, '.yml');
     const faqs = yaml.load(fs.readFileSync(f));

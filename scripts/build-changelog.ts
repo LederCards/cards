@@ -8,9 +8,9 @@ fs.ensureDirSync('./dist');
 const readAllChangelogs = async () => {
   const allChangelogFiles = await readdir('./content/changelog');
 
-  const allChangelogData = {};
+  const allChangelogData: any = {};
 
-  allChangelogFiles.forEach((f) => {
+  (allChangelogFiles || []).forEach((f: any) => {
     const [, , game] = f.split(path.sep);
     const locale = path.basename(f, '.yml');
     const changelogs = yaml.load(fs.readFileSync(f));

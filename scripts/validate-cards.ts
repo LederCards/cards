@@ -4,9 +4,9 @@ const { omit } = require('lodash');
 
 const allCards = fs.readJsonSync('./dist/cards.json');
 
-const allIdsByLocale = {};
+const allIdsByLocale: any = {};
 
-allCards.forEach((card, index) => {
+allCards.forEach((card: any, index: number) => {
   if (!card.id) {
     console.error(`::error:: Card ${index} does not have an id.`);
     process.exit(1);
@@ -58,9 +58,11 @@ allCards.forEach((card, index) => {
   }
 
   if (card.flipSide) {
-    const flipSide = allCards.find((c) => c.id === card.flipSide);
+    const flipSide = allCards.find((c: any) => c.id === card.flipSide);
     if (!flipSide) {
-      console.error(`::error:: Card ${card.id} has invalid flipSide ${card.flipSide}`);
+      console.error(
+        `::error:: Card ${card.id} has invalid flipSide ${card.flipSide}`,
+      );
       process.exit(1);
     }
   }

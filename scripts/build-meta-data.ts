@@ -7,10 +7,10 @@ fs.ensureDirSync('./dist');
 
 const readAllMeta = async () => {
   const allMetaFiles = await readdir('./content/meta-data');
-  const allMetas = allMetaFiles.map((f) => yaml.load(fs.readFileSync(f)));
+  const allMetas = allMetaFiles.map((f: any) => yaml.load(fs.readFileSync(f)));
 
   const allLocaleFiles = await readdir('./content/i18n');
-  const allLocales = allLocaleFiles.map((f) => path.basename(f, '.yml'));
+  const allLocales = allLocaleFiles.map((f: any) => path.basename(f, '.yml'));
 
   const siteConfig = yaml.load(fs.readFileSync('./content/site-config.yml'));
 

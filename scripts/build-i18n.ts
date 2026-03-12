@@ -8,12 +8,12 @@ fs.ensureDirSync('./dist/i18n');
 
 const readAlli18n = async () => {
   const alli18nFiles = await readdir('./content/i18n');
-  const alli18ns = alli18nFiles.map((f) => ({
+  const alli18ns = alli18nFiles.map((f: any) => ({
     locale: path.basename(f, '.yml'),
     data: yaml.load(fs.readFileSync(f)),
   }));
 
-  alli18ns.forEach((d) =>
+  alli18ns.forEach((d: any) =>
     fs.writeJsonSync(`dist/i18n/${d.locale}.json`, d.data),
   );
 

@@ -8,9 +8,9 @@ fs.ensureDirSync('./dist');
 const readAllErrata = async () => {
   const allErrataFiles = await readdir('./content/errata');
 
-  const allErrataData = {};
+  const allErrataData: any = {};
 
-  allErrataFiles.forEach((f) => {
+  (allErrataFiles || []).forEach((f: any) => {
     const [, , game] = f.split(path.sep);
     const locale = path.basename(f, '.yml');
     const faqs = yaml.load(fs.readFileSync(f));

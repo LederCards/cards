@@ -7,11 +7,11 @@ fs.ensureDirSync('./dist/cards');
 
 const copyAllCardImages = async () => {
   const allCardImages = await readdir('./content/card-images');
-  const filenameMapping = {};
+  const filenameMapping: any = {};
 
   const productLocales = new Set();
 
-  allCardImages.forEach((f) => {
+  allCardImages.forEach((f: any) => {
     const [, , game, locale, filename] = f.split(path.sep);
     filenameMapping[f] = `${game}/${locale}/${filename}`;
 
@@ -22,7 +22,7 @@ const copyAllCardImages = async () => {
     fs.ensureDirSync(`./dist/cards/${prodLocale}`);
   });
 
-  allCardImages.forEach((img) => {
+  allCardImages.forEach((img: any) => {
     fs.copyFileSync(img, `./dist/cards/${filenameMapping[img]}`);
   });
 

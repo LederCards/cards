@@ -7,7 +7,7 @@ const readdir = require('recursive-readdir');
 
 fs.ensureDirSync('./dist');
 
-const formatCard = (card) => {
+const formatCard = (card: any) => {
   if (
     !fs.existsSync(
       `./content/card-images/${card.game}/${card.locale}/${card.image}.png`,
@@ -27,13 +27,13 @@ const formatCard = (card) => {
 const readAllCards = async () => {
   const allCardFiles = await readdir('./content/card-data');
   const allCards = allCardFiles
-    .map((f) => {
+    .map((f: any) => {
       const cards = yaml.load(fs.readFileSync(f));
 
       const [, , game, locale] = f.split(path.sep);
       const product = path.basename(f, '.yml');
 
-      cards.forEach((c) => {
+      cards.forEach((c: any) => {
         c.game = game;
         c.product = product;
         c.locale = locale;
@@ -42,7 +42,7 @@ const readAllCards = async () => {
       return cards;
     })
     .flat()
-    .map((c) => formatCard(c));
+    .map((c: any) => formatCard(c));
 
   const formattedCards = allCards;
 

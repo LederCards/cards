@@ -6,15 +6,15 @@ const compressImages = async () => {
   const allDirs = fs.readdirSync('./dist/cards');
 
   const allPromises = allDirs
-    .map((dir) => {
+    .map((dir: any) => {
       const allLocales = fs.readdirSync(`./dist/cards/${dir}`);
 
-      return allLocales.map((loc) =>
+      return allLocales.map((loc: any) =>
         imagemin([`./dist/cards/${dir}/${loc}/*.png`], {
           destination: `./dist/cards/${dir}/${loc}/`,
           plugins: [
             webp({
-              quality: 90
+              quality: 90,
             }),
           ],
         }),

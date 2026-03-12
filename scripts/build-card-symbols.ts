@@ -8,7 +8,7 @@ fs.ensureDirSync('./dist/symbols');
 const copyAllCardSymbols = async () => {
   const allCardSymbols = await readdir('./content/card-symbols');
 
-  allCardSymbols.forEach((img) => {
+  allCardSymbols.forEach((img: any) => {
     fs.copyFileSync(img, `./dist/symbols/${path.basename(img)}`);
   });
 
