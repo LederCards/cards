@@ -3,6 +3,7 @@ const fs = require('fs-extra');
 const yaml = require('js-yaml');
 const readdir = require('recursive-readdir');
 
+fs.ensureDirSync('./content/faq');
 fs.ensureDirSync('./dist');
 
 const readAllFAQ = async () => {

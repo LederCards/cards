@@ -3,6 +3,8 @@ const fs = require('fs-extra');
 const yaml = require('js-yaml');
 const readdir = require('recursive-readdir');
 
+fs.ensureDirSync('./content/i18n');
+fs.ensureDirSync('./content/meta-data');
 fs.ensureDirSync('./dist');
 
 const readAllMeta = async () => {

@@ -2,6 +2,7 @@ const path = require('path');
 const fs = require('fs-extra');
 const readdir = require('recursive-readdir');
 
+fs.ensureDirSync('./content/card-symbols');
 fs.ensureDirSync('./dist');
 fs.ensureDirSync('./dist/symbols');
 
