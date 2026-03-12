@@ -11,9 +11,7 @@ Common:
     ProductsShort: Games
 
   Products:
-    Oath: Oath
     Root: Root
-    Arcs: Arcs
     Fort: Fort
     Vast: Vast
     Ahoy: Ahoy
@@ -121,14 +119,14 @@ Pages:
           This operator is special, you may also search without using the operator.
 
         Examples:
-          - Example: '`OATH-001`'
-            Text: Find specifically the card matching the id OATH-001.
+          - Example: '`ROOT-001`'
+            Text: Find specifically the card matching the id ROOT-001.
 
-          - Example: '`id:=OATH-001`'
-            Text: Find specifically the card matching the id OATH-001.
+          - Example: '`id:=ROOT-001`'
+            Text: Find specifically the card matching the id ROOT-001.
 
-          - Example: '`-id:OATH`'
-            Text: Exclude all cards with the id OATH.
+          - Example: '`-id:ROOT`'
+            Text: Exclude all cards with the id ROOT.
 
       Name:
         Name: Name
@@ -199,8 +197,8 @@ Pages:
           You can find cards that are associated with a certain game by using the `game:` operator.
 
         Examples:
-          - Example: '`game:oath`'
-            Text: Cards that belong to the Oath game.
+          - Example: '`game:root`'
+            Text: Cards that belong to the Root game.
 
           - Example: '`-game:root`'
             Text: Cards that don't belong to the Root game.
