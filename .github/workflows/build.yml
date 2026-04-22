@@ -35,7 +35,6 @@ jobs:
           install_command: "echo Skipping installing the dependencies"
           build_command: "echo Skipping building the web files"
           build_directory: "./dist"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_DEPLOY_MESSAGE: "Deploy from GitHub Actions"
