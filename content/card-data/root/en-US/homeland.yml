@@ -14,3 +14,43 @@
   tags:
     - Homeland
     - Captain
+- id: ROOT-290
+  text: >-
+    As an action, you may flip two items down to take any item action.
+  image: knave-captain-cheat
+  name: Knave Captain Cheat
+  tags:
+    - Homeland
+    - Captain
+- id: ROOT-291
+  text: >-
+   When you Assault, draw 1 card at the start of battle.
+  image: knave-captain-gladiator
+  name: Knave Captain Gladiator
+  tags:
+    - Homeland
+    - Captain
+- id: ROOT-292
+  text: >-
+    When you Dash, you may move the Harrier up to three times, ignoring rule.
+  image: knave-captain-harrier
+  name: Knave Captain Harrier
+  tags:
+    - Homeland
+    - Captain
+- id: ROOT-293
+  text: >-
+    In Nab battles, you may deal 1 less hit to ignore 1 rolled hit you take.
+  image: knave-captain-jailor
+  name: Knave Captain Jailor
+  tags:
+    - Homeland
+    - Captain
+- id: ROOT-294
+  text: >-
+   Once per turn, as an action, you may flip any item down to Assault, Skirmish, or Nab.
+  image: knave-captain-ranger
+  name: Knave Captain Ranger
+  tags:
+    - Homeland
+    - Captain
