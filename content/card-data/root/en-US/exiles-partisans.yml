@@ -232,9 +232,8 @@
     - Bunny
 - id: ROOT-62
   text: >-
-    Whenever any warriors would return to a supply, place them on this card
-    instead. At the start of Birdsong, you score one point per five warriors
-    here, then return all warriors here to their supplies.
+    Warriors removed, not replaced, from the map to their supply are placed here.
+    At start of Birdsong, score one point per five warriors here, then remove all warriors here.
   image: card-coffinmakers
   name: Coffin Makers
   tags:
@@ -251,8 +250,8 @@
     - Bird
 - id: ROOT-71
   text: >-
-    At the end of Birdsong, take a move, then initiate a battle in the clearing
-    you moved into. If you did not take both actions, discard this card.
+    At end of Birdsong, you must take a move, then you must battle in the 
+    destination clearing. Discard this if you did not take both actions.
   image: card-eyrieemigre
   name: Eyrie Emigre
   tags:
@@ -261,10 +260,8 @@
     - Bird
 - id: ROOT-72
   text: >-
-    In Birdsong, may discard this card to move half of an enemy's warriors
-    (rounded up) from any clearing, as if you were that player, ignoring rule.
-
-    *ERRATA:* In Birdsong, may discard this card to force an enemy to move half their faction warriors (round up) from a clearing you choose to a clearing you choose, ignoring rule.
+    In Birdsong, you may spend this card to force an enemy to move half their
+    faction warriors, rounded up, from a clearing as you choose, ignoring rule.
   image: card-falseorders
   name: False Orders
   tags:
@@ -329,8 +326,8 @@
     - Mouse
 - id: ROOT-86
   text: >-
-    Once in Daylight, may spend a card to remove an enemy warrior from a
-    matching clearing and place a warrior there.
+    Once in Daylight, you may spend a card to replace an enemy warrior in a 
+    matching clearing with a warrior of your faction.
   image: card-propagandabureau
   name: Propaganda Bureau
   tags:
@@ -376,7 +373,7 @@
     - Craftable
     - Bunny
 - id: ROOT-108
-  text: You treat clearings with any of your crafting pieces as adjacent.
+  text: You treat clearings with your crafting pieces as adjacent. You may ignore paths when moving between them.
   image: card-tunnels
   name: Tunnels
   tags:

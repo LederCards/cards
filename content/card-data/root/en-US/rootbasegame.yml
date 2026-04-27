@@ -234,7 +234,7 @@
     - Craftable
     - Bunny
 - id: ROOT-55
-  text: 'At start of Birdsong, you and another player draw a card.'
+  text: At start of Birdsong, you may draw one card. If you do, choose an enemy to draw on card.
   image: card-betterburrowbank
   name: Better Burrow Bank
   tags:
@@ -471,8 +471,7 @@
     - Bunny
 - id: ROOT-102
   text: >-
-    In Birdsong, may take a random card from another player. That player scores
-    one point.
+    Once in Birdsong, you may take a random card from an enemy. If you do, they score one point.
   image: card-standanddeliver
   name: Stand and Deliver!
   tags:
@@ -489,7 +488,7 @@
     - Craftable
     - Mouse
 - id: ROOT-105
-  text: 'Once in Daylight, may remove one of your warriors to draw a card.'
+  text: Once in Daylight, you may remove a warrior of your faction from a clearing on the map to draw one card.
   image: card-taxcollector
   name: Tax Collector
   tags:
