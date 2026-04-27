@@ -59,6 +59,7 @@
    When you Assault, the Ronin may move before the battle begins.
   image: knave-captain-ronin
   name: Knave Captain Ronin
+  tags:
     - Homeland
     - Captain
 - id: ROOT-296
@@ -93,3 +94,11 @@
   tags:
     - Homeland
     - Captain
+- id: ROOT-300
+  text: >-
+   Once per turn, as an action, you may flip any item down to Revel, Gift, or Serve.
+  image: vagabond-gladiator
+  name: Vagabond Gladiator
+  tags:
+    - Homeland
+    - Vagabond
