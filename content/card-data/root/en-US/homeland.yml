@@ -96,9 +96,25 @@
     - Captain
 - id: ROOT-300
   text: >-
-   Once per turn, as an action, you may flip any item down to Revel, Gift, or Serve.
+   Duel: Once per turn, as an action, you may flip any item down to Revel, Gift, or Serve.
   image: vagabond-gladiator
   name: Vagabond Gladiator
+  tags:
+    - Homeland
+    - Vagabond
+- id: ROOT-301
+  text: >-
+   Coerce: Once per turn, you may spend a card matching your clearing to treat it as exhausting any item. After its action, lose 1 victory point.
+  image: vagabond-jailor
+  name: Vagabond Jailor
+  tags:
+    - Homeland
+    - Vagabond
+- id: ROOT-302
+  text: >-
+   Con: Quest, ignoring its listed items, then shuffle the completed quest into the quest deck. Limited to once per turn.
+  image: vagabond-cheat
+  name: Vagabond Cheat
   tags:
     - Homeland
     - Vagabond

@@ -1,8 +1,7 @@
 - id: ROOT-22
   text: >-
-    Protector: Before rolling in battle, the defender may enlist the Arbiter if
-    he is in the battle's clearing. The Arbiter scores one point and adds
-    undamaged swords to the defender's maximum rolled hits.
+    Protect: When defending in battle, before the roll, a faction may enlist the Arbiter if he's in the battle clearing.
+    The Arbiter scores one point and adds undamaged swords to the defender's maximum rolled hits.
   image: vagabond-arbiter
   name: Arbiter
   tags:
@@ -19,8 +18,8 @@
     - Vagabond
 - id: ROOT-27
   text: >-
-    Instigate: Initiate a battle in your clearing. You choose both attacker and
-    defender, and you remove pieces for both.
+    Instigate: Force a player to battle a player you choose in your clearing.
+    Treat removed pieces as if you removed them.
   image: vagabond-vagrant
   name: Vagrant
   tags:

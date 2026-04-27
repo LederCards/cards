@@ -8,8 +8,7 @@
     - Vagabond
 - id: ROOT-29
   text: >-
-    Glide: Move to any clearing (even Hostile) on the map without exhausting any
-    `symbol:item-boot`.
+    Glide: Move alone to any clearing. Ignore paths and exhaust no Boots.
   image: vagabond-harrier
   name: Harrier
   tags:
