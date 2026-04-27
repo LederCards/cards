@@ -54,3 +54,42 @@
   tags:
     - Homeland
     - Captain
+- id: ROOT-295
+  text: >-
+   When you Assault, the Ronin may move before the battle begins.
+  image: knave-captain-ronin
+  name: Knave Captain Ronin
+    - Homeland
+    - Captain
+- id: ROOT-296
+  text: >-
+   When you Skirmish, you may instead move from a clearing before the battle. If you do, do not ignore 1 hit.
+  image: knave-captain-scoundrel
+  name: Knave Captain Scoundrel
+  tags:
+    - Homeland
+    - Captain
+- id: ROOT-297
+  text: >-
+   After you Filch, you may move the Thief.
+  image: knave-captain-thief
+  name: Knave Captain Thief
+  tags:
+    - Homeland
+    - Captain  
+- id: ROOT-298
+  text: >-
+   After you Serve, draw 1 card.
+  image: knave-captain-tinker
+  name: Knave Captain Tinker
+  tags:
+    - Homeland
+    - Captain
+- id: ROOT-299
+  text: >-
+   Once per turn, as an action, you may flip any item down to Revel, Gift, or Serve.
+  image: knave-captain-vagrant
+  name: Knave Captain Vagrant
+  tags:
+    - Homeland
+    - Captain
