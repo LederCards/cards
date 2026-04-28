@@ -118,3 +118,119 @@
   tags:
     - Homeland
     - Vagabond
+- id: ROOT-303
+  text: >-
+   At the start of Evening, you may craft with Peaceful enclaves in rabbit clearings,
+   even if used to craft in earlier steps.
+  image: card-rabbitlaborers
+  name: Rabbit Laborers
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-304
+  text: >-
+   At the start of Evening, you may craft with Peaceful enclaves in mouse clearings,
+   even if used to craft in earlier steps.
+  image: card-mouselaborers
+  name: Mouse Laborers
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-305
+  text: >-
+   At the start of Evening, you may craft with Peaceful enclaves in fox clearings,
+   even if used to craft in earlier steps.
+  image: card-foxlaborers
+  name: Fox Laborers
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-306
+  text: >-
+   You may spend or reveal a frog (even ambush) as another suit (even bird).
+   If you do, discard this.
+  image: card-companions
+  name: Companions
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-307
+  text: >-
+   Draw and craft the top Pond card at no crafting cost. Discard this.
+  image: card-stewards
+  name: Stewards
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-308
+  text: >-
+   Force the Diaspora to move once as you choose. Discard this.
+  image: card-settlers
+  name: Settlers
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-309
+  text: >-
+   Force the Diaspora to battle where you choose against a defender you choose. Discard this.
+  image: card-agitators
+  name: Agitators
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-310
+  text: >-
+   At start of Birdsong, you must choose a clearing suit except frog and score 1
+   point per matching Peaceful enclave you rule, then discard this.
+  image: card-advocates
+  name: Advocates
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-311
+  text: >-
+   Flip a Peaceful enclave to Militant or place a Militant enclave in a clearing
+   with no enclaves. Discard this.
+  image: card-militias
+  name: Militias
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-312
+  text: >-
+   Remove a Peaceful enclave you rule to draw 1 card and force the Diaspora
+   to draw 1 card. Ignore Fears Come to Pass. Discard this.
+  image: card-assimilationists
+  name: Assimilationists
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-313
+  text: >-
+   In battle in a matching clearing, you may spend this to ambush: As defender,
+    deal 2 hits immediately. As attacker, cancel the defender's ambush. Discard
+   this to the Pond bottom.
+  image: card-frogambush
+  name: Ambush
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-314
+  text: >-
+   In battle in frog clearings, you may deal one extra hit, then discard all
+   your cards except frogs.
+  image: card-frogpartisans
+  name: Frog Partisans
+  tags:
+    - Homeland
+    - Frog
+- id: ROOT-315
+  text: >-
+   At start of Birdsong, you win the game if you rule a least 2 river enclaves.
+   When enclaves are defending, your warriors add to the Diaspora's, taking hits after
+   theirs, unless you're attacking.
+  image: card-frogdominance
+  name: Dominance
+  tags:
+    - Homeland
+    - Frog
