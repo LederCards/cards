@@ -63,6 +63,7 @@
     discard this. If you cannot, show you hand.
   image: card-apprentice
   name: Apprentice
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Fox
@@ -72,6 +73,7 @@
     your destination, even during a compound action (like March).
   image: card-supplytrain
   name: Supply Train
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Fox
@@ -81,6 +83,7 @@
     another suit (even bird). You cannot craft other Friend cards.
   image: card-friendofthefoxes
   name: Friend of the Foxes
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Fox
@@ -90,6 +93,7 @@
     battle clearing.
   image: card-tactician
   name: Tactician
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Fox
@@ -99,6 +103,7 @@
     this to hand or spend a card matching the battle clearing.
   image: card-boldleadership
   name: Bold Leadership
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Fox
@@ -108,6 +113,7 @@
     another suit (even bird). You cannot craft other Friend cards.
   image: card-friendofthemice
   name: Friend of the Mice
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Mouse
@@ -117,6 +123,7 @@
     You may activate it except to coalition. Do not remove your victory point marker.
   image: card-brazendemagogue
   name: Brazen Demagogue
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Mouse
@@ -126,6 +133,7 @@
     even during a compound action (like March).
   image: card-raidingparty
   name: Raiding Party
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Mouse
@@ -135,6 +143,7 @@
     from a mouse clearing.
   image: card-mousesquires
   name: Mouse Squires
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Mouse
@@ -144,6 +153,17 @@
     clearing to ambush: deal one hit immediately.
   image: card-miceinabush
   name: Mice-in-a-Bush
+  tags:
     - Squires & Disciples Deck
     - Craftable
     - Mouse
+- id: ROOT-348
+  text: >-
+    Once in Daylight, you may spend this or a rabbit card to battle in or move from
+    a rabbit clearing.
+  image: card-rabbitsquires
+  name: Rabbit Squires
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
