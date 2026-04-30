@@ -167,3 +167,63 @@
     - Squires & Disciples Deck
     - Craftable
     - Rabbit
+- id: ROOT-349
+  text: >-
+    At start of Birdsong, you must draw one card per river clearing with your pieces, 
+     then discard this.
+  image: card-riversteads
+  name: Riversteads
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
+- id: ROOT-350
+  text: >-
+   At start of Birdsong, you may return this to hand to move from a clearing to any
+   clearing of the same suit, ignoring rule and paths.
+  image: card-hiddenwarrens
+  name: Hidden Warrens
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
+- id: ROOT-351
+  text: >-
+    After attacking in battle, you may return this to hand to battle in the same
+    clearing, even during a compound action (like Delve).
+  image: card-standardbearer
+  name: Standard Bearer
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
+- id: ROOT-352
+  text: >-
+    As defender in battle, before the roll, you must place one warrior in the battle
+    clearing, then return this to hand or spend a card matching the clearing.
+  image: card-lookouts
+  name: Lookouts
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
+- id: ROOT-353
+  text: >-
+   Once each turn, you may spend or reveal one rabbit card (even ambush) as
+    another suit (even bird). You cannot craft other Friend cards.
+  image: card-friendoftherabbits
+  name: Friend of the Rabbits
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
+- id: ROOT-354
+  text: >-
+    In battle, you may deal one extra hit. If so, reveal and discard the top card
+    of the deck. If it doesn't match the battle clearing, discard this card too.
+  image: card-thefaithful
+  name: The Faithful
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Rabbit
