@@ -1,0 +1,149 @@
+- id: ROOT-332
+  text: >-
+    At start of Birdsong, you may spend at least one card to draw one card
+    for each spent plus one, then discard this.
+  image: card-skycouriers
+  name: Sky Couriers
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Bird
+- id: ROOT-333
+  text: >-
+    At start of Birdsong, you must spend a card to force a player to battle in a
+    matching clearing against a defender you choose, then return this to hand.
+  image: card-shadowcouncil
+  name: Shadow Council
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Bird
+- id: ROOT-334
+  text: >-
+    Place two warriors in a clearing with your pieces. Discard this.
+  image: card-featherrufflers
+  name: Feather Rufflers
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Bird
+- id: ROOT-335
+  text: >-
+    Give a card to an enemy to take a crafted card from them into your hand.
+    Shuffle this into the deck.
+  image: card-spynetwork
+  name: Spy Network
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Bird
+- id: ROOT-336
+  text: >-
+    During any one effect on your turn (action, ability, card, etc.), you may spend
+    this or another card to treat a matching clearing with your pieces as one you rule.
+  image: card-silvertongue
+  name: Silver-Tongue
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Bird
+- id: ROOT-337
+  text: >-
+    Once in Daylight, you may spend this or a fox card to battle in or move
+    from a fox clearing.
+  image: card-foxsquires
+  name: Fox Squires
+  tags:
+    - Squires & Disciples Deck
+    - Craftable
+    - Fox
+- id: ROOT-338
+  text: >-
+    At start of Birdsong, you must craft a card at no crafting cost. If you do,
+    discard this. If you cannot, show you hand.
+  image: card-apprentice
+  name: Apprentice
+    - Squires & Disciples Deck
+    - Craftable
+    - Fox
+- id: ROOT-339
+  text: >-
+    After moving on your turn, you may return this to hand to move to or from
+    your destination, even during a compound action (like March).
+  image: card-supplytrain
+  name: Supply Train
+    - Squires & Disciples Deck
+    - Craftable
+    - Fox
+- id: ROOT-340
+  text: >-
+    Once each turn, you may spend or reveal one fox card (even ambush) as
+    another suit (even bird). You cannot craft other Friend cards.
+  image: card-friendofthefoxes
+  name: Friend of the Foxes
+    - Squires & Disciples Deck
+    - Craftable
+    - Fox
+- id: ROOT-341
+  text: >-
+    In battle, before the roll, you may return this to hand to move once to the
+    battle clearing.
+  image: card-tactician
+  name: Tactician
+    - Squires & Disciples Deck
+    - Craftable
+    - Fox
+- id: ROOT-342
+  text: >-
+    When attacking in battle, you must deal one extra hit, then either return
+    this to hand or spend a card matching the battle clearing.
+  image: card-boldleadership
+  name: Bold Leadership
+    - Squires & Disciples Deck
+    - Craftable
+    - Fox
+- id: ROOT-343
+  text: >-
+    Once each turn, you may spend or reveal on mouse card (even ambush) as
+    another suit (even bird). You cannot craft other Friend cards.
+  image: card-friendofthemice
+  name: Friend of the Mice
+    - Squires & Disciples Deck
+    - Craftable
+    - Mouse
+- id: ROOT-344
+  text: >-
+    At end of Evening, you must take an available dominance card and discard this.
+    You may activate it except to coalition. Do not remove your victory point marker.
+  image: card-brazendemagogue
+  name: Brazen Demagogue
+    - Squires & Disciples Deck
+    - Craftable
+    - Mouse
+- id: ROOT-345
+  text: >-
+    After moving on your turn, you may return this to hand to battle in the destination,
+    even during a compound action (like March).
+  image: card-raidingparty
+  name: Raiding Party
+    - Squires & Disciples Deck
+    - Craftable
+    - Mouse
+- id: ROOT-346
+  text: >-
+    Once in Daylight, you may spend this or a mouse card to battle in or move
+    from a mouse clearing.
+  image: card-mousesquires
+  name: Mouse Squires
+    - Squires & Disciples Deck
+    - Craftable
+    - Mouse
+- id: ROOT-347
+  text: >-
+    When defending in battle, you may spend this or a card matching the battle
+    clearing to ambush: deal one hit immediately.
+  image: card-miceinabush
+  name: Mice-in-a-Bush
+    - Squires & Disciples Deck
+    - Craftable
+    - Mouse
