@@ -20,7 +20,9 @@
   text: >-
     Instigate: Force a player to battle a player you choose in your clearing.
     Treat removed pieces as if you removed them.
-  image: vagabond-vagrant
+    (Errata: Instigate: Force a player to battle a player you choose in your clearing.
+    Treat removed Buildings and Tokens as if you removed them.)
+  image: vagabond-vagrants
   name: Vagrant
   tags:
     - Riverfolk
