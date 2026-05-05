@@ -24,6 +24,11 @@ subproducts:
     desc: >
       The Exiles & Partisans deck adds a new deck focused on player vs. player interactions.
 
+  - name: Homeland
+    id: homeland
+    desc: >
+      The Homeland expansion adds the Lilypad Diaspora, The Twilight Council, Knaves of the Deepwood, and the Gorge/Marsh maps
+  
   - name: Landmarks
     id: landmarks
     desc: >
