@@ -12,7 +12,7 @@
   image: knave-captain-arbiter
   name: Knave Captain Arbiter
   tags:
-    - Homeland
+    - +
     - Captain
 - id: ROOT-290
   text: >-

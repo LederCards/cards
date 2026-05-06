@@ -23,13 +23,13 @@
   tags:
     - Hirelings
 - id: ROOT-359
-  image: adset-hirelings-farmers-small
+  image: adset-hirelings-farmer-small
   imageClass: rotated
   name: Struggling Farmers
   tags:
     - Hirelings
 - id: ROOT-360
-  image: adset-hirelings-farmers-big
+  image: adset-hirelings-farmer-big
   imageClass: rotated
   name: Prosperous Farmers
   tags:

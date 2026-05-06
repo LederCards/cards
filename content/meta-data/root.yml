@@ -27,7 +27,7 @@ subproducts:
   - name: Homeland
     id: homeland
     desc: >
-      The Homeland expansion adds the Lilypad Diaspora, The Twilight Council, Knav
+      The Homeland expansion adds the Lilypad Diaspora, The Twilight Council, Knaves of the Deepwood, and the Gorge/Marsh maps.
 
   - name: Homeland Hirelings
     id: homeland-hirelings
