@@ -1,0 +1,36 @@
+- id: ROOT-355
+  image: adset-hirelings-council-small
+  imageClass: rotated
+  name: Bat Messengers
+  tags:
+    - Hirelings
+- id: ROOT-356
+  image: adset-hirelings-council-big
+  imageClass: rotated
+  name: Sunny Advocates
+  tags:
+    - Hirelings
+- id: ROOT-357
+  image: adset-hirelings-diaspora-small
+  imageClass: rotated
+  name: Frog Tinkers
+  tags:
+    - Hirelings
+- id: ROOT-358
+  image: adset-hirelings-diaspora-big
+  imageClass: rotated
+  name: River Roamers
+  tags:
+    - Hirelings
+- id: ROOT-359
+  image: adset-hirelings-farmers-small
+  imageClass: rotated
+  name: Struggling Farmers
+  tags:
+    - Hirelings
+- id: ROOT-360
+  image: adset-hirelings-farmers-big
+  imageClass: rotated
+  name: Prosperous Farmers
+  tags:
+    - Hirelings
