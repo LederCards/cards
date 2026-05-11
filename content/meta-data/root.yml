@@ -24,6 +24,10 @@ subproducts:
     desc: >
       The Exiles & Partisans deck adds a new deck focused on player vs. player interactions.
 
+  - name: Squires & Disciples
+    id: squires-disciples
+    desc: >
+      The Squires & Disciples deck adds a new deck focused on cards that are returned to hand for strong effects.
   - name: Homeland
     id: homeland
     desc: >
