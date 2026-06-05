@@ -9,10 +9,10 @@
 - id: ROOT-289
   text: >-
     In Assault battles, you may take 1 extra hit to deal 1 extra hit.
-  image: knave-captain-arbiter
+  image: knaves-captain-arbiter
   name: Knave Captain Arbiter
   tags:
-    - +
+    - Homeland
     - Captain
 - id: ROOT-290
   text: >-
