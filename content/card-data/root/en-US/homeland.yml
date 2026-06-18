@@ -282,42 +282,42 @@
   name: Foxburrow
   tags:
     - Homeland
-    - Landmark
+    - Landmarks
 - id: ROOT-323
   text: >-
   image: landmark-foxburrow-setup
   name: Foxburrow (Setup)
   tags:
     - Homeland
-    - Landmark
+    - Landmarks
 - id: ROOT-324
   text: >-
   image: landmark-rabbittown
   name: Rabbittown
   tags:
     - Homeland
-    - Landmark
+    - Landmarks
 - id: ROOT-325
   text: >-
   image: landmark-rabbittown-setup
   name: Rabbittown (Setup)
   tags:
     - Homeland
-    - Landmark
+    - Landmarks
 - id: ROOT-326
   text: >-
   image: landmark-mousehold
   name: Mousehold
   tags:
     - Homeland
-    - Landmark
+    - Landmarks
 - id: ROOT-327
   text: >-
   image: landmark-mousehold-setup
   name: Mousehold (Setup)
   tags:
     - Homeland
-    - Landmark
+    - Landmarks
 - id: ROOT-328
   text: >-
   image: clarification-lilypadcult
